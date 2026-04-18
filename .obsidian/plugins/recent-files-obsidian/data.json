@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - WBG Semiconductors in EV Fast Charging",
+      "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
+    },
+    {
+      "basename": "IEEE Spectrum SiC vs GaN 2024",
+      "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
+    },
+    {
       "basename": "Research",
       "path": "wiki/domains/Research.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-12",
       "path": "Journal/Daily/2026-04-12.md"
-    },
-    {
-      "basename": "2026-04-13",
-      "path": "Daily News Debrief/2026-04-13.md"
-    },
-    {
-      "basename": "2026-W16",
-      "path": "Journal/Weekly/2026-W16.md"
     }
   ],
   "omittedPaths": [],

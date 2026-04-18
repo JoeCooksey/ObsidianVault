@@ -25,7 +25,10 @@
       "Bash(curl -sk -o /dev/null -w \"%{http_code}\" https://127.0.0.1:27124/)",
       "Bash(winget install *)",
       "Bash(claude mcp *)",
-      "WebFetch(domain:arxiv.org)"
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:www.mdpi.com)",
+      "WebFetch(domain:spectrum.ieee.org)",
+      "WebFetch(domain:www.viksnewsletter.com)"
     ]
   },
   "enabledPlugins": {}
