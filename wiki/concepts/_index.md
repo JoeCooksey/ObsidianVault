@@ -26,6 +26,15 @@ Ideas, patterns, frameworks, and mental models extracted from sources.
 ### Books / Ideas
 *(populated as sources are ingested)*
 
+### Psychology / Emotional Intelligence
+- [[Emotional Agility]] — Susan David's framework; compassionate+curious+courageous relationship with inner life
+- [[Emotional Rigidity]] — fusion with thoughts/emotions/stories; drives behavior away from values
+- [[Gentle Acceptance]] — first tool: drop the struggle with whether you're allowed to feel; ends Type 2 loops
+- [[Emotion Granularity]] — second tool: precise labeling ("disappointed" not "stressed") activates action pathways
+- [[Defusion Language]] — third tool: "I notice I feel X" vs "I AM X"; sky/cloud metaphor
+- [[Toxic Positivity]] — cultural suppression of difficult emotions; makes people less resilient over time
+- [[Emotions as Functional]] — Darwin: difficult emotions are adaptive signals pointing to needs and values
+
 ### Research / Neuroscience
 - [[Limbic Friction]] — Huberman's term for activation energy needed to override anxious/lethargic states
 - [[Task Bracketing]] — dorsal lateral striatum activates at habit start and end; neural fingerprint of consolidated habit
