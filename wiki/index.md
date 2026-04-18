@@ -100,6 +100,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
 ## Questions / Synthesis
+- [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
 - [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
