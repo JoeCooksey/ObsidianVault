@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] ingest | Huberman Lab Essentials - The Science of Making & Breaking Habits
+- Source: `.raw/transcripts/Essentials_ The Science of Making _ Breaking Habits.txt`
+- Summary: [[Huberman Lab Essentials - Habit Formation and Breaking]]
+- Pages created: [[Huberman Lab Essentials - Habit Formation and Breaking]], [[Andrew Huberman]], [[Wendy Wood]], [[Limbic Friction]], [[Task Bracketing]], [[Neuroplasticity and Habit Formation]], [[Habit Strength]], [[Linchpin Habits]], [[Identity-Based vs Goal-Based Habits]], [[Three-Phase Day Framework]], [[21-Day Habit Formation System]], [[Habit Breaking via Replacement Behavior]], [[Procedural Memory Visualization]]
+- Pages updated: [[Wiki Index]], concepts/_index.md, entities/_index.md, domains/Research.md
+- Key insight: The dorsal lateral striatum brackets the start and end of habits (not the middle) — aligning habits with circadian neurochemical phases and inserting a replacement behavior immediately after a bad habit are the two highest-leverage practical tools.
+
 ## [2026-04-18] autoresearch | Supplements for Young Male Health, Learning, and EE Performance
 - Rounds: 3
 - Sources found: 2 PMC meta-analyses + supporting PubMed literature
