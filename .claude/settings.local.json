@@ -29,7 +29,10 @@
       "WebFetch(domain:www.mdpi.com)",
       "WebFetch(domain:spectrum.ieee.org)",
       "WebFetch(domain:www.viksnewsletter.com)",
-      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)"
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:blog.siggraph.org)",
+      "WebFetch(domain:wccftech.com)",
+      "WebFetch(domain:www.supermicro.com)"
     ]
   },
   "enabledPlugins": {}
