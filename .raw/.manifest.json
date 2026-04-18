@@ -1,0 +1,31 @@
+{
+  "sources": {
+    ".raw/transcripts/Essentials_ The Science of Making _ Breaking Habits.txt": {
+      "hash": "d23ddaccdf7907ad698d1862fc7cca5b",
+      "ingested_at": "2026-04-18",
+      "pages_created": [
+        "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md",
+        "wiki/entities/Andrew Huberman.md",
+        "wiki/entities/Wendy Wood.md",
+        "wiki/concepts/Limbic Friction.md",
+        "wiki/concepts/Task Bracketing.md",
+        "wiki/concepts/Neuroplasticity and Habit Formation.md",
+        "wiki/concepts/Habit Strength.md",
+        "wiki/concepts/Linchpin Habits.md",
+        "wiki/concepts/Identity-Based vs Goal-Based Habits.md",
+        "wiki/concepts/Three-Phase Day Framework.md",
+        "wiki/concepts/21-Day Habit Formation System.md",
+        "wiki/concepts/Habit Breaking via Replacement Behavior.md",
+        "wiki/concepts/Procedural Memory Visualization.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/concepts/_index.md",
+        "wiki/entities/_index.md",
+        "wiki/domains/Research.md"
+      ]
+    }
+  }
+}
