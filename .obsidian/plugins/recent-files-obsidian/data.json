@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "overview",
+      "path": "wiki/overview.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
       "basename": "Concept",
       "path": "_templates/Concept.md"
     },
@@ -79,14 +99,6 @@
     {
       "basename": "_index",
       "path": "wiki/papers/_index.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "04-13-26 Sun",
@@ -187,18 +199,6 @@
     {
       "basename": "Howon Noh",
       "path": "04 People/Howon Noh.md"
-    },
-    {
-      "basename": "The Smartest Way To Improve Your VO2 Max (Hit 80+) Transcript",
-      "path": "08 Summaries/YouTube/Howon Noh/Transcripts/The Smartest Way To Improve Your VO2 Max (Hit 80+) Transcript.md"
-    },
-    {
-      "basename": "Mental Detachment",
-      "path": "Misc terms and images/Mental Detachment.md"
-    },
-    {
-      "basename": "Social Personality",
-      "path": "Misc terms and images/Social Personality.md"
     }
   ],
   "omittedPaths": [],
