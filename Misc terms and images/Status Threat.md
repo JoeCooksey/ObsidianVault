@@ -1,0 +1,1 @@
+A perceived challenge or diminishment to one's social rank, respect, or position. Humans are highly sensitive to threats to their status; even small slights or perceived disrespect can trigger disproportionate aggressive responses because status is deeply tied to identity and survival instincts.

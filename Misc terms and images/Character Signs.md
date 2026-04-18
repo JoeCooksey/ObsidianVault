@@ -1,0 +1,8 @@
+- Most significant sign comes from repeated actions.
+- Under stress also reveals true character.
+- Once people climb to the top of their career their true character usually comes out.
+- Game and sport can reveal a competitive nature inside of people.
+- Extroverts: value external things.
+- Introverts: more interested in own opinions.
+- Strong: open to new ideas, good under pressure.
+- Weak: easily overwhelmed, hard to teach.

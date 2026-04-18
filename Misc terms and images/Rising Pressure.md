@@ -1,0 +1,1 @@
+Idea that stress causes us to act more irrational.

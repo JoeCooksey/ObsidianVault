@@ -1,0 +1,1 @@
+Living in alignment with your genuine values and priorities rather than chasing external validation, status, or what others expect of you. Accepting mortality paradoxically enables authentic living, as it frees you from the anxiety-driven pursuit of permanence and shifts focus to what actually matters.

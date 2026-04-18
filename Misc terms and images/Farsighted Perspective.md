@@ -1,0 +1,2 @@
+1. When facing a problem learn to detach yourself from the heat of the moment.
+2. Don't look for an immediate explanation instead dig deep and consider other possibilities, focus on long term goals set and readjust.

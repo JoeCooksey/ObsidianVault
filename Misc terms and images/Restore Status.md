@@ -1,0 +1,1 @@
+The deliberate action of returning or acknowledging someone's social rank, respect, or value after it has been diminished or overlooked. By publicly or privately affirming their contributions, recognizing their position, or consulting them on important decisions, you address the core wound that drives much workplace and personal conflict rooted in [[Status Threat]].

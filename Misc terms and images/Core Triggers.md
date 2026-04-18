@@ -1,0 +1,1 @@
+Personal patterns or situations that reliably activate your aggressive, defensive, or reactive responses. These often relate to core fears or wounds—disrespect, exclusion, injustice, loss of control. Understanding your own core triggers gives you the ability to pause and choose your response rather than being controlled by automatic reactions.

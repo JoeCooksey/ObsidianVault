@@ -1,0 +1,27 @@
+{
+  "authentication": {
+    "stravaClientId": "202582",
+    "stravaClientSecret": "61378ec769996e26ff1ff54be383e4fe6e93da33"
+  },
+  "sync": {
+    "folder": "Strava/{{start_date}}",
+    "folderDateFormat": "yyyy-MM-dd",
+    "filename": "{{id}} {{name}}",
+    "filenameDateFormat": "yyyy-MM-dd"
+  },
+  "activity": {
+    "contentDateFormat": "yyyy-MM-dd HH:mm:ss",
+    "frontMatterProperties": [
+      "name",
+      "start_date",
+      "sport_type",
+      "description",
+      "private_note",
+      "elapsed_time",
+      "moving_time",
+      "distance",
+      "icon"
+    ],
+    "template": "# {{name}}\n\n[https://www.strava.com/activities/{{id}}](https://www.strava.com/activities/{{id}})\n{{#if description}}\n\nDescription: {{description}}\n{{/if}}\n{{#if private_note}}\n\n> [!NOTE] Private note\n> {{private_note}}\n{{/if}}\n\n#Strava\n"
+  }
+}

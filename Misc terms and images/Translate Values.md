@@ -1,0 +1,1 @@
+The practice of reframing your ideas or proposals in terms of what a particular generation or group deeply values, rather than asking them to adopt your worldview. For example, explaining flexibility to a boomer in terms of long-term security, or showing stability to a millennial in terms of personal autonomy and control.

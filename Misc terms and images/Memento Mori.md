@@ -1,0 +1,1 @@
+Latin phrase meaning "remember you must die"—a deliberate practice of periodic reflection on mortality and impermanence. Rather than being morbid, memento mori is a clarifying practice that reveals what truly matters, cuts through triviality, and aligns your daily actions with your deepest values.

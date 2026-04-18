@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python search.py \"atomic habits\")",
+      "Bash(python search.py \"notes\" --top-k 5 --rebuild)",
+      "Bash(python search.py \"differential equations\" --top-k 5)",
+      "Bash(python search.py \"atomic habits\" --no-rebuild)",
+      "Bash(python -c ':*)",
+      "Bash(python search.py \"atomic habits\" --rebuild)",
+      "Skill(schedule)",
+      "Skill(schedule:*)",
+      "WebSearch",
+      "Bash(sed 's/.md$//')",
+      "Bash(python -m yt_dlp --print \"%\\(id\\)s|%\\(title\\)s|%\\(duration\\)s|%\\(upload_date\\)s|%\\(view_count\\)s|%\\(channel\\)s|%\\(channel_id\\)s\" --no-download \"https://www.youtube.com/watch?v=acNWo30xLdE\")",
+      "Bash(mkdir -p /tmp/summarize)",
+      "Bash(python -m yt_dlp --write-auto-sub --sub-lang en --sub-format json3 --skip-download -o \"/tmp/summarize/%\\(id\\)s\" \"https://www.youtube.com/watch?v=acNWo30xLdE\")",
+      "Bash(python3)",
+      "Read(//tmp/**)",
+      "Read(//tmp/summarize/**)",
+      "WebFetch(domain:247wallst.com)",
+      "WebFetch(domain:www.thestreet.com)",
+      "WebFetch(domain:stockanalysis.com)",
+      "WebFetch(domain:markets.financialcontent.com)",
+      "Bash(curl -sk -o /dev/null -w \"%{http_code}\" https://127.0.0.1:27124/)",
+      "Bash(winget install *)",
+      "Bash(claude mcp *)"
+    ]
+  }
+}

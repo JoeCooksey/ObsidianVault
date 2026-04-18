@@ -1,0 +1,1 @@
+The deep shaping of values, worldviews, and beliefs that occurs during a person's youth (roughly ages 15-25), when they are most impressionable and the world is still being discovered. The historical, economic, and social circumstances of these formative years create lasting patterns that influence how they see the world for the rest of their lives.

@@ -1,0 +1,1 @@
+People who bring out strong emotions in everyone they encounter.

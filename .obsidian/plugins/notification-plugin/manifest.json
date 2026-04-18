@@ -1,0 +1,11 @@
+{
+  "id": "file-change-notifier",
+  "name": "File Change Notifier",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Shows a visual notification bubble whenever a file in your vault is modified",
+  "author": "Your Name",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}

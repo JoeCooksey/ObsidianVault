@@ -1,0 +1,1 @@
+In Jungian psychology, the repressed masculine qualities in women—assertiveness, decisiveness, analytical thinking, aggression, independence. When denied or suppressed, the animus doesn't disappear; it projects outward as attraction to overly dominant men or as distorted competitiveness. Integrating the animus makes a woman more psychologically complete and powerful.

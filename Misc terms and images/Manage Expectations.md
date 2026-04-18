@@ -1,0 +1,1 @@
+The practice of calibrating your assumptions about people's reliability and loyalty based on realistic human nature rather than idealistic expectations. People's preferences and allegiances are inherently fluid and subject to change based on circumstances, emotions, and new opportunities—accepting this prevents unnecessary hurt and disappointment.

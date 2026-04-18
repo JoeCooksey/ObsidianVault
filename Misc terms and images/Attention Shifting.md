@@ -1,0 +1,1 @@
+The natural human tendency to direct focus and interest toward novel, exciting, or currently relevant stimuli while withdrawing attention from what was previously important. In social contexts, this means people naturally gravitate toward new ideas, people, or opportunities that capture their current emotional state, often abandoning previous attachments or beliefs.

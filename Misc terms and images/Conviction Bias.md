@@ -1,0 +1,1 @@
+This is a bias towards ideas that we are 50/50 about, but have a strong backing usually by a strong leader who speaks with passion... How can he be wrong???

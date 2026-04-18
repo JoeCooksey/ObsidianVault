@@ -1,0 +1,1 @@
+The ability to understand why people from different generations, time periods, or circumstances held particular beliefs and values by studying the historical and economic context that shaped them. Rather than judging past behaviors as foolish, historical empathy reveals the rational logic that made those choices sensible at the time.

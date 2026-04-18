@@ -1,0 +1,1 @@
+The psychological ability to step back from a group's emotional and behavioral currents and maintain independent judgment. [[Mental Detachment]] allows you to observe group dynamics clearly without being swept up in them. It's the practice of thinking deeply and analytically while others are caught in groupthink, enabling you to resist the [[Downward Pull of the Group]].

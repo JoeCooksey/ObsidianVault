@@ -1,0 +1,1 @@
+Loyalty built into systems, incentives, and structures rather than dependent on personal relationships or assumed constancy. It uses formal agreements, mutual benefits, clear expectations, and shared goals to align people's interests over time, creating stability that doesn't rely on the fickleness of personal attachment.

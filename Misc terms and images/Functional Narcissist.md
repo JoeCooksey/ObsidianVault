@@ -1,0 +1,1 @@
+Most people reside here, everyone is self-absorbed to some extent but what prevents most from going too deep is a sense of self that we can love, able to elevate self when needed but also focus on others turning attention outwards.

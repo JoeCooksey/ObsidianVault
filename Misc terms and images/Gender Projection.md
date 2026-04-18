@@ -1,0 +1,1 @@
+The unconscious process by which repressed gender-opposite qualities in yourself get projected onto others. What you're strongly attracted to, repelled by, or idealize in others is often a disowned part of yourself—a quality you haven't integrated. Recognizing this projection is the first step to reclaiming these qualities internally.

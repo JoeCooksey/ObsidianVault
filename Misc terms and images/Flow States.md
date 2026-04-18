@@ -1,0 +1,1 @@
+A psychological state of total absorption where you're fully engaged in an activity, losing self-consciousness and sense of time. Flow occurs when challenge level matches skill level. Greene identifies flow states as a key signal—work that produces flow is aligned with your genuine interests and often points to your [[Life's Task]].

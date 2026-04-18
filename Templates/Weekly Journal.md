@@ -1,0 +1,34 @@
+# Weekly Review: {{date}}
+
+## 🎯 Goals for the Week
+- [ ] 
+- [ ] 
+- [ ] 
+
+## 📊 Habit Performance (Past 7 Days)
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Day",
+  choice(eat_clean, "✅", "❌") AS "Clean",
+  choice(stretch, "✅", "❌") AS "Stretch",
+  choice(read_30, "✅", "❌") AS "Read",
+  choice(less_scrolling, "✅", "❌") AS "Scroll",
+  choice(more_sunlight, "✅", "❌") AS "Sun",
+  choice(skincare, "✅", "❌") AS "Skin",
+  choice(oral_care, "✅", "❌") AS "Teeth",
+  choice(chinese_20, "✅", "❌") AS "Chinese",
+  choice(sleep_90, "✅", "❌") AS "Sleep",
+  choice(bible_study, "✅", "❌") AS "Bible",
+  choice(no_weed, "✅", "❌") AS "Weed",
+  choice(no_early_caffeine, "✅", "❌") AS "Caff",
+  choice(no_porn, "✅", "❌") AS "Porn",
+  choice(no_alcohol, "✅", "❌") AS "Alc"
+FROM "Journal/Daily" 
+WHERE file.day >= date(today) - dur(7 days)
+SORT file.name ASC
+```
+
+## 🪞 Weekly Reflection
+*What were the biggest wins this week? Where did I fall short on my habits or goals?*
+-

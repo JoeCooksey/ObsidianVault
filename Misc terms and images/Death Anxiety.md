@@ -1,0 +1,1 @@
+The deep, often unconscious fear and discomfort around acknowledging human mortality and the inevitability of death. This anxiety is so profound that humans construct elaborate psychological defenses (denial, distraction, legacy-building) to avoid directly confronting it, shaping much of our behavior without our awareness.

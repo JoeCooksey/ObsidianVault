@@ -1,0 +1,1 @@
+In Jungian psychology, the repressed feminine qualities in men—tenderness, receptivity, emotionality, intuition, vulnerability. When denied or heavily repressed, the anima doesn't disappear; it leaks out as exaggerated attraction to idealized women or erratic emotional behavior. Integrating the anima makes a man more psychologically complete and adaptable.

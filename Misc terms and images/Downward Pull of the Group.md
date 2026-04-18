@@ -1,0 +1,1 @@
+The gravity that groups exert toward conformity, mediocrity, and irrationality. Groups amplify both best and worst tendencies in their members; the "downward pull" refers to how groups often drag individuals toward mob mentality, scapegoating, and abandonment of individual judgment rather than elevating them.

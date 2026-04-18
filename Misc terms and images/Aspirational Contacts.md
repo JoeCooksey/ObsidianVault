@@ -1,0 +1,1 @@
+These are contacts that aren't really related to your goal but still ambitious people that could possibly be useful in the future.

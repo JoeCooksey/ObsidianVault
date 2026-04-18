@@ -1,0 +1,1 @@
+Behavioral and verbal cues that precede aggressive outbursts—changes in tone, increased tension in body language, sarcasm, withdrawal, or subtle power plays. Recognizing these signals early allows you to intervene before aggression escalates, giving you time to de-escalate or create distance.

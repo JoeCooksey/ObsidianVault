@@ -1,0 +1,1 @@
+The conscious choice to stop competing for status, recognition, or external validation by recognizing their ultimate meaninglessness in the face of mortality. Once you accept that achievements and accolades cannot be taken with you, you're freed from the anxiety that drives status-seeking and can pursue genuine meaning instead.

@@ -1,0 +1,1 @@
+The unconscious psychological defense mechanism by which humans deny or avoid acknowledging their own death and finitude. Much human striving—accumulating wealth, pursuing status, building legacy—is secretly motivated by this denial, an attempt to create permanence in an impermanent world.

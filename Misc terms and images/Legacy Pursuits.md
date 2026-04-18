@@ -1,0 +1,1 @@
+The drive to be remembered, to create a lasting mark, to ensure your name or achievements outlive you. While legacy can be authentic, it often functions as a [[Mortality Denial]] mechanism—an unconscious attempt to transcend death by creating something permanent in a world of impermanence.

@@ -1,0 +1,14 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Books"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageAspectRatio: 1.4
+    cardSize: 230

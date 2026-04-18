@@ -1,0 +1,1 @@
+The rapid spread of emotional states through a group—panic, excitement, anger, or fear spread faster than any logical argument. Whoever controls the emotional tone of a group effectively controls the group's behavior. [[Emotional Contagion]] is a powerful force that often overrides individual rationality in collective settings.

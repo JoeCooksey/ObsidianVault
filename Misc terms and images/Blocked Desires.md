@@ -1,0 +1,1 @@
+Wants, goals, or needs that are thwarted or prevented from being satisfied. When people cannot pursue or achieve what they deeply desire, the resulting frustration and emotional buildup can trigger aggressive or destructive behavior. Understanding what someone desires but cannot have is key to predicting their aggressive response.

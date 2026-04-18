@@ -1,0 +1,1 @@
+The natural fascinations, interests, and energies that attracted you in childhood before social conditioning shaped your expectations. These primal inclinations reveal authentic clues to your [[Life's Task]] because they're uncorrupted by external pressure or "should"s. They're often the clearest signal to what you should pursue.

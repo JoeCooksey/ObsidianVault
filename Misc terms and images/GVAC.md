@@ -1,0 +1,1 @@
+Generosity, vulnerability, accountability, candor

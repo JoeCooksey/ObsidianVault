@@ -1,0 +1,1 @@
+Extremely dangerous, think dictators or some CEOs, they must be in control of everything, tend to burn and destroy whatever they create, constantly crave attention.

@@ -1,0 +1,5 @@
+1. Transform yourself into a deep listener: there is more to learn about others than yourself, pay attention to their verbal cues, everyone likes to talk about childhood family and work, occasionally say something that mirrors what they have said.
+2. Infect People With The Proper Mood: Do not judger others, laughter and shared pleasures, imagine others in a perfect light.
+3. Confirm their [[Self-Opinion]]: Get others to perceive what your asking as something they already desire, smaller gifts better than bigger ones, be more neutral in conversation, remind others of the good they have done in the past.
+4. Allay Their Insecurities: Once identified DO NOT trigger, better to praise people for effort not talent, simply agree with superiors, mix in small criticisms, feel the good emotion your expressing.
+5. Use people's resistance and stubbornness: Play with people's strong emotions to point them in the right direction, make people choose to do what you want.

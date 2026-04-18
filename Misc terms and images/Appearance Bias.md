@@ -1,0 +1,1 @@
+Associating certain positive qualities (looks) with other positive qualities (intelligence)

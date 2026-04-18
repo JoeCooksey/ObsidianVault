@@ -1,0 +1,1 @@
+Your authentic calling or life direction—discovered by connecting your [[Primal Inclinations]] from childhood with your unique strengths and values. Unlike [[False Purposes]], a true life's task energizes you, feels inevitable, and acts as a [[Force Multiplier]] that amplifies the effectiveness of all your efforts. It's the antidote to aimlessness.

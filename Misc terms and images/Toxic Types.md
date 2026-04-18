@@ -1,0 +1,20 @@
+- The Hyper perfectionist: 
+	- Need to micromanage everything, blame others for everything that goes wrong.
+- The Relentless Rebel: 
+	- Can't accept criticism, split with people on bad terms. 
+- The Personalizer:
+	- Take everything personally, expect people to give them things without asking.
+- The Drama Magnet:
+	- Will try to make you indulge in their drama.
+- The Big Talker:
+	- Like to talk big ideas, but afraid to put said ideas into action.
+- The Sexualizer:
+	- View every relationship as sexual.
+- The Pampered Prince/Princess:
+	- When not given what they want displays child-like behaviors, usually manipulate someone into being their servant.
+- The Pleaser:
+	- On the outside the nicest person ever, on the inside they just want to harm you. Look for too much charm and politeness.
+- The Savior:
+	- Love to save people, but out of a need to control you.
+- The Easy Moralizer:
+	- Project negative qualities onto others, notice their lack of empathy.

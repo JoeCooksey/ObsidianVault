@@ -1,0 +1,1 @@
+A conscious, deliberate recognition of your own finitude and impermanence. Rather than being a source of despair, mortality awareness becomes a powerful decision-making tool—a filter that helps you distinguish between what genuinely matters and what is merely distraction or status-seeking.

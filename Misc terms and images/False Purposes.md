@@ -1,0 +1,1 @@
+Substitute goals that feel purposeful but never truly satisfy—pleasure-seeking, money and status obsession, ideological causes detached from personal calling, attention-chasing, or cynicism. False purposes distract from finding your genuine [[Life's Task]] by promising fulfillment that never arrives. They're often driven by social pressure or fear rather than authentic desire.

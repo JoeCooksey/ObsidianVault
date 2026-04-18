@@ -1,0 +1,1 @@
+Something that amplifies or magnifies the effect of your efforts—in Greene's context, having a clear [[Life's Task]] and sense of purpose multiplies the effectiveness of your actions, decisions, and relationships. With a force multiplier, modest effort produces outsized results; without it, you scatter your energy across competing priorities with minimal impact.

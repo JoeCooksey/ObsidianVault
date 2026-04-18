@@ -1,0 +1,1 @@
+The state of having desired advancement, recognition, or achievement blocked or delayed. People driven by ambition who feel their rightful rise has been stolen by others become particularly dangerous, as they combine the sting of [[Status Threat]] with [[Blocked Desires]] and a sense of injustice—a potent mix that can fuel sustained aggression.
