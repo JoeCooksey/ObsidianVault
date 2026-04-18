@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "hot",
+      "path": "wiki/hot.md"
+    },
+    {
+      "basename": "Andrew Huberman",
+      "path": "wiki/entities/Andrew Huberman.md"
+    },
+    {
+      "basename": "_index",
+      "path": "wiki/papers/_index.md"
+    },
+    {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "log",
       "path": "wiki/log.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
     },
     {
       "basename": "index",
@@ -95,10 +103,6 @@
     {
       "basename": "dashboard",
       "path": "wiki/meta/dashboard.md"
-    },
-    {
-      "basename": "_index",
-      "path": "wiki/papers/_index.md"
     },
     {
       "basename": "04-13-26 Sun",
@@ -195,10 +199,6 @@
     {
       "basename": "Finton",
       "path": "04 People/Finton.md"
-    },
-    {
-      "basename": "Howon Noh",
-      "path": "04 People/Howon Noh.md"
     }
   ],
   "omittedPaths": [],
