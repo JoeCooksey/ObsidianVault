@@ -68,6 +68,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Neuroscience / Habits
+- [[Huberman Lab Essentials - Habit Formation and Breaking]] — Huberman, 2025, podcast transcript
+
 ### AI / LLM
 - [[Survey - Low-bit LLMs 2024]] — arXiv 2409.16694, comprehensive quantization survey
 - [[Edge LLM Inference Benchmark 2026]] — arXiv 2603.23640, sustained hardware benchmarks
