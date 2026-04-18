@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Concept",
+      "path": "_templates/Concept.md"
+    },
+    {
+      "basename": "WIKI",
+      "path": "WIKI.md"
+    },
+    {
+      "basename": "Research - Supplements for Young Male Health and Learning",
+      "path": "wiki/questions/Research - Supplements for Young Male Health and Learning.md"
+    },
+    {
+      "basename": "Supplement Priority Stack for Young Males",
+      "path": "wiki/concepts/Supplement Priority Stack for Young Males.md"
+    },
+    {
       "basename": "Research - WBG Semiconductors in EV Fast Charging",
       "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "Entity",
       "path": "_templates/Entity.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "_templates/Concept.md"
     },
     {
       "basename": "2026-04-18",
@@ -187,18 +199,6 @@
     {
       "basename": "Social Personality",
       "path": "Misc terms and images/Social Personality.md"
-    },
-    {
-      "basename": "Anima",
-      "path": "Misc terms and images/Anima.md"
-    },
-    {
-      "basename": "Attention Shifting",
-      "path": "Misc terms and images/Attention Shifting.md"
-    },
-    {
-      "basename": "2026-04-12",
-      "path": "Journal/Daily/2026-04-12.md"
     }
   ],
   "omittedPaths": [],
