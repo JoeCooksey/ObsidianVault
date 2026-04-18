@@ -12,6 +12,7 @@ People, organizations, products, and repositories mentioned across sources.
 ## People
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab podcast; coined Limbic Friction
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
+- [[Susan David]] — Harvard psychologist; *Emotional Agility*; Institute of Coaching co-founder
 
 ## Organizations
 - [[Intel]] — invented x86 ISA; CPU manufacturer; founded 1968
