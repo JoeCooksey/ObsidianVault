@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "overview",
+      "path": "wiki/overview.md"
+    },
+    {
+      "basename": "21-Day Habit Formation System",
+      "path": "wiki/concepts/21-Day Habit Formation System.md"
+    },
+    {
       "basename": "hot",
       "path": "wiki/hot.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
     },
     {
       "basename": "log",
@@ -195,10 +199,6 @@
     {
       "basename": "The Smartest Way To Improve Your VO2 Max (Hit 80+)",
       "path": "08 Summaries/YouTube/Howon Noh/Summaries/The Smartest Way To Improve Your VO2 Max (Hit 80+).md"
-    },
-    {
-      "basename": "Finton",
-      "path": "04 People/Finton.md"
     }
   ],
   "omittedPaths": [],
