@@ -14,7 +14,7 @@ sources: []
 Deep-dive research topics. Unlike the other domains, research topics here are chosen intentionally and worked through systematically — reading multiple sources, surfacing contradictions, building synthesis.
 
 ## Active Research Topics
-*(populated as research threads are opened)*
+- **Habit Formation and Breaking** — neuroscience and psychology of habit; source: Huberman Lab Essentials transcript. Key concepts: [[Limbic Friction]], [[Task Bracketing]], [[Three-Phase Day Framework]]. See [[Huberman Lab Essentials - Habit Formation and Breaking]].
 
 ## Completed / Mature Topics
 *(populated as topics reach synthesis)*
