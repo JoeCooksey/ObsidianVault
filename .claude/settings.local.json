@@ -24,7 +24,9 @@
       "WebFetch(domain:markets.financialcontent.com)",
       "Bash(curl -sk -o /dev/null -w \"%{http_code}\" https://127.0.0.1:27124/)",
       "Bash(winget install *)",
-      "Bash(claude mcp *)"
+      "Bash(claude mcp *)",
+      "WebFetch(domain:arxiv.org)"
     ]
-  }
+  },
+  "enabledPlugins": {}
 }

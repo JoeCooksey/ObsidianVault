@@ -34,5 +34,6 @@
   "periodic-notes",
   "obsidian-kanban",
   "file-change-notifier",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-git"
 ]

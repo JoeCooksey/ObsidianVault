@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - LLM Quantization and Edge Hardware",
+      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
+    },
+    {
+      "basename": "llama.cpp",
+      "path": "wiki/entities/llama.cpp.md"
+    },
+    {
+      "basename": "BitNet",
+      "path": "wiki/entities/BitNet.md"
+    },
+    {
+      "basename": "Engineering",
+      "path": "wiki/domains/Engineering.md"
+    },
+    {
+      "basename": "Books",
+      "path": "wiki/domains/Books.md"
+    },
+    {
+      "basename": "_index",
+      "path": "wiki/domains/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "wiki/concepts/_index.md"
+    },
+    {
+      "basename": "Post-Training Quantization",
+      "path": "wiki/concepts/Post-Training Quantization.md"
+    },
+    {
+      "basename": "GGUF Format",
+      "path": "wiki/concepts/GGUF Format.md"
+    },
+    {
+      "basename": "LLM Pruning",
+      "path": "wiki/concepts/LLM Pruning.md"
+    },
+    {
+      "basename": "dashboard",
+      "path": "wiki/meta/dashboard.md"
+    },
+    {
+      "basename": "_index",
+      "path": "wiki/papers/_index.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "04-13-26 Sun",
+      "path": "02 Daily/2026/04/04-13-26 Sun.md"
+    },
+    {
+      "basename": "Source",
+      "path": "_templates/Source.md"
+    },
+    {
+      "basename": "Question",
+      "path": "_templates/Question.md"
+    },
+    {
+      "basename": "Entity",
+      "path": "_templates/Entity.md"
+    },
+    {
+      "basename": "Concept",
+      "path": "_templates/Concept.md"
+    },
+    {
       "basename": "2026-04-18",
       "path": "Journal/Daily/2026-04-18.md"
     },
@@ -77,10 +153,6 @@
       "path": "08 Summaries/YouTube/Howon Noh/Summaries/The Smartest Way To Improve Your VO2 Max (Hit 80+).md"
     },
     {
-      "basename": "04-13-26 Sun",
-      "path": "02 Daily/2026/04/04-13-26 Sun.md"
-    },
-    {
       "basename": "Finton",
       "path": "04 People/Finton.md"
     },
@@ -127,78 +199,6 @@
     {
       "basename": "2026-04-12",
       "path": "Daily News Debrief/2026-04-12.md"
-    },
-    {
-      "basename": "The Subtle Art of Not Giving a Fck (Smiths UK) - Mark Manson",
-      "path": "Excalidraw/The Subtle Art of Not Giving a Fck (Smiths UK) - Mark Manson.excalidraw"
-    },
-    {
-      "basename": "Atomic Habits - James Clear",
-      "path": "Books/Atomic Habits - James Clear.md"
-    },
-    {
-      "basename": "Atomic Habits Sketch",
-      "path": "Excalidraw/Atomic Habits Sketch.excalidraw"
-    },
-    {
-      "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
-      "path": "Books/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.md"
-    },
-    {
-      "basename": "The Subtle Art of Not Giving a Fck (Smiths UK) - Mark Manson",
-      "path": "Books/The Subtle Art of Not Giving a Fck (Smiths UK) - Mark Manson.md"
-    },
-    {
-      "basename": "2026-04-10",
-      "path": "Journal/Daily/2026-04-10.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "Book View.base"
-    },
-    {
-      "basename": "2026-04-11",
-      "path": "Daily News Debrief/2026-04-11.md"
-    },
-    {
-      "basename": "Empathic Traits",
-      "path": "Misc terms and images/Empathic Traits.md"
-    },
-    {
-      "basename": "The Shadow",
-      "path": "Misc terms and images/The Shadow.md"
-    },
-    {
-      "basename": "Practical Grandiosity",
-      "path": "Misc terms and images/Practical Grandiosity.md"
-    },
-    {
-      "basename": "Six Grandiose Illusions",
-      "path": "Misc terms and images/Six Grandiose Illusions.md"
-    },
-    {
-      "basename": "2026-04-07",
-      "path": "Journal/Daily/2026-04-07.md"
-    },
-    {
-      "basename": "Beyond Envy",
-      "path": "Misc terms and images/Beyond Envy.md"
-    },
-    {
-      "basename": "Envier Types",
-      "path": "Misc terms and images/Envier Types.md"
-    },
-    {
-      "basename": "Signs of Envy",
-      "path": "Misc terms and images/Signs of Envy.md"
-    },
-    {
-      "basename": "Four Steps",
-      "path": "Misc terms and images/Four Steps.md"
-    },
-    {
-      "basename": "2026-04-06",
-      "path": "Journal/Daily/2026-04-06.md"
     }
   ],
   "omittedPaths": [],
