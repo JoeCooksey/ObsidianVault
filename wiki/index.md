@@ -57,6 +57,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[GPU Interconnects]] — PCIe vs NVLink vs CXL; bandwidth hierarchy table (developing)
 - [[Unified Memory Architecture]] — Apple Silicon M-series, AMD Ryzen AI Max; shared memory pool (developing)
 
+### Psychology / Emotional Intelligence
+- [[Emotional Agility]] — compassionate, curious, courageous relationship with thoughts/emotions/stories (developing)
+- [[Emotional Rigidity]] — fusion with thoughts/emotions/stories; drives action away from values (developing)
+- [[Gentle Acceptance]] — end the struggle with whether you're "allowed" to feel; stop Type 2 emotion loops (developing)
+- [[Emotion Granularity]] — precise labeling activates brain's readiness potential; "stressed" → "disappointed" (developing)
+- [[Defusion Language]] — "I notice I feel X" vs "I AM X"; sky/cloud metaphor; restores space for choice (developing)
+- [[Toxic Positivity]] — cultural suppression of difficult emotions causes burnout and lower resilience (developing)
+- [[Emotions as Functional]] — Darwin: emotions are adaptive signals pointing to values and needs (developing)
+
 ### Neuroscience / Habits
 - [[Limbic Friction]] — activation energy to override anxious/lethargic states (developing)
 - [[Task Bracketing]] — dorsal lateral striatum; start+end neural fingerprint of habits (developing)
