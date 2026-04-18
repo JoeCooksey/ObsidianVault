@@ -80,6 +80,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Computer Architecture
+- [[SIGGRAPH - Eras of GPU Development 2025]] — ACM SIGGRAPH Blog, April 2025; authoritative GPU era framework
+
 ### Neuroscience / Habits
 - [[Huberman Lab Essentials - Habit Formation and Breaking]] — Huberman, 2025, podcast transcript
 
