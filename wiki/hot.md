@@ -8,35 +8,33 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-18 — Autoresearch: Evolution of CPUs and GPUs
+2026-04-18 — Ingest: Susan David on Emotional Agility (Impostors podcast)
 
 ## Key Recent Facts
 
-### CPU / GPU Architecture (newest)
-- **CPU performance scaling broke ~2005** — Dennard scaling failed; clock frequencies stalled at 4–6 GHz; forced transition to multi-core and then heterogeneous SoC
-- **CPU is latency-optimized; GPU is throughput-optimized** — CPUs: OOO execution, large caches, low latency per instruction. GPUs: SIMD, thousands of simple cores, high throughput via warp switching
-- **GPU evolution in 6 eras**: fixed-function (1999) → programmable shaders (2000) → unified architecture (2006) → compute shaders (2009) → low-level APIs (2015) → general computing engine (2020)
-- **CUDA (2007)** unlocked GPGPU; enabled deep learning revolution; NVIDIA's primary competitive moat
-- **PCIe Gen5 x16 = ~64 GB/s** — 30× slower than H100 HBM2e (2 TB/s); the CPU↔GPU data transfer bottleneck
-- **NVLink 5 (Blackwell 2024) = 1.8 TB/s** — ~14× PCIe Gen5; reason NVIDIA dominates AI training clusters
-- **Unified memory (Apple M5 Max at 614 GB/s, AMD Ryzen AI Max+ at 128 GB pool)** — eliminates PCIe bottleneck for inference; can serve 70B models locally
-- **GPU performance historically grew 2.5×/year** (1970s–1999), exceeding Moore's Law 1.8×
+### Emotional Agility (newest)
+- **Emotional agility** (Susan David): ability to be with thoughts/emotions/stories with compassion, curiosity, and courage to take values-connected steps
+- **Three practical tools**:
+  1. **Gentle acceptance** — drop the struggle with whether you're "allowed" to feel; stop Type 2 loops ("anxious about anxiety")
+  2. **Emotion granularity** — replace "stressed" with precise label ("disappointed"/"unsupported"); activates brain's readiness potential and moves from paralysis to action
+  3. **Defusion language** — "I notice I feel X" not "I AM X"; creates Victor Frankl's space between stimulus and response; you are the sky, not the cloud
+- **Toxic positivity**: cultural suppression of difficult emotions causes lower mental health and burnout — not resilience
+- **Emotions are functional** (Darwin): boredom = values learning/growth; anger = something important at stake; all emotions signpost needs/values
+- **Identity fusion**: over-identifying with one role creates fragility when that role changes
+
+### CPU / GPU Architecture (previous)
+- PCIe bottleneck (64 GB/s) vs NVLink 5 (1.8 TB/s); unified memory (Apple M5 Max, AMD APU) eliminates bottleneck for inference
 
 ### Habits / Neuroscience (previous)
-- Limbic friction, task bracketing, three-phase day framework, 21-day system — see [[Huberman Lab Essentials - Habit Formation and Breaking]]
-
-### Health / Supplements (previous)
-- Creatine, caffeine+L-theanine, vitamin D deficiency — see [[Research - Supplements for Young Male Health and Learning]]
+- Limbic friction, task bracketing, three-phase day, 21-day system — see [[Huberman Lab Essentials - Habit Formation and Breaking]]
 
 ## Recent Changes
-- Created: [[SIGGRAPH - Eras of GPU Development 2025]], [[Intel]], [[AMD]], [[NVIDIA]]
-- Created: [[CPU Architecture Evolution]], [[GPU Architecture Evolution]], [[Moore's Law and Dennard Scaling]], [[Heterogeneous Computing]], [[CUDA Programming Model]], [[GPU Interconnects]], [[Unified Memory Architecture]]
-- Created: [[Research - Evolution of CPUs and GPUs]] (synthesis)
-- Updated: [[Wiki Index]], [[Wiki Log]]
+- Created: [[Impostors - Susan David on Emotional Agility]], [[Susan David]]
+- Created: [[Emotional Agility]], [[Emotional Rigidity]], [[Gentle Acceptance]], [[Emotion Granularity]], [[Defusion Language]], [[Toxic Positivity]], [[Emotions as Functional]]
+- Updated: [[Wiki Index]], [[Wiki Log]], concepts/_index.md, entities/_index.md
 
 ## Active Threads
-- CPU/GPU architecture: fully researched and filed
-- Cross-domain connection: [[CUDA Programming Model]] + [[Post-Training Quantization]] — quantized LLMs run on GPU via CUDA; edge inference (llama.cpp) uses CPU with limited CUDA offload
-- Cross-domain connection: [[Unified Memory Architecture]] links to edge LLM inference (Apple Silicon M-series is currently best consumer edge LLM platform)
+- **Cross-domain link (habits ↔ emotions)**: [[Emotion Granularity]] directly reduces [[Limbic Friction]] — precise labeling of emotional state gives the brain something to work with before attempting a hard habit. [[Gentle Acceptance]] is the precondition for Phase 1 habit execution when in an aversive emotional state.
+- **Cross-domain link (identity)**: [[Emotional Rigidity]] (identity fusion) is the failure mode of [[Identity-Based vs Goal-Based Habits]] — identity motivates when lightly held, creates fragility when fused.
 - Personal context: 19-year-old male EE student
-- Open: RISC-V MIMD GPU future; NVLink scaling ceiling; NPU vs GPU for transformer inference
+- Open: How does emotion granularity interact with the three-phase day framework? (Phase 2 / serotonin state may be better for granularity practice than Phase 1 high-activation state)
