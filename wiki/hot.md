@@ -8,31 +8,38 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-18 — Autoresearch: Supplements for Young Male Health, Learning, and EE Performance
+2026-04-18 — Ingest: Huberman Lab Essentials transcript on habit formation and breaking
 
 ## Key Recent Facts
 
-### Health / Supplements (newest)
-- **36% of 18–29 year olds are vitamin D deficient** — highest of any age group; fix this first (2,000–4,000 IU D3 + K2)
-- **Caffeine + L-Theanine** (2:1 ratio, ~100mg caffeine + 200mg L-theanine): strongest acute cognitive stack; high evidence; cycle to avoid tolerance
-- **Creatine monohydrate** (3–5 g/day): memory SMD 0.31 in meta-analysis of 24 RCTs; moderate certainty; unambiguous physical performance benefit; ~$5–10/month — best value supplement
-- **Magnesium glycinate** (300–400 mg at night): addresses deficiency, improves sleep, reduces cortisol
-- **Bacopa**: 4–12 weeks for effect; medium evidence for attention speed; GI side effects; semester-long commitment
-- **Rhodiola**: best for acute stress/fatigue periods (finals); situational not daily
-- **Lion's mane**: promising animal data, thin young-adult human evidence — deprioritize
-- **Sleep > all supplements**: 6-hour sleep impairs cognition more than any stack can compensate
+### Habits / Neuroscience (newest)
+- **70% of waking behavior is habitual** — habits are neural circuits formed via neuroplasticity
+- **Limbic friction** (Huberman's coined term): activation energy to override anxious or lethargic states; the key variable in whether a habit gets executed
+- **Task bracketing**: dorsal lateral striatum activates at start AND end of a habit (not during) — this is the neural fingerprint of a consolidated, context-independent habit
+- **Three-phase day**: Phase 1 (0–8h, high norepinephrine/dopamine) = hard habits; Phase 2 (9–15h, serotonin rising) = mellow habits; Phase 3 (16–24h) = sleep consolidation — protect with darkness, cool room, no caffeine
+- **Habit formation timeline**: 18–254 days for the same habit across individuals (Lally 2010)
+- **21-day system**: list 6 habits, expect 4–5/day, no slip compensation, assess automaticity after 21 days before adding new ones
+- **Habit breaking**: insert a positive replacement behavior *immediately* after the bad habit — leverages post-execution neural plasticity window to remap circuits
+- **Procedural memory visualization**: mentally step through habit sequence once → lowers execution threshold; activates same neurons as actual execution
+- **Linchpin habits**: habits you enjoy that make other habits easier — protect these as anchors
+
+### Health / Supplements (previous)
+- **36% of 18–29 year olds vitamin D deficient** — fix first (2,000–4,000 IU D3 + K2)
+- **Caffeine + L-Theanine** (2:1 ratio): strongest acute cognitive stack
+- **Creatine** 3–5 g/day: memory SMD 0.31; best value supplement
+- **Sleep > all supplements**: 6-hour sleep impairs cognition more than any stack compensates
 
 ### WBG / EV Power Electronics (previous)
-- SiC mandatory for 800V EVs; GaN ascending in OBC; thermal throttling is the reliability bottleneck
-
-### AI / LLM Edge Computing (previous)
-- INT4 AWQ/GGUF Q4_K_M is sweet spot; RPi+Hailo-10H is only <2W stable edge platform
+- SiC mandatory for 800V EVs; GaN ascending in OBC
 
 ## Recent Changes
-- Created 11 pages (supplement research) + 4-tier practical stack guide
-- Updated [[Wiki Index]], [[Wiki Log]]
+- Created: [[Huberman Lab Essentials - Habit Formation and Breaking]], [[Andrew Huberman]], [[Wendy Wood]]
+- Created: [[Limbic Friction]], [[Task Bracketing]], [[Neuroplasticity and Habit Formation]], [[Habit Strength]], [[Linchpin Habits]], [[Identity-Based vs Goal-Based Habits]], [[Three-Phase Day Framework]], [[21-Day Habit Formation System]], [[Habit Breaking via Replacement Behavior]], [[Procedural Memory Visualization]]
+- Updated: [[Wiki Index]], [[Wiki Log]], concepts/_index.md, entities/_index.md, domains/Research.md
 
 ## Active Threads
-- Three research areas in wiki: LLM edge, WBG/EV, Health/Supplements
-- Personal health research context: 19-year-old male, EE degree, optimizing for learning and performance
-- Open: creatine effect on mathematical/engineering-specific reasoning; optimal caffeine cycling protocol
+- Habit neuroscience: Huberman framework fully filed — 13 pages created
+- Health research: supplements stack previously filed
+- Engineering: LLM edge + WBG/EV previously filed
+- Personal context: 19-year-old male, EE degree, optimizing for learning and performance
+- Open: how does task bracketing interact with the supplement stack? (creatine + Phase 1 exercise as potential linchpin habit)
