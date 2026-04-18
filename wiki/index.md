@@ -47,6 +47,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[V2G Bidirectional Charging]] — WBG enables bidirectional OBCs; grid integration (seed)
 - [[WBG Thermal Management]] — junction temperature, failure modes, cooling strategies (developing)
 
+### Computer Architecture / CPU+GPU
+- [[CPU Architecture Evolution]] — scalar → superscalar → multi-core → heterogeneous SoC (developing)
+- [[GPU Architecture Evolution]] — fixed-function → programmable shaders → GPGPU → AI accelerator (developing)
+- [[Moore's Law and Dennard Scaling]] — transistor scaling laws + breakdown ~2005 + consequences (developing)
+- [[Heterogeneous Computing]] — CPU/GPU division of labor; latency vs throughput optimization (developing)
+- [[CUDA Programming Model]] — host/device/kernel model; NVIDIA's compute platform (2007) (developing)
+- [[GPU Interconnects]] — PCIe vs NVLink vs CXL; bandwidth hierarchy table (developing)
+- [[Unified Memory Architecture]] — Apple Silicon M-series, AMD Ryzen AI Max; shared memory pool (developing)
+
 ### Neuroscience / Habits
 - [[Limbic Friction]] — activation energy to override anxious/lethargic states (developing)
 - [[Task Bracketing]] — dorsal lateral striatum; start+end neural fingerprint of habits (developing)
