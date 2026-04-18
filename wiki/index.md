@@ -54,6 +54,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[IEEE Spectrum SiC vs GaN 2024]] — authoritative SiC vs GaN competitive landscape
 - [[MDPI WBG Comparative Review 2024]] — material properties, reliability, EV applications
 
+## Areas (Personal)
+- Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
+
 ## Questions / Synthesis
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
+- [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
