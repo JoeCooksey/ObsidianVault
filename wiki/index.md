@@ -42,6 +42,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[V2G Bidirectional Charging]] — WBG enables bidirectional OBCs; grid integration (seed)
 - [[WBG Thermal Management]] — junction temperature, failure modes, cooling strategies (developing)
 
+### Health / Personal
+- [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
+- [[Creatine for Cognitive Performance]] — memory SMD 0.31; moderate certainty; 3–5 g/day (developing)
+- [[Caffeine and L-Theanine Stack]] — best acute study stack; 2:1 ratio; high evidence (developing)
+- [[Bacopa Monnieri]] — long-term memory; 4–12 weeks; medium evidence (developing)
+- [[Lion's Mane Mushroom]] — NGF stimulation; thin human evidence; seed (seed)
+- [[Rhodiola Rosea]] — stress/fatigue adaptogen; situational use; medium evidence (developing)
+- [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
+- [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
+
 ## Sources
 
 ### AI / LLM
