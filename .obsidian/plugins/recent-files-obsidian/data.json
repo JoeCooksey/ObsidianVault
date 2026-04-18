@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Research",
+      "path": "wiki/domains/Research.md"
+    },
+    {
+      "basename": "Theology",
+      "path": "wiki/domains/Theology.md"
+    },
+    {
       "basename": "Research - LLM Quantization and Edge Hardware",
       "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-W16",
       "path": "Journal/Weekly/2026-W16.md"
-    },
-    {
-      "basename": "2026-W15",
-      "path": "Journal/Weekly/2026-W15.md"
-    },
-    {
-      "basename": "2026-04-12",
-      "path": "Daily News Debrief/2026-04-12.md"
     }
   ],
   "omittedPaths": [],
