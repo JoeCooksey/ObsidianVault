@@ -14,7 +14,9 @@ People, organizations, products, and repositories mentioned across sources.
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 
 ## Organizations
-*(populated as sources are ingested)*
+- [[Intel]] — invented x86 ISA; CPU manufacturer; founded 1968
+- [[AMD]] — Ryzen CPUs, Radeon GPUs, APU unified memory chips; founded 1969
+- [[NVIDIA]] — dominant GPU manufacturer; CUDA platform; AI training infrastructure
 
 ## Products / Tools
 *(populated as sources are ingested)*
