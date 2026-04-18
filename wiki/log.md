@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] autoresearch | Wide Bandgap Semiconductor Applications in EV Fast Charging
+- Rounds: 3
+- Sources found: 2 papers + IEEE Spectrum article
+- Pages created: [[Wide Bandgap Semiconductors]], [[Silicon Carbide Power Electronics]], [[Gallium Nitride Power Electronics]], [[Gallium Oxide Power Electronics]], [[800V EV Architecture]], [[EV Fast Charging Topologies]], [[V2G Bidirectional Charging]], [[WBG Thermal Management]], [[Wolfspeed]], [[STMicroelectronics SiC]], [[IEEE Spectrum SiC vs GaN 2024]], [[MDPI WBG Comparative Review 2024]], [[Research - WBG Semiconductors in EV Fast Charging]]
+- Synthesis: [[Research - WBG Semiconductors in EV Fast Charging]]
+- Key finding: SiC is physically mandatory for 800V EV architectures (1200V blocking requirement eliminates silicon IGBTs); GaN is ascending for OBCs at higher switching frequency; thermal management — not compute — is the primary reliability bottleneck.
+
 ## [2026-04-18] autoresearch | LLM Quantization and Optimization for Edge Hardware
 - Rounds: 3
 - Sources found: 4 papers (arXiv)
