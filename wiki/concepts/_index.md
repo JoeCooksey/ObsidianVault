@@ -11,8 +11,14 @@ Ideas, patterns, frameworks, and mental models extracted from sources.
 
 ## By Domain
 
-### Engineering
-*(populated as sources are ingested)*
+### Engineering / Computer Architecture
+- [[CPU Architecture Evolution]] — Intel 4004 → x86 → multi-core → heterogeneous SoC
+- [[GPU Architecture Evolution]] — fixed-function → programmable → GPGPU → AI accelerator
+- [[Moore's Law and Dennard Scaling]] — transistor scaling laws + breakdown ~2005 + power wall
+- [[Heterogeneous Computing]] — CPU/GPU division of labor; latency vs throughput
+- [[CUDA Programming Model]] — host/device/kernel model; NVIDIA's GPU compute platform
+- [[GPU Interconnects]] — PCIe vs NVLink vs CXL; bandwidth comparison table
+- [[Unified Memory Architecture]] — Apple Silicon, AMD APU; shared CPU+GPU memory pool
 
 ### Mathematics
 *(populated as sources are ingested)*
