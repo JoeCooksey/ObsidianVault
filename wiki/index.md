@@ -19,6 +19,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Entities
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
+- [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
+- [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
+- [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024)
 - [[BitNet]] — Microsoft ternary LLM architecture and CPU inference framework
 - [[llama.cpp]] — dominant C/C++ edge LLM inference engine (Georgi Gerganov)
 - [[MLC-LLM]] — TVM-based universal LLM deployment engine
