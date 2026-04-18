@@ -26,6 +26,28 @@
         "wiki/entities/_index.md",
         "wiki/domains/Research.md"
       ]
+    },
+    ".raw/transcripts/A Harvard Psychologist Teaches Us How to Increase Our Emotional Intelligence.txt": {
+      "hash": "e1c966e403af6d36472f93ee3a61b95c",
+      "ingested_at": "2026-04-18",
+      "pages_created": [
+        "wiki/sources/Impostors - Susan David on Emotional Agility.md",
+        "wiki/entities/Susan David.md",
+        "wiki/concepts/Emotional Agility.md",
+        "wiki/concepts/Emotional Rigidity.md",
+        "wiki/concepts/Gentle Acceptance.md",
+        "wiki/concepts/Emotion Granularity.md",
+        "wiki/concepts/Defusion Language.md",
+        "wiki/concepts/Toxic Positivity.md",
+        "wiki/concepts/Emotions as Functional.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/concepts/_index.md",
+        "wiki/entities/_index.md"
+      ]
     }
   }
 }
