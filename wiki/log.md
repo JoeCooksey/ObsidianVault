@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] autoresearch | Supplements for Young Male Health, Learning, and EE Performance
+- Rounds: 3
+- Sources found: 2 PMC meta-analyses + supporting PubMed literature
+- Pages created: [[Foundational Health Supplements]], [[Creatine for Cognitive Performance]], [[Caffeine and L-Theanine Stack]], [[Bacopa Monnieri]], [[Lion's Mane Mushroom]], [[Rhodiola Rosea]], [[Sleep Optimization Supplements]], [[Supplement Priority Stack for Young Males]], [[PMC Creatine Meta-analysis 2024]], [[PMC Caffeine Theanine Review 2022]], [[Research - Supplements for Young Male Health and Learning]]
+- Synthesis: [[Research - Supplements for Young Male Health and Learning]]
+- Key finding: Fix vitamin D deficiency first (36% of 18–29 year olds are deficient); caffeine+L-theanine is the strongest acute cognitive stack; creatine adds memory benefit at low cost; sleep and exercise outperform all supplements combined.
+
 ## [2026-04-18] autoresearch | Wide Bandgap Semiconductor Applications in EV Fast Charging
 - Rounds: 3
 - Sources found: 2 papers + IEEE Spectrum article
