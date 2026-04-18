@@ -17,6 +17,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
+- [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[BitNet]] — Microsoft ternary LLM architecture and CPU inference framework
 - [[llama.cpp]] — dominant C/C++ edge LLM inference engine (Georgi Gerganov)
 - [[MLC-LLM]] — TVM-based universal LLM deployment engine
