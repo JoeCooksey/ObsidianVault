@@ -44,6 +44,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[V2G Bidirectional Charging]] — WBG enables bidirectional OBCs; grid integration (seed)
 - [[WBG Thermal Management]] — junction temperature, failure modes, cooling strategies (developing)
 
+### Neuroscience / Habits
+- [[Limbic Friction]] — activation energy to override anxious/lethargic states (developing)
+- [[Task Bracketing]] — dorsal lateral striatum; start+end neural fingerprint of habits (developing)
+- [[Neuroplasticity and Habit Formation]] — habits as neural circuits; hippocampus → basal ganglia migration (developing)
+- [[Habit Strength]] — context independence × limbic friction axes (developing)
+- [[Linchpin Habits]] — force-multiplier habits; always enjoyable (developing)
+- [[Identity-Based vs Goal-Based Habits]] — self-concept frame vs. per-execution checkbox (developing)
+- [[Three-Phase Day Framework]] — circadian neurochemical windows for habit placement (developing)
+- [[21-Day Habit Formation System]] — 6 habits/day, 4–5 expected, assess automaticity (developing)
+- [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
+- [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
+
 ### Health / Personal
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
 - [[Creatine for Cognitive Performance]] — memory SMD 0.31; moderate certainty; 3–5 g/day (developing)
