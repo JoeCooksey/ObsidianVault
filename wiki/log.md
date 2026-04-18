@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] autoresearch | Evolution of CPUs and GPUs
+- Rounds: 2
+- Sources found: 5 web searches + 1 fetched page (SIGGRAPH 2025)
+- Pages created: [[SIGGRAPH - Eras of GPU Development 2025]], [[Intel]], [[AMD]], [[NVIDIA]], [[CPU Architecture Evolution]], [[GPU Architecture Evolution]], [[Moore's Law and Dennard Scaling]], [[Heterogeneous Computing]], [[CUDA Programming Model]], [[GPU Interconnects]], [[Unified Memory Architecture]], [[Research - Evolution of CPUs and GPUs]]
+- Synthesis: [[Research - Evolution of CPUs and GPUs]]
+- Key finding: CPU performance scaling broke in 2005 (Dennard scaling failure) forcing the multi-core and heterogeneous GPU era; PCIe bandwidth (~64 GB/s) is the bottleneck between CPU and discrete GPU — unified memory (Apple Silicon, AMD APU) eliminates it at the cost of raw TFLOPS; NVLink 5 at 1.8 TB/s is why NVIDIA dominates AI training.
+
 ## [2026-04-18] ingest | Huberman Lab Essentials - The Science of Making & Breaking Habits
 - Source: `.raw/transcripts/Essentials_ The Science of Making _ Breaking Habits.txt`
 - Summary: [[Huberman Lab Essentials - Habit Formation and Breaking]]
