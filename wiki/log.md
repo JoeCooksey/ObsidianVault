@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] ingest | Impostors - Susan David on Emotional Agility
+- Source: `.raw/transcripts/A Harvard Psychologist Teaches Us How to Increase Our Emotional Intelligence.txt`
+- Summary: [[Impostors - Susan David on Emotional Agility]]
+- Pages created: [[Impostors - Susan David on Emotional Agility]], [[Susan David]], [[Emotional Agility]], [[Emotional Rigidity]], [[Gentle Acceptance]], [[Emotion Granularity]], [[Defusion Language]], [[Toxic Positivity]], [[Emotions as Functional]]
+- Pages updated: [[Wiki Index]], concepts/_index.md, entities/_index.md
+- Key insight: Suppressing difficult emotions (toxic positivity) makes people less resilient; the three practical tools — gentle acceptance, emotion granularity, and defusion language — move from paralysis to values-connected action.
+
 ## [2026-04-18] autoresearch | Evolution of CPUs and GPUs
 - Rounds: 2
 - Sources found: 5 web searches + 1 fetched page (SIGGRAPH 2025)
