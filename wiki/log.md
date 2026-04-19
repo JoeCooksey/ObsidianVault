@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] ingest | Atomic Habits — James Clear (Books)
+- Source: `Books/Atomic Habits - James Clear.md`
+- Hash: `a721f6fee0fe6e3cf80b6f6daeb71477`
+- Summary: [[Atomic Habits - James Clear]]
+- Pages created: [[Atomic Habits - James Clear]], [[James Clear]], [[Habit Loop]], [[Four Laws of Behavior Change]], [[Implementation Intention]], [[Habit Stacking]], [[Two-Minute Rule]], [[Temptation Bundling]], [[Goldilocks Rule]], [[Commitment Device]]
+- Pages updated: [[Identity-Based vs Goal-Based Habits]], [[Books]], [[Wiki Index]], [[Wiki Log]], [[Hot Cache]], concepts/_index.md, entities/_index.md, .raw/.manifest.json
+- Key insight: Clear's framework is a practical design system — the Four Laws (Obvious / Attractive / Easy / Satisfying) map directly onto the Habit Loop stages, allowing precise intervention at any point in the habit cycle. The 1% compounding principle (1.01^365 ≈ 37.78×) makes even tiny habits high-value. Never Miss Twice is the highest-leverage resilience rule.
+
 ## [2026-04-19] autoresearch | Math and Physics Foundations for EE — Calc 1-3, DiffEQ, Mechanics, E&M
 - Source: synthesis of curriculum knowledge and E&M/mechanics fundamentals
 - Summary: [[Research - Math and Physics Foundations for EE]]
