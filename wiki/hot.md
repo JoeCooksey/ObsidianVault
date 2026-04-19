@@ -57,6 +57,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - First-Year ASU EE Skills]], [[ASU EE Year 1-2 Curriculum Map]], [[EE Freshman Self-Study Stack]], [[EE Freshman Portfolio Strategy]]
 - Created: [[Research - EE Physical Side Skills for Semiconductors and Power]], [[EE Physical Side — Actionable Skill Plan]]
 - Created: [[Biohacking Tier List]], [[Supplement Tier List Complete]], [[Health Biomarkers Complete Panel]], [[Biohacking Daily Health Hacks]]
 - Created: [[Research - Complete Biohacking Guide]]
