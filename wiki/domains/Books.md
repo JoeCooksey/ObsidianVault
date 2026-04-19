@@ -86,6 +86,13 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[Relationship Action Plan]] directly applicable to Joe's internship + job search — see [[EE Freshman Portfolio Strategy]]
 - Carnegie (be genuinely interested) + Ferrazzi (systematic follow-through) = a complete relationship-building system
 
+### Psychology of Money × Habits / Neuroscience / Health
+- [[Compounding Wealth]] and [[Neuroplasticity and Habit Formation]] follow the same exponential curve — interrupt either and you reset the clock
+- [[Compounding Wealth]] ↔ [[Training Periodization]] — both require patience, systems thinking, and protecting the chain from interruption
+- [[Financial Freedom vs Wealth]] ↔ [[Biohacking Tier List]] — S-tier health interventions (sleep, Zone 2, sunlight) require schedule autonomy; freedom is the prerequisite
+- [[Tail Events]] ↔ [[EE Freshman Portfolio Strategy]] — most skill experiments won't pay off; one well-timed demonstration can define a career trajectory
+- [[Untouchables]] ↔ [[Emotional Agility]] — Housel's intrinsic values list aligns with David's "values contact"; both diagnose extrinsic goalpost-chasing as the failure mode
+
 ## Books Ingested
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step habit loop, Four Laws, compounding 1% gains; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
