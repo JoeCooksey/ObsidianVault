@@ -44,3 +44,37 @@ NVIDIA's **NVLink** proprietary GPU interconnect provides dramatically higher ba
 ## Competitive Position (2025)
 
 NVIDIA holds dominant market share in AI training GPU market. AMD Instinct and Intel Gaudi are the primary competitors in GPGPU/AI accelerator space.
+
+## Strategy and Philosophy (Jensen Huang)
+
+**Mental model**: "Electrons → Tokens." Nvidia transforms grid power into AI output; the job is to maximize value of that transformation.
+
+**Company philosophy**: "Do as much as needed, as little as possible." Build what only Nvidia can (CUDA, NVLink, domain libraries); partner for everything else (clouds, ODMs, foundries).
+
+**Why not a hyperscaler**: If Nvidia didn't build CUDA, nobody would. If Nvidia didn't build a cloud, somebody would. Focus on the irreplaceable work.
+
+**Investment strategy**: Invest in every major foundation lab (OpenAI ~$30B, Anthropic ~$10B); don't pick winners.
+
+**GPU allocation**: FIFO by purchase order; never highest-bidder pricing — "I prefer to be dependable, to be the foundation of the industry."
+
+## Chip Roadmap (as of 2025)
+- **Hopper** (H100/H200) — current deployed fleet; "most models today are trained on Hopper"
+- **Blackwell** (B100/B200) — 50× more efficient than Hopper (architecture + algorithms, not just transistors)
+- **Vera Rubin** — next generation
+- **Vera Rubin Ultra**
+- **Feynman**
+
+## Supply Chain Moat
+- $100B+ in explicit purchase commitments with foundries, memory, packaging
+- Implicit commitments: CEO-level relationships convincing upstream partners to invest (Micron/HBM example)
+- Resolved past bottlenecks: CoWoS (packaging), HBM memory — "swarmed" with investment
+- Invested in silicon photonics ecosystem (Lumentum, Coherent) for future interconnect scale
+- Partnered on TSMC COUPE packaging technology; licensed patents to keep supply chain open
+- Real bottleneck identified: **energy** — takes years, not 2–3 years like chips/packaging
+
+## China and Export Controls (Jensen's view)
+Jensen argues against aggressive export controls:
+- China has enough compute already (Huawei Ascend at scale, abundant energy to gang older chips)
+- 50% of world's AI researchers are Chinese; algorithm advances > raw hardware
+- Conceding China's market accelerates their domestic chip ecosystem (telecom precedent)
+- Goal: keep Chinese AI developers on the American tech stack (CUDA) vs. diverging to Huawei stacks
