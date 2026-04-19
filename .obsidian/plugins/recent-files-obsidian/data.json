@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Health Biomarkers Complete Panel",
+      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
+    },
+    {
+      "basename": "Research - Complete Biohacking Guide",
+      "path": "wiki/questions/Research - Complete Biohacking Guide.md"
+    },
+    {
+      "basename": "Supplement Tier List Complete",
+      "path": "wiki/concepts/Supplement Tier List Complete.md"
+    },
+    {
+      "basename": "Biohacking Tier List",
+      "path": "wiki/concepts/Biohacking Tier List.md"
+    },
+    {
       "basename": "How To Win Friends and Influence People - Dale Carnegie",
       "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "BitNet",
       "path": "wiki/entities/BitNet.md"
-    },
-    {
-      "basename": "Engineering",
-      "path": "wiki/domains/Engineering.md"
-    },
-    {
-      "basename": "Books",
-      "path": "wiki/domains/Books.md"
-    },
-    {
-      "basename": "_index",
-      "path": "wiki/domains/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "wiki/concepts/_index.md"
     }
   ],
   "omittedPaths": [],
