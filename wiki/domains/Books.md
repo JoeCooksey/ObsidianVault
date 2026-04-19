@@ -41,6 +41,14 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - Operant reinforcement — praise every improvement immediately; the signal must reach the person in the moment
 - Identity lever — treat people as who they could be and they rise to it; give a reputation to live up to
 
+### From The Psychology of Money (Housel)
+- [[Compounding Wealth]] — 99% of Buffett's wealth came after 60; duration beats rate; First Rule: don't interrupt
+- [[Untouchables]] — five things never worth sacrificing for money: reputation, freedom, family, friends, happiness
+- [[Margin of Safety (Finance)]] — keep buffer; Barbelled Personality; anything that can break will break
+- [[Tail Events]] — 1% of events drive 90% of outcomes; Amazon example; implications for investing + career
+- [[Wealth Paradox]] — Man in the Car Paradox; buyers of status signals don't get the admiration they imagine
+- [[Financial Freedom vs Wealth]] — money → autonomy → happiness; Reactance; save without a specific goal
+
 ### From Never Eat Alone (Ferrazzi)
 - [[Generosity-First Networking]] — the currency of real networking is not greed but generosity; give before you need
 - [[Relationship Action Plan]] — 3yr→1yr→90day goals mapped to the people you need to know; build before you need it
