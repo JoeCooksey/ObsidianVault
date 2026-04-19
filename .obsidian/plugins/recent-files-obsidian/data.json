@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "main",
+      "path": "wiki/canvases/main.canvas"
+    },
+    {
       "basename": "Research - LLM Quantization and Edge Hardware",
       "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Psychology of Money - Morgan Housel",
       "path": "Excalidraw/The Psychology of Money - Morgan Housel.excalidraw"
-    },
-    {
-      "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
-      "path": "Excalidraw/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.excalidraw"
     }
   ],
   "omittedPaths": [],
