@@ -17,6 +17,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[James Clear]] — *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
