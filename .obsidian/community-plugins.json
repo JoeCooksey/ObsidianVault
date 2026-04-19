@@ -35,5 +35,6 @@
   "obsidian-kanban",
   "file-change-notifier",
   "obsidian-local-rest-api",
-  "obsidian-git"
+  "obsidian-git",
+  "3d-graph"
 ]
