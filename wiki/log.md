@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] autoresearch | Complete Biohacking Guide — Tier Lists, Supplements, Biomarkers
+- Source: web research synthesis (outliyr.com, onedaymd.com, functionhealth.com, medichecks.com, NIH ODS)
+- Summary: [[Research - Complete Biohacking Guide]]
+- Pages created: [[Biohacking Tier List]], [[Supplement Tier List Complete]], [[Health Biomarkers Complete Panel]], [[Biohacking Daily Health Hacks]]
+- Pages updated: [[Wiki Index]], [[Hot Cache]], [[Wiki Log]]
+- Key insight: The highest-ROI biohacks are free — sleep consistency, morning sunlight, Zone 2 cardio, and protein adequacy outperform every supplement. Foundation supplement stack (D3+K2, Magnesium Glycinate, Omega-3, Zinc, Creatine) addresses common deficiencies before any exotic nootropic. ApoB + fasting insulin are the two most actionable blood tests most people never order. Sauna 4×/week has 40% cardiovascular mortality reduction (Laukkanen et al.).
+
+---
+
 ## [2026-04-19] ingest | How to Win Friends and Influence People — Dale Carnegie (1936)
 - Source: book
 - Summary: [[How To Win Friends and Influence People - Dale Carnegie]]
