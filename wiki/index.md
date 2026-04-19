@@ -146,6 +146,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Areas (Personal)
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
+### Math Foundations (Sources)
+- [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
+
 ## Questions / Synthesis
 - [[Research - First-Year ASU EE Skills]] — 8 key findings; ASU curriculum map, freshman self-study stack, portfolio strategy, hiring survey data (developing)
 - [[Research - EE Physical Side Skills for Semiconductors and Power]] — 8 key findings; hiring signals, 18-month actionable plan, WBG career context (developing)
