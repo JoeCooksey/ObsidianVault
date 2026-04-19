@@ -22,7 +22,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
 - [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
 - [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
-- [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024)
+- [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024); electrons→tokens; 5-layer cake
+- [[Jensen Huang]] — NVIDIA CEO/co-founder; "electrons→tokens"; five-layer cake; "do as much as needed, as little as possible"
+- [[Dwarkesh Patel]] — podcaster; long-form interviews on AI, tech, science
 - [[BitNet]] — Microsoft ternary LLM architecture and CPU inference framework
 - [[llama.cpp]] — dominant C/C++ edge LLM inference engine (Georgi Gerganov)
 - [[MLC-LLM]] — TVM-based universal LLM deployment engine
