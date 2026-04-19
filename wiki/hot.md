@@ -8,11 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-19 — Autoresearch: Complete Biohacking Guide (tier lists, supplements, biomarkers)
+2026-04-19 — Autoresearch: EE Physical Side Skills — Semiconductors and Power
 
 ## Key Recent Facts
 
-### Biohacking (newest — autoresearch)
+### EE Physical Side — Hiring & Skills (newest — autoresearch)
+- **Three hardest hiring filters**: (1) device physics fluency — can you derive switching loss? (2) double pulse test experience — can you set one up and interpret Eon/Eoff? (3) WBG PCB layout — power loop inductance, Kelvin gate, commutation loop minimization
+- **18-month skill plan**: Foundations (Neamen + Erickson + LTspice) → Core power design (magnetics + gate drivers) → WBG specialization (SiC/GaN app notes + >1kW project) → Advanced (TI C2000 digital control + EMC + thermal sim)
+- **Hottest EE specialties 2025–2026**: SiC traction inverter engineers (Wolfspeed, Onsemi, STMicro) and GaN OBC engineers (Navitas, EPC, GaN Systems) — $112k–$230k salary range
+- **The DPT is the bench litmus test**: If you can't explain what Eon, Eoff, Qrr mean or how a double pulse test works, you won't pass a power lab interview
+- **Textbook stack**: Erickson & Maksimovic *Fundamentals of Power Electronics* (the bible) + Neamen *Semiconductor Physics and Devices* — read both in parallel from month 1
+- **Digital control matters now**: TI C2000 F28379D is the dominant automotive power DSP; PI current control in fixed-point arithmetic is expected at mid-level
+- **70,000 new US semiconductor jobs by 2026** — employers increasingly value demonstrated skill over credentials due to talent shortage
+- **Joe context**: 19-year-old EE student — this plan is executable now; Phase 1 starts with coursework overlap; Phase 2–3 = summer/capstone project territory
+
+### Biohacking (previous — autoresearch)
 - **Free hacks dominate**: Morning sunlight, 8h consistent sleep, Zone 2 cardio, and protein adequacy outperform every supplement and device
 - **Foundation supplement stack**: D3+K2 | Magnesium Glycinate | Omega-3 (EPA+DHA) | Zinc | Creatine — fix deficiencies before adding nootropics
 - **Most important blood tests**: ApoB (<70 mg/dL optimal) + Fasting Insulin (<5 μIU/mL) + HbA1c (4.8–5.2% optimal) — these three reveal most metabolic risk early
