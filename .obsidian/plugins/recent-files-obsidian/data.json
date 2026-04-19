@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
+      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
+    },
+    {
+      "basename": "Survey - Low-bit LLMs 2024",
+      "path": "wiki/sources/Survey - Low-bit LLMs 2024.md"
+    },
+    {
+      "basename": "Huberman Lab Essentials - Habit Formation and Breaking",
+      "path": "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md"
+    },
+    {
+      "basename": "Jensen Huang",
+      "path": "wiki/entities/Jensen Huang.md"
+    },
+    {
+      "basename": "Dwarkesh Patel",
+      "path": "wiki/entities/Dwarkesh Patel.md"
+    },
+    {
+      "basename": "Research",
+      "path": "wiki/domains/Research.md"
+    },
+    {
       "basename": "Research - Cycling Training Periodization and Annual Plan",
       "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
     },
@@ -75,10 +99,6 @@
     {
       "basename": "IEEE Spectrum SiC vs GaN 2024",
       "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
-    },
-    {
-      "basename": "Research",
-      "path": "wiki/domains/Research.md"
     },
     {
       "basename": "Theology",
@@ -179,26 +199,6 @@
     {
       "basename": "2026-04-16",
       "path": "Daily News Debrief/2026-04-16.md"
-    },
-    {
-      "basename": "AGENTS.md",
-      "path": "AGENTS.md.md"
-    },
-    {
-      "basename": "2026-04-16",
-      "path": "Journal/Daily/2026-04-16.md"
-    },
-    {
-      "basename": "2026-04-15",
-      "path": "Journal/Daily/2026-04-15.md"
-    },
-    {
-      "basename": "2026-04-15",
-      "path": "Daily News Debrief/2026-04-15.md"
-    },
-    {
-      "basename": "The Psychology of Money - Morgan Housel",
-      "path": "Books/The Psychology of Money - Morgan Housel.md"
     }
   ],
   "omittedPaths": [],
