@@ -71,6 +71,13 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - "Give someone a fine reputation to live up to" is identity-based habit formation — [[Identity-Based vs Goal-Based Habits]]
 - Carnegie's praise-every-improvement is operant reinforcement — maps to [[Neuroplasticity and Habit Formation]]
 
+### Ferrazzi × Habits / Neuroscience / Career
+- [[Follow-Up Formula]] and [[Pinging System]] work best as identity-based habits — [[Identity-Based vs Goal-Based Habits]]
+- Ferrazzi's "audacity" (reach out despite fear of rejection) = acting through high [[Limbic Friction]]; practice reduces it
+- [[Relationship Action Plan]] directly applicable to Joe's internship + job search — see [[EE Freshman Portfolio Strategy]]
+- Carnegie (be genuinely interested) + Ferrazzi (systematic follow-through) = a complete relationship-building system
+
 ## Books Ingested
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step habit loop, Four Laws, compounding 1% gains; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
+- [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging system, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
