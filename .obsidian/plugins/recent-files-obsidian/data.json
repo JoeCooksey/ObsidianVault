@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "The Psychology of Money - Morgan Housel",
+      "path": "wiki/sources/The Psychology of Money - Morgan Housel.md"
+    },
+    {
+      "basename": "Never Eat Alone - Keith Ferrazzi",
+      "path": "wiki/sources/Never Eat Alone - Keith Ferrazzi.md"
+    },
+    {
+      "basename": "Atomic Habits - James Clear",
+      "path": "wiki/sources/Atomic Habits - James Clear.md"
+    },
+    {
+      "basename": "Classical Mechanics in Electrical Engineering",
+      "path": "wiki/concepts/Classical Mechanics in Electrical Engineering.md"
+    },
+    {
+      "basename": "Electromagnetism Foundations for EE",
+      "path": "wiki/concepts/Electromagnetism Foundations for EE.md"
+    },
+    {
+      "basename": "Differential Equations in Electrical Engineering",
+      "path": "wiki/concepts/Differential Equations in Electrical Engineering.md"
+    },
+    {
+      "basename": "Calculus in Electrical Engineering",
+      "path": "wiki/concepts/Calculus in Electrical Engineering.md"
+    },
+    {
+      "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
+      "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
+    },
+    {
       "basename": "EE Freshman Action Plans",
       "path": "wiki/concepts/EE Freshman Action Plans.md"
     },
@@ -19,10 +51,6 @@
     {
       "basename": "Research - First-Year ASU EE Skills",
       "path": "wiki/questions/Research - First-Year ASU EE Skills.md"
-    },
-    {
-      "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
-      "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
     },
     {
       "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
@@ -171,34 +199,6 @@
     {
       "basename": "Dwarkesh Patel",
       "path": "wiki/entities/Dwarkesh Patel.md"
-    },
-    {
-      "basename": "Research",
-      "path": "wiki/domains/Research.md"
-    },
-    {
-      "basename": "Lion's Mane Mushroom",
-      "path": "wiki/concepts/Lion's Mane Mushroom.md"
-    },
-    {
-      "basename": "CUDA Programming Model",
-      "path": "wiki/concepts/CUDA Programming Model.md"
-    },
-    {
-      "basename": "21-Day Habit Formation System",
-      "path": "wiki/concepts/21-Day Habit Formation System.md"
-    },
-    {
-      "basename": "dashboard",
-      "path": "wiki/meta/dashboard.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
     }
   ],
   "omittedPaths": [],
