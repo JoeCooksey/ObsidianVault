@@ -5,6 +5,14 @@
       "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
     },
     {
+      "basename": "How To Win Friends and Influence People - Dale Carnegie",
+      "path": "wiki/sources/How To Win Friends and Influence People - Dale Carnegie.md"
+    },
+    {
+      "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
+      "path": "Books/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.md"
+    },
+    {
       "basename": "Book View",
       "path": "Book View.base"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "_index",
       "path": "wiki/concepts/_index.md"
-    },
-    {
-      "basename": "Post-Training Quantization",
-      "path": "wiki/concepts/Post-Training Quantization.md"
-    },
-    {
-      "basename": "GGUF Format",
-      "path": "wiki/concepts/GGUF Format.md"
     }
   ],
   "omittedPaths": [],

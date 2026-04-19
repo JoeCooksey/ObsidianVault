@@ -16,3 +16,4 @@ previewLink: http://books.google.com/books?id=yxfJDVXClucC&printsec=frontcover&d
 isbn13: 9781439167342
 isbn10: 1439167346
 ---
+[[wiki/sources/How To Win Friends and Influence People - Dale Carnegie|How To Win Friends and Influence People - Dale Carnegie]]
