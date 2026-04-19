@@ -58,6 +58,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[CUDA Programming Model]] — host/device/kernel model; NVIDIA's compute platform (2007) (developing)
 - [[GPU Interconnects]] — PCIe vs NVLink vs CXL; bandwidth hierarchy table (developing)
 - [[Unified Memory Architecture]] — Apple Silicon M-series, AMD Ryzen AI Max; shared memory pool (developing)
+- [[Accelerated Computing]] — Nvidia's mission; domain-specific acceleration beyond AI (developing)
+- [[CUDA Ecosystem Flywheel]] — install base + programmability + ecosystem richness → self-reinforcing moat (developing)
+- [[GPU vs TPU Trade-offs]] — programmability vs specialization; ecosystem vs efficiency (developing)
+- [[AI Five-Layer Cake]] — Jensen Huang's framework: energy → chips → platform → models → applications (developing)
 
 ### Psychology / Emotional Intelligence
 - [[Emotional Agility]] — compassionate, curious, courageous relationship with thoughts/emotions/stories (developing)
