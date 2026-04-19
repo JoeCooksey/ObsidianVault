@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "How To Win Friends and Influence People - Dale Carnegie",
+      "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
+    },
+    {
+      "basename": "Book View",
+      "path": "Book View.base"
+    },
+    {
+      "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
+      "path": "Excalidraw/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.excalidraw"
+    },
+    {
+      "basename": "Impostors - Susan David on Emotional Agility",
+      "path": "wiki/sources/Impostors - Susan David on Emotional Agility.md"
+    },
+    {
+      "basename": "Survey - Low-bit LLMs 2024",
+      "path": "wiki/sources/Survey - Low-bit LLMs 2024.md"
+    },
+    {
+      "basename": "AMD",
+      "path": "wiki/entities/AMD.md"
+    },
+    {
+      "basename": "Intel",
+      "path": "wiki/entities/Intel.md"
+    },
+    {
+      "basename": "Jensen Huang",
+      "path": "wiki/entities/Jensen Huang.md"
+    },
+    {
+      "basename": "2026-04-19",
+      "path": "Daily News Debrief/2026-04-19.md"
+    },
+    {
+      "basename": "2026-04-19",
+      "path": "Journal/Daily/2026-04-19.md"
+    },
+    {
       "basename": "main",
       "path": "wiki/canvases/main.canvas"
     },
@@ -37,16 +77,8 @@
       "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
     },
     {
-      "basename": "Survey - Low-bit LLMs 2024",
-      "path": "wiki/sources/Survey - Low-bit LLMs 2024.md"
-    },
-    {
       "basename": "PMC Caffeine Theanine Review 2022",
       "path": "wiki/sources/PMC Caffeine Theanine Review 2022.md"
-    },
-    {
-      "basename": "Impostors - Susan David on Emotional Agility",
-      "path": "wiki/sources/Impostors - Susan David on Emotional Agility.md"
     },
     {
       "basename": "IEEE Spectrum SiC vs GaN 2024",
@@ -63,10 +95,6 @@
     {
       "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
       "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
-    },
-    {
-      "basename": "Jensen Huang",
-      "path": "wiki/entities/Jensen Huang.md"
     },
     {
       "basename": "Dwarkesh Patel",
@@ -171,34 +199,6 @@
     {
       "basename": "GGUF Format",
       "path": "wiki/concepts/GGUF Format.md"
-    },
-    {
-      "basename": "LLM Pruning",
-      "path": "wiki/concepts/LLM Pruning.md"
-    },
-    {
-      "basename": "04-13-26 Sun",
-      "path": "02 Daily/2026/04/04-13-26 Sun.md"
-    },
-    {
-      "basename": "Source",
-      "path": "_templates/Source.md"
-    },
-    {
-      "basename": "Question",
-      "path": "_templates/Question.md"
-    },
-    {
-      "basename": "Entity",
-      "path": "_templates/Entity.md"
-    },
-    {
-      "basename": "2026-04-18",
-      "path": "Daily News Debrief/2026-04-18.md"
-    },
-    {
-      "basename": "2026-04-17",
-      "path": "Journal/Daily/2026-04-17.md"
     }
   ],
   "omittedPaths": [],

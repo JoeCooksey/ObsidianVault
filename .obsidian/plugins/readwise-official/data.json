@@ -3,9 +3,9 @@
   "readwiseDir": "Readwise",
   "frequency": "0",
   "triggerOnLoad": true,
-  "isSyncing": true,
+  "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 25478338,
+  "lastSavedStatusID": 25492753,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -40,7 +40,8 @@
     "Readwise/Tweets/Tweets From Jainam Parmar.md": "59745144",
     "Readwise/Tweets/Tweets From Nico Bilinkis.md": "59745145",
     "Readwise/Tweets/Tweets From Abhishek.md": "59785336",
-    "Readwise/Tweets/Tweets From Kanika.md": "59805934"
+    "Readwise/Tweets/Tweets From Kanika.md": "59805934",
+    "Readwise/Tweets/Tweets From Ruben Hassid.md": "59830527"
   },
   "reimportShowConfirmation": true
 }
