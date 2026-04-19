@@ -8,11 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-19 — Autoresearch: First-Year ASU EE Skills
+2026-04-19 — Autoresearch: Math and Physics Foundations for EE
 
 ## Key Recent Facts
 
-### First-Year ASU EE Skills (newest — autoresearch)
+### Math and Physics → EE (newest — autoresearch)
+- **Calc 1 = Cap/inductor V-I**: $i = C\,dv/dt$ and $v = L\,di/dt$ are pure derivatives — you use Calc 1 every lecture in EEE 202
+- **Calc 2 = RMS, energy, Fourier**: $V_\text{rms} = \sqrt{\frac{1}{T}\int v^2\,dt}$; energy = $\tfrac{1}{2}CV^2$; Fourier coefficients are integrals — all Calc 2
+- **Calc 3 = Maxwell's equations**: gradient, divergence, curl appear in all 4 of Maxwell's equations; without Calc 3, EEE 340 Electromagnetics is inaccessible
+- **DiffEQ → circuit transients**: RC circuit is a 1st-order ODE; RLC is 2nd-order with natural freq $\omega_n = 1/\sqrt{LC}$ and damping $\zeta = R/(2\sqrt{L/C})$
+- **Laplace transform = the engineering shortcut**: converts ODE to algebra; transfer function $H(s)$ encodes poles, stability, Bode plot — foundation of EEE 202 + EEE 350
+- **Mechanical-electrical analogy is exact**: mass↔inductance, spring↔capacitance, damper↔resistance; same ODE; solving one solves both; MEMS sensors are this analogy in silicon
+- **Faraday's law = transformer operation**: $\mathcal{E} = -N\,d\Phi/dt$ is WHY transformers work; every switching power supply (buck, flyback) uses this
+- **Lorentz force = motor torque + Hall sensor**: $\mathbf{F} = q\mathbf{v}\times\mathbf{B}$ gives motor torque ($\tau = BILN$) and Hall voltage ($V_H = IB/nqt$); PCB trace inductance is also this force
+- **Joe's year-1 payoff**: MAT 265 → EEE 202 V-I relations; MAT 266 → EEE 202 energy/RMS; MAT 267 → EEE 340 fields; MAT 275 → EEE 202 transient analysis; PHY 121 → EEE 480 motor control; PHY 122 → EEE 340 all components
+
+### First-Year ASU EE Skills (previous — autoresearch)
 - **ASU Year 1 has zero EE courses** — it's all math (MAT 265/266/267) + physics (PHY 121/122); first EE course (EEE 120 Digital Design) doesn't hit until Term 3A (Year 2)
 - **The leverage move**: self-teach LTspice + Python + Git + breadboarding in Year 1 before EEE 202 Circuits I (Term 4A) — this separates "thriving" from "surviving" students
 - **LTspice is free and used in EEE 202** — 10 hours of self-study before Circuits I = massive advantage; build RC, RL, RLC circuits
