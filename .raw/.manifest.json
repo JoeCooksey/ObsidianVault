@@ -49,5 +49,26 @@
         "wiki/entities/_index.md"
       ]
     }
+  },
+    ".raw/transcripts/Darkesh_Jensen.txt": {
+      "hash": "ffcc2e89c596ab35396cafa3b655775e",
+      "ingested_at": "2026-04-18",
+      "pages_created": [
+        "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md",
+        "wiki/entities/Jensen Huang.md",
+        "wiki/entities/Dwarkesh Patel.md",
+        "wiki/concepts/AI Five-Layer Cake.md",
+        "wiki/concepts/CUDA Ecosystem Flywheel.md",
+        "wiki/concepts/GPU vs TPU Trade-offs.md",
+        "wiki/concepts/Accelerated Computing.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/NVIDIA.md",
+        "wiki/concepts/CUDA Programming Model.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
+    }
   }
 }
