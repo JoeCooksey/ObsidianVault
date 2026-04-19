@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Laws of Human Nature - Robert Greene",
+      "path": "wiki/sources/The Laws of Human Nature - Robert Greene.md"
+    },
+    {
       "basename": "The Psychology of Money - Morgan Housel",
       "path": "wiki/sources/The Psychology of Money - Morgan Housel.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PMC Caffeine Theanine Review 2022",
       "path": "wiki/sources/PMC Caffeine Theanine Review 2022.md"
-    },
-    {
-      "basename": "Dwarkesh Patel",
-      "path": "wiki/entities/Dwarkesh Patel.md"
     }
   ],
   "omittedPaths": [],
