@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-04-18
+updated: 2026-04-18T12:00:00
 tags:
   - meta
 ---
