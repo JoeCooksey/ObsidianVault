@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Lion's Mane Mushroom",
+      "path": "wiki/concepts/Lion's Mane Mushroom.md"
+    },
+    {
+      "basename": "CUDA Programming Model",
+      "path": "wiki/concepts/CUDA Programming Model.md"
+    },
+    {
+      "basename": "21-Day Habit Formation System",
+      "path": "wiki/concepts/21-Day Habit Formation System.md"
+    },
+    {
+      "basename": "dashboard",
+      "path": "wiki/meta/dashboard.md"
+    },
+    {
       "basename": "Research - Evolution of CPUs and GPUs",
       "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "overview",
       "path": "wiki/overview.md"
-    },
-    {
-      "basename": "21-Day Habit Formation System",
-      "path": "wiki/concepts/21-Day Habit Formation System.md"
     },
     {
       "basename": "hot",
@@ -109,10 +121,6 @@
       "path": "wiki/concepts/LLM Pruning.md"
     },
     {
-      "basename": "dashboard",
-      "path": "wiki/meta/dashboard.md"
-    },
-    {
       "basename": "04-13-26 Sun",
       "path": "02 Daily/2026/04/04-13-26 Sun.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-14",
       "path": "Journal/Daily/2026-04-14.md"
-    },
-    {
-      "basename": "2026-04-14",
-      "path": "Daily News Debrief/2026-04-14.md"
-    },
-    {
-      "basename": "2026-04-13",
-      "path": "Journal/Daily/2026-04-13.md"
     }
   ],
   "omittedPaths": [],
