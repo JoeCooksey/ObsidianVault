@@ -132,6 +132,7 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Sources
 
 ### Books
+- [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts; human relations, influence, leadership
 
 ### Computer Architecture
