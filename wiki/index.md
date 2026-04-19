@@ -104,6 +104,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Computer Architecture
 - [[SIGGRAPH - Eras of GPU Development 2025]] — ACM SIGGRAPH Blog, April 2025; authoritative GPU era framework
+- [[Darkesh-Patel-Jensen-Huang-Nvidia-2025]] — Jensen Huang interview; CUDA moat, TPU vs GPU, supply chain, China export controls
 
 ### Psychology / Emotional Intelligence
 - [[Impostors - Susan David on Emotional Agility]] — Impostors podcast, Susan David, 2023
