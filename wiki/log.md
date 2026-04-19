@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] autoresearch | First-Year ASU EE Skills — Freshman Skill-Building Plan
+- Source: web research synthesis (ASU curriculum, hiring surveys, Siemens academic report, BLS data, Handshake internship data)
+- Summary: [[Research - First-Year ASU EE Skills]]
+- Pages created: [[Research - First-Year ASU EE Skills]], [[ASU EE Year 1-2 Curriculum Map]], [[EE Freshman Self-Study Stack]], [[EE Freshman Portfolio Strategy]]
+- Pages updated: [[Wiki Index]], [[Hot Cache]], [[Wiki Log]]
+- Key insight: ASU Year 1 has zero EE-specific courses — it's all math + physics. The leverage move is self-teaching LTspice + Python + Git + breadboarding before EEE 202 hits in Term 4A. Siemens hiring survey: communication + collaboration ranked #1 soft skill above all technical tools. Git/GitHub portfolio started in Year 1 beats most sophomores at early internship apps.
+
 ## [2026-04-19] autoresearch | EE Physical Side Skills — Semiconductors and Power Electronics
 - Source: web research synthesis (semiconductor hiring trends, job postings, WBG device testing, learning paths)
 - Summary: [[Research - EE Physical Side Skills for Semiconductors and Power]]
