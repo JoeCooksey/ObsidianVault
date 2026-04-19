@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Health Biomarkers Complete Panel",
-      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
+      "basename": "Research - WBG Semiconductors in EV Fast Charging",
+      "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
+    },
+    {
+      "basename": "MDPI WBG Comparative Review 2024",
+      "path": "wiki/sources/MDPI WBG Comparative Review 2024.md"
+    },
+    {
+      "basename": "PMC Creatine Meta-analysis 2024",
+      "path": "wiki/sources/PMC Creatine Meta-analysis 2024.md"
+    },
+    {
+      "basename": "SIGGRAPH - Eras of GPU Development 2025",
+      "path": "wiki/sources/SIGGRAPH - Eras of GPU Development 2025.md"
+    },
+    {
+      "basename": "Biohacking Daily Health Hacks",
+      "path": "wiki/concepts/Biohacking Daily Health Hacks.md"
     },
     {
       "basename": "Research - Complete Biohacking Guide",
@@ -11,6 +27,42 @@
     {
       "basename": "Supplement Tier List Complete",
       "path": "wiki/concepts/Supplement Tier List Complete.md"
+    },
+    {
+      "basename": "Health Biomarkers Complete Panel",
+      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
+    },
+    {
+      "basename": "Research - LLM Quantization and Edge Hardware",
+      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
+    },
+    {
+      "basename": "Huberman Lab Essentials - Habit Formation and Breaking",
+      "path": "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md"
+    },
+    {
+      "basename": "Framework Comparison Apple Silicon 2025",
+      "path": "wiki/sources/Framework Comparison Apple Silicon 2025.md"
+    },
+    {
+      "basename": "Edge LLM Inference Benchmark 2026",
+      "path": "wiki/sources/Edge LLM Inference Benchmark 2026.md"
+    },
+    {
+      "basename": "Bitnet.cpp Edge Inference 2025",
+      "path": "wiki/sources/Bitnet.cpp Edge Inference 2025.md"
+    },
+    {
+      "basename": "IEEE Spectrum SiC vs GaN 2024",
+      "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
+    },
+    {
+      "basename": "Research - Evolution of CPUs and GPUs",
+      "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
+    },
+    {
+      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
+      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
     },
     {
       "basename": "Biohacking Tier List",
@@ -69,10 +121,6 @@
       "path": "wiki/canvases/main.canvas"
     },
     {
-      "basename": "Research - Evolution of CPUs and GPUs",
-      "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
-    },
-    {
       "basename": "GPU Architecture Evolution",
       "path": "wiki/concepts/GPU Architecture Evolution.md"
     },
@@ -93,32 +141,8 @@
       "path": "wiki/concepts/CUDA Ecosystem Flywheel.md"
     },
     {
-      "basename": "Research - LLM Quantization and Edge Hardware",
-      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
-    },
-    {
-      "basename": "Research - WBG Semiconductors in EV Fast Charging",
-      "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
-    },
-    {
       "basename": "PMC Caffeine Theanine Review 2022",
       "path": "wiki/sources/PMC Caffeine Theanine Review 2022.md"
-    },
-    {
-      "basename": "IEEE Spectrum SiC vs GaN 2024",
-      "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
-    },
-    {
-      "basename": "Huberman Lab Essentials - Habit Formation and Breaking",
-      "path": "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md"
-    },
-    {
-      "basename": "Edge LLM Inference Benchmark 2026",
-      "path": "wiki/sources/Edge LLM Inference Benchmark 2026.md"
-    },
-    {
-      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
-      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
     },
     {
       "basename": "Dwarkesh Patel",
@@ -175,30 +199,6 @@
     {
       "basename": "Concept",
       "path": "_templates/Concept.md"
-    },
-    {
-      "basename": "WIKI",
-      "path": "WIKI.md"
-    },
-    {
-      "basename": "Research - Supplements for Young Male Health and Learning",
-      "path": "wiki/questions/Research - Supplements for Young Male Health and Learning.md"
-    },
-    {
-      "basename": "Supplement Priority Stack for Young Males",
-      "path": "wiki/concepts/Supplement Priority Stack for Young Males.md"
-    },
-    {
-      "basename": "Theology",
-      "path": "wiki/domains/Theology.md"
-    },
-    {
-      "basename": "llama.cpp",
-      "path": "wiki/entities/llama.cpp.md"
-    },
-    {
-      "basename": "BitNet",
-      "path": "wiki/entities/BitNet.md"
     }
   ],
   "omittedPaths": [],
