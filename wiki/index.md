@@ -41,7 +41,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
-### Power Electronics / EV
+### Power Electronics / EV / Career
+- [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[Wide Bandgap Semiconductors]] — SiC vs GaN vs Ga₂O₃ material comparison (developing)
 - [[Silicon Carbide Power Electronics]] — traction inverters, DCFC, OBC; 800V systems (developing)
 - [[Gallium Nitride Power Electronics]] — OBC focus; 1200V roadmap; V2G enabler (developing)
