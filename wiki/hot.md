@@ -12,7 +12,21 @@ tags:
 
 ## Key Recent Facts
 
-### Math and Physics → EE (newest — autoresearch)
+### Atomic Habits (James Clear) — newest ingest
+- **North Star quote**: "You do not rise to the level of your goals. You fall to the level of your systems."
+- **1% compounding**: 1.01^365 ≈ 37.78×; 0.99^365 ≈ 0.03. Tiny habits compound dramatically in both directions.
+- **Habit Loop**: Cue → Craving → Response → Reward. Craving is the key addition over Duhigg's 3-step model — dopamine fires on anticipation, not just reward.
+- **Four Laws**: Make it Obvious (cue design) / Make it Attractive (craving design) / Make it Easy (response friction) / Make it Satisfying (reward design). Each law inverts for breaking bad habits.
+- **Implementation Intention**: "I will [Behavior] at [Time] in [Location]." Closes the intent-action gap; 2–3× follow-through improvement in research.
+- **Habit Stacking**: "After [Habit A] I will [Habit B]." Borrows the neural trigger of an existing habit for the new one.
+- **Two-Minute Rule**: Any new habit must start as a <2 min action. Master showing up first; scale later. Targets [[Limbic Friction]] directly.
+- **Temptation Bundling**: Pair WANT + NEED. Dopamine from anticipating the want bleeds into the need. Joe's action item: favorite playlist only during study sessions.
+- **Goldilocks Rule**: Peak motivation at edge of ability. Boredom (not failure) is the long-run enemy of habit maintenance.
+- **Never Miss Twice**: One miss = accident. Two misses = new (bad) habit starting. Highest-leverage resilience rule per Joe.
+- **Identity as mechanism**: Every execution casts a vote for who you are becoming. Deepens [[Identity-Based vs Goal-Based Habits]] with evidence-accumulation framing.
+- Joe rating: ⭐⭐⭐⭐⭐, finished ~March 1, 2026
+
+### Math and Physics → EE (previous — autoresearch)
 - **Calc 1 = Cap/inductor V-I**: $i = C\,dv/dt$ and $v = L\,di/dt$ are pure derivatives — you use Calc 1 every lecture in EEE 202
 - **Calc 2 = RMS, energy, Fourier**: $V_\text{rms} = \sqrt{\frac{1}{T}\int v^2\,dt}$; energy = $\tfrac{1}{2}CV^2$; Fourier coefficients are integrals — all Calc 2
 - **Calc 3 = Maxwell's equations**: gradient, divergence, curl appear in all 4 of Maxwell's equations; without Calc 3, EEE 340 Electromagnetics is inaccessible
