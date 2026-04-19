@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - First-Year ASU EE Skills",
+      "path": "wiki/questions/Research - First-Year ASU EE Skills.md"
+    },
+    {
       "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
       "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     }
   ],
   "omittedPaths": [],
