@@ -78,6 +78,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
 - [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
 
+### Health / Fitness / Cycling
+- [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
+- [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
+- [[VO2 Max Interval Training]] — 2–4 min at 106–120% FTP; concentrated 2–3 week blocks (developing)
+- [[Strength Training for Cyclists]] — 4-phase off-season gym arc: Adaptation → Hypertrophy → Strength → Power (developing)
+
 ### Health / Personal
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
 - [[Creatine for Cognitive Performance]] — memory SMD 0.31; moderate certainty; 3–5 g/day (developing)
