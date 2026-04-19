@@ -87,3 +87,12 @@ CUDA 6 (2014) introduced **Unified Memory**: a single virtual address space acce
 Before CUDA (2007), GPGPU required reformulating problems as graphics operations — a severe constraint. CUDA abstracted the GPU as a parallel processor, opening GPU computing to physics simulations, neural networks, financial modeling, and cryptography. This was the prerequisite for the deep learning revolution that began ~2012.
 
 Every major deep learning framework (PyTorch, TensorFlow) has CUDA as its primary GPU backend. NVIDIA's CUDA ecosystem lock-in is a significant competitive moat.
+
+## The Ecosystem (as of 2025)
+Beyond the core programming model, the CUDA ecosystem includes:
+- **Inference frameworks**: vLLM, SGLang — high-throughput LLM serving
+- **Training frameworks**: verl, NeMo RL — reinforcement learning post-training
+- **Kernel languages**: Triton (OpenAI) — Nvidia contributes heavily to Triton's backend
+- **Domain libraries**: cuBLAS (linear algebra), cuDNN (deep learning), NCCL (multi-GPU comms), cuLitho (computational lithography)
+
+The key developer insight: build on CUDA first because (1) ecosystem is richest, (2) when something breaks it's more likely in your code, not the "mountain of code underneath." See [[CUDA Ecosystem Flywheel]] for the strategic flywheel analysis.
