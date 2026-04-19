@@ -64,6 +64,7 @@ tags:
 - Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
 
 ## Active Threads
+- **EE Freshman Year**: Joe is in Year 1 at ASU — no EE courses yet; self-study window for LTspice, Python, breadboarding, Git NOW before EEE 202 hits Term 4A
 - **EE Career**: Joe is a 19yo EE student — physical side skill plan (WBG power electronics) is directly applicable to internship and capstone targeting
 - **WBG × EV**: SiC traction inverter and GaN OBC are highest-demand 2025–2026; existing wiki content on WBG/800V/EV charging topology is directly relevant to career plan
 - **Biohacking × Cycling**: VO2 max training is S-tier intervention; sauna post-workout relevant to Joe's 6-day/week schedule
