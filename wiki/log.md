@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] autoresearch | Math and Physics Foundations for EE — Calc 1-3, DiffEQ, Mechanics, E&M
+- Source: synthesis of curriculum knowledge and E&M/mechanics fundamentals
+- Summary: [[Research - Math and Physics Foundations for EE]]
+- Pages created: [[Research - Math and Physics Foundations for EE]], [[Calculus in Electrical Engineering]], [[Differential Equations in Electrical Engineering]], [[Classical Mechanics in Electrical Engineering]], [[Electromagnetism Foundations for EE]]
+- Pages updated: [[Wiki Index]], [[Hot Cache]], [[Wiki Log]]
+- Key insight: Every course in Years 1-2 (MAT 265/266/267, MAT 275, PHY 121/122) has a direct 1-to-1 mapping to EE tools used weekly from EEE 202 onward. Calc 1 → cap/inductor V-I relations. Calc 2 → RMS, energy, Fourier. Calc 3 → Maxwell's equations. DiffEQ → circuit transients and control systems. Mechanics → motor equations and the mechanical-electrical analogy. E&M → capacitors, inductors, transformers, motors from first principles.
+
 ## [2026-04-19] action-plans | EE Freshman Action Plans — 6 Skill Plans + 6-Month Timeline
 - Summary: [[EE Freshman Action Plans]]
 - Pages created: [[EE Freshman Action Plans]]
