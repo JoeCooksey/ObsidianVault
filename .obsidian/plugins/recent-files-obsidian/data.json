@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
-      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
+      "basename": "Research - LLM Quantization and Edge Hardware",
+      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
+    },
+    {
+      "basename": "Research - WBG Semiconductors in EV Fast Charging",
+      "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
     },
     {
       "basename": "Survey - Low-bit LLMs 2024",
       "path": "wiki/sources/Survey - Low-bit LLMs 2024.md"
     },
     {
+      "basename": "PMC Caffeine Theanine Review 2022",
+      "path": "wiki/sources/PMC Caffeine Theanine Review 2022.md"
+    },
+    {
+      "basename": "Impostors - Susan David on Emotional Agility",
+      "path": "wiki/sources/Impostors - Susan David on Emotional Agility.md"
+    },
+    {
+      "basename": "IEEE Spectrum SiC vs GaN 2024",
+      "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
+    },
+    {
       "basename": "Huberman Lab Essentials - Habit Formation and Breaking",
       "path": "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md"
+    },
+    {
+      "basename": "Edge LLM Inference Benchmark 2026",
+      "path": "wiki/sources/Edge LLM Inference Benchmark 2026.md"
+    },
+    {
+      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
+      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
     },
     {
       "basename": "Jensen Huang",
@@ -47,10 +71,6 @@
     {
       "basename": "Research - Evolution of CPUs and GPUs",
       "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
-    },
-    {
-      "basename": "Research - WBG Semiconductors in EV Fast Charging",
-      "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
     },
     {
       "basename": "overview",
@@ -97,16 +117,8 @@
       "path": "wiki/concepts/Supplement Priority Stack for Young Males.md"
     },
     {
-      "basename": "IEEE Spectrum SiC vs GaN 2024",
-      "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
-    },
-    {
       "basename": "Theology",
       "path": "wiki/domains/Theology.md"
-    },
-    {
-      "basename": "Research - LLM Quantization and Edge Hardware",
-      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
     },
     {
       "basename": "llama.cpp",
@@ -187,18 +199,6 @@
     {
       "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
       "path": "Excalidraw/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.excalidraw"
-    },
-    {
-      "basename": "2026-04-17",
-      "path": "Daily News Debrief/2026-04-17.md"
-    },
-    {
-      "basename": "Cohort-Specific Values",
-      "path": "Misc terms and images/Cohort-Specific Values.md"
-    },
-    {
-      "basename": "2026-04-16",
-      "path": "Daily News Debrief/2026-04-16.md"
     }
   ],
   "omittedPaths": [],
