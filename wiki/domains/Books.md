@@ -81,3 +81,4 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step habit loop, Four Laws, compounding 1% gains; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging system, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
+- [[The Psychology of Money - Morgan Housel]] — Housel (2020); 20 chapters on behavioral finance; behavior > knowledge; compounding, freedom, enough, tail events; Joe reading since 3/1/2026
