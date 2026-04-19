@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] autoresearch | EE Physical Side Skills — Semiconductors and Power Electronics
+- Source: web research synthesis (semiconductor hiring trends, job postings, WBG device testing, learning paths)
+- Summary: [[Research - EE Physical Side Skills for Semiconductors and Power]]
+- Pages created: [[Research - EE Physical Side Skills for Semiconductors and Power]], [[EE Physical Side — Actionable Skill Plan]]
+- Pages updated: [[Wiki Index]], [[Hot Cache]], [[Wiki Log]]
+- Key insight: Device physics fluency + double pulse test bench experience + WBG PCB layout are the three hardest hiring filters. The 18-month plan moves through: foundations (Neamen + Erickson + LTspice) → core power design (magnetics + gate drivers + DPT) → WBG specialization (SiC/GaN app notes + >1kW project) → digital control (TI C2000 PI loop). SiC traction inverter and GaN OBC are the two highest-demand specialties in the 2025–2026 EV hiring market. 70,000 new semiconductor jobs projected by 2026.
+
 ## [2026-04-19] autoresearch | Complete Biohacking Guide — Tier Lists, Supplements, Biomarkers
 - Source: web research synthesis (outliyr.com, onedaymd.com, functionhealth.com, medichecks.com, NIH ODS)
 - Summary: [[Research - Complete Biohacking Guide]]
