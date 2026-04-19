@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "EE Freshman Action Plans",
+      "path": "wiki/concepts/EE Freshman Action Plans.md"
+    },
+    {
+      "basename": "EE Physical Side — Actionable Skill Plan",
+      "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
+    },
+    {
+      "basename": "EE Freshman Self-Study Stack",
+      "path": "wiki/concepts/EE Freshman Self-Study Stack.md"
+    },
+    {
+      "basename": "ASU EE Year 1-2 Curriculum Map",
+      "path": "wiki/concepts/ASU EE Year 1-2 Curriculum Map.md"
+    },
+    {
       "basename": "Research - First-Year ASU EE Skills",
       "path": "wiki/questions/Research - First-Year ASU EE Skills.md"
     },
     {
       "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
       "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
-    },
-    {
-      "basename": "EE Physical Side — Actionable Skill Plan",
-      "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
     },
     {
       "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
@@ -187,18 +199,6 @@
     {
       "basename": "hot",
       "path": "wiki/hot.md"
-    },
-    {
-      "basename": "Andrew Huberman",
-      "path": "wiki/entities/Andrew Huberman.md"
-    },
-    {
-      "basename": "_index",
-      "path": "wiki/papers/_index.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     }
   ],
   "omittedPaths": [],
