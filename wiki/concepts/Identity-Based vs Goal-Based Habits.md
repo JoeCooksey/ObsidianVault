@@ -48,3 +48,15 @@ Many effective habit systems blend both: set specific goal-based metrics (4 sess
 ## Relationship to Linchpin Habits
 
 [[Linchpin Habits]] tend to be identity-based — they are deeply tied to who the person sees themselves as, which is part of what makes them so robust and effective as force multipliers.
+
+## Connection to Atomic Habits (James Clear)
+
+[[James Clear]] builds identity-based habits into the center of his framework in *Atomic Habits* (Ch2). His formulation:
+- The Three Layers of Behavior Change: Outcomes → Process → **Identity**
+- Work from the inside out: *become* the person who does the habit, rather than chasing the outcome
+- "Every action you take is a vote for the type of person you wish to become."
+- Each execution of the [[Two-Minute Rule]] is a vote cast for identity, even if the behavior is tiny
+
+Clear's framework deepens the Huberman distinction: while Huberman frames identity-based habits as more resilient, Clear gives the mechanism — each repetition is evidence accumulation for the self-concept. The habit is not just linked to identity; it *creates* identity.
+
+See: [[Atomic Habits - James Clear]], [[James Clear]]
