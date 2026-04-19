@@ -68,3 +68,9 @@ When you notice yourself doing any of the following, it is a signal to apply gen
 - Feeling embarrassed or ashamed *about* an emotion before you've even experienced it
 
 The practice: pause, name what you're actually feeling, and simply say to yourself — *this is real, and it's okay that it's real.*
+
+## Cross-Source Convergence
+
+Mark Manson's [[Backwards Law]] arrives at the same conclusion from philosophy rather than psychology: the more you fight a negative experience, the worse it becomes. Accepting a negative experience is itself a positive experience. Gentle acceptance is the clinical operationalization of this principle — both frameworks point to the same mechanism, from different traditions.
+
+See [[The Subtle Art of Not Giving a Fck - Mark Manson]] for the philosophical framing.
