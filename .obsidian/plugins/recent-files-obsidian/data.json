@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Research - Cycling Training Periodization and Annual Plan",
-      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
-    },
-    {
       "basename": "main",
       "path": "wiki/canvases/main.canvas"
+    },
+    {
+      "basename": "Research - Evolution of CPUs and GPUs",
+      "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
+    },
+    {
+      "basename": "GPU Architecture Evolution",
+      "path": "wiki/concepts/GPU Architecture Evolution.md"
+    },
+    {
+      "basename": "2026-04-18",
+      "path": "Journal/Daily/2026-04-18.md"
+    },
+    {
+      "basename": "Research - Cycling Training Periodization and Annual Plan",
+      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
     },
     {
       "basename": "GPU vs TPU Trade-offs",
@@ -79,10 +91,6 @@
     {
       "basename": "dashboard",
       "path": "wiki/meta/dashboard.md"
-    },
-    {
-      "basename": "Research - Evolution of CPUs and GPUs",
-      "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
     },
     {
       "basename": "overview",
@@ -186,19 +194,11 @@
     },
     {
       "basename": "2026-04-18",
-      "path": "Journal/Daily/2026-04-18.md"
-    },
-    {
-      "basename": "2026-04-18",
       "path": "Daily News Debrief/2026-04-18.md"
     },
     {
       "basename": "2026-04-17",
       "path": "Journal/Daily/2026-04-17.md"
-    },
-    {
-      "basename": "The Laws Of Human Nature",
-      "path": "Excalidraw/The Laws Of Human Nature.md"
     }
   ],
   "omittedPaths": [],
