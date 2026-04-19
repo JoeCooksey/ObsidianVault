@@ -15,6 +15,7 @@ People, organizations, products, and repositories mentioned across sources.
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility*; Institute of Coaching co-founder
 - [[Keith Ferrazzi]] — author of *Never Eat Alone* (2014); generosity-first networking; Relationship Action Plan; Pinging System
+- [[Robert Greene]] — author; *The Laws of Human Nature* (2018), *48 Laws of Power* (1998); strategy and human behavior
 
 ## Organizations
 - [[Intel]] — invented x86 ISA; CPU manufacturer; founded 1968
