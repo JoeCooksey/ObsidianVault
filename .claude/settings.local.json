@@ -32,7 +32,9 @@
       "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
       "WebFetch(domain:blog.siggraph.org)",
       "WebFetch(domain:wccftech.com)",
-      "WebFetch(domain:www.supermicro.com)"
+      "WebFetch(domain:www.supermicro.com)",
+      "WebFetch(domain:degrees.apps.asu.edu)",
+      "WebFetch(domain:blogs.sw.siemens.com)"
     ]
   },
   "enabledPlugins": {}
