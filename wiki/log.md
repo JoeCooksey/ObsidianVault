@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] ingest | Dwarkesh Patel × Jensen Huang — Nvidia Strategy Interview (2025)
+- Source: `.raw/transcripts/Darkesh_Jensen.txt`
+- Summary: [[Darkesh-Patel-Jensen-Huang-Nvidia-2025]]
+- Pages created: [[Jensen Huang]], [[Dwarkesh Patel]], [[AI Five-Layer Cake]], [[CUDA Ecosystem Flywheel]], [[GPU vs TPU Trade-offs]], [[Accelerated Computing]]
+- Pages updated: [[NVIDIA]], [[CUDA Programming Model]], [[Wiki Index]], [[Hot Cache]]
+- Key insight: Jensen's framework — AI is a 5-layer cake (energy→chips→platform→models→apps); CUDA moat is a self-reinforcing flywheel of install base + programmability + ecosystem richness; Hopper→Blackwell 50× improvement came primarily from architecture/algorithms (not transistors), proving programmability > specialization. Energy (not chips) is the real multi-year bottleneck.
+
+---
+
 ## [2026-04-18] research | Cycling Training Periodization and Annual Plan
 - Query: Research on training cycling phases (strength winter / VO2 max summer) + 6-day/week training plan
 - Pages created: [[Training Periodization]], [[Polarized Training]], [[VO2 Max Interval Training]], [[Strength Training for Cyclists]], [[Research - Cycling Training Periodization and Annual Plan]]
