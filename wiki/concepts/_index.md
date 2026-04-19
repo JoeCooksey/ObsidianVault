@@ -33,6 +33,14 @@ Ideas, patterns, frameworks, and mental models extracted from sources.
 - [[Goldilocks Rule]] — peak motivation at the edge of ability; boredom (not failure) is habits' main enemy
 - [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; automation
 
+### Networking / Relationships (Ferrazzi)
+- [[Generosity-First Networking]] — give before you need; don't keep score; network as lifestyle, not transaction
+- [[Relationship Action Plan]] — 3yr→1yr→90day goals mapped to people needed; build before you need it
+- [[Pinging System]] — lightweight ongoing contact; frequency beats intensity; birthday effect
+- [[Follow-Up Formula]] — follow up within 24h; reference specific detail; give something first
+- [[Super Connectors]] — high-density network nodes; one super connector relationship > 20 weak connections
+- [[Health Wealth Family Framework]] — help someone with these three domains = deepest possible bond
+
 ### Psychology / Emotional Intelligence
 - [[Emotional Agility]] — Susan David's framework; compassionate+curious+courageous relationship with inner life
 - [[Emotional Rigidity]] — fusion with thoughts/emotions/stories; drives behavior away from values
