@@ -47,6 +47,12 @@ Ideas, patterns, frameworks, and mental models extracted from sources.
 - [[Habit Breaking via Replacement Behavior]] — insert positive behavior immediately post-bad-habit to remap neural circuits
 - [[Procedural Memory Visualization]] — mentally stepping through habit sequence lowers execution threshold
 
+### Health / Fitness
+- [[Training Periodization]] — macrocycle/mesocycle/microcycle structure; 5-phase annual cycling arc
+- [[Polarized Training]] — Seiler's 80/20 model; 80% Zone 1, 20% Zone 3, avoid Zone 2 grey zone
+- [[VO2 Max Interval Training]] — 2–4 min intervals at 106–120% FTP; concentrated 2–3 week blocks
+- [[Strength Training for Cyclists]] — 4-phase off-season gym arc: Adaptation → Hypertrophy → Strength → Power
+
 ### Theology
 *(populated as sources are ingested)*
 
