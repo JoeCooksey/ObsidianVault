@@ -46,6 +46,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
 - [[EE Freshman Self-Study Stack]] — Tier 1–3 self-study tools: LTspice, Python, breadboard, Git, MATLAB, Arduino, KiCad (developing)
 - [[EE Freshman Portfolio Strategy]] — GitHub portfolio approach, project tiers by year, ASU clubs (FURI, Solar Car, IEEE) (developing)
+- [[EE Freshman Action Plans]] — 6 ordered action plans: math mastery, LTspice, Python, breadboard, Git, Arduino; 6-month timeline (developing)
 - [[Wide Bandgap Semiconductors]] — SiC vs GaN vs Ga₂O₃ material comparison (developing)
 - [[Silicon Carbide Power Electronics]] — traction inverters, DCFC, OBC; 800V systems (developing)
 - [[Gallium Nitride Power Electronics]] — OBC focus; 1200V roadmap; V2G enabler (developing)
