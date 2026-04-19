@@ -14,6 +14,7 @@ People, organizations, products, and repositories mentioned across sources.
 - [[James Clear]] — author of *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility*; Institute of Coaching co-founder
+- [[Keith Ferrazzi]] — author of *Never Eat Alone* (2014); generosity-first networking; Relationship Action Plan; Pinging System
 
 ## Organizations
 - [[Intel]] — invented x86 ISA; CPU manufacturer; founded 1968
