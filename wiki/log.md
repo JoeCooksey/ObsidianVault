@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-18] research | Cycling Training Periodization and Annual Plan
+- Query: Research on training cycling phases (strength winter / VO2 max summer) + 6-day/week training plan
+- Pages created: [[Training Periodization]], [[Polarized Training]], [[VO2 Max Interval Training]], [[Strength Training for Cyclists]], [[Research - Cycling Training Periodization and Annual Plan]]
+- Pages updated: [[Wiki Index]], [[Hot Cache]], concepts/_index.md
+- Key insight: Strength in winter (4-phase gym arc: Adaptation→Hypertrophy→Strength→Power) followed by VO2 max blocks in spring (2×/week, 2–3 week concentrated blocks) is well-validated. Polarized intensity distribution (80/20) outperforms threshold-heavy training. Short intervals (2–4 min) maximize time above 90% VO2 max more effectively than long efforts.
+
+---
+
 ## [2026-04-18] ingest | Impostors - Susan David on Emotional Agility
 - Source: `.raw/transcripts/A Harvard Psychologist Teaches Us How to Increase Our Emotional Intelligence.txt`
 - Summary: [[Impostors - Susan David on Emotional Agility]]
