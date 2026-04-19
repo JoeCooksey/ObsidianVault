@@ -17,6 +17,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
