@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "EE Physical Side — Actionable Skill Plan",
+      "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
+    },
+    {
+      "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
+      "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
+    },
+    {
+      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
+      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
+    },
+    {
+      "basename": "Research - LLM Quantization and Edge Hardware",
+      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
+    },
+    {
       "basename": "Research - WBG Semiconductors in EV Fast Charging",
       "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
     },
@@ -33,10 +49,6 @@
       "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
     },
     {
-      "basename": "Research - LLM Quantization and Edge Hardware",
-      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
-    },
-    {
       "basename": "Huberman Lab Essentials - Habit Formation and Breaking",
       "path": "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "Research - Evolution of CPUs and GPUs",
       "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
-    },
-    {
-      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
-      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
     },
     {
       "basename": "Biohacking Tier List",
@@ -191,14 +199,6 @@
     {
       "basename": "log",
       "path": "wiki/log.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "_templates/Concept.md"
     }
   ],
   "omittedPaths": [],
