@@ -45,11 +45,14 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - EE Physical Side Skills for Semiconductors and Power]], [[EE Physical Side — Actionable Skill Plan]]
 - Created: [[Biohacking Tier List]], [[Supplement Tier List Complete]], [[Health Biomarkers Complete Panel]], [[Biohacking Daily Health Hacks]]
 - Created: [[Research - Complete Biohacking Guide]]
 - Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
 
 ## Active Threads
+- **EE Career**: Joe is a 19yo EE student — physical side skill plan (WBG power electronics) is directly applicable to internship and capstone targeting
+- **WBG × EV**: SiC traction inverter and GaN OBC are highest-demand 2025–2026; existing wiki content on WBG/800V/EV charging topology is directly relevant to career plan
 - **Biohacking × Cycling**: VO2 max training is S-tier intervention; sauna post-workout relevant to Joe's 6-day/week schedule
 - **Supplement × EE student**: Caffeine+L-theanine + creatine + bacopa stack is the core exam-period protocol
 - **Biomarkers → action**: Joe should get baseline bloodwork (D3, ferritin, testosterone, HbA1c, fasting insulin, ApoB) as a young male
