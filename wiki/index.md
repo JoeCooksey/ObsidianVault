@@ -136,6 +136,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
 ## Questions / Synthesis
+- [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
