@@ -101,6 +101,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Biohacking / Optimization
+- [[Biohacking Tier List]] — S–D ranking across 10 categories: sleep, exercise, temperature, light, fasting, stress, wearables, cognitive, longevity, gut (developing)
+- [[Supplement Tier List Complete]] — every supplement ranked across 15 categories with doses (developing)
+- [[Health Biomarkers Complete Panel]] — all blood test biomarkers with optimal longevity ranges and testing cadence (developing)
+- [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
+
 ## Sources
 
 ### Books
