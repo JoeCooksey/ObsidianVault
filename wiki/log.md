@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] action-plans | EE Freshman Action Plans — 6 Skill Plans + 6-Month Timeline
+- Summary: [[EE Freshman Action Plans]]
+- Pages created: [[EE Freshman Action Plans]]
+- Pages updated: [[Wiki Index]], [[Wiki Log]]
+- Key insight: 6 ordered action plans for math mastery, LTspice, Python, breadboard/multimeter, Git/GitHub, and Arduino. 6-month combined timeline with milestones and ~5–6h/week investment.
+
 ## [2026-04-19] autoresearch | First-Year ASU EE Skills — Freshman Skill-Building Plan
 - Source: web research synthesis (ASU curriculum, hiring surveys, Siemens academic report, BLS data, Handshake internship data)
 - Summary: [[Research - First-Year ASU EE Skills]]
