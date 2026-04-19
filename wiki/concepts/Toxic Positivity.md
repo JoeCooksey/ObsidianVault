@@ -17,6 +17,7 @@ related:
   - "[[Susan David]]"
 sources:
   - "[[Impostors - Susan David on Emotional Agility]]"
+  - "[[The Subtle Art of Not Giving a Fck - Mark Manson]]"
 ---
 
 # Toxic Positivity
