@@ -103,6 +103,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Books
+- [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts; human relations, influence, leadership
+
 ### Computer Architecture
 - [[SIGGRAPH - Eras of GPU Development 2025]] — ACM SIGGRAPH Blog, April 2025; authoritative GPU era framework
 - [[Darkesh-Patel-Jensen-Huang-Nvidia-2025]] — Jensen Huang interview; CUDA moat, TPU vs GPU, supply chain, China export controls
