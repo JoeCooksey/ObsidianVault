@@ -11,6 +11,7 @@ People, organizations, products, and repositories mentioned across sources.
 
 ## People
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab podcast; coined Limbic Friction
+- [[James Clear]] — author of *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility*; Institute of Coaching co-founder
 
