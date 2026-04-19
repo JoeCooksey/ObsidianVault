@@ -61,3 +61,7 @@ The popular framework — "negative emotions are bad, positive emotions are good
 Not pessimism. Not wallowing. But **[[Gentle Acceptance]]** — acknowledging what you feel without judgment — followed by [[Emotion Granularity]] and [[Defusion Language]] to move through the emotion toward values-connected action.
 
 The goal is not to feel good. It is to feel *accurately* — and then act wisely.
+
+## Cross-Source Convergence
+
+Mark Manson's [[Backwards Law]] (from [[The Subtle Art of Not Giving a Fck - Mark Manson]]) attacks toxic positivity from a philosophical direction rather than a clinical one. His argument: the pursuit of positive experience is itself a negative experience. Manson directly mocks the self-help genre's "always be positive" culture as the primary mechanism keeping people stuck. David and Manson reach the same diagnosis — forced positivity destroys resilience and blocks genuine processing — from psychology and philosophy respectively.
