@@ -41,6 +41,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### Math and Physics Foundations for EE
+- [[Calculus in Electrical Engineering]] — Calc 1-3 mapped to EE: derivatives for V-I relations, integrals for energy/RMS/Fourier, vector calc for Maxwell (developing)
+- [[Differential Equations in Electrical Engineering]] — RC/RL/RLC ODEs, Laplace/transfer functions, control systems, wave equation (developing)
+- [[Classical Mechanics in Electrical Engineering]] — mechanical-electrical analogy, motor/generator dynamics, MEMS, vibration-to-resonance (developing)
+- [[Electromagnetism Foundations for EE]] — Gauss/Faraday/Ampere/Lorentz mapped to components, transformers, motors, antennas (developing)
+
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
