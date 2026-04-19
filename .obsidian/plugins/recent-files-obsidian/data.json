@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Cycling Training Periodization and Annual Plan",
+      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
+    },
+    {
       "basename": "main",
       "path": "wiki/canvases/main.canvas"
+    },
+    {
+      "basename": "GPU vs TPU Trade-offs",
+      "path": "wiki/concepts/GPU vs TPU Trade-offs.md"
+    },
+    {
+      "basename": "CUDA Ecosystem Flywheel",
+      "path": "wiki/concepts/CUDA Ecosystem Flywheel.md"
     },
     {
       "basename": "Research - LLM Quantization and Edge Hardware",
@@ -51,10 +63,6 @@
     {
       "basename": "Research",
       "path": "wiki/domains/Research.md"
-    },
-    {
-      "basename": "Research - Cycling Training Periodization and Annual Plan",
-      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
     },
     {
       "basename": "Lion's Mane Mushroom",
@@ -191,14 +199,6 @@
     {
       "basename": "The Laws Of Human Nature",
       "path": "Excalidraw/The Laws Of Human Nature.md"
-    },
-    {
-      "basename": "The Laws of Human Nature - Robert Greene",
-      "path": "Books/The Laws of Human Nature - Robert Greene.md"
-    },
-    {
-      "basename": "The Psychology of Money - Morgan Housel",
-      "path": "Excalidraw/The Psychology of Money - Morgan Housel.excalidraw"
     }
   ],
   "omittedPaths": [],
