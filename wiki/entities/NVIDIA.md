@@ -14,8 +14,13 @@ related:
   - "[[GPU Architecture Evolution]]"
   - "[[CUDA Programming Model]]"
   - "[[GPU Interconnects]]"
+  - "[[CUDA Ecosystem Flywheel]]"
+  - "[[AI Five-Layer Cake]]"
+  - "[[Accelerated Computing]]"
+  - "[[Jensen Huang]]"
 sources:
   - "[[SIGGRAPH - Eras of GPU Development 2025]]"
+  - "[[Darkesh-Patel-Jensen-Huang-Nvidia-2025]]"
 ---
 
 # NVIDIA
