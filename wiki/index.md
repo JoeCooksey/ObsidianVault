@@ -91,11 +91,21 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Neuroplasticity and Habit Formation]] — habits as neural circuits; hippocampus → basal ganglia migration (developing)
 - [[Habit Strength]] — context independence × limbic friction axes (developing)
 - [[Linchpin Habits]] — force-multiplier habits; always enjoyable (developing)
-- [[Identity-Based vs Goal-Based Habits]] — self-concept frame vs. per-execution checkbox (developing)
+- [[Identity-Based vs Goal-Based Habits]] — self-concept frame vs. per-execution checkbox; Clear adds evidence-accumulation mechanism (developing)
 - [[Three-Phase Day Framework]] — circadian neurochemical windows for habit placement (developing)
 - [[21-Day Habit Formation System]] — 6 habits/day, 4–5 expected, assess automaticity (developing)
 - [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
 - [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
+
+### Habits / Behavior Design (Atomic Habits)
+- [[Habit Loop]] — Clear's 4-step Cue→Craving→Response→Reward; extends Duhigg by adding Craving stage (developing)
+- [[Four Laws of Behavior Change]] — Make it Obvious / Attractive / Easy / Satisfying; design framework mapped to Habit Loop (developing)
+- [[Implementation Intention]] — "I will [Behavior] at [Time] in [Location]"; 2–3× follow-through improvement (developing)
+- [[Habit Stacking]] — "After [Habit A] I will [Habit B]"; borrows existing neural trigger for new habit (developing)
+- [[Two-Minute Rule]] — scale any new habit to <2 min entry point; master showing up first (developing)
+- [[Temptation Bundling]] — pair WANT + NEED; anticipatory dopamine makes necessary habits attractive (developing)
+- [[Goldilocks Rule]] — peak motivation at edge of current ability; boredom (not failure) is primary long-run enemy (developing)
+- [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; one-time actions; automation (developing)
 
 ### Health / Fitness / Cycling
 - [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
