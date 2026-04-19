@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] ingest | How to Win Friends and Influence People — Dale Carnegie (1936)
+- Source: book
+- Summary: [[How To Win Friends and Influence People - Dale Carnegie]]
+- Pages created: [[Dale Carnegie]]
+- Pages updated: [[Books]] (domain), [[Wiki Index]]
+- Key insight: Carnegie's 30 principles distill to one root insight — most influence failures come from ignoring the other person's need to feel important and understood. His empirical methods anticipate operant reinforcement (Skinner), identity-consistency (Festinger), and perspective-taking (social cognition research) by decades.
+
+---
+
 ## [2026-04-18] ingest | Dwarkesh Patel × Jensen Huang — Nvidia Strategy Interview (2025)
 - Source: `.raw/transcripts/Darkesh_Jensen.txt`
 - Summary: [[Darkesh-Patel-Jensen-Huang-Nvidia-2025]]
