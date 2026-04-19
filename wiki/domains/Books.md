@@ -41,9 +41,18 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - Operant reinforcement — praise every improvement immediately; the signal must reach the person in the moment
 - Identity lever — treat people as who they could be and they rise to it; give a reputation to live up to
 
+### From Never Eat Alone (Ferrazzi)
+- [[Generosity-First Networking]] — the currency of real networking is not greed but generosity; give before you need
+- [[Relationship Action Plan]] — 3yr→1yr→90day goals mapped to the people you need to know; build before you need it
+- [[Pinging System]] — lightweight ongoing contact maintains relationships; frequency beats intensity; birthday effect
+- [[Follow-Up Formula]] — follow up within 24h; reference a specific conversation detail; give something first
+- [[Super Connectors]] — people who connect everyone else; one relationship with a super connector > 20 weak ones
+- [[Health Wealth Family Framework]] — help someone with health, wealth, or their children = unbreakable bond
+
 ## Key Entities
 - [[James Clear]] — *Atomic Habits* (2018); 37.78× compounding model; Four Laws of Behavior Change; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer
+- [[Keith Ferrazzi]] — *Never Eat Alone* (2005/2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
 
 ## Cross-Domain Connections
 
