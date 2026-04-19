@@ -23,7 +23,15 @@ Ideas, patterns, frameworks, and mental models extracted from sources.
 ### Mathematics
 *(populated as sources are ingested)*
 
-### Books / Ideas
+### Books / Ideas — Robert Greene (*The Laws of Human Nature*, 2018)
+- [[Irrationality and Emotion Management]] — Three-step process: ask why, 30-day test, journal; subtract emotion before deciding; Pericles example
+- [[Narcissism Types]] — four types: Deep, Leader, Functional, Healthy; identification and response strategies
+- [[Shadow Self]] — Jungian Shadow in Greene's lens; Four Steps: confront, accept, integrate, channel; Nixon example
+- [[Life's Task]] — purpose from Primal Inclinations; False Purposes to avoid; Goal Ladders; force multiplier effect; MLK example
+- [[Emotional Contagion]] — emotions spread in groups via Social Personality activation; Downward Pull; Mental Detachment as defense
+- [[Memento Mori Practice]] — mortality awareness as decision filter; Death Anxiety drives accumulation; Authentic Living
+
+### Books / Ideas — Atomic Habits (Clear), Never Eat Alone (Ferrazzi)
 - [[Habit Loop]] — Clear's 4-step Cue→Craving→Response→Reward cycle; extends Duhigg's 3-step model
 - [[Four Laws of Behavior Change]] — Make it Obvious / Attractive / Easy / Satisfying; maps to Habit Loop stages
 - [[Implementation Intention]] — "I will [Behavior] at [Time] in [Location]"; closes the intention-action gap
