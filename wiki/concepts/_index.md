@@ -24,7 +24,14 @@ Ideas, patterns, frameworks, and mental models extracted from sources.
 *(populated as sources are ingested)*
 
 ### Books / Ideas
-*(populated as sources are ingested)*
+- [[Habit Loop]] — Clear's 4-step Cue→Craving→Response→Reward cycle; extends Duhigg's 3-step model
+- [[Four Laws of Behavior Change]] — Make it Obvious / Attractive / Easy / Satisfying; maps to Habit Loop stages
+- [[Implementation Intention]] — "I will [Behavior] at [Time] in [Location]"; closes the intention-action gap
+- [[Habit Stacking]] — "After [Habit A] I will [Habit B]"; borrows existing neural trigger for new habit
+- [[Two-Minute Rule]] — scale any new habit to <2 min entry; master showing up before mastering performance
+- [[Temptation Bundling]] — pair WANT + NEED; dopamine anticipation bleeds into necessary habit
+- [[Goldilocks Rule]] — peak motivation at the edge of ability; boredom (not failure) is habits' main enemy
+- [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; automation
 
 ### Psychology / Emotional Intelligence
 - [[Emotional Agility]] — Susan David's framework; compassionate+curious+courageous relationship with inner life
