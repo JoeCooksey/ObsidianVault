@@ -140,6 +140,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
 ## Questions / Synthesis
+- [[Research - First-Year ASU EE Skills]] — 8 key findings; ASU curriculum map, freshman self-study stack, portfolio strategy, hiring survey data (developing)
 - [[Research - EE Physical Side Skills for Semiconductors and Power]] — 8 key findings; hiring signals, 18-month actionable plan, WBG career context (developing)
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
