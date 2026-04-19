@@ -8,11 +8,23 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-19 — Autoresearch: EE Physical Side Skills — Semiconductors and Power
+2026-04-19 — Autoresearch: First-Year ASU EE Skills
 
 ## Key Recent Facts
 
-### EE Physical Side — Hiring & Skills (newest — autoresearch)
+### First-Year ASU EE Skills (newest — autoresearch)
+- **ASU Year 1 has zero EE courses** — it's all math (MAT 265/266/267) + physics (PHY 121/122); first EE course (EEE 120 Digital Design) doesn't hit until Term 3A (Year 2)
+- **The leverage move**: self-teach LTspice + Python + Git + breadboarding in Year 1 before EEE 202 Circuits I (Term 4A) — this separates "thriving" from "surviving" students
+- **LTspice is free and used in EEE 202** — 10 hours of self-study before Circuits I = massive advantage; build RC, RL, RLC circuits
+- **Python before MATLAB**: Python is the practical scripting language; MATLAB is the academic/signals standard (also used in EEE 202); learn both, Python first
+- **Breadboard + multimeter = $50** — buy now; build 5 circuits (LED → voltage divider → RC filter → transistor switch → op-amp buffer) before any EE coursework
+- **Git/GitHub portfolio in Year 1** beats sophomore-level candidates for early internships; post even small Arduino/Python projects
+- **Siemens hiring survey**: communication + collaboration ranked #1 and #2 skills for early-career EE hires — above all technical tools
+- **ASU resources**: FURI (apply sophomore year), Solar Car Team (open to freshmen), IEEE ASU Branch, ASU Makerspace
+- **7 hottest hiring skills (2026)**: electrical wiring, electrical design, control systems (+69% YoY), troubleshooting (+38%), systems design, CAD tools, communication
+- **Joe context**: Year 1 = the math window; build LTspice + Python + breadboard now; GitHub portfolio before first internship app season (summer after freshman year)
+
+### EE Physical Side — Hiring & Skills (previous — autoresearch)
 - **Three hardest hiring filters**: (1) device physics fluency — can you derive switching loss? (2) double pulse test experience — can you set one up and interpret Eon/Eoff? (3) WBG PCB layout — power loop inductance, Kelvin gate, commutation loop minimization
 - **18-month skill plan**: Foundations (Neamen + Erickson + LTspice) → Core power design (magnetics + gate drivers) → WBG specialization (SiC/GaN app notes + >1kW project) → Advanced (TI C2000 digital control + EMC + thermal sim)
 - **Hottest EE specialties 2025–2026**: SiC traction inverter engineers (Wolfspeed, Onsemi, STMicro) and GaN OBC engineers (Navitas, EPC, GaN Systems) — $112k–$230k salary range
