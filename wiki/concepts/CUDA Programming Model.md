@@ -14,7 +14,10 @@ related:
   - "[[Heterogeneous Computing]]"
   - "[[GPU Interconnects]]"
   - "[[NVIDIA]]"
-sources: []
+  - "[[CUDA Ecosystem Flywheel]]"
+  - "[[GPU vs TPU Trade-offs]]"
+sources:
+  - "[[Darkesh-Patel-Jensen-Huang-Nvidia-2025]]"
 ---
 
 # CUDA Programming Model
