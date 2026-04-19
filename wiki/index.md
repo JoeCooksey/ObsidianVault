@@ -130,11 +130,20 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Health Biomarkers Complete Panel]] — all blood test biomarkers with optimal longevity ranges and testing cadence (developing)
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 
+### Networking / Relationships
+- [[Generosity-First Networking]] — give before you need; don't keep score; network as lifestyle, not transaction (developing)
+- [[Relationship Action Plan]] — 3yr→1yr→90day goals mapped to people needed; build before you need it (developing)
+- [[Pinging System]] — lightweight ongoing contact; frequency beats intensity; birthday effect (developing)
+- [[Follow-Up Formula]] — follow up within 24h; reference specific detail; give something first (developing)
+- [[Super Connectors]] — high-density network nodes; one super connector > 20 weak connections (developing)
+- [[Health Wealth Family Framework]] — help someone with these three domains = deepest possible bond (developing)
+
 ## Sources
 
 ### Books
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts; human relations, influence, leadership
+- [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
 
 ### Computer Architecture
 - [[SIGGRAPH - Eras of GPU Development 2025]] — ACM SIGGRAPH Blog, April 2025; authoritative GPU era framework
