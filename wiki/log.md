@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-20] autoresearch | First Job Roadmap — ASU Freshman in Livermore, CA
+- Created: [[Research - First Job Roadmap Livermore CA]], [[First Job Roadmap — Livermore Tri-Valley]], [[Lawrence Livermore National Laboratory]]
+- Covers: Tri-Valley employer map (LLNL, Sandia, Lam Research, 10X Genomics, Chevron), LLNL/Sandia internship application timelines (apply Oct–Jan for summer), ASU career resources (Handshake, Global Virtual Internship, Forage), Phase 0–3 roadmap, LinkedIn + GitHub strategy for no-experience freshman
+- Key finding: LLNL and Sandia NL are literally in Livermore — highest-leverage employers; 2026 cycle closed, target 2027 by applying Oct 2026; immediate action = local part-time job + LinkedIn + GitHub + Forage simulation
+- Added to index under Career / Job Search + Entities
+
 ## [2026-04-19] autoresearch | Health Protocol Tier List — Evidence-Based Prescriptions
 - Created: [[Health Protocol Tier List]]
 - Covers: S–D tier ranking of 28 health protocols with specific prescriptions (temperature, duration, frequency, timing); sauna, cold immersion, Zone 2, VO2 max intervals, strength training, sleep, TRE, red light, breathwork, meditation, and more
