@@ -129,6 +129,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Supplement Tier List Complete]] — every supplement ranked across 15 categories with doses (developing)
 - [[Health Biomarkers Complete Panel]] — all blood test biomarkers with optimal longevity ranges and testing cadence (developing)
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
+- [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
 ### Networking / Relationships
 - [[Generosity-First Networking]] — give before you need; don't keep score; network as lifestyle, not transaction (developing)
