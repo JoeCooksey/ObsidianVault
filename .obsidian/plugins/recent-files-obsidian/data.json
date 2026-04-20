@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Biohacking Health Products Protocol",
-      "path": "wiki/concepts/Biohacking Health Products Protocol.md"
+      "basename": "Health Protocol Tier List",
+      "path": "wiki/concepts/Health Protocol Tier List.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
     },
     {
       "basename": "Research - Complete Biohacking Guide",
@@ -11,6 +15,10 @@
     {
       "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
       "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
+    },
+    {
+      "basename": "Biohacking Health Products Protocol",
+      "path": "wiki/concepts/Biohacking Health Products Protocol.md"
     },
     {
       "basename": "Research - First-Year ASU EE Skills",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-18",
       "path": "Journal/Daily/2026-04-18.md"
-    },
-    {
-      "basename": "Research - Cycling Training Periodization and Annual Plan",
-      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
-    },
-    {
-      "basename": "GPU vs TPU Trade-offs",
-      "path": "wiki/concepts/GPU vs TPU Trade-offs.md"
     }
   ],
   "omittedPaths": [],
