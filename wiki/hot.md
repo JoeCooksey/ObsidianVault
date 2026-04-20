@@ -8,11 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-20 — Autoresearch: First Job Roadmap — ASU Freshman in Livermore, CA
+2026-04-20 — Autoresearch: Social Confidence & Climbing the Social Ladder
 
 ## Key Recent Facts
 
-### First Job Roadmap — Livermore CA — newest autoresearch
+### Social Confidence & Social Ladder — newest autoresearch
+- **Gold standard**: CBT + graded exposure therapy → 80% of people with social anxiety respond; gains maintained years later
+- **The core tool — Fear Hierarchy (SUDS 0–100)**: Work bottom-up; don't advance until current step drops to ≤25. Start: eye contact+nod (SUDS 10) → smile at cashier (15) → ask stranger directions (35) → join group convo (55) → introduce yourself at party (65) → express opinion that might be disagreed with (75) → networking event alone (80)
+- **Cognitive restructuring**: Social anxiety is maintained by automatic negative thoughts. Challenge each ANT: what's the evidence? Frame situations as experiments, not performances.
+- **Three Staircase Levels**: Level 1 = micro-interactions with strangers → Level 2 = sustained conversations → Level 3 = high-stakes (groups, networking, status). Most anxious people skip to Level 3 and fail, confirming their fear.
+- **Key conversation techniques (Leil Lowndes)**: Flooding Smile (pause then smile slowly) + Sticky Eyes (hold eye contact past natural break) + Big-Baby Pivot (full body turn) + Open questions ("what/how/tell me more") + Mirroring + Limit Fidget
+- **Body language signals**: Slow movements = composure; 60–70% eye contact; downward inflection at end of sentences; stillness > fidgeting
+- **Climbing the social ladder**: Value (develop interesting skills/opinions/stories) + Visibility (show up consistently to right contexts) + Consistency (follow up = where the relationship is built). High-status people reached through warm introductions, not cold approach.
+- **Identity shift is the long game**: 90–180 days of consistent exposure → self-concept shifts from "I struggle socially" to "I connect easily." Each action is a vote for who you're becoming.
+- **12-week plan**: Week 1-3 = fear map + cognitive restructuring + mindfulness; Week 4-6 = micro-interactions (strangers, cashiers, 2-min convos); Week 7-9 = group entry, deep listening, expressing opinions; Week 10-12 = initiate plans, networking events, lead social contexts
+
+### First Job Roadmap — Livermore CA — previous autoresearch
 - **Joe's geographic advantage**: LLNL and Sandia National Lab are literally in Livermore — 5–10 min drive; highest-leverage employers on the planet for an EE student
 - **LLNL Engineering Summer Internship**: Applications open ~October each year; 2026 closed; **target 2027 — apply Oct 2026**; pay ~$25–35/hr undergrad
 - **Sandia DOE CCI Program**: Applications due ~Jan 7 each year; GPA ≥ 3.0 required; 10-week full-time paid summer
