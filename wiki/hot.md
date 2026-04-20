@@ -12,7 +12,19 @@ tags:
 
 ## Key Recent Facts
 
-### Atomic Habits (James Clear) — newest ingest
+### Biohacking Health Products Protocol — newest autoresearch
+- **Skincare non-negotiable**: SPF 50 daily (EltaMD UV Clear) + retinoid at night (start Differin, graduate to tretinoin); UV = 80% of visible facial aging
+- **AM routine**: Vitamin C serum (TruSkin or Timeless) → moisturizer (CeraVe) → SPF 50
+- **PM routine**: cleanser → niacinamide or copper peptides → retinoid → moisturizer; retinol PM only; don't mix with vitamin C
+- **Hair loss gold standard**: Finasteride 1 mg/day (oral) + Minoxidil 5% topical 2×/day + Nizoral 2% shampoo 3×/week; finasteride reduces scalp DHT by ~70%; stops loss in >80% of men
+- **Hair alternatives (OTC)**: Pumpkin seed oil 400 mg (40% hair count increase in RCT) + Saw Palmetto 320 mg + LLLT cap 3×/week
+- **Oral care hierarchy**: brush 2 min electric brush (Oral-B iO) + floss first + water flosser (Waterpik Aquarius) + tongue scraper; spit, do NOT rinse after brushing
+- **nHA toothpaste**: Boka or RiseWell — nano-hydroxyapatite remineralizes enamel comparably to fluoride; SLS-free; no microbiome disruption
+- **Avoid**: alcohol-based mouthwash daily (strips good bacteria); biotin mega-dosing (no benefit unless deficient); most DHT-blocking shampoos (Nizoral is the exception)
+- **Health supplement S-tier**: Creatine 5 g + D3+K2 + Magnesium Glycinate 300–400 mg PM + Omega-3 2–3 g EPA/DHA + Zinc 15–25 mg
+- **Collagen peptides A-tier**: 10–15 g/day; co-ingest vitamin C to double synthesis; proven skin elasticity, hair thickness improvement
+
+### Atomic Habits (James Clear) — previous ingest
 - **North Star quote**: "You do not rise to the level of your goals. You fall to the level of your systems."
 - **1% compounding**: 1.01^365 ≈ 37.78×; 0.99^365 ≈ 0.03. Tiny habits compound dramatically in both directions.
 - **Habit Loop**: Cue → Craving → Response → Reward. Craving is the key addition over Duhigg's 3-step model — dopamine fires on anticipation, not just reward.
