@@ -8,11 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-19 — Autoresearch: Biohacking Health Products Protocol (Skin, Hair, Oral, Body)
+2026-04-19 — Autoresearch: Health Protocol Tier List (Evidence-Based Prescriptions)
 
 ## Key Recent Facts
 
-### Biohacking Health Products Protocol — newest autoresearch
+### Health Protocol Tier List — newest autoresearch
+- **S-Tier non-negotiables**: Strength training 2–4×/week (−15–27% mortality), Zone 2 cardio 150+ min/week (VO2 max + mito), VO2 max intervals 4×4 min at 90–95% HR, Finnish sauna 80–100°C 20 min 4–7×/week (−40% CVD mortality), sleep 7–9h fixed wake, walking 7–10k steps/day (−50% mortality vs. <4k)
+- **Finnish sauna is the most evidence-dense passive protocol**: Laukkanen et al. n=2,315, 20-yr follow-up; dose-response linear; 4–7×/week → 63% ↓ sudden cardiac death
+- **Cold water immersion (A-tier)**: 10–15°C, 10–15 min; ↑ norepinephrine 200–300%; exercise recovery; DO NOT do within 4–6h of strength training (blunts mTOR)
+- **TRE 16:8 (A-tier)**: significant improvement in fasting glucose, HOMA-IR, HDL-C (2025 meta-analysis); benefit mostly in sedentary people; active athletes see less metabolic benefit
+- **Red light therapy (A-tier)**: 630–850 nm, 10–20 min/day; RCT-confirmed for hair loss, skin collagen, wound healing; 2025 consensus review by 20+ specialists
+- **Breathwork (B-tier)**: Cyclic sighing (double inhale + long exhale) beat meditation for acute anxiety in 2023 Stanford RCT; box breathing = acute stress regulation; free
+- **D-tier confirmed**: Detox cleanses, colonics, young plasma, GH anti-aging injections, ozone therapy — no mechanism or net harmful
+- **Joe protocol stack**: Fixed wake + 7-9h sleep → morning sunlight → Zone 2 (cycling) → strength 2–3×/week → sauna 3–4×/week post-workout → CWI post-endurance (not post-lift) → TRE 16:8
+
+### Biohacking Health Products Protocol — previous autoresearch
 - **Skincare non-negotiable**: SPF 50 daily (EltaMD UV Clear) + retinoid at night (start Differin, graduate to tretinoin); UV = 80% of visible facial aging
 - **AM routine**: Vitamin C serum (TruSkin or Timeless) → moisturizer (CeraVe) → SPF 50
 - **PM routine**: cleanser → niacinamide or copper peptides → retinoid → moisturizer; retinol PM only; don't mix with vitamin C
