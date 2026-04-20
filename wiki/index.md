@@ -133,6 +133,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
+### Career / Job Search
+- [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
+
 ### Networking / Relationships
 - [[Generosity-First Networking]] — give before you need; don't keep score; network as lifestyle, not transaction (developing)
 - [[Relationship Action Plan]] — 3yr→1yr→90day goals mapped to people needed; build before you need it (developing)
