@@ -8,9 +8,19 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-19 — Autoresearch: Health Protocol Tier List (Evidence-Based Prescriptions)
+2026-04-20 — Autoresearch: First Job Roadmap — ASU Freshman in Livermore, CA
 
 ## Key Recent Facts
+
+### First Job Roadmap — Livermore CA — newest autoresearch
+- **Joe's geographic advantage**: LLNL and Sandia National Lab are literally in Livermore — 5–10 min drive; highest-leverage employers on the planet for an EE student
+- **LLNL Engineering Summer Internship**: Applications open ~October each year; 2026 closed; **target 2027 — apply Oct 2026**; pay ~$25–35/hr undergrad
+- **Sandia DOE CCI Program**: Applications due ~Jan 7 each year; GPA ≥ 3.0 required; 10-week full-time paid summer
+- **Immediate actions (Phase 0)**: Get any local job this week (Tri-Valley Career Center) + LinkedIn (EE headline + Livermore location) + GitHub (3 repos, even tiny) + Forage simulation (free, goes on resume)
+- **ASU resources**: Handshake (30k+ postings) + Global Virtual Internship (remote credit, 13k companies) + free career services
+- **Other Tri-Valley targets**: Lam Research (Fremont, semiconductor equip), 10X Genomics (Pleasanton, biotech), Chevron (San Ramon), PG&E
+- **LinkedIn headline formula**: "EE Student @ ASU | Python + LTspice + Embedded Systems | Seeking 2027 Summer Internship"
+- **Roadmap phases**: Phase 0 (now) = local job + LinkedIn + GitHub + Forage → Phase 1 (summer 2026) = ASU virtual internship + personal project → Phase 2 (Oct 2026) = LLNL/Sandia apply → Phase 3 (2027) = first engineering internship
 
 ### Health Protocol Tier List — newest autoresearch
 - **S-Tier non-negotiables**: Strength training 2–4×/week (−15–27% mortality), Zone 2 cardio 150+ min/week (VO2 max + mito), VO2 max intervals 4×4 min at 90–95% HR, Finnish sauna 80–100°C 20 min 4–7×/week (−40% CVD mortality), sleep 7–9h fixed wake, walking 7–10k steps/day (−50% mortality vs. <4k)
