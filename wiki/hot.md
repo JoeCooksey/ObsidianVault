@@ -104,6 +104,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions (dose, temp, frequency, timing)
 - Created: [[Research - First-Year ASU EE Skills]], [[ASU EE Year 1-2 Curriculum Map]], [[EE Freshman Self-Study Stack]], [[EE Freshman Portfolio Strategy]]
 - Created: [[Research - EE Physical Side Skills for Semiconductors and Power]], [[EE Physical Side — Actionable Skill Plan]]
 - Created: [[Biohacking Health Products Protocol]] — skincare, haircare, oral care, supplements with full protocols
