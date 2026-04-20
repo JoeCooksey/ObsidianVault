@@ -34,7 +34,11 @@
       "WebFetch(domain:wccftech.com)",
       "WebFetch(domain:www.supermicro.com)",
       "WebFetch(domain:degrees.apps.asu.edu)",
-      "WebFetch(domain:blogs.sw.siemens.com)"
+      "WebFetch(domain:blogs.sw.siemens.com)",
+      "WebFetch(domain:www.fool.com)",
+      "WebFetch(domain:stockmarketwatch.com)",
+      "WebFetch(domain:finance.yahoo.com)",
+      "WebFetch(domain:finviz.com)"
     ]
   },
   "enabledPlugins": {}
