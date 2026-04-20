@@ -159,14 +159,14 @@ By now you have:
 
 ## Key Local Resources
 
-| Resource | What it is | Link |
-|----------|------------|------|
-| Tri-Valley Career Center | Job board + job fairs for Livermore area | trivalleycareercenter.org |
-| LLNL Careers | National lab internships, 5 min from Livermore | llnl.gov/join-our-team/careers |
-| Sandia Careers | Second national lab, also Livermore | sandia.gov/careers |
-| LLNL Open Campus | Public innovation hub — networking events, tours | sandia.gov/lvoc |
-| ASU Handshake | ASU's job/internship board (30k+ listings) | asu.joinhandshake.com |
-| Forage | Free virtual work simulations | theforage.com |
+| Resource                 | What it is                                       | Link                           |
+| ------------------------ | ------------------------------------------------ | ------------------------------ |
+| Tri-Valley Career Center | Job board + job fairs for Livermore area         | trivalleycareercenter.org      |
+| LLNL Careers             | National lab internships, 5 min from Livermore   | llnl.gov/join-our-team/careers |
+| Sandia Careers           | Second national lab, also Livermore              | sandia.gov/careers             |
+| LLNL Open Campus         | Public innovation hub — networking events, tours | sandia.gov/lvoc                |
+| ASU Handshake            | ASU's job/internship board (30k+ listings)       | asu.joinhandshake.com          |
+| Forage                   | Free virtual work simulations                    | theforage.com                  |
 
 ---
 
