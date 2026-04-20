@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] autoresearch | Biohacking Health Products Protocol — Skin, Hair, Oral, Body
+- Created: [[Biohacking Health Products Protocol]]
+- Covers: evidence-based supplements (S/A/B tiers), full skincare AM/PM protocol with specific brands, haircare with finasteride/minoxidil/ketoconazole protocol, oral care with nHA toothpaste and water flosser protocol
+- Added to index under Biohacking / Optimization
+
 ## [2026-04-19] ingest | Atomic Habits — James Clear (Books)
 - Source: `Books/Atomic Habits - James Clear.md`
 - Hash: `a721f6fee0fe6e3cf80b6f6daeb71477`
