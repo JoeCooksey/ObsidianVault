@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Laws of Human Nature - Robert Greene",
+      "path": "Books/The Laws of Human Nature - Robert Greene.md"
+    },
+    {
       "basename": "Biohacking Daily Health Hacks",
       "path": "wiki/concepts/Biohacking Daily Health Hacks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GPU Architecture Evolution",
       "path": "wiki/concepts/GPU Architecture Evolution.md"
-    },
-    {
-      "basename": "2026-04-18",
-      "path": "Journal/Daily/2026-04-18.md"
     }
   ],
   "omittedPaths": [],
