@@ -126,6 +126,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Biohacking / Optimization
 - [[Biohacking Tier List]] — S–D ranking across 10 categories: sleep, exercise, temperature, light, fasting, stress, wearables, cognitive, longevity, gut (developing)
+- [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions: dose, temp, frequency, timing; sauna, CWI, Zone 2, VO2 max, strength, sleep, TRE, red light, breathwork (developing)
 - [[Supplement Tier List Complete]] — every supplement ranked across 15 categories with doses (developing)
 - [[Health Biomarkers Complete Panel]] — all blood test biomarkers with optimal longevity ranges and testing cadence (developing)
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
