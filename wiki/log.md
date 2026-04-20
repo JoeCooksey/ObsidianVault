@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-20] autoresearch | Social Confidence & Climbing the Social Ladder
+- Created: [[Research - Social Confidence and Climbing the Social Ladder]], [[Social Anxiety Exposure Hierarchy]], [[Social Confidence Building]], [[Social Ladder Climbing]]
+- Covers: CBT + graded exposure (80% success rate), 12-week week-by-week plan (Phase 1: fear map + cognitive restructuring → Phase 2: micro-interactions → Phase 3: sustained social skills → Phase 4: advanced confidence), conversation techniques (Leil Lowndes, Dale Carnegie), body language signals, social ladder strategy (value + visibility + consistency + warm introductions)
+- Key finding: Most anxious people try Level 3 (networking events/parties) first and fail, reinforcing fear. Building Level 1 (micro-interactions) first removes physiological alarm so Level 3 becomes a skill problem, not an anxiety problem. Identity shift takes 90–180 days of consistent exposure.
+- Added to index under Networking / Relationships + Psychology
+
 ## [2026-04-20] autoresearch | First Job Roadmap — ASU Freshman in Livermore, CA
 - Created: [[Research - First Job Roadmap Livermore CA]], [[First Job Roadmap — Livermore Tri-Valley]], [[Lawrence Livermore National Laboratory]]
 - Covers: Tri-Valley employer map (LLNL, Sandia, Lam Research, 10X Genomics, Chevron), LLNL/Sandia internship application timelines (apply Oct–Jan for summer), ASU career resources (Handshake, Global Virtual Internship, Forage), Phase 0–3 roadmap, LinkedIn + GitHub strategy for no-experience freshman
