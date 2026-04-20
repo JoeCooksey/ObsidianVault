@@ -137,6 +137,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 
 ### Networking / Relationships
+- [[Social Confidence Building]] — Three-staircase model (micro → sustained → high-stakes); conversation techniques (Flooding Smile, Sticky Eyes, mirroring); cognitive restructuring; identity shift (developing)
+- [[Social Anxiety Exposure Hierarchy]] — SUDS 0–100 fear ladder; protocol for bottom-up graduated exposure; extinction curve (developing)
+- [[Social Ladder Climbing]] — Value + visibility + consistency; super connectors; generosity-first; warm vs. cold approach (developing)
 - [[Generosity-First Networking]] — give before you need; don't keep score; network as lifestyle, not transaction (developing)
 - [[Relationship Action Plan]] — 3yr→1yr→90day goals mapped to people needed; build before you need it (developing)
 - [[Pinging System]] — lightweight ongoing contact; frequency beats intensity; birthday effect (developing)
