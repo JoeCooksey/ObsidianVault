@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-19] autoresearch | Health Protocol Tier List — Evidence-Based Prescriptions
+- Created: [[Health Protocol Tier List]]
+- Covers: S–D tier ranking of 28 health protocols with specific prescriptions (temperature, duration, frequency, timing); sauna, cold immersion, Zone 2, VO2 max intervals, strength training, sleep, TRE, red light, breathwork, meditation, and more
+- Key finding: Finnish sauna 4×/week is the single most evidence-dense passive health protocol (40% CVD mortality ↓); strength training + walking have the strongest all-cause mortality signal
+- Added to index under Biohacking / Optimization
+
 ## [2026-04-19] autoresearch | Biohacking Health Products Protocol — Skin, Hair, Oral, Body
 - Created: [[Biohacking Health Products Protocol]]
 - Covers: evidence-based supplements (S/A/B tiers), full skincare AM/PM protocol with specific brands, haircare with finasteride/minoxidil/ketoconazole protocol, oral care with nHA toothpaste and water flosser protocol
