@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-20",
+      "path": "Daily News Debrief/2026-04-20.md"
+    },
+    {
+      "basename": "2026-04-20",
+      "path": "Journal/Daily/2026-04-20.md"
+    },
+    {
       "basename": "The Laws of Human Nature - Robert Greene",
       "path": "Books/The Laws of Human Nature - Robert Greene.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-19",
       "path": "Journal/Daily/2026-04-19.md"
-    },
-    {
-      "basename": "main",
-      "path": "wiki/canvases/main.canvas"
-    },
-    {
-      "basename": "GPU Architecture Evolution",
-      "path": "wiki/concepts/GPU Architecture Evolution.md"
     }
   ],
   "omittedPaths": [],
