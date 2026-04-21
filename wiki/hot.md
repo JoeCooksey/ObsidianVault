@@ -8,11 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-20 — Autoresearch: Social Confidence & Climbing the Social Ladder
+2026-04-21 — Autoresearch: Food Health Tier Lists — All Categories
 
 ## Key Recent Facts
 
-### Social Confidence & Social Ladder — newest autoresearch
+### Food Health Tier Lists — newest autoresearch
+- **Holy Trinity** (agreed upon by every dietary framework): Dark leafy greens + fatty fish + berries
+- **S-tier overall foods**: Wild salmon, sardines, watercress (100/100 CDC score), spinach, blueberries, lentils, walnuts, chia seeds
+- **F-tier overall foods**: Processed meats (WHO Group 1 carcinogen), sugary drinks (linked to 32 chronic conditions), ultra-processed snacks (60% of American diet), high-mercury fish
+- **Vegetables**: Watercress = 100/100 CDC nutrient density; cruciferous (broccoli/kale/bok choy) → sulforaphane → cancer-cell inhibition; dark green > light green always
+- **Fruits**: Berries dominate (blackberries GI ~25, raspberries 8g fiber/cup, blueberries highest antioxidants); avocado = S-tier fruit; never juice (strips fiber)
+- **Meats/Seafood**: Omega-3 content is the primary differentiator; wild salmon 1.8g EPA+DHA, sardines 2g (highest + lowest mercury); processed meats = WHO carcinogen
+- **Legumes**: Lentils = S-tier (highest fiber, lowest GI ~30, easiest to digest); ALL Blue Zone populations eat legumes daily; 28g/day nuts → 21% ↓ CVD
+- **Nuts/Seeds**: Walnuts highest ALA omega-3; chia 10g fiber per 2 tbsp; Brazil nuts: 2/day max (selenium toxicity risk >2/day)
+- **Grains**: Oats GI 9–11 (steel-cut) with beta-glucan → FDA heart-disease health claim; barley GI 25–35; white bread GI 70–95 (D-tier); whole > refined always
+- **Dairy**: Fermentation hierarchy: kefir (61 probiotic strains) > plain yogurt > cheese > milk > processed cheese; always buy plain (add your own flavoring)
+- **Universal rule**: Whole > processed at every level; color intensity = phytochemical content; omega-3 = health predictor in proteins; ultra-processing = harm
+
+### Social Confidence & Social Ladder — previous autoresearch
 - **Gold standard**: CBT + graded exposure therapy → 80% of people with social anxiety respond; gains maintained years later
 - **The core tool — Fear Hierarchy (SUDS 0–100)**: Work bottom-up; don't advance until current step drops to ≤25. Start: eye contact+nod (SUDS 10) → smile at cashier (15) → ask stranger directions (35) → join group convo (55) → introduce yourself at party (65) → express opinion that might be disagreed with (75) → networking event alone (80)
 - **Cognitive restructuring**: Social anxiety is maintained by automatic negative thoughts. Challenge each ANT: what's the evidence? Frame situations as experiments, not performances.
