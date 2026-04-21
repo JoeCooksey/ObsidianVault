@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | Food Health Tier Lists — All Categories
+- Created: [[Food Health Tier List — Overall]], [[Food Health Tier List — Vegetables]], [[Food Health Tier List — Fruits]], [[Food Health Tier List — Meats and Seafood]], [[Food Health Tier List — Legumes]], [[Food Health Tier List — Nuts and Seeds]], [[Food Health Tier List — Grains]], [[Food Health Tier List — Dairy]], [[Research - Food Health Tier Lists]]
+- Covers: S–F tier rankings for all major food categories based purely on healthiness; CDC Powerhouse nutrient density scores; GI values for all grains/fruits; omega-3 + mercury table for fish; fiber/protein per cup for legumes; nuts meta-analysis (28g/day = 21% CVD reduction); fermentation hierarchy for dairy
+- Key findings: Dark leafy greens + fatty fish + berries = "holy trinity" backed by every dietary framework. Processed meats (WHO Group 1 carcinogen) and sugary drinks are unambiguous F-tier. Watercress is 100/100 on CDC nutrient density. Lentils are the best legume. Walnuts have highest ALA omega-3 of any nut. Kefir has 61 probiotic strains vs. yogurt's ~7. Steel-cut oats beat all other grains for metabolic health.
+- Added to index under Food / Nutrition Tier Lists (new section)
+
 ## [2026-04-20] autoresearch | Social Confidence & Climbing the Social Ladder
 - Created: [[Research - Social Confidence and Climbing the Social Ladder]], [[Social Anxiety Exposure Hierarchy]], [[Social Confidence Building]], [[Social Ladder Climbing]]
 - Covers: CBT + graded exposure (80% success rate), 12-week week-by-week plan (Phase 1: fear map + cognitive restructuring → Phase 2: micro-interactions → Phase 3: sustained social skills → Phase 4: advanced confidence), conversation techniques (Leil Lowndes, Dale Carnegie), body language signals, social ladder strategy (value + visibility + consistency + warm introductions)
