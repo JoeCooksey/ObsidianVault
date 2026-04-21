@@ -138,6 +138,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: 8 food health tier list pages (Overall, Vegetables, Fruits, Meats & Seafood, Legumes, Nuts & Seeds, Grains, Dairy) + [[Research - Food Health Tier Lists]]
 - Created: [[Research - Social Confidence and Climbing the Social Ladder]], [[Social Anxiety Exposure Hierarchy]], [[Social Confidence Building]], [[Social Ladder Climbing]]
 - Created: [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions (dose, temp, frequency, timing)
 - Created: [[Research - First-Year ASU EE Skills]], [[ASU EE Year 1-2 Curriculum Map]], [[EE Freshman Self-Study Stack]], [[EE Freshman Portfolio Strategy]]
