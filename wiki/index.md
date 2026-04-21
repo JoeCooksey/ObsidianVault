@@ -125,6 +125,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Book Lists — Curated Reading by Category
+- [[Book List — Finance and Investing]] — S/A/B tier; The Intelligent Investor, Psychology of Money, Just Keep Buying, index fund thesis, mental models (developing)
+- [[Book List — Self-Help, Discipline, and Productivity]] — S/A/B tier; Atomic Habits, Can't Hurt Me, Deep Work, Essentialism, 7 Habits, Man's Search for Meaning (developing)
+- [[Book List — Stoicism and Philosophy]] — S/A/B tier; Meditations, Ego Is the Enemy, Obstacle Is the Way, Letters from a Stoic; daily practice stack (developing)
+- [[Book List — Psychology and Persuasion]] — S/A/B tier; Influence (Cialdini), Never Split the Difference (Voss), Thinking Fast and Slow, Getting to Yes; core persuasion models (developing)
+- [[Book List — Business and Entrepreneurship]] — S/A/B tier; Zero to One, Good to Great, Shoe Dog, The Lean Startup, Hard Thing About Hard Things (developing)
+- [[Book List — Fiction Must-Reads]] — S/A tier classics and modern; Count of Monte Cristo, East of Eden, 1984, Crime and Punishment, Dune, The Road; phased reading order (developing)
+- [[Research - Book Recommendations Master List]] — master synthesis with Joe's 12-book phased reading order across all categories (complete)
+
 ### Food / Nutrition Tier Lists
 - [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
 - [[Food Health Tier List — Vegetables]] — CDC Powerhouse scores; cruciferous cancer-protection hierarchy; 100/100 watercress (developing)
