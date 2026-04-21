@@ -39,14 +39,14 @@ The physical side of EE breaks into five pillars:
 
 **Goal**: Pass any screening question on device physics and basic converter operation.
 
-| Week | Task | Resource |
-|------|------|----------|
-| 1–2 | P-N junction: depletion region, built-in potential, I-V equation | Neamen Ch. 1–3 |
-| 3–4 | MOSFET: threshold voltage, triode/saturation, transfer characteristics | Neamen Ch. 8–9 |
-| 5–6 | IGBT operation; why IGBT ≠ MOSFET at high voltage | Datasheet comparison: Si IGBT vs SiC MOSFET |
-| 7–8 | Buck converter steady-state: duty cycle, volt-second balance, CCM vs DCM | Erickson Ch. 1–2 |
-| 9–10 | Boost and flyback topology; isolated vs non-isolated | Erickson Ch. 3, 6 |
-| 11–12 | LTspice simulation: simulate buck, boost, flyback from scratch | LTspice tutorial (Analog Devices YouTube) |
+| Week  | Task                                                                     | Resource                                    |
+| ----- | ------------------------------------------------------------------------ | ------------------------------------------- |
+| 1–2   | P-N junction: depletion region, built-in potential, I-V equation         | Neamen Ch. 1–3                              |
+| 3–4   | MOSFET: threshold voltage, triode/saturation, transfer characteristics   | Neamen Ch. 8–9                              |
+| 5–6   | IGBT operation; why IGBT ≠ MOSFET at high voltage                        | Datasheet comparison: Si IGBT vs SiC MOSFET |
+| 7–8   | Buck converter steady-state: duty cycle, volt-second balance, CCM vs DCM | Erickson Ch. 1–2                            |
+| 9–10  | Boost and flyback topology; isolated vs non-isolated                     | Erickson Ch. 3, 6                           |
+| 11–12 | LTspice simulation: simulate buck, boost, flyback from scratch           | LTspice tutorial (Analog Devices YouTube)   |
 
 **Milestone**: Explain why SiC MOSFET has lower conduction and switching loss than Si IGBT at 650V+. Simulate a 12V→5V buck with real component models.
 
