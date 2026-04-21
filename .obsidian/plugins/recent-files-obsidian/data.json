@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Book Recommendations Master List",
+      "path": "wiki/sources/Research - Book Recommendations Master List.md"
+    },
+    {
+      "basename": "Book List — Business and Entrepreneurship",
+      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
+    },
+    {
       "basename": "Food Health Tier List — Dairy",
       "path": "wiki/concepts/Food Health Tier List — Dairy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Health Biomarkers Complete Panel",
       "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
-    },
-    {
-      "basename": "Huberman Lab Essentials - Habit Formation and Breaking",
-      "path": "wiki/sources/Huberman Lab Essentials - Habit Formation and Breaking.md"
-    },
-    {
-      "basename": "Framework Comparison Apple Silicon 2025",
-      "path": "wiki/sources/Framework Comparison Apple Silicon 2025.md"
     }
   ],
   "omittedPaths": [],
