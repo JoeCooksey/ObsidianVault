@@ -21,13 +21,13 @@ CDC Powerhouse definition: provides ≥10% daily value per 100 kcal across 17 nu
 
 ## S Tier — Nutritional Royalty
 
-| Vegetable | CDC Score | Why |
-|-----------|-----------|-----|
-| **Watercress** | 100/100 | Perfect nutrient density; more calcium than milk gram-for-gram; more vitamin C than oranges; 50+ vitamins and minerals; strongest overall in CDC analysis |
-| **Chinese Cabbage / Bok Choy** | 91.99 | Cruciferous; glucosinolates → cancer cell inhibition; high calcium for a vegetable; vitamin C, folate |
-| **Swiss Chard** | 89.27 | Vitamin K (bone health), magnesium (muscle/nerve function), iron, potassium; extremely high mineral density |
-| **Beet Greens** | 87.08 | Vitamin K, potassium, iron; often thrown away — the green tops are more nutritious than the beet itself |
-| **Spinach** | 86.43 | Iron, folate, vitamins A/K, lutein + zeaxanthin (eye protection); versatile; one of most studied vegetables |
+| Vegetable                      | CDC Score | Why                                                                                                                                                       |
+| ------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Watercress**                 | 100/100   | Perfect nutrient density; more calcium than milk gram-for-gram; more vitamin C than oranges; 50+ vitamins and minerals; strongest overall in CDC analysis |
+| **Chinese Cabbage / Bok Choy** | 91.99     | Cruciferous; glucosinolates → cancer cell inhibition; high calcium for a vegetable; vitamin C, folate                                                     |
+| **Swiss Chard**                | 89.27     | Vitamin K (bone health), magnesium (muscle/nerve function), iron, potassium; extremely high mineral density                                               |
+| **Beet Greens**                | 87.08     | Vitamin K, potassium, iron; often thrown away — the green tops are more nutritious than the beet itself                                                   |
+| **Spinach**                    | 86.43     | Iron, folate, vitamins A/K, lutein + zeaxanthin (eye protection); versatile; one of most studied vegetables                                               |
 
 ---
 
