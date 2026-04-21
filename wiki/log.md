@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | Book Recommendations — Finance, Self-Help, Discipline, Fiction, Business, Stoicism
+- Created: [[Research - Book Recommendations Master List]], [[Book List — Finance and Investing]], [[Book List — Self-Help, Discipline, and Productivity]], [[Book List — Stoicism and Philosophy]], [[Book List — Psychology and Persuasion]], [[Book List — Business and Entrepreneurship]], [[Book List — Fiction Must-Reads]]
+- Covers: 7 pages, ~60 books tiered S–B across 6 domains; Joe's 12-book phased reading order; mental models per category; reading sequences and context notes for a 19yo EE student
+- Key findings: Psychology of Money = best starting investment book; Ego Is the Enemy = most important for ambitious young men; The Count of Monte Cristo = highest ROI fiction; Never Split the Difference = most practical negotiation book; Zero to One = most contrarian business book; Meditations = most re-readable philosophical text
+
 ## [2026-04-21] autoresearch | Food Health Tier Lists — All Categories
 - Created: [[Food Health Tier List — Overall]], [[Food Health Tier List — Vegetables]], [[Food Health Tier List — Fruits]], [[Food Health Tier List — Meats and Seafood]], [[Food Health Tier List — Legumes]], [[Food Health Tier List — Nuts and Seeds]], [[Food Health Tier List — Grains]], [[Food Health Tier List — Dairy]], [[Research - Food Health Tier Lists]]
 - Covers: S–F tier rankings for all major food categories based purely on healthiness; CDC Powerhouse nutrient density scores; GI values for all grains/fruits; omega-3 + mercury table for fish; fiber/protein per cup for legumes; nuts meta-analysis (28g/day = 21% CVD reduction); fermentation hierarchy for dairy
