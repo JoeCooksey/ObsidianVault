@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Research - Book Recommendations Master List",
-      "path": "wiki/sources/Research - Book Recommendations Master List.md"
+      "basename": "Book List — Psychology and Persuasion",
+      "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
+    },
+    {
+      "basename": "Book List — Finance and Investing",
+      "path": "wiki/concepts/Book List — Finance and Investing.md"
+    },
+    {
+      "basename": "Book List — Fiction Must-Reads",
+      "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
     },
     {
       "basename": "Book List — Business and Entrepreneurship",
       "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
+    },
+    {
+      "basename": "Research - Book Recommendations Master List",
+      "path": "wiki/sources/Research - Book Recommendations Master List.md"
     },
     {
       "basename": "Food Health Tier List — Dairy",
@@ -187,18 +199,6 @@
     {
       "basename": "MDPI WBG Comparative Review 2024",
       "path": "wiki/sources/MDPI WBG Comparative Review 2024.md"
-    },
-    {
-      "basename": "PMC Creatine Meta-analysis 2024",
-      "path": "wiki/sources/PMC Creatine Meta-analysis 2024.md"
-    },
-    {
-      "basename": "SIGGRAPH - Eras of GPU Development 2025",
-      "path": "wiki/sources/SIGGRAPH - Eras of GPU Development 2025.md"
-    },
-    {
-      "basename": "Health Biomarkers Complete Panel",
-      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
     }
   ],
   "omittedPaths": [],
