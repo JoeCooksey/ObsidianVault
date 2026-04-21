@@ -8,9 +8,26 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: Food Health Tier Lists — All Categories
+2026-04-21 — Autoresearch: Book Recommendations — Finance, Self-Help, Discipline, Fiction, Business, Stoicism
 
 ## Key Recent Facts
+
+### Book Recommendations — newest autoresearch
+- **6 domains covered**: Finance & Investing, Self-Help & Discipline, Stoicism & Philosophy, Psychology & Persuasion, Business & Entrepreneurship, Fiction
+- **Finance S-tier**: *The Intelligent Investor* (Graham) — value investing bible; *The Psychology of Money* (Housel) — best starting point for 20s; *The Essays of Warren Buffett*
+- **Finance A-tier**: *Just Keep Buying* (Maggiulli, data-driven), *I Will Teach You to Be Rich* (Sethi, 20s practical), *The Little Book of Common Sense Investing* (Bogle, index fund case)
+- **Self-Help S-tier**: *Atomic Habits* (already ingested ⭐⭐⭐⭐⭐); *Can't Hurt Me* (Goggins, 40% rule — you're only at 40% when you think you're done); *Deep Work* (Newport, focused work is the rarest valuable skill)
+- **Discipline A-tier**: *Essentialism* (McKeown, less but better), *Man's Search for Meaning* (Frankl, meaning > pleasure), *Make Your Bed* (McRaven, small wins compound), *12 Rules for Life* (Peterson)
+- **Stoicism S-tier**: *Meditations* (Marcus Aurelius, most re-readable philosophical text; Hays translation); *Ego Is the Enemy* (Holiday, MOST important for ambitious young men); *The Obstacle Is the Way* (Holiday)
+- **Stoicism A-tier**: *Letters from a Stoic* (Seneca, Letter 1 = most important letter on time ever written), *The Daily Stoic* (Holiday, best on-ramp)
+- **Psychology S-tier**: *Influence* (Cialdini, 6+1 principles: reciprocity, commitment, social proof, authority, liking, scarcity, unity); *Never Split the Difference* (Voss, tactical empathy + mirroring); *How to Win Friends* (Carnegie)
+- **Psychology A-tier**: *Thinking, Fast and Slow* (Kahneman, System 1/2; loss aversion; cognitive biases); *Getting to Yes* (Fisher/Ury, BATNA + principled negotiation)
+- **Business S-tier**: *Zero to One* (Thiel, monopoly thinking, the contrarian question); *Good to Great* (Collins, Level 5 leadership + hedgehog concept + flywheel); *Shoe Dog* (Knight, best business autobiography); *The Lean Startup* (Ries, build-measure-learn)
+- **Fiction S-tier classics**: *The Count of Monte Cristo* (most gripping classic; patience theme); *East of Eden* (timshel — "thou mayest" — who you choose to become); *Crime and Punishment* (cautionary tale of intellectual arrogance); *1984* (most relevant every year); *The Road* (most emotionally powerful 200-page book)
+- **Fiction S-tier modern**: *Dune* (leadership, ecology, messiah warning; read before films); *All Quiet on the Western Front* (19yo German soldier = your age)
+- **Joe's Phase 1 reading order**: Psychology of Money → Ego Is the Enemy → Deep Work → Can't Hurt Me
+- **Joe's Phase 2**: Intelligent Investor (ch. 1, 8, 20) → Never Split the Difference → Zero to One → Count of Monte Cristo
+- **Joe's Phase 3**: Meditations → Thinking Fast and Slow → East of Eden → Man's Search for Meaning
 
 ### Food Health Tier Lists — newest autoresearch
 - **Holy Trinity** (agreed upon by every dietary framework): Dark leafy greens + fatty fish + berries
