@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Food Health Tier List — Dairy",
+      "path": "wiki/concepts/Food Health Tier List — Dairy.md"
+    },
+    {
+      "basename": "Research - Food Health Tier Lists",
+      "path": "wiki/questions/Research - Food Health Tier Lists.md"
+    },
+    {
+      "basename": "Food Health Tier List — Meats and Seafood",
+      "path": "wiki/concepts/Food Health Tier List — Meats and Seafood.md"
+    },
+    {
+      "basename": "Food Health Tier List — Nuts and Seeds",
+      "path": "wiki/concepts/Food Health Tier List — Nuts and Seeds.md"
+    },
+    {
+      "basename": "Food Health Tier List — Legumes",
+      "path": "wiki/concepts/Food Health Tier List — Legumes.md"
+    },
+    {
+      "basename": "Food Health Tier List — Grains",
+      "path": "wiki/concepts/Food Health Tier List — Grains.md"
+    },
+    {
+      "basename": "Food Health Tier List — Fruits",
+      "path": "wiki/concepts/Food Health Tier List — Fruits.md"
+    },
+    {
+      "basename": "Food Health Tier List — Vegetables",
+      "path": "wiki/concepts/Food Health Tier List — Vegetables.md"
+    },
+    {
+      "basename": "Food Health Tier List — Overall",
+      "path": "wiki/concepts/Food Health Tier List — Overall.md"
+    },
+    {
       "basename": "EE Physical Side — Actionable Skill Plan",
       "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Framework Comparison Apple Silicon 2025",
       "path": "wiki/sources/Framework Comparison Apple Silicon 2025.md"
-    },
-    {
-      "basename": "Edge LLM Inference Benchmark 2026",
-      "path": "wiki/sources/Edge LLM Inference Benchmark 2026.md"
-    },
-    {
-      "basename": "Bitnet.cpp Edge Inference 2025",
-      "path": "wiki/sources/Bitnet.cpp Edge Inference 2025.md"
-    },
-    {
-      "basename": "IEEE Spectrum SiC vs GaN 2024",
-      "path": "wiki/sources/IEEE Spectrum SiC vs GaN 2024.md"
-    },
-    {
-      "basename": "Research - Evolution of CPUs and GPUs",
-      "path": "wiki/questions/Research - Evolution of CPUs and GPUs.md"
-    },
-    {
-      "basename": "How To Win Friends and Influence People - Dale Carnegie",
-      "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
-    },
-    {
-      "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
-      "path": "Books/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "Book View.base"
-    },
-    {
-      "basename": "Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz",
-      "path": "Excalidraw/Never Eat Alone Expanded and Updated - Keith Ferrazzi Tahl Raz.excalidraw"
-    },
-    {
-      "basename": "Impostors - Susan David on Emotional Agility",
-      "path": "wiki/sources/Impostors - Susan David on Emotional Agility.md"
     }
   ],
   "omittedPaths": [],
