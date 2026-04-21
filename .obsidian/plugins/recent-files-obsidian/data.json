@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-21",
+      "path": "Daily News Debrief/2026-04-21.md"
+    },
+    {
+      "basename": "2026-04-21",
+      "path": "Journal/Daily/2026-04-21.md"
+    },
+    {
       "basename": "2026-04-20",
       "path": "Journal/Daily/2026-04-20.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Survey - Low-bit LLMs 2024",
       "path": "wiki/sources/Survey - Low-bit LLMs 2024.md"
-    },
-    {
-      "basename": "AMD",
-      "path": "wiki/entities/AMD.md"
-    },
-    {
-      "basename": "Intel",
-      "path": "wiki/entities/Intel.md"
     }
   ],
   "omittedPaths": [],
