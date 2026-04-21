@@ -125,6 +125,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Food / Nutrition Tier Lists
+- [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
+- [[Food Health Tier List — Vegetables]] — CDC Powerhouse scores; cruciferous cancer-protection hierarchy; 100/100 watercress (developing)
+- [[Food Health Tier List — Fruits]] — GI for every fruit; berry dominance; avoid dried/juice (developing)
+- [[Food Health Tier List — Meats and Seafood]] — omega-3 content + mercury table; processed meat F-tier (WHO Group 1) (developing)
+- [[Food Health Tier List — Legumes]] — fiber + protein per cup; lentils S-tier; Blue Zone legume data (developing)
+- [[Food Health Tier List — Nuts and Seeds]] — omega-3 ratios; 28g/day = 21% CVD reduction; Brazil nut selenium caution (developing)
+- [[Food Health Tier List — Grains]] — GI values; beta-glucan in oats/barley; whole vs. refined impact (developing)
+- [[Food Health Tier List — Dairy]] — fermentation hierarchy; kefir 61 probiotic strains vs. yogurt 7; full-fat debate (developing)
+
 ### Biohacking / Optimization
 - [[Biohacking Tier List]] — S–D ranking across 10 categories: sleep, exercise, temperature, light, fasting, stress, wearables, cognitive, longevity, gut (developing)
 - [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions: dose, temp, frequency, timing; sauna, CWI, Zone 2, VO2 max, strength, sleep, TRE, red light, breathwork (developing)
