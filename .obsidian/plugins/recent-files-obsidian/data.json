@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "EE Physical Side — Actionable Skill Plan",
+      "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
+    },
+    {
+      "basename": "EE Freshman Self-Study Stack",
+      "path": "wiki/concepts/EE Freshman Self-Study Stack.md"
+    },
+    {
+      "basename": "Rhodiola Rosea",
+      "path": "wiki/concepts/Rhodiola Rosea.md"
+    },
+    {
+      "basename": "Research - First-Year ASU EE Skills",
+      "path": "wiki/questions/Research - First-Year ASU EE Skills.md"
+    },
+    {
       "basename": "2026-04-21",
       "path": "Journal/Daily/2026-04-21.md"
     },
@@ -61,24 +77,12 @@
       "path": "wiki/concepts/Biohacking Health Products Protocol.md"
     },
     {
-      "basename": "Research - First-Year ASU EE Skills",
-      "path": "wiki/questions/Research - First-Year ASU EE Skills.md"
-    },
-    {
-      "basename": "EE Physical Side — Actionable Skill Plan",
-      "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
-    },
-    {
       "basename": "EE Freshman Action Plans",
       "path": "wiki/concepts/EE Freshman Action Plans.md"
     },
     {
       "basename": "EE Freshman Portfolio Strategy",
       "path": "wiki/concepts/EE Freshman Portfolio Strategy.md"
-    },
-    {
-      "basename": "EE Freshman Self-Study Stack",
-      "path": "wiki/concepts/EE Freshman Self-Study Stack.md"
     },
     {
       "basename": "ASU EE Year 1-2 Curriculum Map",
@@ -195,10 +199,6 @@
     {
       "basename": "Impostors - Susan David on Emotional Agility",
       "path": "wiki/sources/Impostors - Susan David on Emotional Agility.md"
-    },
-    {
-      "basename": "Survey - Low-bit LLMs 2024",
-      "path": "wiki/sources/Survey - Low-bit LLMs 2024.md"
     }
   ],
   "omittedPaths": [],
