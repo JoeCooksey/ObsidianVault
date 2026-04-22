@@ -129,24 +129,24 @@ Leads to upward social comparison, which is one of the most reliable happiness-r
 
 ## Quick Reference Table
 
-| Tier | Activity | Why |
-|------|----------|-----|
-| S | EE self-study (LTspice, Python, breadboard) | Year 1 leverage window, career direct ROI |
-| S | Deep reading (books from reading list) | Cognitive compounding, mental models |
-| S | Quality in-person social time | Harvard 80-year study: #1 predictor of happiness |
-| A | Side projects / GitHub | Identity capital, portfolio, shipping instinct |
-| A | Clubs (IEEE, Solar Car) | Warm network, repeated contact |
-| A | Deliberate rest (walks, naps, journaling) | Cognitive restoration + decision quality |
-| A | Weekly journaling/review | Goal clarity, 42% better follow-through |
-| B | High-quality educational media | Mental models — use for commutes/Zone 2 |
-| B | Cooking | Life skill that compounds daily for 60 years |
-| B | Outdoor time / nature | Cortisol ↓, attention restoration |
-| C | Gaming (capped) | Flow possible, zero external ROI |
-| C | Casual TV (one series, intentional) | Entertainment, fine in moderation |
-| D | Social media browsing | Degrades attention, cannibalizes reading time |
-| D | Regular heavy partying | Sleep disruption, money, cognition harm |
-| F | Doom-scrolling at night | Directly breaks sleep architecture |
-| F | Comparison scrolling | Reliable happiness reducer |
+| Tier | Activity                                    | Why                                              |
+| ---- | ------------------------------------------- | ------------------------------------------------ |
+| S    | EE self-study (LTspice, Python, breadboard) | Year 1 leverage window, career direct ROI        |
+| S    | Deep reading (books from reading list)      | Cognitive compounding, mental models             |
+| S    | Quality in-person social time               | Harvard 80-year study: #1 predictor of happiness |
+| A    | Side projects / GitHub                      | Identity capital, portfolio, shipping instinct   |
+| A    | Clubs (IEEE, Solar Car)                     | Warm network, repeated contact                   |
+| A    | Deliberate rest (walks, naps, journaling)   | Cognitive restoration + decision quality         |
+| A    | Weekly journaling/review                    | Goal clarity, 42% better follow-through          |
+| B    | High-quality educational media              | Mental models — use for commutes/Zone 2          |
+| B    | Cooking                                     | Life skill that compounds daily for 60 years     |
+| B    | Outdoor time / nature                       | Cortisol ↓, attention restoration                |
+| C    | Gaming (capped)                             | Flow possible, zero external ROI                 |
+| C    | Casual TV (one series, intentional)         | Entertainment, fine in moderation                |
+| D    | Social media browsing                       | Degrades attention, cannibalizes reading time    |
+| D    | Regular heavy partying                      | Sleep disruption, money, cognition harm          |
+| F    | Doom-scrolling at night                     | Directly breaks sleep architecture               |
+| F    | Comparison scrolling                        | Reliable happiness reducer                       |
 
 ---
 
