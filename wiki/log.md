@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | Where to Get Cheap Books
+- Created: [[Research - Where to Get Cheap Books]], [[Book Sourcing Strategy]]
+- Covers: complete tier list S–D for acquiring books (free → paid); Libby app, BookBub, Project Gutenberg (S-tier free); ThriftBooks, Better World Books, AbeBooks, Book Outlet (A-tier); Kindle Unlimited, thrift stores, library sales (B-tier); price comparison tools (BookFinder, BookScouter); Joe-specific path for his Phase 1–3 reading list
+- Key findings: Libby (library app) is the highest-leverage free option — most people don't use it; BookBub = free daily ebook deals, no reason not to subscribe; ThriftBooks = best single used-book site; Project Gutenberg covers all the Stoicism/classics free; Joe's 9-book reading list costs ~$0 via library or ~$25–35 via ThriftBooks
+
 ## [2026-04-21] autoresearch | Top MS EE Programs Physical Side (Power Electronics & Semiconductors)
 - Created: [[Research - Top MS EE Programs Physical Side]], [[MS EE Programs Power Electronics Semiconductors]]
 - Covers: 10 schools ranked by specialty (WBG semiconductors, power electronics, semiconductor devices); NC State MS-WBGS detail; Virginia Tech CPES; UT Austin SSE; Purdue online; MIT/Stanford/Berkeley; admission signals; Joe-specific path recommendation
