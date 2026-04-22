@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Free Time Tier List",
+      "path": "wiki/concepts/Free Time Tier List.md"
+    },
+    {
       "basename": "Research - Book Recommendations Master List",
       "path": "wiki/sources/Research - Book Recommendations Master List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Classical Mechanics in Electrical Engineering",
       "path": "wiki/concepts/Classical Mechanics in Electrical Engineering.md"
-    },
-    {
-      "basename": "Electromagnetism Foundations for EE",
-      "path": "wiki/concepts/Electromagnetism Foundations for EE.md"
     }
   ],
   "omittedPaths": [],
