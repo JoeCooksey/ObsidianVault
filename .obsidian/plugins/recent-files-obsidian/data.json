@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Book Recommendations Master List",
+      "path": "wiki/sources/Research - Book Recommendations Master List.md"
+    },
+    {
+      "basename": "Book List — Finance and Investing",
+      "path": "wiki/concepts/Book List — Finance and Investing.md"
+    },
+    {
+      "basename": "Free Time Tier List",
+      "path": "wiki/concepts/Free Time Tier List.md"
+    },
+    {
+      "basename": "Research - Free Time Tier List",
+      "path": "wiki/questions/Research - Free Time Tier List.md"
+    },
+    {
       "basename": "2026-04-22",
       "path": "Journal/Daily/2026-04-22.md"
     },
@@ -13,24 +29,12 @@
       "path": "wiki/concepts/ASU Social Connection Methods Ranked.md"
     },
     {
-      "basename": "Free Time Tier List",
-      "path": "wiki/concepts/Free Time Tier List.md"
-    },
-    {
-      "basename": "Research - Book Recommendations Master List",
-      "path": "wiki/sources/Research - Book Recommendations Master List.md"
-    },
-    {
       "basename": "Book List — Self-Help, Discipline, and Productivity",
       "path": "wiki/concepts/Book List — Self-Help, Discipline, and Productivity.md"
     },
     {
       "basename": "Book List — Psychology and Persuasion",
       "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
-    },
-    {
-      "basename": "Book List — Finance and Investing",
-      "path": "wiki/concepts/Book List — Finance and Investing.md"
     },
     {
       "basename": "Book List — Fiction Must-Reads",
@@ -195,10 +199,6 @@
     {
       "basename": "The Laws of Human Nature - Robert Greene",
       "path": "wiki/sources/The Laws of Human Nature - Robert Greene.md"
-    },
-    {
-      "basename": "The Psychology of Money - Morgan Housel",
-      "path": "wiki/sources/The Psychology of Money - Morgan Housel.md"
     }
   ],
   "omittedPaths": [],
