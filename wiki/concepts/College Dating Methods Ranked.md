@@ -18,20 +18,21 @@ Quick-reference tier list. Full detail in [[Research - College Dating Guide for 
 
 ## Tier List
 
-| Tier | Method | Key Mechanism |
-|------|--------|--------------|
-| **S** | Clubs & organizations | Repeated contact + shared interest; no cold approach |
-| **S** | Classes + study groups | Weeks of exposure; free conversation openers |
-| **A** | Campus social events / parties | Volume + low-friction talking to anyone |
-| **A** | Hinge | Prompts → better conversations; relationship-oriented |
-| **A** | Tinder University | Largest college user pool |
-| **B** | Bumble | Women message first; higher signal |
-| **B** | Campus jobs / work-study | Proximity effect |
-| **B** | Dorms / residential halls | Proximity + structured social events |
-| **C** | Cold approach (campus) | Works in open social contexts only |
-| **C** | OkCupid / CMB | Smaller pools; more compatible matches |
-| **D** | Bars / clubs | Noisy; competitive; age restriction |
-| **D** | Cold DMs | Rarely works without prior context |
+| Tier  | Method                         | Key Mechanism                                         |
+| ----- | ------------------------------ | ----------------------------------------------------- |
+| **S** | Clubs & organizations          | Repeated contact + shared interest; no cold approach  |
+| **S** | Classes + study groups         | Weeks of exposure; free conversation openers          |
+| **A** | Campus social events / parties | Volume + low-friction talking to anyone               |
+| **A** | Hinge                          | Prompts → better conversations; relationship-oriented |
+| **A** | Tinder University              | Largest college user pool                             |
+| **B** | Bumble                         | Women message first; higher signal                    |
+| **B** | Campus jobs / work-study       | Proximity effect                                      |
+| **B** | Dorms / residential halls      | Proximity + structured social events                  |
+| **C** | Cold approach (campus)         | Works in open social contexts only                    |
+| **C** | OkCupid / CMB                  | Smaller pools; more compatible matches                |
+| **D** | Bars / clubs                   | Noisy; competitive; age restriction                   |
+| **D** | Cold DMs                       | Rarely works without prior context                    |
+|       |                                |                                                       |
 
 ## The Ask Formula
 
