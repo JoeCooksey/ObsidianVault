@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Book Recommendations Master List",
+      "path": "wiki/sources/Research - Book Recommendations Master List.md"
+    },
+    {
+      "basename": "Book List — Self-Help, Discipline, and Productivity",
+      "path": "wiki/concepts/Book List — Self-Help, Discipline, and Productivity.md"
+    },
+    {
+      "basename": "Book List — Psychology and Persuasion",
+      "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
+    },
+    {
+      "basename": "Book List — Finance and Investing",
+      "path": "wiki/concepts/Book List — Finance and Investing.md"
+    },
+    {
+      "basename": "Book List — Fiction Must-Reads",
+      "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
+    },
+    {
       "basename": "Book List — Business and Entrepreneurship",
       "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
     },
@@ -23,22 +43,6 @@
     {
       "basename": "College Dating Methods Ranked",
       "path": "wiki/concepts/College Dating Methods Ranked.md"
-    },
-    {
-      "basename": "Book List — Psychology and Persuasion",
-      "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
-    },
-    {
-      "basename": "Book List — Finance and Investing",
-      "path": "wiki/concepts/Book List — Finance and Investing.md"
-    },
-    {
-      "basename": "Book List — Fiction Must-Reads",
-      "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
-    },
-    {
-      "basename": "Research - Book Recommendations Master List",
-      "path": "wiki/sources/Research - Book Recommendations Master List.md"
     },
     {
       "basename": "Food Health Tier List — Dairy",
@@ -195,10 +199,6 @@
     {
       "basename": "Electromagnetism Foundations for EE",
       "path": "wiki/concepts/Electromagnetism Foundations for EE.md"
-    },
-    {
-      "basename": "Differential Equations in Electrical Engineering",
-      "path": "wiki/concepts/Differential Equations in Electrical Engineering.md"
     }
   ],
   "omittedPaths": [],
