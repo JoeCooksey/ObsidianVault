@@ -230,6 +230,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - LTSpice Skills Guide]] — 8 key findings; 4 simulation types, 10-circuit ladder, SPICE directives, power electronics sim, common mistakes, Joe's 4-phase timeline (complete)
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
+- [[Research - Bulking vs Cutting Body Composition Guide]] — bulk/cut/recomp decision tree; FFMI targets at 5'9"; Joe-specific calorie math; muscle gain timelines (developing)
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
