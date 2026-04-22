@@ -230,6 +230,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - LTSpice Skills Guide]] + [[LTSpice Complete Skills Guide]] — complete LTSpice reference: 4 simulation types, 10-circuit build ladder, all SPICE directives, power electronics simulation, Monte Carlo, model import, common mistakes, Joe's 4-phase timeline
 - Created: [[Research - Building Social Connections at ASU]] + [[ASU Social Connection Methods Ranked]] — S–D tier list for ASU friendship methods; proximity science; Jeffrey Hall 50–200 hr formula; Joe's action stack
 - Created: [[Research - Where to Get Cheap Books]] + [[Book Sourcing Strategy]] — full S–D tier list for cheap/free books; Libby, BookBub, ThriftBooks, BookFinder; Joe-specific path
 - Created: [[Research - Top MS EE Programs Physical Side]] + [[MS EE Programs Power Electronics Semiconductors]] — 10-school comparison, NC State WBG MS + VT CPES + UT Austin SSE deep dives, Joe-specific path recommendation
