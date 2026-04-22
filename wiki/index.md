@@ -128,6 +128,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Books / Reading Strategy
+- [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
+
 ### Book Lists — Curated Reading by Category
 - [[Book List — Finance and Investing]] — S/A/B tier; The Intelligent Investor, Psychology of Money, Just Keep Buying, index fund thesis, mental models (developing)
 - [[Book List — Self-Help, Discipline, and Productivity]] — S/A/B tier; Atomic Habits, Can't Hurt Me, Deep Work, Essentialism, 7 Habits, Man's Search for Meaning (developing)
