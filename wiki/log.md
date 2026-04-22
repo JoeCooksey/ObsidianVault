@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | Free Time Tier List
+- Created: [[Research - Free Time Tier List]], [[Free Time Tier List]]
+- Covers: S–F tier list of free-time activities ranked by long-term compounding ROI; calibrated for Joe (19yo EE student, ASU Year 1, Livermore CA, trains 6x/week)
+- Key findings: S-tier = EE self-study (Year 1 leverage window), deep reading, quality in-person social time; A-tier = side projects/GitHub, clubs (IEEE/Solar Car), deliberate rest, journaling; D-tier = social media browsing (measurably degrades attention), regular heavy drinking; F-tier = doom-scrolling (directly breaks sleep architecture); biggest lever is eliminating D/F defaults that fill gaps by inertia, not adding more S-tier activities; Harvard 80-year study confirms relationships > career success for long-term happiness
+
 ## [2026-04-21] autoresearch | Where to Get Cheap Books
 - Created: [[Research - Where to Get Cheap Books]], [[Book Sourcing Strategy]]
 - Covers: complete tier list S–D for acquiring books (free → paid); Libby app, BookBub, Project Gutenberg (S-tier free); ThriftBooks, Better World Books, AbeBooks, Book Outlet (A-tier); Kindle Unlimited, thrift stores, library sales (B-tier); price comparison tools (BookFinder, BookScouter); Joe-specific path for his Phase 1–3 reading list
