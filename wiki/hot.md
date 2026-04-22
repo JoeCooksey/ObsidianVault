@@ -250,6 +250,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - Bulking vs Cutting Body Composition Guide]] + [[Bulk and Cut Decision Framework]] + [[FFMI Natural Muscle Potential]] — full body composition guide for 5'9" / 156 lb male; FFMI reference table; lean bulk/cut/recomp protocols; Joe-specific calorie math
 - Created: [[Research - LTSpice Skills Guide]] + [[LTSpice Complete Skills Guide]] — complete LTSpice reference: 4 simulation types, 10-circuit build ladder, all SPICE directives, power electronics simulation, Monte Carlo, model import, common mistakes, Joe's 4-phase timeline
 - Created: [[Research - Building Social Connections at ASU]] + [[ASU Social Connection Methods Ranked]] — S–D tier list for ASU friendship methods; proximity science; Jeffrey Hall 50–200 hr formula; Joe's action stack
 - Created: [[Research - Where to Get Cheap Books]] + [[Book Sourcing Strategy]] — full S–D tier list for cheap/free books; Libby, BookBub, ThriftBooks, BookFinder; Joe-specific path
