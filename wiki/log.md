@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | Building Social Connections at ASU
+- Created: [[Research - Building Social Connections at ASU]], [[ASU Social Connection Methods Ranked]]
+- Covers: S–D tier list of all ASU social connection methods ranked by friendship formation probability and depth; calibrated for Joe (EE student, Year 1, online/hybrid from Livermore)
+- Key findings: proximity + repeated exposure are the two strongest friendship predictors (seat proximity = 3–5× friendship odds); Jeffrey Hall (2019) = 50 hrs for casual friend, 200+ hrs for close friend; technical project clubs (IEEE ASU, Solar Devils) are S-tier because they generate friendship + career capital simultaneously; first 2 weeks have a unique open social window that closes by week 6–8; study groups in shared classes (MAT 265, PHY 121) are naturally S-tier; parties/bar scene = D-tier because contact hours never accumulate; Joe's action stack = IEEE sub-team + MAT 265 study group + Welcome Week yes-to-everything + ASU EE Discord for online student gap
+
 ## [2026-04-21] autoresearch | Free Time Tier List
 - Created: [[Research - Free Time Tier List]], [[Free Time Tier List]]
 - Covers: S–F tier list of free-time activities ranked by long-term compounding ROI; calibrated for Joe (19yo EE student, ASU Year 1, Livermore CA, trains 6x/week)
