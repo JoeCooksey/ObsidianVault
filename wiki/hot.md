@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: Book Recommendations — Finance, Self-Help, Discipline, Fiction, Business, Stoicism
+2026-04-21 — Autoresearch: College Dating Guide for Young Men
 
 ## Key Recent Facts
 
