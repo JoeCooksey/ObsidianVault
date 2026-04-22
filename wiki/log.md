@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | College Dating Guide for Young Men
+- Created: [[Research - College Dating Guide for Young Men]], [[College Dating Methods Ranked]]
+- Covers: all methods ranked S–D (clubs, classes, apps, cold approach, dorms, work); app comparison (Hinge vs Tinder vs Bumble); the ask formula; physical baseline; mindset principles
+- Key findings: Clubs/classes are S-tier (repeated contact eliminates cold-approach problem); Hinge = best app for relationships; Tinder University = most volume; 93% prefer in-person ask; specificity ("Friday at [place]") is the #1 differentiator in asking someone out; remembering specific conversation details = biggest underused advantage
+
 ## [2026-04-21] autoresearch | Book Recommendations — Finance, Self-Help, Discipline, Fiction, Business, Stoicism
 - Created: [[Research - Book Recommendations Master List]], [[Book List — Finance and Investing]], [[Book List — Self-Help, Discipline, and Productivity]], [[Book List — Stoicism and Philosophy]], [[Book List — Psychology and Persuasion]], [[Book List — Business and Entrepreneurship]], [[Book List — Fiction Must-Reads]]
 - Covers: 7 pages, ~60 books tiered S–B across 6 domains; Joe's 12-book phased reading order; mental models per category; reading sequences and context notes for a 19yo EE student
