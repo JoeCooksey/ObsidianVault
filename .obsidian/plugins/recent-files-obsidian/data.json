@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Top MS EE Programs Physical Side",
+      "path": "wiki/questions/Research - Top MS EE Programs Physical Side.md"
+    },
+    {
       "basename": "Research - College Dating Guide for Young Men",
       "path": "wiki/sources/Research - College Dating Guide for Young Men.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
       "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
-    },
-    {
-      "basename": "Research - LLM Quantization and Edge Hardware",
-      "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
     }
   ],
   "omittedPaths": [],
