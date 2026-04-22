@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - College Dating Guide for Young Men",
+      "path": "wiki/sources/Research - College Dating Guide for Young Men.md"
+    },
+    {
       "basename": "College Dating Methods Ranked",
       "path": "wiki/concepts/College Dating Methods Ranked.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research - LLM Quantization and Edge Hardware",
       "path": "wiki/questions/Research - LLM Quantization and Edge Hardware.md"
-    },
-    {
-      "basename": "Research - WBG Semiconductors in EV Fast Charging",
-      "path": "wiki/questions/Research - WBG Semiconductors in EV Fast Charging.md"
     }
   ],
   "omittedPaths": [],
