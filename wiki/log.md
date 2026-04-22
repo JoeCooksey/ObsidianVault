@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-22] autoresearch | Bulking vs Cutting and Body Composition Guide
+- Created: [[Research - Bulking vs Cutting Body Composition Guide]], [[Bulk and Cut Decision Framework]], [[FFMI Natural Muscle Potential]]
+- Covers: Full guide for a 5'9" male at 156 lbs on whether to bulk, cut, or recomp; FFMI targets; ideal body weight milestones; calorie and protein protocols
+- Key findings: (1) BMI 23.04 = healthy; body fat % is the real decision variable, not scale weight; (2) at 15% BF → FFMI ≈ 19.6 (decent, significant room to grow); (3) decision rule: <15% BF → lean bulk, 15–20% → recomp (if <2yr training), >20% → cut first; (4) lean bulk = +200–300 cal/day over TDEE with 0.25–0.5 lb/week gain target; (5) protein floor = 140–160 g/day regardless of phase; (6) target physique milestone = FFMI 22 = 169 lbs @ 12% BF or 175 lbs @ 15% BF; near natural ceiling = FFMI 25 = 192–199 lbs; (7) Joe's TDEE ≈ 2,800–3,000 cal/day (cycling 6×/week); lean bulk target = 3,000–3,300 cal/day; (8) for beginners/intermediates, body recomp at maintenance + high protein + progressive overload beats aggressive bulk/cut cycling
+
 ## [2026-04-22] autoresearch | LTSpice Complete Skills Guide
 - Created: [[Research - LTSpice Skills Guide]], [[LTSpice Complete Skills Guide]]
 - Covers: Full guide to building LTSpice skills from zero to power electronics simulation; calibrated for Joe (ASU EE freshman, Year 1, self-studying before EEE 202 Circuits I)
