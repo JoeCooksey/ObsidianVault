@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-21] autoresearch | Top MS EE Programs Physical Side (Power Electronics & Semiconductors)
+- Created: [[Research - Top MS EE Programs Physical Side]], [[MS EE Programs Power Electronics Semiconductors]]
+- Covers: 10 schools ranked by specialty (WBG semiconductors, power electronics, semiconductor devices); NC State MS-WBGS detail; Virginia Tech CPES; UT Austin SSE; Purdue online; MIT/Stanford/Berkeley; admission signals; Joe-specific path recommendation
+- Key findings: NC State has the only dedicated WBG MS program in the US (Fall 2026); VT CPES is #1 for power electronics; UT Austin SSE (Fall 2025) has industry-funded fellowships; Joe's recommended path = NC State MS-WBGS + FURI in Year 2 + LLNL/Sandia connection
+
 ## [2026-04-21] autoresearch | College Dating Guide for Young Men
 - Created: [[Research - College Dating Guide for Young Men]], [[College Dating Methods Ranked]]
 - Covers: all methods ranked S–D (clubs, classes, apps, cold approach, dorms, work); app comparison (Hinge vs Tinder vs Bumble); the ask formula; physical baseline; mindset principles
