@@ -12,6 +12,21 @@ tags:
 
 ## Key Recent Facts
 
+### College Dating Guide — newest autoresearch
+- **S-Tier methods**: Clubs & organizations (repeated contact + shared interest = no cold approach needed) + Classes/study groups (weeks of exposure, free conversation starters)
+- **A-Tier methods**: Campus social events/parties + Hinge (best app for relationships, prompts force better openers) + Tinder University (largest college user pool)
+- **B-Tier**: Bumble (women message first = higher signal) + Campus jobs + Dorms
+- **C-Tier**: Cold approach (open contexts only) + OkCupid/CMB
+- **D-Tier**: Bars/clubs + cold DMs
+- **App rankings**: Hinge = best for relationships; Tinder = most volume; Bumble = best signal quality; eHarmony = serious relationships only
+- **The Ask Formula**: 3–5 interactions first → remember specific details from prior conversations → ask when conversation is flowing → "Would you want to get [dinner] at [specific place] on [specific day]?" → one re-offer max
+- **93% of women prefer in-person ask** over text/app message
+- **95% found it meaningful** when a guy remembered specific conversation details — biggest underused advantage
+- **Specificity is the #1 differentiator**: "hang out sometime" = low intent; "dinner at [X] on Friday" = high intent, far more effective
+- **Physical baseline** (prerequisite): daily hygiene, consistent exercise (Joe already trains 6 days/week = top 5%), 2–3 specific genuine interests to talk about
+- **Mindset**: dating is not a transaction; rejection is data not verdict; consistency (showing up weekly) beats grand gestures; be the person worth dating first
+- **50% of engaged couples** met through apps/websites (up from 39% eight years ago); 78% of app users feel emotionally drained — use apps as supplement, not replacement
+
 ### Book Recommendations — newest autoresearch
 - **6 domains covered**: Finance & Investing, Self-Help & Discipline, Stoicism & Philosophy, Psychology & Persuasion, Business & Entrepreneurship, Fiction
 - **Finance S-tier**: *The Intelligent Investor* (Graham) — value investing bible; *The Psychology of Money* (Housel) — best starting point for 20s; *The Essays of Warren Buffett*
