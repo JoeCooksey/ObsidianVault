@@ -50,6 +50,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Classical Mechanics in Electrical Engineering]] — mechanical-electrical analogy, motor/generator dynamics, MEMS, vibration-to-resonance (developing)
 - [[Electromagnetism Foundations for EE]] — Gauss/Faraday/Ampere/Lorentz mapped to components, transformers, motors, antennas (developing)
 
+### Grad School / MS EE Programs
+- [[MS EE Programs Power Electronics Semiconductors]] — quick-reference tier list: NC State WBG, VT CPES, UT Austin SSE, Purdue, MIT/Stanford/Berkeley (developing)
+
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
