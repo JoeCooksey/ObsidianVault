@@ -167,6 +167,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Dating / Relationships
 - [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
 
+### Social Connection / Friendships
+- [[ASU Social Connection Methods Ranked]] — S–D tier list of all ASU friendship-building methods; IEEE/Solar Devils S-tier; study groups S-tier; proximity science; Joe's action stack (developing)
+
 ### Networking / Relationships
 - [[Social Confidence Building]] — Three-staircase model (micro → sustained → high-stakes); conversation techniques (Flooding Smile, Sticky Eyes, mirroring); cognitive restructuring; identity shift (developing)
 - [[Social Anxiety Exposure Hierarchy]] — SUDS 0–100 fear ladder; protocol for bottom-up graduated exposure; extinction curve (developing)
