@@ -8,9 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: Where to Get Cheap Books
+2026-04-21 — Autoresearch: Free Time Tier List
 
 ## Key Recent Facts
+
+### Free Time Tier List — newest autoresearch
+- **S-Tier (maximum compounding)**: EE self-study (LTspice/Python/Git/breadboard — Year 1 leverage window, zero EE courses = exploit this gap NOW) + Deep reading (books from Phase 1–3 list = top 1% cognitive compounding) + Quality in-person social time (Harvard 80-year study: relationships > career/money for late-life happiness AND health)
+- **A-Tier (compound slowly, do consistently)**: Side projects/GitHub (identity capital + internship portfolio) + Clubs — IEEE ASU, Solar Car (warm network via repeated contact) + Deliberate rest (walks, naps, journaling — not scrolling) + Weekly journaling/review (42% better goal follow-through)
+- **B-Tier (supporting role, use during lower-intensity time)**: High-quality educational media (Huberman Lab, 3Blue1Brown, Lex Fridman — use for Zone 2 cardio sessions) + Cooking (life skill compounding daily for 60+ years) + Outdoor time (cortisol ↓, attention restoration theory)
+- **C-Tier (fine in moderation)**: Gaming (capped 1–2 hrs/week) + Casual TV (intentional, one series at a time) + Passive socializing (fine, lower compounding than activity-based)
+- **D-Tier (time sinks)**: Social media browsing (degrades attention — measured P300 reduction in TikTok heavy users; US adults average <16 min/day reading, down from 23 min; these cannibalize each other directly) + Regular heavy drinking (disrupts sleep architecture, money, cognition)
+- **F-Tier (actively harmful)**: Doom-scrolling at night (blue light → delayed melatonin → less REM → worse cognition next day → craving more scrolling — measurable loop) + Comparison scrolling (upward social comparison = one of most reliable happiness reducers in social psychology)
+- **The core insight**: The biggest lever is not adding more S-tier activities — it's **eliminating D/F defaults that fill idle gaps by inertia**. Phone out of bedroom, 20-min social media cap, default answer ready for "what do I do now?"
+- **Optimal free time**: 2–5 hrs/day maximizes happiness (Rutgers/Holmes research); <2 hrs = stress; >5 hrs passive/solo = boredom/meaninglessness; 5+ hrs social/active = fine
+- **Joe's top opportunity**: He already does S-tier exercise (6 days/week cycling). The gap is EE self-study + reading + eliminating passive phone time.
 
 ### Where to Get Cheap Books — newest autoresearch
 - **S-tier free**: Libby app (library card = free ebooks + audiobooks; #1 most underused tool) + BookBub (free daily $0–$1 ebook deals, 40+ genres, no subscription) + Project Gutenberg (70k+ public domain classics free)
