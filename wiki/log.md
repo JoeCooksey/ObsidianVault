@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-22] autoresearch | LTSpice Complete Skills Guide
+- Created: [[Research - LTSpice Skills Guide]], [[LTSpice Complete Skills Guide]]
+- Covers: Full guide to building LTSpice skills from zero to power electronics simulation; calibrated for Joe (ASU EE freshman, Year 1, self-studying before EEE 202 Circuits I)
+- Key findings: (1) 4 core simulation types to master in order: .op → .tran → .ac → .dc; (2) 10-circuit progressive build ladder from voltage divider to closed-loop buck converter; (3) .step parametric sweep is the key power command that separates basic from advanced users; (4) import third-party SPICE models from manufacturer websites (TI, Wolfspeed, Infineon) using .lib directive; (5) power electronics simulations use PULSE source for PWM + MOSFET + LC + .meas for efficiency; (6) Monte Carlo requires {mc(nominal,tol)} syntax + .step run iterations; (7) 8 common beginner mistakes documented with fixes (most common: no DC path to ground = singular matrix error); (8) Joe's 4-phase timeline: Month 1 RC/RLC basics → Month 2 op-amps/.step → Month 3 buck converter → Month 4+ advanced (Monte Carlo, FRA, noise)
+
 ## [2026-04-21] autoresearch | Building Social Connections at ASU
 - Created: [[Research - Building Social Connections at ASU]], [[ASU Social Connection Methods Ranked]]
 - Covers: S–D tier list of all ASU social connection methods ranked by friendship formation probability and depth; calibrated for Joe (EE student, Year 1, online/hybrid from Livermore)
