@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LTSpice Complete Skills Guide",
+      "path": "wiki/concepts/LTSpice Complete Skills Guide.md"
+    },
+    {
+      "basename": "Research - LTSpice Skills Guide",
+      "path": "wiki/questions/Research - LTSpice Skills Guide.md"
+    },
+    {
       "basename": "Free Time Tier List",
       "path": "wiki/concepts/Free Time Tier List.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Supplement Tier List Complete",
       "path": "wiki/concepts/Supplement Tier List Complete.md"
-    },
-    {
-      "basename": "Biohacking Tier List",
-      "path": "wiki/concepts/Biohacking Tier List.md"
-    },
-    {
-      "basename": "The Laws of Human Nature - Robert Greene",
-      "path": "wiki/sources/The Laws of Human Nature - Robert Greene.md"
     }
   ],
   "omittedPaths": [],
