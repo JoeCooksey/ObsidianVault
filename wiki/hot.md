@@ -8,9 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: Top MS EE Programs Physical Side
+2026-04-21 — Autoresearch: Where to Get Cheap Books
 
 ## Key Recent Facts
+
+### Where to Get Cheap Books — newest autoresearch
+- **S-tier free**: Libby app (library card = free ebooks + audiobooks; #1 most underused tool) + BookBub (free daily $0–$1 ebook deals, 40+ genres, no subscription) + Project Gutenberg (70k+ public domain classics free)
+- **Book swapping**: BookMooch / PaperBackSwap — list books you own, earn credits, request others; completely free exchange
+- **Little Free Library**: take a book, leave a book; neighborhood network
+- **Best paid used-book sites**: ThriftBooks (#1 overall — 13M titles, free shipping >$10, rewards program) + Better World Books (cheap + funds literacy nonprofits; 6-for-$15 sales) + AbeBooks (books from $1; individual sellers) + Book Outlet (50–90% off new overstock)
+- **Price comparison tools**: BookFinder.com (compares 100k+ sellers simultaneously) + BookScouter.com (best for textbooks) — run these before buying anything >$10
+- **Kindle Unlimited**: $9.99/month; worth it if reading 3+ books/month; 4M+ titles including indie/self-published
+- **Physical hunting**: thrift stores ($0.50–2), library book sales ($0.25–3, sometimes $1/bag day), Half Price Books stores, garage/estate sales
+- **Joe's reading list cost**: 9-book Phase 1–2 list costs ~$0 via Libby, or ~$25–35 total buying all via ThriftBooks
+- **Decision tree**: public domain? → Project Gutenberg free. Can wait 1–2 weeks? → Libby. Want ebook deal? → BookBub. Want physical now? → BookFinder then ThriftBooks.
 
 ### Top MS EE Programs — Physical Side — newest autoresearch
 - **NC State MS-WBGS**: only dedicated MS in Wide Bandgap Semiconductors in the US; launches Fall 2026; covers SiC/GaN device physics, fabrication, characterization, EV power systems; plugged into PowerAmerica (49 WBG industry members) and FREEDM Center; hybrid online + on-campus summer practicum; **highest-leverage program for Joe's WBG career track**
