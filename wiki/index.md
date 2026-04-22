@@ -225,6 +225,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - First Job Roadmap Livermore CA]] — Local employer map, LLNL/Sandia internship timelines, ASU resources, phase-by-phase roadmap (developing)
 - [[Research - First-Year ASU EE Skills]] — 8 key findings; ASU curriculum map, freshman self-study stack, portfolio strategy, hiring survey data (developing)
 - [[Research - EE Physical Side Skills for Semiconductors and Power]] — 8 key findings; hiring signals, 18-month actionable plan, WBG career context (developing)
+- [[Research - LTSpice Skills Guide]] — 8 key findings; 4 simulation types, 10-circuit ladder, SPICE directives, power electronics sim, common mistakes, Joe's 4-phase timeline (complete)
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
