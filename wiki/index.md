@@ -155,6 +155,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Career / Job Search
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 
+### Dating / Relationships
+- [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
+
 ### Networking / Relationships
 - [[Social Confidence Building]] — Three-staircase model (micro → sustained → high-stakes); conversation techniques (Flooding Smile, Sticky Eyes, mirroring); cognitive restructuring; identity shift (developing)
 - [[Social Anxiety Exposure Hierarchy]] — SUDS 0–100 fear ladder; protocol for bottom-up graduated exposure; extinction curve (developing)
