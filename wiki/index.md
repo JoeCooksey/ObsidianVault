@@ -118,6 +118,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
 - [[VO2 Max Interval Training]] — 2–4 min at 106–120% FTP; concentrated 2–3 week blocks (developing)
 - [[Strength Training for Cyclists]] — 4-phase off-season gym arc: Adaptation → Hypertrophy → Strength → Power (developing)
+- [[Bulk and Cut Decision Framework]] — BF%-based decision rule; lean bulk/cut/recomp protocols; calorie math; cycle structure (developing)
+- [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
 
 ### Health / Personal
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
