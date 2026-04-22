@@ -8,9 +8,29 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-22 — Autoresearch: LTSpice Complete Skills Guide
+2026-04-22 — Autoresearch: Bulking vs Cutting and Body Composition Guide
 
 ## Key Recent Facts
+
+### Bulking vs Cutting — newest autoresearch
+- **Joe's stats**: 5'9" (1.7526 m), 156 lbs (70.76 kg), BMI 23.04 (healthy range — no urgency to change direction)
+- **FFMI at current weight**: ~19.6 @ 15% BF / ~20.7 @ 10% BF / ~18.4 @ 20% BF — decent baseline, meaningful room to grow
+- **Decision rule (by BF%)**: <15% → lean bulk | 15–20% → recomp (esp. if <2yr training) | >20% → cut to 12–15% first, then bulk
+- **Visual test**: See abs clearly → bulk; faint ab outline → recomp; no abs, noticeable belly → cut first
+- **Most likely call at 156 lbs**: BF probably 13–18% for an active person → lean bulk or recomp
+- **Lean bulk protocol**: +200–300 cal/day over TDEE; gain 0.25–0.5 lb/week; protein 140–160 g/day; stop at ~18–20% BF
+- **Cut protocol**: −300–500 cal/day; lose 0.5–1% bodyweight/week; protein stays HIGH at 128–156 g/day; maintain strength training; stop at 12–15% BF
+- **Body recomp (best for beginners)**: Eat at TDEE ± 100–200; protein 140–160 g/day; progressive overload required; track waist + photos + strength, not scale
+- **Joe's TDEE** (cycling 6×/week): ~2,800–3,000 cal/day; lean bulk = 3,000–3,300 cal; cut = 2,300–2,500 cal
+- **Protein floor**: 140–160 g/day regardless of phase — this is the single most impactful nutritional variable
+- **FFMI target milestones at 5'9"**:
+  - FFMI 20–21: "Looks like you lift" = ~155–165 lbs @ 12% BF
+  - FFMI 22: Great natural physique = **169 lbs @ 12% BF / 175 lbs @ 15% BF** ← realistic 2–4 yr goal
+  - FFMI 25: Near natural ceiling = **192 lbs @ 12% BF / 199 lbs @ 15% BF** ← exceptional genetics + 8–10 yr
+- **Muscle gain rate**: Beginner Year 1 = 1.5–2 lbs/month; Intermediate Year 2 = 1–1.5 lbs/month; Advanced = 0.25–0.5 lbs/month
+- **Lean mass gap**: FFMI 19.6 → 22 requires ~+15 lbs lean mass = 1.5–3 year project at beginner-intermediate rates
+- **Critical insight**: Bigger caloric surplus does NOT = more muscle. Intermediate on 1,000 cal surplus builds 5:1 fat-to-muscle ratio; +300 cal/day approaches 1:1–2:1 ratio
+- **FFMI natural limit**: ~25 for elite genetic responders; most plateau at 22–23; FFMI >26 = statistical flag for PED use (Kouri et al. 1995)
 
 ### LTSpice Skills Guide — newest autoresearch
 - **4 simulation types in order**: `.op` (DC bias check, always run first) → `.tran` (time-domain, most used) → `.ac` (Bode plot/frequency response) → `.dc` (sweep a source, I-V curves)
