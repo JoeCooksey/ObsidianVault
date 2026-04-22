@@ -37,14 +37,14 @@ Books can be obtained for free or at steep discounts through a layered strategy:
 
 ### A-Tier — Under $5
 
-| Site | Model | Strengths | Notes |
-|---|---|---|---|
-| **ThriftBooks** | Used book marketplace, 13M+ titles | Free shipping over $10; ReadingReward loyalty program; very clean interface | Best single destination for cheap used physical books |
-| **Better World Books** | Used books + social mission | Often runs 6-for-$15 sales; free worldwide shipping; funds literacy nonprofits | Good for bulk buying |
-| **AbeBooks** | Amazon subsidiary, individual sellers | Books from $1; huge selection including rare/out-of-print | Watch for high shipping on cheap listings |
-| **Book Outlet** | Publisher overstock | 50–90% off cover price on new surplus books | Selection rotates; great for browsing |
-| **Biblio** | Independent seller marketplace | Rare, first editions, out-of-print; privacy-focused alternative to AbeBooks | Best for collector copies |
-| **Alibris** | Used book marketplace | Books from $1 from individual sellers | Similar to AbeBooks; sometimes cheaper |
+| Site                   | Model                                 | Strengths                                                                      | Notes                                                 |
+| ---------------------- | ------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| **ThriftBooks**        | Used book marketplace, 13M+ titles    | Free shipping over $10; ReadingReward loyalty program; very clean interface    | Best single destination for cheap used physical books |
+| **Better World Books** | Used books + social mission           | Often runs 6-for-$15 sales; free worldwide shipping; funds literacy nonprofits | Good for bulk buying                                  |
+| **AbeBooks**           | Amazon subsidiary, individual sellers | Books from $1; huge selection including rare/out-of-print                      | Watch for high shipping on cheap listings             |
+| **Book Outlet**        | Publisher overstock                   | 50–90% off cover price on new surplus books                                    | Selection rotates; great for browsing                 |
+| **Biblio**             | Independent seller marketplace        | Rare, first editions, out-of-print; privacy-focused alternative to AbeBooks    | Best for collector copies                             |
+| **Alibris**            | Used book marketplace                 | Books from $1 from individual sellers                                          | Similar to AbeBooks; sometimes cheaper                |
 
 ---
 

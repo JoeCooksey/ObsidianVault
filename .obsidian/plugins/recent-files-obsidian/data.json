@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Book List — Business and Entrepreneurship",
+      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
+    },
+    {
+      "basename": "Research - Where to Get Cheap Books",
+      "path": "wiki/questions/Research - Where to Get Cheap Books.md"
+    },
+    {
+      "basename": "Book Sourcing Strategy",
+      "path": "wiki/concepts/Book Sourcing Strategy.md"
+    },
+    {
       "basename": "Research - Top MS EE Programs Physical Side",
       "path": "wiki/questions/Research - Top MS EE Programs Physical Side.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Book List — Fiction Must-Reads",
       "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
-    },
-    {
-      "basename": "Book List — Business and Entrepreneurship",
-      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
     },
     {
       "basename": "Research - Book Recommendations Master List",
@@ -191,14 +199,6 @@
     {
       "basename": "Differential Equations in Electrical Engineering",
       "path": "wiki/concepts/Differential Equations in Electrical Engineering.md"
-    },
-    {
-      "basename": "Calculus in Electrical Engineering",
-      "path": "wiki/concepts/Calculus in Electrical Engineering.md"
-    },
-    {
-      "basename": "Darkesh-Patel-Jensen-Huang-Nvidia-2025",
-      "path": "wiki/sources/Darkesh-Patel-Jensen-Huang-Nvidia-2025.md"
     }
   ],
   "omittedPaths": [],
