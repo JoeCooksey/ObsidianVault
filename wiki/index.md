@@ -219,6 +219,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Where to Get Cheap Books]] — full tier list (S=free → D=avoid); Libby, BookBub, ThriftBooks, AbeBooks, BookFinder, Project Gutenberg; Joe-specific sourcing path for his 9-book reading list (complete)
 - [[Research - Top MS EE Programs Physical Side]] — 10 schools ranked; NC State WBG MS, VT CPES, UT Austin SSE; Joe's recommended path to NC State + PowerAmerica pipeline (developing)
 - [[Research - College Dating Guide for Young Men]] — all methods ranked S–D; app rankings; the ask formula; baseline stack; mindset principles (complete)
+- [[Research - Building Social Connections at ASU]] — 8 key findings; proximity science; Jeffrey Hall 50–200 hr formula; ASU-specific resources; online student strategy (developing)
 - [[Research - Social Confidence and Climbing the Social Ladder]] — 8 key findings; 12-week week-by-week plan; CBT + exposure hierarchy; conversation techniques; social ladder strategy (developing)
 - [[Research - First Job Roadmap Livermore CA]] — Local employer map, LLNL/Sandia internship timelines, ASU resources, phase-by-phase roadmap (developing)
 - [[Research - First-Year ASU EE Skills]] — 8 key findings; ASU curriculum map, freshman self-study stack, portfolio strategy, hiring survey data (developing)
