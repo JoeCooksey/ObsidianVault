@@ -8,11 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: College Dating Guide for Young Men
+2026-04-21 — Autoresearch: Top MS EE Programs Physical Side
 
 ## Key Recent Facts
 
-### College Dating Guide — newest autoresearch
+### Top MS EE Programs — Physical Side — newest autoresearch
+- **NC State MS-WBGS**: only dedicated MS in Wide Bandgap Semiconductors in the US; launches Fall 2026; covers SiC/GaN device physics, fabrication, characterization, EV power systems; plugged into PowerAmerica (49 WBG industry members) and FREEDM Center; hybrid online + on-campus summer practicum; **highest-leverage program for Joe's WBG career track**
+- **Virginia Tech CPES**: Center for Power Electronics Systems; #1 power electronics research institution; $6–7M annual research, ~100 researchers; MS (research-based) or MEng (project-based); best for converter/inverter/magnetics focus
+- **UT Austin SSE**: new Fall 2025 MS in Semiconductor Science and Engineering; 4 tracks (manufacturing, circuits & systems, heterogeneous integration, devices); industry-funded fellowships cover tuition + stipend + health insurance; GRE not required; Samsung/TI/NXP/Applied Materials all local
+- **Purdue**: online-available MS in Microelectronics & Semiconductors within top-10 engineering school; best option if working full-time concurrent
+- **MIT / Stanford / Berkeley**: tied #1 globally but not physical-side specialists; extremely competitive; best for academic/research track or broadest career optionality
+- **Selection rule**: WBG semiconductors → NC State; power converters/inverters → VT CPES; semiconductor fabrication → UT Austin; online/concurrent → Purdue; maximum optionality → MIT/Stanford/Berkeley
+- **Joe's recommended path**: FURI in Year 2 at ASU → apply NC State MS-WBGS or VT CPES during senior year → LLNL/Sandia have direct collaborations with NC State PowerAmerica → loops back to Livermore career plan
+- **Admission signals**: GPA ≥ 3.0 minimum (competitive = 3.5+); GRE mostly optional; research/lab experience high weight at VT/MIT/Stanford; must name specific faculty in SOP
+
+### College Dating Guide — previous autoresearch
 - **S-Tier methods**: Clubs & organizations (repeated contact + shared interest = no cold approach needed) + Classes/study groups (weeks of exposure, free conversation starters)
 - **A-Tier methods**: Campus social events/parties + Hinge (best app for relationships, prompts force better openers) + Tinder University (largest college user pool)
 - **B-Tier**: Bumble (women message first = higher signal) + Campus jobs + Dorms
