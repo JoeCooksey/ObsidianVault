@@ -1,16 +1,32 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-04-21T12:00:00
+updated: 2026-04-22T12:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: Building Social Connections at ASU
+2026-04-22 — Autoresearch: LTSpice Complete Skills Guide
 
 ## Key Recent Facts
+
+### LTSpice Skills Guide — newest autoresearch
+- **4 simulation types in order**: `.op` (DC bias check, always run first) → `.tran` (time-domain, most used) → `.ac` (Bode plot/frequency response) → `.dc` (sweep a source, I-V curves)
+- **10-circuit ladder**: voltage divider → RC filter (Bode plot) → RL transient → RLC resonance → diode rectifier → op-amp inverting → Sallen-Key active filter → MOSFET I-V → buck converter → closed-loop buck
+- **Power command**: `.step param R1 100 1k 100` is a for-loop that runs the whole sim for each R1 value — key to sweeping parameters
+- **SPICE directive cheat**: S key → type `.tran 10m` or `.ac dec 100 1 1Meg` or `.step param...` — these go directly on the schematic
+- **PWM source for power electronics**: `PULSE(0 15 0 10n 10n {D/fs} {1/fs})` — drives a MOSFET gate at duty cycle D and frequency fs
+- **Import third-party models**: download `.lib` from TI/Wolfspeed/Infineon → add `.lib "path/to/model.lib"` as SPICE directive → part is now simulatable
+- **Monte Carlo**: `R = {mc(1k, 0.05)}` + `.step param run 1 100 1` → 100 random runs showing tolerance spread
+- **Most common beginner error**: no DC path to ground → "singular matrix" error; also: forgetting AC 1 attribute on AC source = all-zero Bode output
+- **Joe's Phase 1 first session** (1h): install LTSpice → voltage divider → `.op` → verify 4.5V midpoint → RC filter → `.ac dec 100 1 1Meg` → Bode plot appears
+- **Key shortcuts**: F2=component, F3=wire, F4=label, G=ground, S=SPICE directive, F7=move, Ctrl+R=rotate
+- **Best free resources**: SparkFun Getting Started guide (best written beginner tutorial), Afrotechmods YouTube (best video), LTwiki.org (all SPICE directives), Simon Bramble tutorials (power electronics focus)
+- **Month 3 milestone**: simulate a real buck converter with MOSFET model from Wolfspeed + measure efficiency with `.meas` → puts Joe ahead of most juniors at internship time
+
+
 
 ### Building Social Connections at ASU — newest autoresearch
 - **S-Tier**: Technical project club sub-teams (IEEE ASU, Solar Devils) — same 5–10 people weekly, shared mission, career capital simultaneously + Study groups (lab/recitation) — seat proximity = 3–5× friendship odds (2022 Frontiers in Psychology, n=235) + First-year dorm floor (41% friendship rate with next-door neighbor)
