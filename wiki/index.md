@@ -161,6 +161,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Career / Job Search
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 
+### Free Time / Lifestyle
+- [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
+
 ### Dating / Relationships
 - [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
 
