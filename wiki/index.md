@@ -212,6 +212,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
 ## Questions / Synthesis
+- [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Where to Get Cheap Books]] — full tier list (S=free → D=avoid); Libby, BookBub, ThriftBooks, AbeBooks, BookFinder, Project Gutenberg; Joe-specific sourcing path for his 9-book reading list (complete)
 - [[Research - Top MS EE Programs Physical Side]] — 10 schools ranked; NC State WBG MS, VT CPES, UT Austin SSE; Joe's recommended path to NC State + PowerAmerica pipeline (developing)
 - [[Research - College Dating Guide for Young Men]] — all methods ranked S–D; app rankings; the ask formula; baseline stack; mindset principles (complete)
