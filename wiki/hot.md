@@ -8,9 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-21 — Autoresearch: Free Time Tier List
+2026-04-21 — Autoresearch: Building Social Connections at ASU
 
 ## Key Recent Facts
+
+### Building Social Connections at ASU — newest autoresearch
+- **S-Tier**: Technical project club sub-teams (IEEE ASU, Solar Devils) — same 5–10 people weekly, shared mission, career capital simultaneously + Study groups (lab/recitation) — seat proximity = 3–5× friendship odds (2022 Frontiers in Psychology, n=235) + First-year dorm floor (41% friendship rate with next-door neighbor)
+- **A-Tier**: Rec sports / cycling club (shared physical effort = fast bonding) + Campus jobs especially undergrad research assistant + Welcome Week (first 2 weeks = unique open window that closes by week 6–8 — say yes to everything)
+- **B-Tier**: Large club general meetings without sub-team commitment (upgrade: join a project team) + Greek life (high time/money cost, not ideal for Joe's EE track) + Campus events (one-off, weak ties)
+- **C-Tier**: Large lectures without study group formation + ASU Discord / Bumble BFF (best for online students like Joe)
+- **D-Tier**: Parties/bar scene (transient crowd, never accumulates 50+ hrs with same person) + cold social media DMs
+- **The time math** (Jeffrey Hall, 2019): casual friend = 50 hrs; close friend = 200+ hrs; a study group 3×/week for 12 weeks = 36 hrs; a project team 6×/week for 16 weeks = 96 hrs; parties = <20 hrs total with any one person
+- **First 2-week window**: social groups stabilize by week 6–8; Join everything in week 1–2, convert to regular context fast
+- **Joe's online barrier**: proximity mechanisms (dorms, seats) are limited by hybrid setup; fix = IEEE sub-team (if on campus), ASU EE Discord (digital), Makerspace visits
+- **Joe's action stack**: IEEE ASU sub-team (electrical/battery/power) + MAT 265 study group week 1 + Welcome Week yes-to-everything + ASU EE Discord
+- **Key insight**: 2 deep contexts > 10 surface ones. Pick IEEE and one other, go deep in both. The people you meet in IEEE become your internship network, study partners, and lifelong connections.
 
 ### Free Time Tier List — newest autoresearch
 - **S-Tier (maximum compounding)**: EE self-study (LTspice/Python/Git/breadboard — Year 1 leverage window, zero EE courses = exploit this gap NOW) + Deep reading (books from Phase 1–3 list = top 1% cognitive compounding) + Quality in-person social time (Harvard 80-year study: relationships > career/money for late-life happiness AND health)
