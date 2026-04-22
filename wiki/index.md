@@ -203,6 +203,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
 ## Questions / Synthesis
+- [[Research - College Dating Guide for Young Men]] — all methods ranked S–D; app rankings; the ask formula; baseline stack; mindset principles (complete)
 - [[Research - Social Confidence and Climbing the Social Ladder]] — 8 key findings; 12-week week-by-week plan; CBT + exposure hierarchy; conversation techniques; social ladder strategy (developing)
 - [[Research - First Job Roadmap Livermore CA]] — Local employer map, LLNL/Sandia internship timelines, ASU resources, phase-by-phase roadmap (developing)
 - [[Research - First-Year ASU EE Skills]] — 8 key findings; ASU curriculum map, freshman self-study stack, portfolio strategy, hiring survey data (developing)
