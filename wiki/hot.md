@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-22 — Autoresearch: High Income Skills Tier List (general + EE) + 4-phase action plan
+2026-04-23 — Autoresearch: How to Find an EE Mentor at ASU — tier list + faculty contacts + Year 1 action stack
 
 ## Key Recent Facts
 
