@@ -12,7 +12,17 @@ tags:
 
 ## Key Recent Facts
 
-### High Income Skills Tier List — newest autoresearch
+### EE Mentorship at ASU — newest autoresearch
+- **Auto-assigned peer mentor**: every first-year ASU engineering student gets one on day 1 — activate immediately at students.engineering.asu.edu/peer-mentors/
+- **FURI = highest-leverage faculty mentorship**: $1,500 stipend + research experience; apply sophomore year; 117 students participated Fall 2025; build faculty relationship NOW via office hours
+- **Top power electronics faculty to approach**: Prof. Mike Ranjram (MAPEL, mike.ranjram@asu.edu) — WBG devices + miniaturized converters, FURI-friendly; Prof. Raja Ayyanar (rayyanar@asu.edu) — EV/PV/WBG/motor drives
+- **Cold email formula**: read 1–2 papers → 7–12 sentences (who you are + specific interest + value offer + meeting request) → one email at a time → wait 7 business days before follow-up
+- **IEEE ASU Branch** (600+ members) = S-tier organic path to mentors; project sub-teams create relationships without cold approach; join week 1
+- **IEEE Collabratec Mentor Program**: self-select global industry mentors by technical area; ~$32/year IEEE student membership required
+- **Barrett Alumni Mentorship** (Oct–March): structured EE alumni pairing; contact barrettmentors@asu.edu; 3 commitment tiers
+- **Joe's Year 1 action stack**: Week 1 = IEEE event + peer mentor contact → Month 1 = IEEE membership + Collabratec profile → Month 2–3 = Ranjram/Ayyanar office hours → Year 2 = FURI application
+
+### High Income Skills Tier List — previous autoresearch
 - **#1 general skill (2026)**: AI/ML Engineering — $155k–$200k base; LLM specialists +25–40% premium → $200k–$350k; fastest legitimately learnable path to top-decile income
 - **#1 EE specialization**: Analog/Mixed-Signal IC Design — median $222k, 90th percentile $349k; 5–10 year mastery curve; Apple/Qualcomm/NVIDIA/ADI/TI compete fiercely; most scarcity-protected EE career
 - **Most underrated EE skill**: FPGA Engineering — avg $175k, top earners $251k+; Sandia National Lab (Livermore!) is a direct employer; 2–4 years to proficiency; Verilog/VHDL is the gateway
