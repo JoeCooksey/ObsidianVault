@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - EE Mentorship at ASU",
+      "path": "wiki/questions/Research - EE Mentorship at ASU.md"
+    },
+    {
       "basename": "Free Time Tier List",
       "path": "wiki/concepts/Free Time Tier List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Health Protocol Tier List",
       "path": "wiki/concepts/Health Protocol Tier List.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
     }
   ],
   "omittedPaths": [],
