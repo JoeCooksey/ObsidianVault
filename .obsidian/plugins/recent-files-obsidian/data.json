@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-23",
+      "path": "Daily News Debrief/2026-04-23.md"
+    },
+    {
+      "basename": "2026-04-23",
+      "path": "Journal/Daily/2026-04-23.md"
+    },
+    {
       "basename": "Food Health Tier List — Overall",
       "path": "wiki/concepts/Food Health Tier List — Overall.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Research - Complete Biohacking Guide",
       "path": "wiki/questions/Research - Complete Biohacking Guide.md"
-    },
-    {
-      "basename": "Research - EE Physical Side Skills for Semiconductors and Power",
-      "path": "wiki/questions/Research - EE Physical Side Skills for Semiconductors and Power.md"
-    },
-    {
-      "basename": "Biohacking Health Products Protocol",
-      "path": "wiki/concepts/Biohacking Health Products Protocol.md"
     }
   ],
   "omittedPaths": [],
