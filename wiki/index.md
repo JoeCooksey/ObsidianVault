@@ -161,6 +161,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
+### Income / Career Tier Lists
+- [[High Income Skills Tier List]] — S–C ranking of all learnable skills by 2026 salary ceiling; AI/ML S-tier, power electronics A-tier, freelance ceilings (developing)
+- [[EE Specialization Salary Tier List]] — EE-specific tier list: analog/mixed-signal S-tier ($222k median), FPGA S-tier ($175k avg), WBG power electronics A-tier ($112k–$230k); Joe income ladder (developing)
+- [[EE High Income Action Plan]] — 4-phase Joe-specific roadmap: foundation → power electronics → WBG specialization → FPGA/AI second stack; LLNL/Sandia 2027 target (developing)
+
 ### Career / Job Search
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 
