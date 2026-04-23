@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-22] autoresearch | High Income Skills Tier List
+- Created: [[Research - High Income Skills Tier List]], [[High Income Skills Tier List]], [[EE Specialization Salary Tier List]], [[EE High Income Action Plan]]
+- Covers: General high-income skills ranked S–C by 2026 salary data; EE-specific specializations ranked by salary ceiling + demand; 4-phase Joe-specific action plan from ASU Year 1 to LLNL/Sandia 2027 internship and WBG career
+- Key findings: (1) AI/ML Engineering is the highest-paying learnable skill ($155k–$350k); (2) Analog/Mixed-Signal IC Design = highest-paid EE specialization (median $222k, top $349k); (3) FPGA Engineering = most underrated high-pay EE skill ($175k avg, $251k 90th percentile) and directly relevant for Sandia/LLNL Livermore; (4) Power Electronics (WBG SiC/GaN) = $112k–$230k with steepest demand growth; (5) Embedded Firmware + RTOS = widest on-ramp to $150k+ for EE students (12–18 months to job-ready); (6) Skill stacking (EE + Python/AI) creates 20–30% salary premium; (7) Freelance ceiling: ML engineers $120–250/hr, FPGA $100–175/hr, power electronics consultants $75–150/hr; (8) Joe's optimal path = power electronics WBG primary + FPGA or Python/AI secondary stack
+
 ## [2026-04-22] autoresearch | Bulking vs Cutting and Body Composition Guide
 - Created: [[Research - Bulking vs Cutting Body Composition Guide]], [[Bulk and Cut Decision Framework]], [[FFMI Natural Muscle Potential]]
 - Covers: Full guide for a 5'9" male at 156 lbs on whether to bulk, cut, or recomp; FFMI targets; ideal body weight milestones; calorie and protein protocols
