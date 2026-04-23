@@ -51,6 +51,12 @@ tags:
 - Embedded Firmware Engineering: $168k avg, $245k 90th percentile
 - Power Electronics: $132k avg, $210k 90th percentile
 
+### High Income Skills Tier List — previous autoresearch
+- **#1 general skill (2026)**: AI/ML Engineering — $155k–$200k base; LLM specialists +25–40% premium → $200k–$350k; fastest legitimately learnable path to top-decile income
+- **#1 EE specialization**: Analog/Mixed-Signal IC Design — median $222k, 90th percentile $349k; 5–10 year mastery curve; Apple/Qualcomm/NVIDIA/ADI/TI compete fiercely; most scarcity-protected EE career
+- **Joe's primary track**: Power Electronics WBG (SiC/GaN) — $112k–$230k; steepest demand growth of any EE field
+- **EE income ladder for Joe**: Student now → $25–35/hr internship (2027) → $90–120k entry (2029 BS) → $120–160k WBG specialist (2031 MS) → $150–230k senior (2034) → $200–300k principal (2039)
+
 ### Bulking vs Cutting — previous autoresearch
 - **Joe's stats**: 5'9" (1.7526 m), 156 lbs (70.76 kg), BMI 23.04 (healthy range — no urgency to change direction)
 - **FFMI at current weight**: ~19.6 @ 15% BF / ~20.7 @ 10% BF / ~18.4 @ 20% BF — decent baseline, meaningful room to grow
