@@ -8,11 +8,40 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-22 — Autoresearch: Bulking vs Cutting and Body Composition Guide
+2026-04-22 — Autoresearch: High Income Skills Tier List (general + EE) + 4-phase action plan
 
 ## Key Recent Facts
 
-### Bulking vs Cutting — newest autoresearch
+### High Income Skills Tier List — newest autoresearch
+- **#1 general skill (2026)**: AI/ML Engineering — $155k–$200k base; LLM specialists +25–40% premium → $200k–$350k; fastest legitimately learnable path to top-decile income
+- **#1 EE specialization**: Analog/Mixed-Signal IC Design — median $222k, 90th percentile $349k; 5–10 year mastery curve; Apple/Qualcomm/NVIDIA/ADI/TI compete fiercely; most scarcity-protected EE career
+- **Most underrated EE skill**: FPGA Engineering — avg $175k, top earners $251k+; Sandia National Lab (Livermore!) is a direct employer; 2–4 years to proficiency; Verilog/VHDL is the gateway
+- **Joe's primary track**: Power Electronics WBG (SiC/GaN) — $112k–$230k; steepest demand growth of any EE field; every EV traction inverter is moving to SiC; 10–20 year demand runway
+- **Best on-ramp to $150k+ for EE student**: Embedded Firmware + RTOS — $114k–$244k; C + RTOS + CAN/SPI/I2C; automotive/aerospace/defense; 12–18 months to job-ready
+- **Salary multiplier**: EE + Python/AI stack → 20–30% salary premium; engineers who can simulate converters AND automate test data are commanding better offers at Tesla, Apple, Qualcomm
+- **Freelance ceilings (for reference)**: ML engineers $120–250/hr; FPGA engineers $100–175/hr; power electronics consultants $75–150/hr
+- **EE income ladder for Joe**: Student now → $25–35/hr internship (2027) → $90–120k entry (2029 BS) → $120–160k WBG specialist (2031 MS) → $150–230k senior (2034) → $200–300k principal (2039)
+
+**Joe's 4-Phase Action Plan:**
+- **Phase 1 (Apr–Oct 2026)**: Python + LTspice 10-circuit ladder + GitHub 3 repos + breadboard 5 circuits — exploit the zero-EE-courses Year 1 window
+- **Phase 2 (Oct 2026 – Apr 2027)**: Erickson + Maksimovic (Fundamentals of Power Electronics Ch. 1–7) + Neamen device physics + STM32/FreeRTOS basics + APPLY to LLNL Oct 2026
+- **Phase 3 (Apr 2027 – Oct 2027)**: WBG app notes (Wolfspeed/Infineon/GaN Systems) + double pulse test theory + KiCad 4-layer PCB + TI C2000 LaunchPad + FURI application
+- **Phase 4 (Oct 2027 – Apr 2028)**: Choose Track A (FPGA + Verilog → Sandia/LLNL path) or Track B (Python/AI for EE → tech-sector EV path); both are secondary stacks on top of WBG primary
+
+**General High-Income Skills Tier Summary:**
+- **S-Tier ($150k–$400k+)**: AI/ML Eng, Analog/Mixed-Signal IC, Semiconductor Eng, FPGA Eng, Cloud Architecture
+- **A-Tier ($120k–$180k)**: Embedded Firmware + RTOS, Power Electronics (WBG), Cybersecurity, Data Science, RF/Wireless Eng
+- **B-Tier ($80k–$130k)**: Digital/RTL Design, Control Systems, Expert Copywriting, Technical Writing
+- **C-Tier ($50k–$90k)**: General EE (non-specialized), Test Engineering, Social Media Marketing, Basic Web Dev
+
+**EE Specialization Key Numbers (2026):**
+- Analog/Mixed-Signal IC Design: $191k avg, $349k 90th percentile
+- FPGA Engineering: $175k avg, $251k 90th percentile
+- Semiconductor Engineering: $189k avg, $326k 90th percentile
+- Embedded Firmware Engineering: $168k avg, $245k 90th percentile
+- Power Electronics: $132k avg, $210k 90th percentile
+
+### Bulking vs Cutting — previous autoresearch
 - **Joe's stats**: 5'9" (1.7526 m), 156 lbs (70.76 kg), BMI 23.04 (healthy range — no urgency to change direction)
 - **FFMI at current weight**: ~19.6 @ 15% BF / ~20.7 @ 10% BF / ~18.4 @ 20% BF — decent baseline, meaningful room to grow
 - **Decision rule (by BF%)**: <15% → lean bulk | 15–20% → recomp (esp. if <2yr training) | >20% → cut to 12–15% first, then bulk
