@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-23] autoresearch | EE Mentorship at ASU
+- Created: [[Research - EE Mentorship at ASU]], [[ASU EE Mentorship Pathways]]
+- Covers: Complete guide to finding an electrical engineering mentor at ASU — formal programs, faculty approach, IEEE pathways, cold email formula, Year 1 action stack
+- Key findings: (1) Every first-year ASU engineering student is auto-assigned a peer mentor — activate this immediately; (2) FURI is the highest-leverage formal faculty mentorship path ($1,500 stipend + research experience) — apply sophomore year; (3) Prof. Mike Ranjram (MAPEL, mike.ranjram@asu.edu) and Prof. Raja Ayyanar (rayyanar@asu.edu) are the top power electronics faculty to approach via office hours; (4) Cold email works — read 1–2 papers first, write 7–12 sentences, one email at a time, wait 7 days before follow-up; (5) IEEE ASU Branch (600+ members) is the S-tier social path to mentors — project sub-teams create organic relationships; (6) IEEE Collabratec Mentor Program gives access to global industry mentors for ~$32/year IEEE membership; (7) Barrett Honors Alumni Mentorship (Oct–March) matches undergrads with EE alumni in a structured program — contact barrettmentors@asu.edu; (8) Engineering Futures Scholarship bundles financial aid + structured mentoring for eligible first-year students
+
 ## [2026-04-22] autoresearch | High Income Skills Tier List
 - Created: [[Research - High Income Skills Tier List]], [[High Income Skills Tier List]], [[EE Specialization Salary Tier List]], [[EE High Income Action Plan]]
 - Covers: General high-income skills ranked S–C by 2026 salary data; EE-specific specializations ranked by salary ceiling + demand; 4-phase Joe-specific action plan from ASU Year 1 to LLNL/Sandia 2027 internship and WBG career
