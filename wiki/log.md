@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-24] autoresearch | Python and C++ in Electrical Engineering
+- Created: [[Research - Python and C++ in Electrical Engineering]], [[Python in Electrical Engineering]], [[C++ in Electrical Engineering]], [[Python Self-Teaching Roadmap for EE]], [[C++ Self-Teaching Roadmap for EE]]
+- Covers: Full breakdown of how Python and C++ serve complementary roles in physical EE (simulation/analysis vs. real-time firmware); complete month-by-month self-teaching roadmap for both languages from scratch to professional-grade skills
+- Key findings: (1) Python and C++ are a two-layer stack — Python for design/simulation/analysis/automation, C/C++ for real-time embedded firmware; the canonical workflow is prototype in Python → validate in LTSpice → implement in C on DSP; (2) Python's physical EE superpower is PyVISA: programmatic control of every bench instrument over GPIB/USB/LAN via SCPI commands — core test automation skill; (3) python-control library directly replicates MATLAB Control Toolbox (Bode, rlocus, step response, margins) — free, runs on any PC; (4) C runs every power converter's brain: TI C2000 F28379D DSP runs PI control at 100 kHz inside EV traction inverters and DCFC chargers; (5) MISRA-C (automotive functional safety ISO 26262) mandates C not C++ for safety-critical embedded — knowing basics differentiates internship candidates; (6) ARM CMSIS-DSP is the C equivalent of SciPy — hardware-optimized FFT, FIR, PID functions for Cortex-M MCUs; (7) Language handoff pattern: design algorithm in Python → port to C → validate on hardware; MATLAB Coder / Cython can automate this; (8) Joe's roadmap: Python Phase 0 (K Automate Boring Stuff) → Phase 1 (NumPy/SciPy/Bode plots) → Phase 2 (python-control PI design) → Phase 3 (PyVISA + PyLTSpice) → C Phase 0 (K&R pointers) → Phase 1 (Arduino extended) → Phase 2 (STM32 HAL) → Phase 3 (FreeRTOS) → Phase 4 (TI C2000 digital power)
+
 ## [2026-04-24] autoresearch | PC & Mobile Games Cognitive Tier List
 - Created: [[Research - Games Cognitive Tier List]], [[Video Games Cognitive Benefits]]
 - Covers: 40+ PC and mobile games ranked S–F by cognitive benefit; based on peer-reviewed research, meta-analyses, and expert consensus; Joe-specific recommendations
