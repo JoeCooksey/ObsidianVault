@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "How To Win Friends and Influence People - Dale Carnegie",
+      "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
+    },
+    {
+      "basename": "How To Win Friends and Influence People - Dale Carnegie",
+      "path": "wiki/sources/How To Win Friends and Influence People - Dale Carnegie.md"
+    },
+    {
       "basename": "2026-04-23",
       "path": "Daily News Debrief/2026-04-23.md"
     },
@@ -181,10 +189,6 @@
       "path": "wiki/questions/Research - First Job Roadmap Livermore CA.md"
     },
     {
-      "basename": "How To Win Friends and Influence People - Dale Carnegie",
-      "path": "wiki/sources/How To Win Friends and Influence People - Dale Carnegie.md"
-    },
-    {
       "basename": "2026-04-20",
       "path": "Daily News Debrief/2026-04-20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Biohacking Daily Health Hacks",
       "path": "wiki/concepts/Biohacking Daily Health Hacks.md"
-    },
-    {
-      "basename": "Health Protocol Tier List",
-      "path": "wiki/concepts/Health Protocol Tier List.md"
     }
   ],
   "omittedPaths": [],
