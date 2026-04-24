@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AI-Assisted Programming Learning Roadmap",
+      "path": "wiki/concepts/AI-Assisted Programming Learning Roadmap.md"
+    },
+    {
+      "basename": "Research - Programming in the AI Era",
+      "path": "wiki/questions/Research - Programming in the AI Era.md"
+    },
+    {
       "basename": "Python Self-Teaching Roadmap for EE",
       "path": "wiki/concepts/Python Self-Teaching Roadmap for EE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Rhodiola Rosea",
       "path": "wiki/concepts/Rhodiola Rosea.md"
-    },
-    {
-      "basename": "Research - First-Year ASU EE Skills",
-      "path": "wiki/questions/Research - First-Year ASU EE Skills.md"
-    },
-    {
-      "basename": "2026-04-21",
-      "path": "Journal/Daily/2026-04-21.md"
     }
   ],
   "omittedPaths": [],
