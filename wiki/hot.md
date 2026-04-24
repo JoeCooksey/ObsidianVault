@@ -8,7 +8,35 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-24 — Autoresearch: PC & Mobile Games Cognitive Tier List — S–F ranking of 40+ games + Joe-specific stack
+2026-04-24 — Autoresearch: Python and C++ in Electrical Engineering — full physical-EE breakdown + dual self-teaching roadmap
+
+## Key Recent Facts
+
+### Python and C++ in Electrical Engineering — newest autoresearch
+- **The two-layer stack**: Python = design/simulation/test automation layer; C/C++ = real-time embedded firmware layer. They are complementary, not competing. Prototype in Python → implement in C on DSP.
+- **Python's physical-EE superpower = PyVISA**: automated bench instrument control (oscilloscopes, power supplies, LCR meters) over GPIB/USB/LAN via SCPI commands. Every professional EE lab runs Python sweeps instead of manual bench work.
+- **python-control is free MATLAB**: `pip install control` → Bode plots, root locus, step response, gain margin / phase margin — full control design workflow in Python. Design PI controller offline, verify margins, then port to C.
+- **C runs every power converter's brain**: TI C2000 F28379D runs PI current control at 10–100 kHz inside EV traction inverters and DCFC chargers. Knowing C2000 + C is a direct hiring signal for SiC/GaN roles.
+- **PyLTSpice**: `pip install PyLTSpice` → run LTSpice in a Python loop, sweep component values, extract waveforms, plot in Matplotlib. Parametric sim in minutes instead of hours.
+- **MISRA-C = automotive safety standard**: ISO 26262 mandates C (not C++, not Python) for safety-critical embedded. No malloc, no recursion, explicit casts, single exit per function. Knowing basics differentiates at automotive internship interviews.
+- **ARM CMSIS-DSP** = C equivalent of SciPy.signal for MCUs: `arm_rfft_fast_f32()`, `arm_fir_f32()`, `arm_pid_f32()` — all hardware-optimized for ARM Cortex-M.
+- **Language handoff pattern**: Python algorithm → port to C → validate on hardware. Tools: MATLAB Coder (paid), Cython (free), manual translation.
+
+**Python roadmap for Joe (total 9–14 months at 3–5 hrs/wk):**
+- Phase 0 (Month 1–2): Python basics via Automate the Boring Stuff → write from scratch, push to GitHub
+- Phase 1 (Month 2–3): NumPy + Matplotlib + SciPy → Bode plots, FFT, sine wave plotting — matches LTSpice output
+- Phase 2 (Month 3–5): python-control → PI controller design + stability margins; scipy.signal FIR filter design
+- Phase 3 (Month 5–8): PyVISA instrument control + PyLTSpice automation → professional test/sim skills
+- Phase 4 (Month 9–14): cocotb (FPGA testing / Track A) or pandapower (power systems / Track B) or scikit-learn (ML for EE / Track C)
+
+**C/C++ roadmap for Joe (total 12–24 months at 3–5 hrs/wk):**
+- Phase 0 (Month 1–2): C language fundamentals — K&R textbook, pointers, structs, bit manipulation, memory-mapped hardware register access
+- Phase 1 (Month 2–4): Arduino C++ extended — ADC calibration, I2C sensor, PWM verified on oscilloscope, PID for LED control, all on GitHub
+- Phase 2 (Month 4–7): STM32 Nucleo F446RE ($15) + STM32CubeIDE (free) — HAL GPIO/UART/ADC/Timer/SPI; voltage logger project
+- Phase 3 (Month 7–10): FreeRTOS — tasks, queues, mutexes; control loop at verified 10 kHz; DigiKey RTOS YouTube series
+- Phase 4 (Month 10–18): TI C2000 LaunchPad ($50) + C2000 Academy (free) — ePWM, ADC-triggered ISR, closed-loop PI on real converter, CAN bus
+
+**Joe's immediate priorities**: Python Phase 0 is already in Year 1 action plan. Extend to Phase 1 (NumPy + signal plotting) in same window. C fundamentals (K&R) can start concurrently in Year 1. STM32 and FreeRTOS are Year 2–3 territory.
 
 ## Key Recent Facts
 
