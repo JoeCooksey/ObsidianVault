@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Educational Documentaries",
+      "path": "wiki/concepts/Educational Documentaries.md"
+    },
+    {
       "basename": "Research - YouTube Channels and Learning Media",
       "path": "wiki/questions/Research - YouTube Channels and Learning Media.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "EE Physical Side — Actionable Skill Plan",
       "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
-    },
-    {
-      "basename": "EE Freshman Self-Study Stack",
-      "path": "wiki/concepts/EE Freshman Self-Study Stack.md"
     }
   ],
   "omittedPaths": [],
