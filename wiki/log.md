@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-24] autoresearch | PC & Mobile Games Cognitive Tier List
+- Created: [[Research - Games Cognitive Tier List]], [[Video Games Cognitive Benefits]]
+- Covers: 40+ PC and mobile games ranked S–F by cognitive benefit; based on peer-reviewed research, meta-analyses, and expert consensus; Joe-specific recommendations
+- Key findings: (1) Portal 2 beat Lumosity in a Carnegie Mellon/FSU controlled study — entertainment games can outperform dedicated brain trainers; (2) StarCraft II has the strongest RCT evidence for cognitive flexibility (PLOS One — faster/more accurate tests vs. controls); (3) FPS games reliably improve perceptual speed and visual attention — 2023 APA meta-analysis confirmed, 2025 study shows greater gray matter in attention network; (4) BrainHQ is the most evidence-backed brain training app (100+ peer-reviewed studies, FDA-qualified cognitive device); (5) Gacha games actively impair inhibitory control — 2025 arXiv study confirmed; (6) S-tier games: Chess, StarCraft II, Portal 2, Factorio, The Talos Principle; (7) F-tier: gacha games, idle/clicker games (exploit cognitive biases or zero demand); (8) For Joe specifically: Chess.com + Portal 2 (one-time) + Into the Breach = best cognitive ROI within the 1–2 hrs/week gaming cap
+
 ## [2026-04-23] autoresearch | EE Mentorship at ASU
 - Created: [[Research - EE Mentorship at ASU]], [[ASU EE Mentorship Pathways]]
 - Covers: Complete guide to finding an electrical engineering mentor at ASU — formal programs, faculty approach, IEEE pathways, cold email formula, Year 1 action stack
