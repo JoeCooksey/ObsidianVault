@@ -59,6 +59,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Python Self-Teaching Roadmap for EE]] — 4-phase roadmap: Python basics → NumPy/SciPy → control systems → PyVISA + PyLTSpice → advanced track (developing)
 - [[C++ Self-Teaching Roadmap for EE]] — 5-phase roadmap: C fundamentals (K&R) → Arduino → STM32 HAL → FreeRTOS → TI C2000 digital power (developing)
 
+### Programming in the AI Era
+- [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
+- [[Programming Skills AI Cannot Replace]] — architecture, domain knowledge, debugging instinct, code review taste, security mindset, communication (developing)
+
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
