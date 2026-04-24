@@ -8,9 +8,19 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-24 — Autoresearch: Programming in the AI Era — Python still dominant; 5-phase AI-native learning roadmap; skills AI cannot replace
+2026-04-24 — Autoresearch: YouTube Channels and Learning Media — S-tier channel/doc/film rankings; Joe-specific watch order for EE track
 
 ## Key Recent Facts
+
+### YouTube Channels and Learning Media — newest autoresearch
+- **S-Tier YouTube channels**: 3Blue1Brown (math intuition, Essence of Calculus/Linear Algebra/Neural Networks) + Veritasium (physics, experiments, 20M+) + PBS Space Time (graduate-level astrophysics) + Vsauce (philosophy/science/psychology, widest intellectual range) + Andrej Karpathy (AI/ML, GPT from scratch)
+- **A-Tier YouTube channels**: Kurzgesagt, CrashCourse, Two Minute Papers, SmarterEveryDay, Numberphile, Huberman Lab, StatQuest, Khan Academy, CGP Grey, TED-Ed, Big Think
+- **Best single humanities videos**: Ray Dalio "How the Economic Machine Works" (30 min, 30M+ views) = best economics video ever; Kurzgesagt "Optimistic Nihilism" = best philosophy entry; CGP Grey "Rules for Rulers" = best political philosophy
+- **S-Tier documentaries**: Cosmos (Sagan, 1980) — 9.3/10 IMDb, 13 episodes, greatest science doc ever made | Particle Fever (2013) — Higgs boson discovery, best science-as-drama | The Social Dilemma (2020, Netflix) — attention economy mechanics | Inside Bill's Brain (2019, Netflix) — mental models, problem-solving frameworks | Becoming Warren Buffett (2017, HBO) — value investing philosophy
+- **S-Tier intellectual films**: Oppenheimer (2023) — densest mainstream film ever; quantum mechanics + ethics + Cold War | The Big Short (2015) — 2008 crisis, CDOs and systemic risk | The Imitation Game (2014) — Turing, computing, mathematics | Interstellar (2014) — GR + black holes + Kip Thorne as producer
+- **Joe's watch order**: 3Blue1Brown Essence of Linear Algebra → PBS Space Time electromagnetism → Cosmos (Sagan) → Particle Fever → Oppenheimer → The Big Short → Andrej Karpathy Zero to Hero (Phase 4)
+- **Philosophy films**: Waking Life (2001) = existentialism + consciousness; Copenhagen (2002, BBC) = Bohr/Heisenberg + quantum ethics; Agora (2009) = Hypatia + science vs. dogma
+- **Best doc arc (30h)**: Cosmos → Particle Fever → Story of Math → Fermat's Last Theorem → Social Dilemma → Inside Bill's Brain → Becoming Warren Buffett
 
 ### Programming in the AI Era — newest autoresearch
 - **Python is MORE valuable, not less**: It is the language of AI/ML itself — PyTorch, HuggingFace, LangChain, FastAPI are all Python. 50% more Python jobs than Java in 2026. AI tools generate mostly Python.
