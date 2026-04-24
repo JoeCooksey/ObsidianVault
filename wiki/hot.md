@@ -8,11 +8,26 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-24 — Autoresearch: Python and C++ in Electrical Engineering — full physical-EE breakdown + dual self-teaching roadmap
+2026-04-24 — Autoresearch: Programming in the AI Era — Python still dominant; 5-phase AI-native learning roadmap; skills AI cannot replace
 
 ## Key Recent Facts
 
-### Python and C++ in Electrical Engineering — newest autoresearch
+### Programming in the AI Era — newest autoresearch
+- **Python is MORE valuable, not less**: It is the language of AI/ML itself — PyTorch, HuggingFace, LangChain, FastAPI are all Python. 50% more Python jobs than Java in 2026. AI tools generate mostly Python.
+- **AI amplifies, doesn't replace**: Students who copy AI code without understanding fall behind. Those who understand fundamentals and use AI as a pair programmer accelerate dramatically. The leverage: you supply judgment, AI supplies syntax recall.
+- **Old methods ARE partially outdated**: Rote syntax memorization, grinding exercises before touching real projects, tutorial hell, solo debugging without AI — all outdated. What's still essential: data structures, control flow, debugging instinct, Git, systems thinking.
+- **The 5-phase AI-native roadmap**:
+  - Phase 1 (wk 1–8): Fundamentals — variables, loops, functions, data structures. Use AI as tutor, not code generator.
+  - Phase 2 (wk 9–12): Git + debugging — the two skills AI cannot substitute; must own these before trusting AI output.
+  - Phase 3 (wk 13–16): AI tool onboarding — Copilot → Cursor → Claude Code; learn to prompt precisely.
+  - Phase 4 (wk 17+): Build real projects — CLI tool → CRUD web app → API integrations → AI agent.
+  - Phase 5 (month 6+): Systems thinking + prompt engineering — architecture, specs, MCP protocol.
+- **Skills AI genuinely cannot replace**: (1) architectural judgment, (2) domain/business context, (3) debugging instinct for real-world bugs, (4) code review taste, (5) security mindset, (6) communication/alignment with stakeholders.
+- **The new seniority stack**: Beginner = AI writes it; Mid = co-pilot, you direct; Senior = AI executes your architecture; Staff = alignment + judgment. Human judgment isn't less important — it's applied higher up.
+- **Best 2026 tool combo**: Claude Pro (~$20/mo) + GitHub Copilot (~$10/mo) = $30/mo covers 95% of learning needs. Claude Code best for architectural reasoning; Cursor best for in-editor flow.
+- **Core rule**: Never accept code you can't explain. If AI writes something you don't understand, ask AI to teach you what it wrote before moving on.
+
+### Python and C++ in Electrical Engineering — previous autoresearch
 - **The two-layer stack**: Python = design/simulation/test automation layer; C/C++ = real-time embedded firmware layer. They are complementary, not competing. Prototype in Python → implement in C on DSP.
 - **Python's physical-EE superpower = PyVISA**: automated bench instrument control (oscilloscopes, power supplies, LCR meters) over GPIB/USB/LAN via SCPI commands. Every professional EE lab runs Python sweeps instead of manual bench work.
 - **python-control is free MATLAB**: `pip install control` → Bode plots, root locus, step response, gain margin / phase margin — full control design workflow in Python. Design PI controller offline, verify margins, then port to C.
