@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python Self-Teaching Roadmap for EE",
+      "path": "wiki/concepts/Python Self-Teaching Roadmap for EE.md"
+    },
+    {
+      "basename": "Research - Python and C++ in Electrical Engineering",
+      "path": "wiki/questions/Research - Python and C++ in Electrical Engineering.md"
+    },
+    {
       "basename": "Free Time Tier List",
       "path": "wiki/concepts/Free Time Tier List.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-21",
       "path": "Daily News Debrief/2026-04-21.md"
-    },
-    {
-      "basename": "2026-04-20",
-      "path": "Journal/Daily/2026-04-20.md"
-    },
-    {
-      "basename": "Research - Social Confidence and Climbing the Social Ladder",
-      "path": "wiki/questions/Research - Social Confidence and Climbing the Social Ladder.md"
     }
   ],
   "omittedPaths": [],
