@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Book List — Psychology and Persuasion",
+      "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
+    },
+    {
+      "basename": "Book List — Finance and Investing",
+      "path": "wiki/concepts/Book List — Finance and Investing.md"
+    },
+    {
+      "basename": "Book List — Fiction Must-Reads",
+      "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
+    },
+    {
+      "basename": "Book List — Business and Entrepreneurship",
+      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
+    },
+    {
+      "basename": "Book List — Stoicism and Philosophy",
+      "path": "wiki/concepts/Book List — Stoicism and Philosophy.md"
+    },
+    {
       "basename": "How To Win Friends and Influence People - Dale Carnegie",
       "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
     },
@@ -77,28 +97,12 @@
       "path": "wiki/sources/Research - Book Recommendations Master List.md"
     },
     {
-      "basename": "Book List — Finance and Investing",
-      "path": "wiki/concepts/Book List — Finance and Investing.md"
-    },
-    {
       "basename": "ASU Social Connection Methods Ranked",
       "path": "wiki/concepts/ASU Social Connection Methods Ranked.md"
     },
     {
       "basename": "Book List — Self-Help, Discipline, and Productivity",
       "path": "wiki/concepts/Book List — Self-Help, Discipline, and Productivity.md"
-    },
-    {
-      "basename": "Book List — Psychology and Persuasion",
-      "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
-    },
-    {
-      "basename": "Book List — Fiction Must-Reads",
-      "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
-    },
-    {
-      "basename": "Book List — Business and Entrepreneurship",
-      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
     },
     {
       "basename": "Research - Where to Get Cheap Books",
@@ -195,10 +199,6 @@
     {
       "basename": "The Laws of Human Nature - Robert Greene",
       "path": "Books/The Laws of Human Nature - Robert Greene.md"
-    },
-    {
-      "basename": "Biohacking Daily Health Hacks",
-      "path": "wiki/concepts/Biohacking Daily Health Hacks.md"
     }
   ],
   "omittedPaths": [],
