@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-24] autoresearch | Programming in the AI Era
+- Created: [[Research - Programming in the AI Era]], [[AI-Assisted Programming Learning Roadmap]], [[Programming Skills AI Cannot Replace]]
+- Covers: Whether Python is still worth learning in 2026; how old learning methods are outdated; a full 5-phase AI-native roadmap for learning to code using AI tools; skills AI cannot replace
+- Key findings: (1) Python is more relevant than ever — it is the language of AI/ML itself, with 50% more jobs than Java; (2) AI tools don't replace learning, they amplify those who understand fundamentals and expose those who don't; (3) Old methods ARE partially outdated — rote syntax memorization, tutorial hell, solo grinding — but core fundamentals (debugging, data structures, systems thinking) remain essential; (4) New paradigm: AI-native project-based learning — build something real from week 1, use AI to explain on demand, question every generated line; (5) The 5-phase roadmap: Fundamentals (wk 1–8) → Git+debugging (wk 9–12) → AI tool onboarding (wk 13–16) → Build real projects (wk 17+) → Systems thinking + prompt engineering (month 6+); (6) Skills AI cannot replace: architectural judgment, domain/business context, debugging instinct, code review taste, security mindset, communication; (7) Premium has shifted to architecture and judgment, applied at a higher stack level; (8) Best 2026 AI tool combo: Claude Pro ($20/mo) + GitHub Copilot ($10/mo)
+
 ## [2026-04-24] autoresearch | Python and C++ in Electrical Engineering
 - Created: [[Research - Python and C++ in Electrical Engineering]], [[Python in Electrical Engineering]], [[C++ in Electrical Engineering]], [[Python Self-Teaching Roadmap for EE]], [[C++ Self-Teaching Roadmap for EE]]
 - Covers: Full breakdown of how Python and C++ serve complementary roles in physical EE (simulation/analysis vs. real-time firmware); complete month-by-month self-teaching roadmap for both languages from scratch to professional-grade skills
