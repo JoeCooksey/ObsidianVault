@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Educational Documentaries",
-      "path": "wiki/concepts/Educational Documentaries.md"
+      "basename": "Intellectual Films",
+      "path": "wiki/concepts/Intellectual Films.md"
     },
     {
       "basename": "Research - YouTube Channels and Learning Media",
       "path": "wiki/questions/Research - YouTube Channels and Learning Media.md"
+    },
+    {
+      "basename": "Educational Documentaries",
+      "path": "wiki/concepts/Educational Documentaries.md"
     },
     {
       "basename": "Video Games Cognitive Benefits",
@@ -195,10 +199,6 @@
     {
       "basename": "Food Health Tier List — Vegetables",
       "path": "wiki/concepts/Food Health Tier List — Vegetables.md"
-    },
-    {
-      "basename": "EE Physical Side — Actionable Skill Plan",
-      "path": "wiki/concepts/EE Physical Side — Actionable Skill Plan.md"
     }
   ],
   "omittedPaths": [],
