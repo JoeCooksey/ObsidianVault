@@ -246,6 +246,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - High Income Skills Tier List]] — general + EE skill tier lists by 2026 salary; 4-phase Joe action plan; FPGA and WBG primary/secondary stack (developing)
 - [[Research - EE Mentorship at ASU]] — 8 key findings; S–C tier list of all mentorship channels; faculty contact info; cold email formula; Year 1 action stack (developing)
 - [[Research - Games Cognitive Tier List]] — 8 key findings; Portal 2 > Lumosity study; StarCraft II RCT; FPS attention research; gacha harm evidence; Joe game stack (developing)
+- [[Research - Python and C++ in Electrical Engineering]] — 8 key findings; Python two-layer stack model, PyVISA ATE control, python-control design, TI C2000 DSP, MISRA-C, language handoff pattern; Joe's 9–24 month dual roadmap (developing)
 - [[Research - Bulking vs Cutting Body Composition Guide]] — bulk/cut/recomp decision tree; FFMI targets at 5'9"; Joe-specific calorie math; muscle gain timelines (developing)
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
