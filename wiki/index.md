@@ -172,6 +172,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Free Time / Lifestyle
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
+- [[Video Games Cognitive Benefits]] — S–F tier list of 40+ PC+mobile games ranked by cognitive ROI; Chess/StarCraft II/Portal 2 S-tier; gacha games F-tier; Joe-specific recommendations (developing)
 
 ### Dating / Relationships
 - [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
