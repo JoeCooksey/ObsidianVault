@@ -184,6 +184,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
 - [[Video Games Cognitive Benefits]] — S–F tier list of 40+ PC+mobile games ranked by cognitive ROI; Chess/StarCraft II/Portal 2 S-tier; gacha games F-tier; Joe-specific recommendations (developing)
 
+### Education / Learning Media
+- [[YouTube Channels for STEM Learning]] — S–B tier list; 3Blue1Brown/Veritasium/PBS Space Time S-tier; Andrej Karpathy AI; Joe watch order mapped to EE coursework (developing)
+- [[YouTube Channels for Humanities Learning]] — S–B tier list; Vsauce/Kurzgesagt S-tier; philosophy, history, economics channels; Ray Dalio economics video (developing)
+- [[Educational Documentaries]] — S–B tier list; Cosmos (Sagan) S-tier; Particle Fever, Story of Math, Social Dilemma, Becoming Warren Buffett; Joe watch order (developing)
+- [[Intellectual Films]] — S–B tier list; Oppenheimer/The Big Short S-tier; science, philosophy, business films; Joe watch order (developing)
+
 ### Dating / Relationships
 - [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
 
