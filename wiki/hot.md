@@ -8,9 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-24 — Autoresearch: YouTube Channels and Learning Media — S-tier channel/doc/film rankings; Joe-specific watch order for EE track
+2026-04-24 — Autoresearch: Post-Study Motivation and Active Recovery — what to do when class study kills motivation for outside technical work; recovery tier list; guilt reframe
 
 ## Key Recent Facts
+
+### Post-Study Motivation and Active Recovery — newest autoresearch
+- **Cognitive depletion is real**: Cal Newport's deep work ceiling = ~4 hours/day; class study can consume the whole daily budget; forcing LTSpice/programming after depletion produces low-quality output
+- **Energy × Focus × Time = Output**: 30 focused morning minutes >> 2 depleted evening hours — the guilt about not doing technical work after class is usually based on a false hours-in model
+- **Recovery activity tier list**: Zone 2 cardio (S) + outdoor walk no phone (S) + real social time (S) + enjoyable reading (A) + cooking (A) + journaling (A) >> social media scrolling (F) + YouTube rabbit holes (F)
+- **Passive learning is legitimate and compounds**: Reading Phase 1 books (*Ego Is the Enemy*, *Psychology of Money*) at low energy > forcing depleted LTSpice sessions; 3Blue1Brown watching counts as B-tier compounding
+- **10-minute diagnostic rule**: Force-start task for 10 min. Still dragging = genuine fatigue, stop and recover. Absorbed = it was Limbic Friction, continue.
+- **Schedule architecture fix**: Put LTSpice/Python in morning block (post-ride, pre-class) where energy is high. Never contingent on post-class availability.
+- **Shutdown ritual (Newport)**: A verbal "Shutdown Complete" after last class task gives brain explicit permission to stop — eliminates low-grade work anxiety that blocks genuine restoration
+- **What to actively avoid in low-energy time**: social media browsing, YouTube algorithm rabbit holes, LinkedIn comparison scrolling — these feel like rest but actively degrade attention (P300 research)
+- **Joe's Tier 1 moves when depleted**: Ride (if not done) → outdoor walk → call/meet a friend → read 20–30 pages from Phase 1 book list
+- **Joe's Tier 2 moves**: Watch one 3Blue1Brown video → cook a real meal → journal 10 min → light organization for tomorrow
 
 ### YouTube Channels and Learning Media — newest autoresearch
 - **S-Tier YouTube channels**: 3Blue1Brown (math intuition, Essence of Calculus/Linear Algebra/Neural Networks) + Veritasium (physics, experiments, 20M+) + PBS Space Time (graduate-level astrophysics) + Vsauce (philosophy/science/psychology, widest intellectual range) + Andrej Karpathy (AI/ML, GPT from scratch)
