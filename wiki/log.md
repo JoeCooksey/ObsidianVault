@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-24] autoresearch | YouTube Channels and Learning Media
+- Created: [[Research - YouTube Channels and Learning Media]], [[YouTube Channels for STEM Learning]], [[YouTube Channels for Humanities Learning]], [[Educational Documentaries]], [[Intellectual Films]]
+- Covers: Comprehensive tier lists for YouTube channels (STEM + humanities), documentaries, and intellectual films for self-education
+- Key findings: (1) 3Blue1Brown is uncontested #1 for mathematical intuition — Essence of Calculus/Linear Algebra/Neural Networks series directly supports EE math; (2) PBS Space Time is the highest-ceiling physics channel at near-graduate depth; Veritasium best for accessible physics; (3) Vsauce and Kurzgesagt offer widest interdisciplinary intellectual range on YouTube; (4) Andrej Karpathy "Neural Networks: Zero to Hero" is the elite AI/ML self-education resource — used in university courses; (5) Cosmos (Carl Sagan, 1980) is the greatest science documentary ever made — 9.3/10 IMDb, 13 episodes, still unmatched; (6) Oppenheimer (2023) and The Imitation Game (2014) are S-tier intellectual films — most ideas per hour in mainstream cinema; (7) The Social Dilemma (2020, Netflix) is the most immediately relevant documentary for young people building attention hygiene habits; (8) Best documentary arc (30h total): Cosmos → Particle Fever → Story of Math → Fermat's Last Theorem → Social Dilemma → Inside Bill's Brain → Becoming Warren Buffett
+
 ## [2026-04-24] autoresearch | Programming in the AI Era
 - Created: [[Research - Programming in the AI Era]], [[AI-Assisted Programming Learning Roadmap]], [[Programming Skills AI Cannot Replace]]
 - Covers: Whether Python is still worth learning in 2026; how old learning methods are outdated; a full 5-phase AI-native roadmap for learning to code using AI tools; skills AI cannot replace
