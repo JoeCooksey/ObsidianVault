@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-24] autoresearch | Post-Study Motivation and Active Recovery
+- Created: [[Research - Post-Study Motivation and Active Recovery]], [[Post-Study Energy Management]]
+- Covers: What to do when class study drains motivation for outside technical work (LTSpice, programming); the science of cognitive fatigue and ego depletion; active recovery activity tier list; guilt reframe; schedule architecture fix
+- Key findings: (1) Cognitive depletion after class study is neurologically real — EEG-confirmed; Cal Newport's deep work ceiling is ~4 hours/day, so class may consume the whole budget; (2) The biggest error is filling depleted time with F-tier activities (scrolling) instead of B-tier active recovery; (3) Passive learning (3Blue1Brown, reading Phase 1 books) is legitimate and compounds without requiring high cognitive load; (4) Best recovery activities: Zone 2 cardio, outdoor walks, real social time, reading enjoyable books, cooking — all restore directed attention better than passive phone use; (5) The 10-minute diagnostic rule: force-start for 10 min; still dragging = genuine fatigue, stop; absorbed = it was Limbic Friction, continue; (6) Schedule fix: put LTSpice/Python in morning block (post-ride) before class cognitive drain, not contingent on post-class energy; (7) Newport's shutdown ritual ("Shutdown Complete") eliminates low-grade work anxiety that blocks genuine restoration; (8) The guilt reframe: Energy × Focus × Time = Output; 30 focused minutes tomorrow >> 2 depleted hours tonight
+
 ## [2026-04-24] autoresearch | YouTube Channels and Learning Media
 - Created: [[Research - YouTube Channels and Learning Media]], [[YouTube Channels for STEM Learning]], [[YouTube Channels for Humanities Learning]], [[Educational Documentaries]], [[Intellectual Films]]
 - Covers: Comprehensive tier lists for YouTube channels (STEM + humanities), documentaries, and intellectual films for self-education
