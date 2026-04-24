@@ -182,6 +182,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Free Time / Lifestyle
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
+- [[Post-Study Energy Management]] — cognitive depletion model; recovery activity tier list; 10-min diagnostic; shutdown ritual; morning block schedule fix (developing)
 - [[Video Games Cognitive Benefits]] — S–F tier list of 40+ PC+mobile games ranked by cognitive ROI; Chess/StarCraft II/Portal 2 S-tier; gacha games F-tier; Joe-specific recommendations (developing)
 
 ### Education / Learning Media
