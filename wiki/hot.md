@@ -8,9 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-23 — Autoresearch: How to Find an EE Mentor at ASU — tier list + faculty contacts + Year 1 action stack
+2026-04-24 — Autoresearch: PC & Mobile Games Cognitive Tier List — S–F ranking of 40+ games + Joe-specific stack
 
 ## Key Recent Facts
+
+### PC & Mobile Games — Cognitive Tier List — newest autoresearch
+- **S-Tier** (maximum ROI): Chess/Chess.com [PC+M] + StarCraft II [PC] + Portal 2 [PC] + Factorio [PC] + The Talos Principle [PC+M]
+- **Portal 2 > Lumosity**: Carnegie Mellon/FSU study — Portal 2 players beat Lumosity users on spatial skill, problem-solving, and persistence; entertainment games can beat dedicated brain trainers
+- **StarCraft II evidence**: PLOS One RCT — RTS training → measurable cognitive flexibility gains; women assigned to StarCraft completed flexibility tests faster and more accurately than Sims controls
+- **FPS cognitive gains**: 2023 APA meta-analysis confirmed perceptual speed + visual attention advantages in action/FPS players; 2025 study: FPS players have greater gray matter in frontoparietal attention control network
+- **BrainHQ** = most evidence-backed app (100+ peer-reviewed studies, FDA-qualified); Lumosity settled FTC fraud claims for exaggerated efficacy
+- **Gacha games = F-tier**: 2025 arXiv study confirmed impaired inhibitory control in gacha players; exploitation of cognitive biases, not training
+- **A-Tier**: Civilization VI, Baba Is You, The Witness, Into the Breach, Kerbal Space Program, BrainHQ, Elevate
+- **B-Tier**: CS2/Valorant/Apex (perceptual speed), XCOM 2, Tetris, Mini Metro, Hearthstone, Sudoku apps, Monument Valley
+- **F-Tier**: All gacha mechanics (AFK Arena, Raid: Shadow Legends), idle/clicker games — these exploit, not improve, cognition
+- **Joe's stack** (within 1–2 hrs/week cap): Chess.com daily 15 min + Portal 2 one-time playthrough + Into the Breach for tactical thinking
 
 ### EE Mentorship at ASU — newest autoresearch
 - **Auto-assigned peer mentor**: every first-year ASU engineering student gets one on day 1 — activate immediately at students.engineering.asu.edu/peer-mentors/
