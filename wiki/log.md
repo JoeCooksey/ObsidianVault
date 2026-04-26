@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-26] ingest | The 7 Habits of Highly Effective People — Stephen R. Covey
+- Created: [[The 7 Habits of Highly Effective People - Stephen Covey]]
+- New concepts: [[Circle of Concern vs Circle of Influence]], [[Maturity Continuum]], [[P/PC Balance]], [[Character Ethic vs Personality Ethic]], [[Time Management Matrix]], [[Emotional Bank Account]], [[Abundance Mentality]], [[Empathic Listening]], [[Win-Win Paradigm]]
+- Key finding: Effectiveness is a character, not a technique. Private Victory (Habits 1–3): proactivity, mission, Q2 time mgmt. Public Victory (Habits 4–6): Win-Win, empathic listening, synergy. Renewal (Habit 7): sharpen the saw across physical/mental/social/spiritual dimensions.
+
 ## [2026-04-26] autoresearch | Python EE Project Roadmap
 - Rounds: 3 | Searches: 9 | Sources fetched: 7 | Pages created: 11
 - Created: [[Research - Python EE Project Roadmap]], [[Python EE Project Ladder]], [[Python EE Project Ladder - Phase 0-1]], [[Python EE Project Ladder - Phase 2-3]], [[Python EE Project Ladder - Phase 4-5]], [[Python EE Project Ladder - Advanced Tracks]]
