@@ -38,7 +38,11 @@
       "WebFetch(domain:www.fool.com)",
       "WebFetch(domain:stockmarketwatch.com)",
       "WebFetch(domain:finance.yahoo.com)",
-      "WebFetch(domain:finviz.com)"
+      "WebFetch(domain:finviz.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.prasunbarua.com)",
+      "WebFetch(domain:pysdr.org)",
+      "WebFetch(domain:incompliancemag.com)"
     ]
   },
   "enabledPlugins": {}
