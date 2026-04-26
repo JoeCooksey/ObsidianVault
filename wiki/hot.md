@@ -12,6 +12,20 @@ tags:
 
 ## Key Recent Facts
 
+### Hobbies for Young Men — newest autoresearch
+- **Three mutually non-substitutable types**: physical/active + social/community + creative/expressive; any two without the third leaves a psychological gap
+- **Evidence threshold**: 2–3 hrs/week of hobbies = measurable mental health improvement; 72% of people rate hobbies as significant mental health help (2025 scoping review)
+- **Rock climbing + martial arts = testosterone spike**: PubMed-confirmed acute testosterone + GH elevation in young males after a bout of climbing or combat sport training
+- **Creative hobbies → "life is worthwhile" effect**: Frontiers in Psychology 2024 — higher life satisfaction and meaning independent of pre-existing mental health; ~75% cortisol reduction
+- **Social hobbies compound via Jeffrey Hall formula**: casual friend = 50 hrs; close friend = 200 hrs; only recurring group hobbies accumulate this; one-off events don't
+- **Income ceilings**: photography $500–1,000+/month; freelance writing $1,000–5,000/month; coding $25–75/hr; YouTube (6–18 month lag); avg US side hustler $891/month
+- **Age 19 = identity formation peak** (Erikson): hobbies adopted seriously now become lifelong identity anchors; starting at 19 maximizes compounding time
+- **Joe's gap audit**: Physical ✅ (cycling 6×/wk) | Intellectual ✅ (reading + EE study) | Creative ❌ (none) | Social group hobby 🟡 (IEEE) | Financial ❌ (reading ≠ practicing)
+- **Joe's priority stack**: BJJ or boxing (1 month) + guitar via JustinGuitar.com ($100–200 acoustic) + Roth IRA open Fidelity/Schwab ($25/month minimum) + bouldering gym trial (3 months)
+- **Guitar specifics**: Yamaha FG800 acoustic ~$200 new / $80–120 used; JustinGuitar.com = free structured curriculum; 5 open chords (G, C, D, Em, Am) cover 80% of popular songs; week 3–4 = first song
+- **BJJ specifics**: BJJ > boxing for Joe first (grappling fills adversarial gap cycling doesn't; tap-and-learn culture reduces ego faster); $100–180/month; Livermore/Tri-Valley has Gracie-affiliated gyms; first 3 months = universal helplessness, push through
+- **Investing specifics**: Roth IRA at 19 = maximum compounding horizon; $25/month at 7% average return → ~$250k at 65; Fidelity or Schwab; pair with *The Psychology of Money* (already Phase 1 reading list)
+
 ### Python EE Project Ladder — newest autoresearch
 - **The 20-project library progression**: Pure Python (P1–3) → NumPy + Matplotlib (P2–3) → SciPy linalg + integrate + signal (P4–10) → python-control (P11–13) → PyLTSpice + Pandas (P14–16) → PyVISA (P17–19) → cocotb or DPT analyzer (P20)
 - **Phase 0–1 (Projects 1–6)**: Ohm's Law CLI → Resistor Network (NumPy) → E-Series Plotter (logspace) → Nodal Analysis (linalg.solve) → AC Phasor (complex type) → RLC Transient (scipy.odeint)
