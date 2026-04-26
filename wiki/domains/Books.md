@@ -108,6 +108,7 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[Untouchables]] ↔ [[Emotional Agility]] — Housel's intrinsic values list aligns with David's "values contact"; both diagnose extrinsic goalpost-chasing as the failure mode
 
 ## Books Ingested
+- [[The 7 Habits of Highly Effective People - Stephen Covey]] — Covey (1989); Maturity Continuum, P/PC Balance, Time Matrix, Empathic Listening, Synergy; ⭐⭐⭐⭐⭐
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step habit loop, Four Laws, compounding 1% gains; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging system, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
