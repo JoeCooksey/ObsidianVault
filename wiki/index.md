@@ -247,6 +247,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
 ## Questions / Synthesis
+- [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Post-Study Motivation and Active Recovery]] — 8 key findings; cognitive depletion science; active recovery tier list; guilt reframe; schedule architecture fix; Joe-specific action plan (developing)
 - [[Research - Where to Get Cheap Books]] — full tier list (S=free → D=avoid); Libby, BookBub, ThriftBooks, AbeBooks, BookFinder, Project Gutenberg; Joe-specific sourcing path for his 9-book reading list (complete)
