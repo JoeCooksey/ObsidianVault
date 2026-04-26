@@ -8,9 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-24 — Autoresearch: Post-Study Motivation and Active Recovery — what to do when class study kills motivation for outside technical work; recovery tier list; guilt reframe
+2026-04-26 — Autoresearch: Python EE Project Roadmap — 20-project ladder from Ohm's Law Calculator to double pulse test analyzer and cocotb FPGA testbenches; full Python code for each project
 
 ## Key Recent Facts
+
+### Python EE Project Ladder — newest autoresearch
+- **The 20-project library progression**: Pure Python (P1–3) → NumPy + Matplotlib (P2–3) → SciPy linalg + integrate + signal (P4–10) → python-control (P11–13) → PyLTSpice + Pandas (P14–16) → PyVISA (P17–19) → cocotb or DPT analyzer (P20)
+- **Phase 0–1 (Projects 1–6)**: Ohm's Law CLI → Resistor Network (NumPy) → E-Series Plotter (logspace) → Nodal Analysis (linalg.solve) → AC Phasor (complex type) → RLC Transient (scipy.odeint)
+- **Phase 2 DSP (Projects 7–10)**: Bode Plot Generator (scipy.signal.bode) → FFT Spectrum Analyzer (rfft + windowing) → FIR Filter Designer (firwin + freqz) → IIR Filter + Pole-Zero Plot (butter + tf2zpk)
+- **Phase 3 Control (Projects 11–13)**: Transfer Function Analysis (control.tf + root_locus) → PID Tuner (control.feedback + margin sweep) → Closed-Loop Buck Converter Sim (solve_ivp + state-space + PI controller)
+- **Phase 4 PyLTSpice (Projects 14–16)**: RC Parametric Sweep → Monte Carlo Tolerance (Pandas ±3σ yield) → Buck Efficiency Curve (.meas directives)
+- **Phase 5 PyVISA (Projects 17–19)**: Power Supply I-V Sweep (SCPI) → Oscilloscope Waveform Capture (binary decode) → Automated Amplifier Bode Plot (dual-instrument loop)
+- **Track A (FPGA)**: cocotb testbench for Verilog counter using async coroutines + Icarus Verilog; gateway to $175k FPGA engineering track
+- **Track B (Power EE)**: Double Pulse Test analyzer using scipy.find_peaks + np.trapz to compute Eon/Eoff/Qrr; the WBG interview litmus test skill
+- **Joe's immediate next project**: Project 1 (Ohm's Law Calculator) → push to GitHub, then Project 2 (Resistor Network + NumPy). Project 13 (Buck Converter Sim) + Project 20B (DPT Analyzer) are the high-value targets for Year 1.
+- **All 20 projects go on GitHub**: Each builds on the last, readable as a portfolio story by an EE hiring manager
 
 ### Post-Study Motivation and Active Recovery — newest autoresearch
 - **Cognitive depletion is real**: Cal Newport's deep work ceiling = ~4 hours/day; class study can consume the whole daily budget; forcing LTSpice/programming after depletion produces low-quality output
