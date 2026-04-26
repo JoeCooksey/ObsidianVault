@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Python EE Project Ladder",
+      "path": "wiki/concepts/Python EE Project Ladder.md"
+    },
+    {
+      "basename": "Research - Python EE Project Roadmap",
+      "path": "wiki/questions/Research - Python EE Project Roadmap.md"
+    },
+    {
       "basename": "How To Win Friends and Influence People - Dale Carnegie",
       "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Food Health Tier List — Meats and Seafood",
       "path": "wiki/concepts/Food Health Tier List — Meats and Seafood.md"
-    },
-    {
-      "basename": "Food Health Tier List — Nuts and Seeds",
-      "path": "wiki/concepts/Food Health Tier List — Nuts and Seeds.md"
-    },
-    {
-      "basename": "Food Health Tier List — Legumes",
-      "path": "wiki/concepts/Food Health Tier List — Legumes.md"
     }
   ],
   "omittedPaths": [],
