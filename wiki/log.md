@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-26] autoresearch | Hobbies for Young Men — Life Domain Framework
+- Rounds: 3 | Searches: 6 | Pages created: 4
+- Created: [[Research - Hobbies for Young Men]], [[Hobbies for Young Men — Life Domain Framework]], [[Martial Arts for Young Men]], [[Music as a Life Skill]]
+- Key findings: (1) Hobbies reduce depression/anxiety measurably at just 2–3 hrs/week threshold; 72% of people report significant mental health benefit; (2) Three mutually non-substitutable hobby types: physical/active, social/community, creative/expressive — a complete stack covers all three; (3) Acute rock climbing + martial arts bouts significantly elevate testosterone + GH in young males (PubMed-confirmed); (4) Creative hobbies produce a distinct "life is worthwhile" effect independent of mental health status (Frontiers in Psychology, 2024); (5) Social hobbies compound via Jeffrey Hall's 50–200 hr formula — only recurring-contact group hobbies accumulate this; (6) Several hobbies have $500–5,000+/month income ceilings at hobbyist level (photography, coding, writing); (7) Age 19 = identity formation peak (Erikson) — hobbies adopted seriously now become lifelong identity anchors; (8) Joe's gap audit: physical covered (cycling), intellectual covered (reading + EE), creative + financial + social group hobby = primary gaps
+- Joe's priority moves: BJJ or boxing gym trial (1 month) + guitar (JustinGuitar.com, $100–200 acoustic) + Roth IRA ($25/month, Fidelity/Schwab) + bouldering gym trial (3 months)
+
 ## [2026-04-26] ingest | The 7 Habits of Highly Effective People — Stephen R. Covey
 - Created: [[The 7 Habits of Highly Effective People - Stephen Covey]]
 - New concepts: [[Circle of Concern vs Circle of Influence]], [[Maturity Continuum]], [[P/PC Balance]], [[Character Ethic vs Personality Ethic]], [[Time Management Matrix]], [[Emotional Bank Account]], [[Abundance Mentality]], [[Empathic Listening]], [[Win-Win Paradigm]]
