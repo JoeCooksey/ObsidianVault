@@ -22,6 +22,19 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 
 ## Key Concepts
 
+### From The 7 Habits of Highly Effective People (Covey)
+- **Character Ethic vs Personality Ethic** — durable effectiveness requires character (integrity, humility, courage), not technique (image, hacks)
+- **[[Maturity Continuum]]** — Dependence → Independence → Interdependence; most self-help stops at independence
+- **[[P/PC Balance]]** — Production vs Production Capability; kill the goose for the eggs and you lose both
+- **[[Circle of Concern vs Circle of Influence]]** — proactive people expand their Circle of Influence; reactive people drain energy on their Circle of Concern
+- **[[Time Management Matrix]]** — four quadrants (Urgent × Important); high-effectiveness people live in Q2 (Not Urgent, Important); Q2 work prevents Q1 crises
+- **[[Emotional Bank Account]]** — trust in relationships built by deposits (kept promises, kindness, loyalty) and depleted by withdrawals
+- **[[Abundance Mentality]]** — the pie is not fixed; enough for everyone; prerequisite for Think Win-Win
+- **[[Win-Win Paradigm]]** — six interaction paradigms; Win-Win or No Deal is the only durable model for ongoing relationships
+- **[[Empathic Listening]]** — listen with intent to understand, not to reply; reflect content + feeling before responding; Ethos → Pathos → Logos persuasion order
+- **Synergy** — value differences; Third Alternative (not my way / your way — a better way); high-trust communication unlocks creative output unavailable to any individual
+- **Sharpen the Saw** — renewal across four dimensions: Physical, Mental, Social/Emotional, Spiritual; neglect one and all degrade
+
 ### From Atomic Habits (James Clear)
 - **1% Rule** — 1.01^365 ≈ 37.78×; tiny improvements compound dramatically; systems > goals
 - **[[Habit Loop]]** — Cue → Craving → Response → Reward; the 4-step neurological cycle behind all habit
