@@ -17,6 +17,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Stephen Covey]] — *The 7 Habits of Highly Effective People* (1989); Maturity Continuum; Character Ethic; 40M+ copies sold
 - [[James Clear]] — *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
