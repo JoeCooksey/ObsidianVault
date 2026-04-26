@@ -392,6 +392,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - Hobbies for Young Men]], [[Hobbies for Young Men — Life Domain Framework]], [[Martial Arts for Young Men]], [[Music as a Life Skill]] — 5-domain hobby framework; BJJ + guitar + investing as Joe's priority gap-filling stack; domain audit showing creative + financial as primary gaps
 - Created: [[Research - Programming in the AI Era]], [[AI-Assisted Programming Learning Roadmap]], [[Programming Skills AI Cannot Replace]] — AI-era programming guide; 5-phase learning roadmap; irreplaceable human skills
 - Created: [[Research - Bulking vs Cutting Body Composition Guide]] + [[Bulk and Cut Decision Framework]] + [[FFMI Natural Muscle Potential]] — full body composition guide for 5'9" / 156 lb male; FFMI reference table; lean bulk/cut/recomp protocols; Joe-specific calorie math
 - Created: [[Research - LTSpice Skills Guide]] + [[LTSpice Complete Skills Guide]] — complete LTSpice reference: 4 simulation types, 10-circuit build ladder, all SPICE directives, power electronics simulation, Monte Carlo, model import, common mistakes, Joe's 4-phase timeline
