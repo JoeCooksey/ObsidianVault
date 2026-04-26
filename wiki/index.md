@@ -243,6 +243,13 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Areas (Personal)
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
+### Python EE Project Ladder (Sources)
+- [[PyPedia EE with Python GitHub]] — PyPedia 2024; Jupyter notebooks covering digital circuits, circuit theory, microelectronics in Python
+- [[Prasun Barua Python Circuit Analysis 2025]] — Barua April 2025; seven-project progression from Ohm's Law to automated n-node solver
+- [[PySDR Python Filters Guide]] — PySDR.org 2025; definitive Python FIR/IIR filter design reference; firwin, freqz, lfilter
+- [[Prasun Barua Python Power Electronics 2025]] — Barua April 2025; buck converter + SPWM inverter + FFT harmonic analysis in Python
+- [[Heslip Labs Python LTSpice Tutorial]] — Heslip Labs 2024; eight PyLTSpice automation patterns with code; best PyLTSpice tutorial
+
 ### Math Foundations (Sources)
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
