@@ -190,6 +190,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
 - [[Post-Study Energy Management]] — cognitive depletion model; recovery activity tier list; 10-min diagnostic; shutdown ritual; morning block schedule fix (developing)
 - [[Video Games Cognitive Benefits]] — S–F tier list of 40+ PC+mobile games ranked by cognitive ROI; Chess/StarCraft II/Portal 2 S-tier; gacha games F-tier; Joe-specific recommendations (developing)
+- [[Hobbies for Young Men — Life Domain Framework]] — tier list across 5 life domains (physical/creative/social/financial/intellectual); BJJ, guitar, rock climbing, investing S-tier; Joe domain audit (developing)
+- [[Martial Arts for Young Men]] — BJJ vs boxing comparison; testosterone/GH benefits; gym culture; frequency with cycling; getting started in Livermore (developing)
+- [[Music as a Life Skill]] — guitar vs piano; JustinGuitar curriculum; milestone timeline; integration with post-study recovery; social/identity/emotional ROI (developing)
 
 ### Education / Learning Media
 - [[YouTube Channels for STEM Learning]] — S–B tier list; 3Blue1Brown/Veritasium/PBS Space Time S-tier; Andrej Karpathy AI; Joe watch order mapped to EE coursework (developing)
