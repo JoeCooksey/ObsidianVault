@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-26 — Autoresearch: Python EE Project Roadmap — 20-project ladder from Ohm's Law Calculator to double pulse test analyzer and cocotb FPGA testbenches; full Python code for each project
+2026-04-26 — Autoresearch: Hobbies for Young Men — Life Domain Framework; 5-domain audit for Joe; BJJ + guitar + Roth IRA as primary gap-filling stack
 
 ## Key Recent Facts
 
