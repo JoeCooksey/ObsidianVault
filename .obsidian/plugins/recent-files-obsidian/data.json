@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
+      "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
+    },
+    {
+      "basename": "Python EE Project Ladder - Phase 0-1",
+      "path": "wiki/concepts/Python EE Project Ladder - Phase 0-1.md"
+    },
+    {
       "basename": "Python EE Project Ladder",
       "path": "wiki/concepts/Python EE Project Ladder.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Food Health Tier List — Dairy",
       "path": "wiki/concepts/Food Health Tier List — Dairy.md"
-    },
-    {
-      "basename": "Research - Food Health Tier Lists",
-      "path": "wiki/questions/Research - Food Health Tier Lists.md"
-    },
-    {
-      "basename": "Food Health Tier List — Meats and Seafood",
-      "path": "wiki/concepts/Food Health Tier List — Meats and Seafood.md"
     }
   ],
   "omittedPaths": [],
