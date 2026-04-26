@@ -71,6 +71,7 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[Health Wealth Family Framework]] — help someone with health, wealth, or their children = unbreakable bond
 
 ## Key Entities
+- [[Stephen Covey]] — *The 7 Habits of Highly Effective People* (1989); Maturity Continuum; Character Ethic; 40M+ copies; ⭐⭐⭐⭐⭐
 - [[James Clear]] — *Atomic Habits* (2018); 37.78× compounding model; Four Laws of Behavior Change; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2005/2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
