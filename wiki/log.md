@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-26] autoresearch | Python EE Project Roadmap
+- Rounds: 3 | Searches: 9 | Sources fetched: 7 | Pages created: 11
+- Created: [[Research - Python EE Project Roadmap]], [[Python EE Project Ladder]], [[Python EE Project Ladder - Phase 0-1]], [[Python EE Project Ladder - Phase 2-3]], [[Python EE Project Ladder - Phase 4-5]], [[Python EE Project Ladder - Advanced Tracks]]
+- Sources: [[PyPedia EE with Python GitHub]], [[Prasun Barua Python Circuit Analysis 2025]], [[PySDR Python Filters Guide]], [[Prasun Barua Python Power Electronics 2025]], [[Heslip Labs Python LTSpice Tutorial]]
+- Key finding: A 20-project ladder from Ohm's Law Calculator (pure Python) through nodal analysis (NumPy), DSP/FFT (SciPy), PID and buck simulation (python-control + solve_ivp), LTSpice automation (PyLTSpice), and real-instrument control (PyVISA) — ending in Track A (cocotb FPGA verification) or Track B (double pulse test analyzer for WBG power electronics). Each project teaches exactly one new Python concept while solving a real EE problem.
+
 ## [2026-04-24] autoresearch | Post-Study Motivation and Active Recovery
 - Created: [[Research - Post-Study Motivation and Active Recovery]], [[Post-Study Energy Management]]
 - Covers: What to do when class study drains motivation for outside technical work (LTSpice, programming); the science of cognitive fatigue and ego depletion; active recovery activity tier list; guilt reframe; schedule architecture fix
