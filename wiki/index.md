@@ -58,6 +58,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[C++ in Electrical Engineering]] — embedded firmware, TI C2000 PI control at 100 kHz, FreeRTOS, MISRA-C, ARM CMSIS-DSP, FOC motor control (developing)
 - [[Python Self-Teaching Roadmap for EE]] — 4-phase roadmap: Python basics → NumPy/SciPy → control systems → PyVISA + PyLTSpice → advanced track (developing)
 - [[C++ Self-Teaching Roadmap for EE]] — 5-phase roadmap: C fundamentals (K&R) → Arduino → STM32 HAL → FreeRTOS → TI C2000 digital power (developing)
+- [[Python EE Project Ladder]] — **master 20-project roadmap**: pure Python → NumPy/Matplotlib → SciPy → python-control → PyLTSpice → PyVISA → cocotb/DPT (developing)
+- [[Python EE Project Ladder - Phase 0-1]] — Projects 1–6: Ohm's Law Calculator through RLC transient simulator; full code for each (developing)
+- [[Python EE Project Ladder - Phase 2-3]] — Projects 7–13: Bode plots, FFT analyzer, FIR/IIR filter designer, PID tuner, closed-loop buck simulator; full code (developing)
+- [[Python EE Project Ladder - Phase 4-5]] — Projects 14–19: PyLTSpice parametric sweep + Monte Carlo + efficiency, PyVISA I-V + scope capture + auto Bode; full code (developing)
+- [[Python EE Project Ladder - Advanced Tracks]] — Project 20+: Track A (cocotb Verilog testbench) or Track B (double pulse test DPT analyzer); full code (developing)
 
 ### Programming in the AI Era
 - [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
