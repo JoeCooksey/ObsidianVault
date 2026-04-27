@@ -156,6 +156,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Personal Finance / Financial Literacy
+- [[Financial Literacy Roadmap]] — phase-by-phase guide from zero to FI: foundation → wins → accumulation → tax optimization → independence; compound interest tables; 50/30/20 budget (developing)
+- [[Financial Order of Operations]] — 9-step Money Guy FOO: deductible → employer match → high-interest debt → emergency fund → Roth IRA → 401k → hyper-accumulate → abundance → low-interest debt (developing)
+- [[Index Fund Investing]] — why index funds beat 92% of active managers; fund guide (VTI/FXAIX/VTWAX); expense ratio math; DCA; Roth IRA setup steps; compound interest table by age (developing)
+- [[Credit Score Building]] — FICO breakdown (35% payment history, 30% utilization); 4-step path from 0 to 750+; secured card strategy; authorized user hack; milestones by age (developing)
+
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
 
