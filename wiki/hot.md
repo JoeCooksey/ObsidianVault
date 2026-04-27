@@ -1,16 +1,27 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-04-22T12:00:00
+updated: 2026-04-27T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-04-26 — Autoresearch: Hobbies for Young Men — Life Domain Framework; 5-domain audit for Joe; BJJ + guitar + Roth IRA as primary gap-filling stack
+2026-04-27 — Autoresearch: EE Deep Learning Topics for First-Year Students; 6-topic depth priority map; Circuit Theory + Digital Logic as Year 1 self-study priority; Signals/Laplace as Year 2; Semiconductor Devices as WBG gateway
 
 ## Key Recent Facts
+
+### EE Deep Learning Topics — newest autoresearch
+- **The Leverage Stack (ordered)**: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control Systems → Electromagnetics — dependencies are real; skipping causes pattern-matching without understanding
+- **Circuit Theory = Topic #1**: KVL/KCL + nodal/mesh + Thevenin/Norton + phasors + RLC transients; prerequisite for every advanced EE course; self-study before EEE 202 is the single highest-leverage Year 1 move
+- **Signals & Systems / Laplace = most powerful EE math tool**: Converts ODEs → algebra; transfer functions encode stability + Bode in one object; used in circuits, control, DSP, and power electronics identically; Lathi "Linear Systems and Signals" is best self-study text
+- **Semiconductor Devices = WBG gateway**: p-n junction → diode I-V → MOSFET I-V → body diode → SiC/GaN physics; can't understand switching loss, Qrr, gate drive design without device physics; Neamen "Semiconductor Physics and Devices" is ASU standard
+- **Digital Logic = first official EE course (EEE 120, Term 3A)**: Boolean algebra + K-maps + sequential logic + FSMs + intro Verilog; self-study now means arriving fluent; also the gateway to FPGA track ($175k avg, Sandia employer)
+- **Control Systems = 69% YoY LinkedIn job growth (2025–2026)**: Bode plots, stability margins, PID, root locus; every power converter has a control loop; requires Signals/Laplace first
+- **Electromagnetics = hardest, needs MAT 267 + circuits first**: PCB power loop inductance, transformer physics, motor physics, RF; Year 2+ territory
+- **Year 1 immediate priorities**: Circuit Theory + Digital Logic self-study NOW (before any formal EE courses); LTSpice 10-circuit ladder + Neso Academy YouTube for digital logic
+- **Best textbooks per topic**: Circuit Theory → Nilsson & Riedel | Digital Logic → Morris Mano | Semiconductor Devices → Neamen | Signals → Lathi | Control → Ogata | EM → Hayt & Buck
 
 ### Hobbies for Young Men — newest autoresearch
 - **Three mutually non-substitutable types**: physical/active + social/community + creative/expressive; any two without the third leaves a psychological gap
