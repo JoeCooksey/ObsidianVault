@@ -278,6 +278,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Building Social Connections at ASU]] — 8 key findings; proximity science; Jeffrey Hall 50–200 hr formula; ASU-specific resources; online student strategy (developing)
 - [[Research - Social Confidence and Climbing the Social Ladder]] — 8 key findings; 12-week week-by-week plan; CBT + exposure hierarchy; conversation techniques; social ladder strategy (developing)
 - [[Research - First Job Roadmap Livermore CA]] — Local employer map, LLNL/Sandia internship timelines, ASU resources, phase-by-phase roadmap (developing)
+- [[Research - EE Deep Learning Topics for First-Year Students]] — 8 key findings; 6-topic depth priority map with year-by-year targets; textbook + resource recommendations per topic; Joe-specific WBG-oriented action plan (developing)
 - [[Research - First-Year ASU EE Skills]] — 8 key findings; ASU curriculum map, freshman self-study stack, portfolio strategy, hiring survey data (developing)
 - [[Research - EE Physical Side Skills for Semiconductors and Power]] — 8 key findings; hiring signals, 18-month actionable plan, WBG career context (developing)
 - [[Research - LTSpice Skills Guide]] — 8 key findings; 4 simulation types, 10-circuit ladder, SPICE directives, power electronics sim, common mistakes, Joe's 4-phase timeline (complete)
