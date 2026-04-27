@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Circuit Theory Fundamentals",
+      "path": "wiki/concepts/Circuit Theory Fundamentals.md"
+    },
+    {
       "basename": "EE Topic Depth Priority Map",
       "path": "wiki/concepts/EE Topic Depth Priority Map.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ASU Social Connection Methods Ranked",
       "path": "wiki/concepts/ASU Social Connection Methods Ranked.md"
-    },
-    {
-      "basename": "Book List — Self-Help, Discipline, and Productivity",
-      "path": "wiki/concepts/Book List — Self-Help, Discipline, and Productivity.md"
     }
   ],
   "omittedPaths": [],

@@ -72,12 +72,12 @@ Circuit theory is explicitly prerequisite for every advanced EE course. At ASU, 
 
 ## Best Textbooks
 
-| Book | Best For |
-|------|---------|
-| Nilsson & Riedel "Electric Circuits" | ASU standard; comprehensive |
-| Hayt & Kemmerly "Engineering Circuit Analysis" | Intuitive, readable |
-| Alexander & Sadiku "Fundamentals of Electric Circuits" | Good problem variety |
-| The Art of Electronics (Horowitz & Hill) | Practical design perspective |
+| Book                                                   | Best For                     |
+| ------------------------------------------------------ | ---------------------------- |
+| Nilsson & Riedel "Electric Circuits"                   | ASU standard; comprehensive  |
+| Hayt & Kemmerly "Engineering Circuit Analysis"         | Intuitive, readable          |
+| Alexander & Sadiku "Fundamentals of Electric Circuits" | Good problem variety         |
+| The Art of Electronics (Horowitz & Hill)               | Practical design perspective |
 
 ## Free Resources
 - **Khan Academy** — basic circuits, KVL/KCL (entry level)
