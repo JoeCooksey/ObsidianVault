@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-27] autoresearch | EE Deep Learning Topics for First-Year Students
+- Rounds: 3 | Searches: 8 | Pages created: 6
+- Created: [[Research - EE Deep Learning Topics for First-Year Students]], [[EE Topic Depth Priority Map]], [[Circuit Theory Fundamentals]], [[Signals and Systems — Laplace and Fourier]], [[Semiconductor Device Fundamentals]], [[Digital Logic and Boolean Algebra]]
+- Key findings: (1) Circuit Theory (KVL/KCL, nodal/mesh, Thevenin, phasors) is prerequisite for every advanced EE course — self-study before EEE 202 is the single highest-leverage move; (2) Signals & Systems / Laplace Transform is the most powerful mathematical framework in EE — converts ODEs to algebra, underpins circuits + control + DSP + power electronics; (3) Semiconductor Device Physics is the gateway to WBG power electronics — cannot understand SiC/GaN switching loss without p-n junction + MOSFET channel physics; (4) Digital Logic and Boolean Algebra arrives first as EEE 120 (Term 3A) — Boolean, K-maps, FSMs, intro Verilog — self-study now means arriving fluent; (5) Control Systems / Feedback shows 69% YoY LinkedIn job growth (Siemens data, 2025–2026) — Bode plots + stability margins used in every power converter; (6) Electromagnetics (Maxwell's equations) is the hardest but essential for PCB power loop design, transformer physics, and RF — requires MAT 267 first; (7) The leverage stack is ordered: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM — skipping this order leads to pattern-matching without understanding; (8) Joe's immediate Year 1 priority: Circuit Theory + Digital Logic NOW, Semiconductor Devices concurrent with MAT 267
+- Joe's Year-by-Year target: Year 1 = Circuit Theory + Digital Logic | Year 1–2 = Semiconductor Devices | Year 2 = Signals/Laplace | Year 2–3 = Control Systems | Year 3+ = Electromagnetics deep dive
+
 ## [2026-04-26] autoresearch | Hobbies for Young Men — Life Domain Framework
 - Rounds: 3 | Searches: 6 | Pages created: 4
 - Created: [[Research - Hobbies for Young Men]], [[Hobbies for Young Men — Life Domain Framework]], [[Martial Arts for Young Men]], [[Music as a Life Skill]]
