@@ -12,6 +12,16 @@ tags:
 
 ## Key Recent Facts
 
+### Peptide Tier List — newest autoresearch
+- **S-Tier for Joe**: GHK-Cu topical (RCT-confirmed skin/hair; fits existing PM routine; zero injection) + Thymosin Alpha-1 (Phase III safety; 3,000+ patients; best immune peptide for endurance athlete)
+- **A-Tier for Joe**: BPC-157 (best animal evidence for healing; oral capsules for gut/tendon; cycling overuse injuries; sparse but clean human safety data) + Semax nasal spray (BDNF upregulation; focus; learning enhancement for EE study) + Tesamorelin (FDA-approved GH peptide; file for 30+ when GH declines)
+- **B-Tier**: Selank (anxiolytic nasal spray, no sedation, no dependency; exam stress) + Ipamorelin + CJC-1295 no-DAC (GH stack; NOT appropriate at 19 when GH is at lifetime peak; file for 25+) + KPV (gut anti-inflammatory during heavy training)
+- **D-Tier / Avoid for Joe**: TB-500 (WADA S2 banned), AOD-9604 (failed human trials + WADA banned), MK-677/Ibutamoren (insulin resistance + WADA banned), Melanotan II (dangerous + banned), Epithalon at 19 (telomerase cancer risk), Hexarelin (rapid desensitization)
+- **Key regulatory shift**: Feb 27, 2026 — ~14 peptides including BPC-157, Thymosin Alpha-1, Semax, Selank expected back to legal compounding pharmacy status via prescription
+- **Human evidence reality check**: Most "research peptides" have <30 human subjects total; BPC-157 has 3 pilot studies; animal evidence is strong but animal→human translation is poor historically
+- **Best synergy stacks**: (1) BPC-157 + Thymosin Alpha-1 = healing stack; (2) Semax + Selank = cognitive + calm stack; (3) GHK-Cu topical + collagen peptides oral = skin/hair stack (already partially in place)
+- **Joe's immediate actions**: Add GHK-Cu serum to PM skincare NOW → Semax for exam periods → BPC-157 if overuse injury develops → Thymosin Alpha-1 during heavy training phases
+
 ### EE Deep Learning Topics — newest autoresearch
 - **The Leverage Stack (ordered)**: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control Systems → Electromagnetics — dependencies are real; skipping causes pattern-matching without understanding
 - **Circuit Theory = Topic #1**: KVL/KCL + nodal/mesh + Thevenin/Norton + phasors + RLC transients; prerequisite for every advanced EE course; self-study before EEE 202 is the single highest-leverage Year 1 move
