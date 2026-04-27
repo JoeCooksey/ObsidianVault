@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Zero Cost Computer Skills",
+      "path": "wiki/sources/Research - Zero Cost Computer Skills.md"
+    },
+    {
       "basename": "Python EE Project Ladder - Phase 0-1",
       "path": "wiki/concepts/Python EE Project Ladder - Phase 0-1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research - LTSpice Skills Guide",
       "path": "wiki/questions/Research - LTSpice Skills Guide.md"
-    },
-    {
-      "basename": "2026-04-22",
-      "path": "Journal/Daily/2026-04-22.md"
     }
   ],
   "omittedPaths": [],
