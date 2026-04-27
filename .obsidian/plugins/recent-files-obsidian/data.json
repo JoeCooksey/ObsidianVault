@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Python EE Project Ladder - Phase 0-1",
+      "path": "wiki/concepts/Python EE Project Ladder - Phase 0-1.md"
+    },
+    {
+      "basename": "Research - Python EE Project Roadmap",
+      "path": "wiki/questions/Research - Python EE Project Roadmap.md"
+    },
+    {
+      "basename": "Research - Peptide Tier List",
+      "path": "wiki/sources/Research - Peptide Tier List.md"
+    },
+    {
+      "basename": "Peptide Tier List Complete",
+      "path": "wiki/concepts/Peptide Tier List Complete.md"
+    },
+    {
       "basename": "2026-04-27",
       "path": "Journal/Daily/2026-04-27.md"
     },
@@ -25,16 +41,8 @@
       "path": "wiki/concepts/Hobbies for Young Men - Life Domain Framework.md"
     },
     {
-      "basename": "Python EE Project Ladder - Phase 0-1",
-      "path": "wiki/concepts/Python EE Project Ladder - Phase 0-1.md"
-    },
-    {
       "basename": "Python EE Project Ladder",
       "path": "wiki/concepts/Python EE Project Ladder.md"
-    },
-    {
-      "basename": "Research - Python EE Project Roadmap",
-      "path": "wiki/questions/Research - Python EE Project Roadmap.md"
     },
     {
       "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-22",
       "path": "Journal/Daily/2026-04-22.md"
-    },
-    {
-      "basename": "Research - Book Recommendations Master List",
-      "path": "wiki/sources/Research - Book Recommendations Master List.md"
-    },
-    {
-      "basename": "ASU Social Connection Methods Ranked",
-      "path": "wiki/concepts/ASU Social Connection Methods Ranked.md"
     }
   ],
   "omittedPaths": [],
