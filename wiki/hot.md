@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-27 — Autoresearch: EE Deep Learning Topics for First-Year Students; 6-topic depth priority map; Circuit Theory + Digital Logic as Year 1 self-study priority; Signals/Laplace as Year 2; Semiconductor Devices as WBG gateway
+2026-04-27 — Autoresearch: Peptide Tier List personalized for Joe; GHK-Cu topical S-tier; Thymosin Alpha-1 S-tier; BPC-157 A-tier for injury/gut; Semax A-tier for EE study; GH peptides overkill at 19; WADA flags on TB-500/AOD-9604/MK-677; synergy stacks documented
 
 ## Key Recent Facts
 
