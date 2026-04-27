@@ -8,9 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-27 — Autoresearch: Zero Cost Computer Skills tier list; touch typing + Python + Git + LTSpice = S-tier start-today stack; Verilog/SQL/Linux A-tier; all free with direct career ROI for Joe's EE track
+2026-04-27 — Autoresearch: Financial Literacy Roadmap; 5-phase roadmap from zero to FI; Roth IRA at 19 = highest-leverage financial move; index funds beat 92% of active managers; credit score 4-step path to 750+; Joe's immediate action plan
 
 ## Key Recent Facts
+
+### Financial Literacy Roadmap — newest autoresearch
+- **Single highest-leverage move for Joe right now**: Open Roth IRA at Fidelity ($0 minimum) → buy FZROX (0% expense ratio) or VTI (0.03%); contribute any earned income immediately; 2026 limit = $7,500
+- **The Financial Order of Operations (FOO)**: (1) Cover insurance deductible → (2) Get 100% employer match → (3) Pay high-interest debt (>7%) → (4) 3–6 month emergency fund → (5) Max Roth IRA + HSA → (6) Max 401k → (7) 25% gross income total → (8) Abundance goals → (9) Low-interest debt
+- **Index funds beat 92% of active managers** over 15 years (S&P SPIVA 2025); 0.03% expense ratio vs. 1% active management = $689k lost to fees on $100k over 50 years; VTI (Vanguard), FZROX (Fidelity 0%), FXAIX = best core holdings
+- **Compound interest math is front-loaded**: $200/month starting at 19 = $1.87M at 65; starting at 35 = $372k; same contribution, same 46 years, 5× difference; this is why starting NOW matters more than how much
+- **Roth IRA at 19 math**: $7,500/year for 10 years (ages 19–28), then stop entirely, grows to ~$2.4M at 65 at 10% avg; this is the "early investor paradox" — 10 years of early investing beats 35 years of late investing
+- **Credit score 4-step path**: (1) Discover it Secured Card ($200 deposit, no annual fee) → use for one subscription → pay in full monthly; (2) Become authorized user on parent's old card; (3) Student card at 12 months; (4) Autopay everything; FICO breakdown: 35% payment history + 30% utilization + 15% length + 10% mix + 10% new credit
+- **Utilization hack**: Pay balance BEFORE statement closes (not before due date) → statement shows 0% utilization → maximizes score
+- **Behavioral finance is the hardest part**: Missing just the 10 best trading days 2000–2020 cut S&P annualized returns from 6% to 2.4%; panic selling in downturns is the most expensive mistake; automate and ignore
+- **The 50/30/20 rule**: 50% needs, 30% wants, 20% savings/investing; automate the 20% on payday before discretionary spending
+- **Joe's action plan**: (1) Roth IRA at Fidelity → FZROX NOW; (2) Discover it Secured Card; (3) Psychology of Money (already Phase 1 reading); (4) Track all expenses 30 days; (5) LLNL/Sandia 2027 internship → capture 100% employer match immediately
+- **2026 tax-advantaged limits**: Roth IRA = $7,500 | 401k = $24,500 | HSA = $4,300 single; total shieldable = ~$36,300/year
 
 ### Zero Cost Computer Skills — newest autoresearch
 - **S-Tier (start today)**: Touch typing (keybr.com, no account) + Python (automatetheboringstuff.com free) + Git/GitHub (git-scm.com/book free, skills.github.com free) + LTSpice (free download, 10-circuit ladder already in wiki)
