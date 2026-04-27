@@ -45,6 +45,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### EE Topic Depth Map
+- [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
+
+### EE Core Curriculum Topics
+- [[Circuit Theory Fundamentals]] — KVL/KCL, nodal/mesh analysis, Thevenin/Norton, AC phasors, impedance, RLC transients, op-amps, power — the bedrock of all EE (developing)
+- [[Signals and Systems — Laplace and Fourier]] — Fourier Series/Transform, Laplace Transform, transfer functions, poles/zeros/stability, Bode plots, convolution, Z-transform — most powerful EE mathematical framework (developing)
+- [[Semiconductor Device Fundamentals]] — p-n junction, diode I-V, BJT modes, MOSFET I-V, power MOSFET body diode, IGBT, SiC vs GaN physics — gateway to WBG power electronics (developing)
+- [[Digital Logic and Boolean Algebra]] — Boolean algebra, De Morgan's laws, K-maps, combinational circuits, D flip-flops, FSMs, intro Verilog — prerequisite for EEE 120 and FPGA career track (developing)
+
 ### Math and Physics Foundations for EE
 - [[Calculus in Electrical Engineering]] — Calc 1-3 mapped to EE: derivatives for V-I relations, integrals for energy/RMS/Fourier, vector calc for Maxwell (developing)
 - [[Differential Equations in Electrical Engineering]] — RC/RL/RLC ODEs, Laplace/transfer functions, control systems, wave equation (developing)
