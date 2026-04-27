@@ -12,6 +12,16 @@ tags:
 
 ## Key Recent Facts
 
+### Zero Cost Computer Skills — newest autoresearch
+- **S-Tier (start today)**: Touch typing (keybr.com, no account) + Python (automatetheboringstuff.com free) + Git/GitHub (git-scm.com/book free, skills.github.com free) + LTSpice (free download, 10-circuit ladder already in wiki)
+- **A-Tier (start within a month)**: SQL (mode.com/sql-tutorial free, SQLite built into Python) + Linux/WSL CLI (MIT Missing Semester, missing.csail.mit.edu, 11 free lectures) + Verilog/EDA Playground (hdlbits.01xz.net, browser-based, no install) + Prompt Engineering (Anthropic free docs, Claude.ai free tier)
+- **B-Tier (supporting)**: Markdown (markdownguide.org) + GNU Octave (free MATLAB clone) + LaTeX (overleaf.com free tier) + HTML/CSS (freeCodeCamp.org) + Google Sheets
+- **Touch typing multiplier**: 30–50% throughput gain across ALL other skills; 4–6 weeks at 15 min/day; keybr.com no account required
+- **Verilog insight**: hdlbits.01xz.net is a complete browser-based Verilog problem set — direct zero-cost on-ramp to $175k FPGA engineering track; EDA Playground runs simulations in-browser
+- **MIT Missing Semester**: 11 free lectures at missing.csail.mit.edu — best free CLI/shell education available; covers Git, editors, debugging, the shell — all EE lab-essential skills
+- **Joe's compound play**: Touch typing → Python → Git → push EE projects → GitHub portfolio → LLNL/Sandia application Oct 2026
+- **Joe's start-today stack**: (1) keybr.com right now → (2) LTSpice voltage divider today → (3) Python Chapter 1 + first GitHub commit this week → (4) MIT Missing Semester + hdlbits.01xz.net this month
+
 ### Peptide Tier List — newest autoresearch
 - **S-Tier for Joe**: GHK-Cu topical (RCT-confirmed skin/hair; fits existing PM routine; zero injection) + Thymosin Alpha-1 (Phase III safety; 3,000+ patients; best immune peptide for endurance athlete)
 - **A-Tier for Joe**: BPC-157 (best animal evidence for healing; oral capsules for gut/tendon; cycling overuse injuries; sparse but clean human safety data) + Semax nasal spray (BDNF upregulation; focus; learning enhancement for EE study) + Tesamorelin (FDA-approved GH peptide; file for 30+ when GH declines)
