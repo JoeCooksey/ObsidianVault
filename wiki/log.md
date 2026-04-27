@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-27] autoresearch | Zero Cost Computer Skills — Tier List
+- Rounds: 3 | Searches: 8 | Pages created: 2
+- Created: [[Research - Zero Cost Computer Skills]], [[Zero Cost Computer Skills — Tier List]]
+- Key findings: (1) Touch typing is the highest-leverage meta-skill — multiplies every other computer skill; 4–6 weeks at 15 min/day on keybr.com (free, no account); (2) Python is the highest-ROI free language in 2026 — automatetheboringstuff.com is free online, freeCodeCamp free, pip ecosystem entirely free; (3) Git/GitHub is non-negotiable in 2026 — Pro Git book free at git-scm.com, GitHub Skills interactive course free; 1–2 days to first real repo; (4) LTSpice is the S-tier free EE tool — professional SPICE simulator, free from Analog Devices, 10-circuit ladder already in wiki, first circuit buildable in under 1 hour; (5) SQL takes 10–15 hours to reach "useful in real projects" — mode.com/sql-tutorial free, SQLite built into Python, zero cost; (6) Verilog/digital logic is learnable in-browser for free — hdlbits.01xz.net (no account, browser-based Verilog problems), EDA Playground (cloud Verilog simulation); direct on-ramp to $175k FPGA track; (7) Linux/CLI proficiency is free via WSL2 on Windows 11 — MIT "Missing Semester" covers shell, editors, Git, debugging in 11 free lectures (missing.csail.mit.edu); (8) Prompt engineering is a zero-cost skill with immediate 5–10× ROI multiplier on every other skill — Anthropic free docs, Claude.ai free tier
+- Joe's start-today stack: (1) keybr.com right now → (2) LTSpice download + voltage divider today → (3) automatetheboringstuff.com Chapter 1 + push to GitHub this week → (4) MIT Missing Semester Lecture 1 + hdlbits.01xz.net first 5 problems this month
+
 ## [2026-04-27] autoresearch | Peptide Tier List — Personalized for Joe
 - Rounds: 3 | Searches: 8 | Pages created: 2
 - Created: [[Research - Peptide Tier List]], [[Peptide Tier List Complete]]
