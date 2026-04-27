@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-27 — Autoresearch: Peptide Tier List personalized for Joe; GHK-Cu topical S-tier; Thymosin Alpha-1 S-tier; BPC-157 A-tier for injury/gut; Semax A-tier for EE study; GH peptides overkill at 19; WADA flags on TB-500/AOD-9604/MK-677; synergy stacks documented
+2026-04-27 — Autoresearch: Zero Cost Computer Skills tier list; touch typing + Python + Git + LTSpice = S-tier start-today stack; Verilog/SQL/Linux A-tier; all free with direct career ROI for Joe's EE track
 
 ## Key Recent Facts
 
