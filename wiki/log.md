@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-27] autoresearch | Financial Literacy Roadmap
+- Rounds: 3 | Searches: 9 | Pages created: 5
+- Created: [[Research - Financial Literacy Roadmap]], [[Financial Literacy Roadmap]], [[Financial Order of Operations]], [[Index Fund Investing]], [[Credit Score Building]]
+- Key findings: (1) The Financial Order of Operations is the master framework — employer match (50–100% instant return) comes before debt payoff; Roth IRA before maxing 401k for young low-income earners; (2) Roth IRA at 19 is the highest-leverage financial move available — 2026 limit $7,500, any earned income qualifies, Fidelity $0 minimum; $7,500/year from 19–28 then stopped = ~$2.4M by 65 at 10%; (3) Index funds beat 92% of active managers over 15 years (S&P SPIVA 2025) — VTI at 0.03% vs. active at 1%+ costs $689k on one $100k investment over 50 years; (4) Starting at 19 vs. 35 with same $200/month = 5× more terminal wealth at 65 — the compound interest math is dramatically front-loaded; (5) Credit score is a binary prerequisite — payment history (35%) + utilization (30%) = 65% of FICO; one secured card + pay in full + utilization <10% → 700+ by 22; (6) Behavioral finance is the real enemy — missing only the 10 best S&P days 2000–2020 cut annual returns from 6% to 2.4%; behavior beats intelligence in investing; (7) Automation removes willpower from saving — people who automate savings save 30–40% more than those who transfer manually; (8) Income growth compounds harder than expense cuts — extra $10k/year invested at 10% for 40 years = $453k; cutting daily coffee saves $1,825/year
+- Joe's immediate action stack: (1) Open Roth IRA at Fidelity → buy FZROX or VTI; (2) Apply for Discover it Secured Card; (3) Read Psychology of Money (already on Phase 1 list); (4) Track income/expenses for 30 days; (5) At LLNL/Sandia internship 2027, capture 100% of any employer match immediately
+
 ## [2026-04-27] autoresearch | Zero Cost Computer Skills — Tier List
 - Rounds: 3 | Searches: 8 | Pages created: 2
 - Created: [[Research - Zero Cost Computer Skills]], [[Zero Cost Computer Skills — Tier List]]
