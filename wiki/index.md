@@ -203,6 +203,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Hobbies for Young Men — Life Domain Framework]] — tier list across 5 life domains (physical/creative/social/financial/intellectual); BJJ, guitar, rock climbing, investing S-tier; Joe domain audit (developing)
 - [[Martial Arts for Young Men]] — BJJ vs boxing comparison; testosterone/GH benefits; gym culture; frequency with cycling; getting started in Livermore (developing)
 - [[Music as a Life Skill]] — guitar vs piano; JustinGuitar curriculum; milestone timeline; integration with post-study recovery; social/identity/emotional ROI (developing)
+- [[Zero Cost Computer Skills — Tier List]] — S–C tier list of 16 skills buildable today at a computer for free; touch typing/Python/Git/LTSpice S-tier; Verilog/SQL/Linux A-tier; Joe's start-today action stack (developing)
 
 ### Education / Learning Media
 - [[YouTube Channels for STEM Learning]] — S–B tier list; 3Blue1Brown/Veritasium/PBS Space Time S-tier; Andrej Karpathy AI; Joe watch order mapped to EE coursework (developing)
