@@ -284,6 +284,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - EE Physical Side Skills for Semiconductors and Power]] — 8 key findings; hiring signals, 18-month actionable plan, WBG career context (developing)
 - [[Research - LTSpice Skills Guide]] — 8 key findings; 4 simulation types, 10-circuit ladder, SPICE directives, power electronics sim, common mistakes, Joe's 4-phase timeline (complete)
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
+- [[Research - Peptide Tier List]] — 8 key findings; full peptide tier list personalized for Joe; WADA considerations; synergy stacks; regulatory shift Feb 2026; priority action plan (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
 - [[Research - High Income Skills Tier List]] — general + EE skill tier lists by 2026 salary; 4-phase Joe action plan; FPGA and WBG primary/secondary stack (developing)
 - [[Research - EE Mentorship at ASU]] — 8 key findings; S–C tier list of all mentorship channels; faculty contact info; cold email formula; Year 1 action stack (developing)
