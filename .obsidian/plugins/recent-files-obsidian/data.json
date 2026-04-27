@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "EE Topic Depth Priority Map",
+      "path": "wiki/concepts/EE Topic Depth Priority Map.md"
+    },
+    {
+      "basename": "Research - EE Deep Learning Topics for First-Year Students",
+      "path": "wiki/questions/Research - EE Deep Learning Topics for First-Year Students.md"
+    },
+    {
       "basename": "2026-04-27",
       "path": "Daily News Debrief/2026-04-27.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Book List — Self-Help, Discipline, and Productivity",
       "path": "wiki/concepts/Book List — Self-Help, Discipline, and Productivity.md"
-    },
-    {
-      "basename": "Research - Where to Get Cheap Books",
-      "path": "wiki/questions/Research - Where to Get Cheap Books.md"
-    },
-    {
-      "basename": "Book Sourcing Strategy",
-      "path": "wiki/concepts/Book Sourcing Strategy.md"
     }
   ],
   "omittedPaths": [],
