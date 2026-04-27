@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-27] autoresearch | Peptide Tier List — Personalized for Joe
+- Rounds: 3 | Searches: 8 | Pages created: 2
+- Created: [[Research - Peptide Tier List]], [[Peptide Tier List Complete]]
+- Key findings: (1) GHK-Cu topical is the only S-tier peptide for Joe — RCT-confirmed skin/hair benefits, zero injection, fits existing skincare protocol; (2) Thymosin Alpha-1 is S-tier immune support — 3,000+ patients, Phase III data, ideal for 6×/week endurance athlete open-window immunosuppression; (3) BPC-157 is A-tier for injury recovery — 200+ animal studies, sparse human data (~30 subjects total), but best-matched to cycling overuse injuries and gut health; (4) Semax (nasal spray) is A-tier for Joe's EE study — BDNF upregulation, focus, neurotropic signaling; Russian clinical evidence; (5) GH-axis peptides (ipamorelin, CJC-1295, sermorelin) are B-tier at best and NOT appropriate at 19 — GH already at lifetime peak; file for 30+; (6) WADA-banned peptides (TB-500, AOD-9604, MK-677, MT-II) move to D-tier for Joe regardless of animal evidence; (7) The best stacks: BPC-157 + Thymosin Alpha-1 (healing), Semax + Selank (cognition + calm), GHK-Cu + collagen peptides (skin/hair); (8) Feb 2026 regulatory shift: ~14 peptides including BPC-157, Thymosin Alpha-1, Semax, Selank expected back to legal compounding status via prescription
+- Joe's immediate action: (1) Add GHK-Cu topical serum to PM skincare routine NOW; (2) Semax nasal spray for exam/study periods; (3) BPC-157 oral capsules if overuse injury develops; (4) Thymosin Alpha-1 SubQ during heavy training phases
+
 ## [2026-04-27] autoresearch | EE Deep Learning Topics for First-Year Students
 - Rounds: 3 | Searches: 8 | Pages created: 6
 - Created: [[Research - EE Deep Learning Topics for First-Year Students]], [[EE Topic Depth Priority Map]], [[Circuit Theory Fundamentals]], [[Signals and Systems — Laplace and Fourier]], [[Semiconductor Device Fundamentals]], [[Digital Logic and Boolean Algebra]]
