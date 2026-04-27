@@ -300,6 +300,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - YouTube Channels and Learning Media]] — 8 key findings; S-tier channel/documentary/film rankings; Joe-specific watch order for EE track; 5 open questions (developing)
 - [[Research - Programming in the AI Era]] — 8 key findings; Python still the dominant AI-era language; 5-phase AI-native learning roadmap; skills AI can't replace; best 2026 tool combo (developing)
 - [[Research - Bulking vs Cutting Body Composition Guide]] — bulk/cut/recomp decision tree; FFMI targets at 5'9"; Joe-specific calorie math; muscle gain timelines (developing)
+- [[Research - Financial Literacy Roadmap]] — 8 key findings; 5-phase roadmap; FOO sequence; Roth IRA at 19 math; index fund fee table; credit score 4-step path; Joe-specific action plan; 40-year compound table (developing)
 - [[Research - Zero Cost Computer Skills]] — 8 key findings; S–C tier list; touch typing, Python, Git, LTSpice S-tier; free resource links per skill; Joe start-today action stack (complete)
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
