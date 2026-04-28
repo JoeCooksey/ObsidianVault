@@ -1,16 +1,29 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-04-27T00:00:00
+updated: 2026-04-28T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-04-27 — Autoresearch: Financial Literacy Roadmap; 5-phase roadmap from zero to FI; Roth IRA at 19 = highest-leverage financial move; index funds beat 92% of active managers; credit score 4-step path to 750+; Joe's immediate action plan
+2026-04-28 — Autoresearch: Caffeine Complete Research; matcha = S-tier drink; 90-min morning delay protocol; cycling strategies (weekend off → 5/2 → pre-competition taper); sleep cutoff rules; drink tier list S→F
 
 ## Key Recent Facts
+
+### Caffeine Complete Research — newest autoresearch
+- **Matcha = S-tier caffeine drink**: 24–39 mg L-theanine per serving (no other common drink has clinically meaningful L-theanine), 137× more antioxidants than steeped green tea, ~70 mg caffeine → "calm energy" 4–6 hours without jitter or crash; whole-leaf ingestion maximizes EGCG catechin bioavailability
+- **Caffeine mechanism**: adenosine receptor antagonist — blocks fatigue signals, doesn't add energy; brain responds to chronic use by upregulating (adding) more adenosine receptors = tolerance
+- **Tolerance timeline**: performance benefits peak days 1–4; substantially diminished by day 15–20; 64.6% of regular users experience withdrawal symptoms
+- **Drink tier list summary**: S = matcha | A = green tea, filtered black coffee | B = black tea, espresso, yerba mate, cold brew | C = Zevia Energy, Celsius | D = sugar-free Monster/Red Bull, most pre-workouts | F = full-sugar energy drinks (40–54g sugar), 5-Hour Energy shots, alcohol + caffeine combos
+- **Cycling strategies (4 tiers)**: (1) Weekend off = minimum viable, prevents full buildup; (2) 5 days on / 2 days off = standard nootropic cycling; (3) 6 weeks on / 2 weeks off = performance cycling; (4) 4–7 day pre-competition taper = maximum ergogenic effect for race day / big exam
+- **Cycling reset timeline**: cold turkey → ~7–14 days; taper 25%/2–3 days → ~14–21 days; withdrawal peaks at 20–51 hours after last dose; headache most common symptom
+- **90-minute morning delay (Huberman)**: wait 90–120 min post-wake before first caffeine; rationale = let cortisol peak and adenosine begin accumulating first; mechanistically sound but direct RCT evidence limited; primary downstream benefit = reduced afternoon crash + less need for a second dose
+- **Sleep cutoff rule**: 100 mg caffeine → last dose ≥8 hours before bed; 400 mg → ≥12 hours; conservative rule = nothing after 2 PM for 10–11 PM bedtime; sleep disruption happens below subjective awareness threshold — "I sleep fine with evening coffee" = tolerance to alertness effect, not immunity to sleep architecture damage
+- **Filtered coffee** (paper filter) = removes cafestol/kahweol (cholesterol-raising diterpenes present in espresso/French press); best for daily cardiovascular health; strongest long-term disease prevention data (Parkinson's, T2D, Alzheimer's, liver disease)
+- **L-theanine combo**: if using coffee instead of matcha, add 200 mg L-theanine capsule to replicate "calm focus" profile; 2:1 ratio (L-theanine:caffeine) is optimal in RCTs
+- **Joe's caffeine protocol**: filtered coffee or matcha at wake+90 min → max 400 mg/day → last dose ≤2 PM → weekend off minimum → 4–7 day taper before major exams or events → add L-theanine if using coffee
 
 ### Financial Literacy Roadmap — newest autoresearch
 - **Single highest-leverage move for Joe right now**: Open Roth IRA at Fidelity ($0 minimum) → buy FZROX (0% expense ratio) or VTI (0.03%); contribute any earned income immediately; 2026 limit = $7,500
