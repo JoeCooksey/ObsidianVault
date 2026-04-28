@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Caffeinated Drinks Health Tier List",
+      "path": "wiki/concepts/Caffeinated Drinks Health Tier List.md"
+    },
+    {
+      "basename": "Caffeine Cycling Protocol",
+      "path": "wiki/concepts/Caffeine Cycling Protocol.md"
+    },
+    {
+      "basename": "Caffeine Complete Guide",
+      "path": "wiki/concepts/Caffeine Complete Guide.md"
+    },
+    {
+      "basename": "Caffeine Timing Protocol",
+      "path": "wiki/concepts/Caffeine Timing Protocol.md"
+    },
+    {
       "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
       "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Research - EE Mentorship at ASU",
       "path": "wiki/questions/Research - EE Mentorship at ASU.md"
-    },
-    {
-      "basename": "EE Freshman Action Plans",
-      "path": "wiki/concepts/EE Freshman Action Plans.md"
-    },
-    {
-      "basename": "Food Health Tier List — Overall",
-      "path": "wiki/concepts/Food Health Tier List — Overall.md"
-    },
-    {
-      "basename": "College Dating Methods Ranked",
-      "path": "wiki/concepts/College Dating Methods Ranked.md"
-    },
-    {
-      "basename": "EE High Income Action Plan",
-      "path": "wiki/concepts/EE High Income Action Plan.md"
     }
   ],
   "omittedPaths": [],

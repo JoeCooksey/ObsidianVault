@@ -42,7 +42,9 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:www.prasunbarua.com)",
       "WebFetch(domain:pysdr.org)",
-      "WebFetch(domain:incompliancemag.com)"
+      "WebFetch(domain:incompliancemag.com)",
+      "WebFetch(domain:examine.com)",
+      "WebFetch(domain:medschoolinsiders.com)"
     ]
   },
   "enabledPlugins": {}
