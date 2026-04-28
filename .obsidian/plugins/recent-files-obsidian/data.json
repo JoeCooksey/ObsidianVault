@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
+      "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
+    },
+    {
+      "basename": "Circle of Concern vs Circle of Influence",
+      "path": "Circle of Concern vs Circle of Influence.md"
+    },
+    {
       "basename": "2026-04-28",
       "path": "Daily News Debrief/2026-04-28.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Python EE Project Ladder",
       "path": "wiki/concepts/Python EE Project Ladder.md"
-    },
-    {
-      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
-      "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
     },
     {
       "basename": "How To Win Friends and Influence People - Dale Carnegie",
@@ -195,10 +199,6 @@
     {
       "basename": "EE High Income Action Plan",
       "path": "wiki/concepts/EE High Income Action Plan.md"
-    },
-    {
-      "basename": "High Income Skills Tier List",
-      "path": "wiki/concepts/High Income Skills Tier List.md"
     }
   ],
   "omittedPaths": [],
