@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-28] autoresearch | Caffeine Complete Research
+- Rounds: 3 | Searches: 8 | Fetches: 4 | Pages created: 4
+- Created: [[Caffeine Complete Guide]], [[Caffeine Timing Protocol]], [[Caffeine Cycling Protocol]], [[Caffeinated Drinks Health Tier List]]
+- Updated: [[Caffeine and L-Theanine Stack]] (added cross-references), [[Wiki Index]]
+- Key findings: (1) Matcha = S-tier caffeine delivery — 24–39 mg L-theanine per serving (unique among drinks), 137× more antioxidants than steeped green tea, 70 mg caffeine → "calm energy" for 4–6 hours without crash; (2) Caffeine tolerance is real and fast — performance benefits peak days 1–4, substantially diminished by day 15–20 due to adenosine receptor upregulation; (3) Cycling strategies: weekend off = minimum viable; 5-on/2-off = standard; 4–7 day pre-competition taper = max performance; (4) 90-minute morning delay (Huberman protocol) — mechanistically sound (lets cortisol peak and adenosine re-accumulate) but direct RCT evidence is limited; primary benefit is reduced afternoon crash and sleep protection; (5) Sleep cutoff: even 100 mg caffeine within 6–8 hours of bed measurably reduces total sleep time without subjective awareness; 400 mg dose needs ≥12 hour window; (6) Withdrawal affects 64.6% of regular users; peaks at 20–51 hours; cold turkey reset = ~7–14 days; (7) Filtered coffee has strongest long-term disease prevention data (Parkinson's, T2D, Alzheimer's, liver); (8) Energy drink tier: Zevia (green tea base, zero sugar, 120 mg) = best commercial; full-sugar energy drinks = F-tier (40–54 g sugar compounds caffeine crash)
+- Joe's caffeine protocol recommendation: Black filtered coffee or matcha at wake+90min → max 400 mg/day → last dose by 2 PM → weekend off minimum → 4–7 day taper before key exams or events; stack with L-theanine (200 mg) if using coffee to replicate matcha's calm-focus profile
+
 ## [2026-04-27] autoresearch | Financial Literacy Roadmap
 - Rounds: 3 | Searches: 9 | Pages created: 5
 - Created: [[Research - Financial Literacy Roadmap]], [[Financial Literacy Roadmap]], [[Financial Order of Operations]], [[Index Fund Investing]], [[Credit Score Building]]
