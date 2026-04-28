@@ -53,9 +53,12 @@ Strong evidence from multiple RCTs specifically in young, healthy adults:
 ## Tolerance and Cycling
 
 Caffeine tolerance develops within 1–2 weeks of daily use. To preserve effect:
-- **Cycle**: 5 days on, 2 days off; or take 1–2 days off per week
-- **Avoid** caffeine after 2 PM — half-life is 5–7 hours; evening caffeine impairs sleep quality even if you fall asleep normally
+- **Cycle**: 5 days on, 2 days off; or take 1–2 days off per week — see [[Caffeine Cycling Protocol]] for full strategies including pre-competition taper
+- **Avoid** caffeine after 2 PM — half-life is 5–7 hours; evening caffeine impairs sleep quality even if you fall asleep normally (see [[Caffeine Timing Protocol]])
 - **Sleep is the most powerful cognitive enhancer.** Caffeine masks sleep deprivation without repairing it.
+
+For full drink comparison (matcha vs. green tea vs. coffee vs. energy drinks) see [[Caffeinated Drinks Health Tier List]].
+For complete mechanism, dosing tables, and safety data see [[Caffeine Complete Guide]].
 
 ## What L-Theanine Does Alone
 
