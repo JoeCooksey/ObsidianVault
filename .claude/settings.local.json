@@ -44,7 +44,12 @@
       "WebFetch(domain:pysdr.org)",
       "WebFetch(domain:incompliancemag.com)",
       "WebFetch(domain:examine.com)",
-      "WebFetch(domain:medschoolinsiders.com)"
+      "WebFetch(domain:medschoolinsiders.com)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'journal: daily entry 2026-04-29 \\(prayer + book lesson\\)' --body ' *)"
     ]
   },
   "enabledPlugins": {}
