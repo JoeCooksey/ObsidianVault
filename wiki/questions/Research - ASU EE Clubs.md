@@ -73,6 +73,7 @@ ASU's Fulton Schools of Engineering hosts 58+ student organizations across acade
 - [[IEEE PES ASU Chapter]]: power/energy-focused IEEE sub-chapter
 
 ## Key Concepts
+- [[Sun Devil Semiconductor Club]]: semiconductor-focused student org; directly aligned with WBG/IC design track; ASU NanoFab + CHIPS Act context; details pending public confirmation
 - [[ASU EE Clubs Tier List]]: full S–C tier ranking with Joe-specific stack and timeline
 
 ## Contradictions
