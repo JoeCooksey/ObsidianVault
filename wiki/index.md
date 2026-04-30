@@ -288,6 +288,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
 ## Questions / Synthesis
+
+### Travel
+- [[Research - Rome Vatican Family Trip May 2026]] — complete 9-day family tourist guide (May 11–19); Joe + parents aged 60+52; Vatican Museums, Colosseum, Tivoli day trip, Ostia Antica, day-by-day itinerary, food guide, senior-friendly tips, booking checklist (complete)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Hobbies for Young Men]] — 8 key findings; 5 life domain framework; S–D tier list; BJJ + guitar + investing as Joe's priority stack; Roth IRA + martial arts + rock climbing action moves (developing)
