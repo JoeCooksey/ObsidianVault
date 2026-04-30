@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Sun Devil Semiconductor Club",
+      "path": "wiki/entities/Sun Devil Semiconductor Club.md"
+    },
+    {
       "basename": "Research - ASU EE Clubs",
       "path": "wiki/questions/Research - ASU EE Clubs.md"
+    },
+    {
+      "basename": "IEEE ASU Student Branch",
+      "path": "wiki/entities/IEEE ASU Student Branch.md"
     },
     {
       "basename": "ASU EE Clubs Tier List",
@@ -191,14 +199,6 @@
     {
       "basename": "Research - Python and C++ in Electrical Engineering",
       "path": "wiki/questions/Research - Python and C++ in Electrical Engineering.md"
-    },
-    {
-      "basename": "C++ Self-Teaching Roadmap for EE",
-      "path": "wiki/concepts/C++ Self-Teaching Roadmap for EE.md"
-    },
-    {
-      "basename": "Free Time Tier List",
-      "path": "wiki/concepts/Free Time Tier List.md"
     }
   ],
   "omittedPaths": [],
