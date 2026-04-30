@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-29] autoresearch | ASU EE Clubs for Electrical Engineers
+- Rounds: 2 | Searches: 7 | Fetches: 6 | Pages created: 8
+- Created: [[Research - ASU EE Clubs]], [[IEEE ASU Student Branch]], [[Solar Devils ASU]], [[Sun Devil Satellite Laboratory]], [[HKN Eta Kappa Nu ASU]], [[Tau Beta Pi ASU]], [[IEEE PES ASU Chapter]], [[ASU EE Clubs Tier List]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key finding: S-Tier stack for Joe = IEEE ASU (600+ members, "Dinner With Engineers" speed-networking with Boeing/TI/Honeywell/Intel) + Solar Devils electrical sub-team (battery pack + BMS + MPPT = WBG-adjacent) + SDSL (Altium PCB design + Northrop/Lockheed industry ties); honor societies (HKN, Tau Beta Pi) unlock in Years 2–3 and provide resume distribution and $10k grad fellowships
+
 ## [2026-04-28] autoresearch | Caffeine Complete Research
 - Rounds: 3 | Searches: 8 | Fetches: 4 | Pages created: 4
 - Created: [[Caffeine Complete Guide]], [[Caffeine Timing Protocol]], [[Caffeine Cycling Protocol]], [[Caffeinated Drinks Health Tier List]]
