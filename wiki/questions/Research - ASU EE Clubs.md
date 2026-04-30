@@ -78,6 +78,7 @@ ASU's Fulton Schools of Engineering hosts 58+ student organizations across acade
 
 ## Contradictions
 - IEEE PES Chapter's official ASU presence is confirmed via Instagram/LinkedIn but less prominently listed on the official ASU Engineering hub — may operate more informally than the main IEEE branch; treat as medium confidence until first-hand confirmation
+- **Sun Devil Semiconductor Club** exists on Sun Devil Central (ID 36278) but page is login-gated; mission, sub-teams, events, and membership details are unconfirmed from public sources — treat all details as low confidence until verified in-person
 
 ## Open Questions
 - Does Solar Devils electrical sub-team accept freshmen directly, or is there a formal application/interview?
