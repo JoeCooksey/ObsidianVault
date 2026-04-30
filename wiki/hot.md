@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-28 — Autoresearch: Caffeine Complete Research; matcha = S-tier drink; 90-min morning delay protocol; cycling strategies (weekend off → 5/2 → pre-competition taper); sleep cutoff rules; drink tier list S→F
+2026-04-29 — Autoresearch: ASU EE Clubs; S-tier = IEEE ASU + Solar Devils + SDSL; HKN + Tau Beta Pi unlock Years 2–3; IEEE PES Chapter for power/energy specialization; full tier list filed
 
 ## Key Recent Facts
 
