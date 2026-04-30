@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-30",
+      "path": "Daily News Debrief/2026-04-30.md"
+    },
+    {
+      "basename": "2026-04-30",
+      "path": "Journal/Daily/2026-04-30.md"
+    },
+    {
       "basename": "Research - ASU EE Clubs",
       "path": "wiki/questions/Research - ASU EE Clubs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "AI-Assisted Programming Learning Roadmap",
       "path": "wiki/concepts/AI-Assisted Programming Learning Roadmap.md"
-    },
-    {
-      "basename": "Research - Programming in the AI Era",
-      "path": "wiki/questions/Research - Programming in the AI Era.md"
-    },
-    {
-      "basename": "Research - Python and C++ in Electrical Engineering",
-      "path": "wiki/questions/Research - Python and C++ in Electrical Engineering.md"
     }
   ],
   "omittedPaths": [],
