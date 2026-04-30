@@ -8,7 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-29 — Autoresearch: ASU EE Clubs; S-tier = IEEE ASU + Solar Devils + SDSL; HKN + Tau Beta Pi unlock Years 2–3; IEEE PES Chapter for power/energy specialization; full tier list filed
+2026-04-30 — Autoresearch: Rome & Vatican City Family Tourist Guide (May 11–19 2026); 9-day day-by-day itinerary; Vatican pre-booking critical; Tivoli day trip best for parents; Ostia Antica underrated gem; full guide filed
+
+## Key Recent Facts
+
+### Rome & Vatican Family Trip — newest autoresearch
+- **Pre-book these NOW (critical)**: Vatican Museums + Sistine Chapel (4–6 weeks ahead for May peak season; buy via Vatican official site or Viator/GetYourGuide); Colosseum; Borghese Gallery (legally capacity-capped, sells out weeks ahead)
+- **Vatican day tips**: Guided skip-the-line tour (€50–80/person) is the right call — saves 3+ hour queue; Sistine Chapel dress code enforced (shoulders + knees covered); newly restored Last Judgment wall (March 2026 restoration complete, colours now vibrant); dome climb requires 300+ steps after lift — doable for fit 60yo
+- **Best base**: Prati neighbourhood (walking distance to Vatican; flat; excellent restaurants; less touristy than historic centre)
+- **May weather**: 20–25°C days, 14°C evenings, 10–12h sunshine, ~11 rainy days (brief showers); pack layers + compact umbrella + SPF
+- **Senior-friendly strategy**: Max 2–3 major sights per day; morning sightseeing + afternoon rest; alternate heavy-walking days with easier days; Metro Line A (Ottaviano for Vatican), Line B (Colosseo); Free Now app for taxis
+- **Day trip recommendation**: Tivoli (Day 5) = 2 UNESCO World Heritage Sites (Villa d'Este + Hadrian's Villa); 40-min regional train; flat manageable gardens; best day trip for parents aged 60+52
+- **Ostia Antica** (Day 7) = Rome's most underrated day trip; Pompeii-scale ancient city 30km from Rome; flat site; tiny fraction of Pompeii's crowd; highly recommended
+- **Food essentials**: Cacio e pepe + carbonara + supplì + pizza al taglio + artichokes; stand at bar for breakfast (€2–3 vs €6+ sitting); avoid restaurants on tourist squares; tap water safe; no cream in carbonara (ever)
+- **Day-by-day**: Day 1 orientation; Day 2 Colosseum+Forum+Capitoline; Day 3 Vatican full day; Day 4 Historic Centre (Pantheon+Trevi+Spanish Steps); Day 5 Tivoli day trip; Day 6 Borghese Gallery+Trastevere; Day 7 Ostia Antica; Day 8 Castel Sant'Angelo+leisure; Day 9 departure
+
+## Key Recent Facts (previous)
 
 ## Key Recent Facts
 
