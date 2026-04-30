@@ -12,6 +12,14 @@ tags:
 
 ## Key Recent Facts
 
+### ASU EE Clubs — newest autoresearch
+- **S-Tier (join Week 1)**: IEEE ASU Student Branch (600+ members; "Dinner With Engineers" speed-networking with Boeing/TI/Honeywell/Intel; free entry) + Solar Devils electrical sub-team (battery pack + BMS + MPPT = real power electronics; WBG/EV-adjacent) + Sun Devil Satellite Laboratory (Altium PCB design; Northrop Grumman/Lockheed Martin industry ties; weather balloon sub-team = Year 1 deliverables)
+- **A-Tier (join when eligible/time permits)**: IEEE Power and Energy Society (PES) Chapter (power/energy networking; WBG career-aligned; join alongside main IEEE) + HKN Eta Kappa Nu (invitation-based; sends resumes directly to industry partners; "Lunch With Professors"; FURI pathway; target Year 2–3) + Sun Devil Rocketry (avionics sub-team; first successful liquid engine test April 3, 2025; 300 lb thrust) + ASU Drone Club (design/build/program/fly; embedded systems)
+- **B-Tier (supporting)**: Tau Beta Pi (top 1/8 junior GPA required; 32 fellowships of $10k for grad study + 250 scholarships of $2k; grad school recruiting fair; target Year 3) + Combat Ready Robotics (rapid prototyping; workshops + Sun Devil Smackdown) + Sun Devil Motorsports FSAE (electrical sub-team; high time commitment)
+- **Key rules**: Depth > breadth (2 deep clubs > 8 surface memberships); Week 1 = join IEEE + one project club; join project *sub-teams* not just general membership; social/professional groups stabilize by Week 6–8
+- **ASU has 58 engineering student orgs total** (Fulton Schools); Solar Devils competed at American Solar Challenge + World Solar Challenge (Australian Outback 1,800 miles); SDSL Coconut CubeSat expected launch April 2026
+- **Joe's recommended timeline**: Week 1 = IEEE ASU (free) + Solar Devils electrical sub-team → Month 1 = SDSL weather balloon + IEEE PES Chapter → Year 2 = target HKN (high GPA) + IEEE PES active involvement → Year 3 = Tau Beta Pi if top 1/8 junior
+
 ### Caffeine Complete Research — newest autoresearch
 - **Matcha = S-tier caffeine drink**: 24–39 mg L-theanine per serving (no other common drink has clinically meaningful L-theanine), 137× more antioxidants than steeped green tea, ~70 mg caffeine → "calm energy" 4–6 hours without jitter or crash; whole-leaf ingestion maximizes EGCG catechin bioavailability
 - **Caffeine mechanism**: adenosine receptor antagonist — blocks fatigue signals, doesn't add energy; brain responds to chronic use by upregulating (adding) more adenosine receptors = tolerance
