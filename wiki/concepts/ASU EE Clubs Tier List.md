@@ -38,6 +38,7 @@ related:
 | Club | Type | Key Value |
 |---|---|---|
 | **IEEE PES Chapter** | Networking | Power/energy-specific networking; WBG career alignment; join alongside IEEE main |
+| **Sun Devil Semiconductor Club** | Project/Networking | Directly aligned with semiconductor device + WBG career track; ASU has NanoFab + CHIPS Act facility; details TBD |
 | **HKN Eta Kappa Nu** | Honor Society | Resume sent to industry partners; faculty access; FURI pathway; target Year 2–3 |
 | **Sun Devil Rocketry** | Project-based | Avionics sub-team; first liquid engine test April 2025; high-signal aerospace portfolio piece |
 | **ASU Drone Club** | Project-based | Design/build/program drones; FPV + payload; embedded systems skills |
