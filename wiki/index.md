@@ -25,6 +25,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
 - [[Lawrence Livermore National Laboratory]] — DOE national security lab in Livermore, CA; undergrad summer internships; apply Oct–Jan; ~8,000 staff
+- [[IEEE ASU Student Branch]] — 600+ member networking org; "Dinner With Engineers" with Boeing/TI/Honeywell/Intel; S-tier for EE networking
+- [[Solar Devils ASU]] — solar-powered EV build club; electrical sub-team does battery pack + BMS + MPPT; S-tier project club for WBG track
+- [[Sun Devil Satellite Laboratory]] — CubeSat + Altium PCB design; Northrop/Lockheed partnerships; S-tier project club
+- [[HKN Eta Kappa Nu ASU]] — IEEE honor society for EE/CE; invitation-based; resume distribution to industry; A-tier
+- [[Tau Beta Pi ASU]] — pan-engineering honor society; top 1/8 junior GPA; $10k fellowships; grad school recruiting; A-tier
+- [[IEEE PES ASU Chapter]] — Power and Energy Society sub-chapter; WBG/power electronics networking; A-tier
 - [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
 - [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
 - [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024); electrons→tokens; 5-layer cake
