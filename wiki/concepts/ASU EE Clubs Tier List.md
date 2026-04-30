@@ -17,6 +17,7 @@ related:
   - "[[HKN Eta Kappa Nu ASU]]"
   - "[[Tau Beta Pi ASU]]"
   - "[[IEEE PES ASU Chapter]]"
+  - "[[Sun Devil Semiconductor Club]]"
   - "[[Research - ASU EE Clubs]]"
   - "[[EE Freshman Portfolio Strategy]]"
   - "[[Research - Building Social Connections at ASU]]"
