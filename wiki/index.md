@@ -232,6 +232,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Social Connection / Friendships
 - [[ASU Social Connection Methods Ranked]] — S–D tier list of all ASU friendship-building methods; IEEE/Solar Devils S-tier; study groups S-tier; proximity science; Joe's action stack (developing)
+- [[ASU EE Clubs Tier List]] — S–C tier ranking of all ASU engineering clubs for EE students; IEEE+Solar Devils+SDSL S-tier; HKN/Tau Beta Pi/PES A-tier; Joe's recommended timeline (developing)
 
 ### Networking / Relationships
 - [[Social Confidence Building]] — Three-staircase model (micro → sustained → high-stakes); conversation techniques (Flooding Smile, Sticky Eyes, mirroring); cognitive restructuring; identity shift (developing)
