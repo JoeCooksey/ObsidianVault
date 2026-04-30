@@ -53,7 +53,8 @@
       "WebFetch(domain:students.engineering.asu.edu)",
       "WebFetch(domain:news.asu.edu)",
       "WebFetch(domain:hkn.engineering.asu.edu)",
-      "WebFetch(domain:studentorgs.engineering.asu.edu)"
+      "WebFetch(domain:studentorgs.engineering.asu.edu)",
+      "WebFetch(domain:sundevilcentral.eoss.asu.edu)"
     ]
   },
   "enabledPlugins": {}

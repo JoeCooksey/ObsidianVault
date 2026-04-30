@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - ASU EE Clubs",
+      "path": "wiki/questions/Research - ASU EE Clubs.md"
+    },
+    {
       "basename": "ASU EE Clubs Tier List",
       "path": "wiki/concepts/ASU EE Clubs Tier List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Free Time Tier List",
       "path": "wiki/concepts/Free Time Tier List.md"
-    },
-    {
-      "basename": "Research - Free Time Tier List",
-      "path": "wiki/questions/Research - Free Time Tier List.md"
     }
   ],
   "omittedPaths": [],
