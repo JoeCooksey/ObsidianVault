@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-30] autoresearch | Rome & Vatican City Family Tourist Guide (May 11–19 2026)
+- Rounds: 2 | Searches: 9 | Pages created: 1
+- Created: [[Research - Rome Vatican Family Trip May 2026]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Vatican Museums MUST be pre-booked — May peak season means 3+ hour queues without skip-the-line; guided tour €50–80/person is essential; (2) Sistine Chapel Last Judgment wall restoration completed March 26, 2026 — original vibrant colours visible for first time in decades; (3) Colosseum and Borghese Gallery also require advance booking; Borghese is legally capacity-limited; (4) Prati neighbourhood (Vatican side) is optimal family base — flat, walkable to Vatican, excellent restaurants, less crowded; (5) Tivoli day trip (Villa d'Este + Hadrian's Villa) is the best choice for parents aged 60+52 — two UNESCO sites, manageable walking, 40-min train; (6) Ostia Antica is Rome's most underrated day trip — Pompeii-scale ruins, 30km from centre, fraction of the visitors; (7) May is ideal: 20–25°C days, 10–12h sunshine, smaller crowds than Jul–Aug; (8) Cobblestones are the primary physical challenge — broken-in walking shoes are the most important packing decision; full dress code briefing included for Vatican
+- Trip profile: Joe + parents (60 & 52) | 9 nights Rome-based | Vatican City centrepiece | day-by-day plan included for all 9 days
+
 ## [2026-04-29] autoresearch | ASU EE Clubs for Electrical Engineers
 - Rounds: 2 | Searches: 7 | Fetches: 6 | Pages created: 8
 - Created: [[Research - ASU EE Clubs]], [[IEEE ASU Student Branch]], [[Solar Devils ASU]], [[Sun Devil Satellite Laboratory]], [[HKN Eta Kappa Nu ASU]], [[Tau Beta Pi ASU]], [[IEEE PES ASU Chapter]], [[ASU EE Clubs Tier List]]
