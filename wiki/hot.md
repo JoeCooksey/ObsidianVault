@@ -23,11 +23,9 @@ tags:
 - **Food essentials**: Cacio e pepe + carbonara + supplì + pizza al taglio + artichokes; stand at bar for breakfast (€2–3 vs €6+ sitting); avoid restaurants on tourist squares; tap water safe; no cream in carbonara (ever)
 - **Day-by-day**: Day 1 orientation; Day 2 Colosseum+Forum+Capitoline; Day 3 Vatican full day; Day 4 Historic Centre (Pantheon+Trevi+Spanish Steps); Day 5 Tivoli day trip; Day 6 Borghese Gallery+Trastevere; Day 7 Ostia Antica; Day 8 Castel Sant'Angelo+leisure; Day 9 departure
 
-## Key Recent Facts (previous)
+---
 
-## Key Recent Facts
-
-### ASU EE Clubs — newest autoresearch
+### ASU EE Clubs — previous autoresearch
 - **S-Tier (join Week 1)**: IEEE ASU Student Branch (600+ members; "Dinner With Engineers" speed-networking with Boeing/TI/Honeywell/Intel; free entry) + Solar Devils electrical sub-team (battery pack + BMS + MPPT = real power electronics; WBG/EV-adjacent) + Sun Devil Satellite Laboratory (Altium PCB design; Northrop Grumman/Lockheed Martin industry ties; weather balloon sub-team = Year 1 deliverables)
 - **A-Tier (join when eligible/time permits)**: IEEE Power and Energy Society (PES) Chapter (power/energy networking; WBG career-aligned; join alongside main IEEE) + HKN Eta Kappa Nu (invitation-based; sends resumes directly to industry partners; "Lunch With Professors"; FURI pathway; target Year 2–3) + Sun Devil Rocketry (avionics sub-team; first successful liquid engine test April 3, 2025; 300 lb thrust) + ASU Drone Club (design/build/program/fly; embedded systems)
 - **B-Tier (supporting)**: Tau Beta Pi (top 1/8 junior GPA required; 32 fellowships of $10k for grad study + 250 scholarships of $2k; grad school recruiting fair; target Year 3) + Combat Ready Robotics (rapid prototyping; workshops + Sun Devil Smackdown) + Sun Devil Motorsports FSAE (electrical sub-team; high time commitment)
