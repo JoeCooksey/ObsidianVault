@@ -316,4 +316,5 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
+- [[Research - ASU EE Clubs]] — 8 key findings; S–C tier list; Solar Devils + SDSL + IEEE ASU S-tier project/networking clubs; honor society timeline; Joe's recommended club stack and timeline (developing)
 - [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
