@@ -20,6 +20,7 @@ related:
   - "[[Tau Beta Pi ASU]]"
   - "[[IEEE PES ASU Chapter]]"
   - "[[ASU EE Clubs Tier List]]"
+  - "[[Sun Devil Semiconductor Club]]"
   - "[[Research - Building Social Connections at ASU]]"
   - "[[Research - EE Mentorship at ASU]]"
   - "[[EE Freshman Portfolio Strategy]]"
