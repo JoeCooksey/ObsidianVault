@@ -31,6 +31,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[HKN Eta Kappa Nu ASU]] — IEEE honor society for EE/CE; invitation-based; resume distribution to industry; A-tier
 - [[Tau Beta Pi ASU]] — pan-engineering honor society; top 1/8 junior GPA; $10k fellowships; grad school recruiting; A-tier
 - [[IEEE PES ASU Chapter]] — Power and Energy Society sub-chapter; WBG/power electronics networking; A-tier
+- [[Sun Devil Semiconductor Club]] — semiconductor-focused student org (Sun Devil Central ID 36278); directly WBG/IC design-aligned; details pending; A-tier provisionally
 - [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
 - [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
 - [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024); electrons→tokens; 5-layer cake
