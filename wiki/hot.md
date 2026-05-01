@@ -12,6 +12,20 @@ tags:
 
 ## Key Recent Facts
 
+### EQ and IQ Enhancement Guide — newest autoresearch
+- **EQ is far more trainable than IQ**: Therapy, journaling, mindfulness, and empathy practice produce large sustained EQ gains. IQ fluid intelligence (Gf) gains are small (~2–4 points) and contested; crystallized intelligence (Gc) grows indefinitely through deliberate learning.
+- **Sleep = S-tier for both**: 24h sleep deprivation → −10–15 IQ points (working memory impaired). Sleep deprivation → amygdala 60% more reactive; emotion regulation collapses. Sleep is the prerequisite, not an option.
+- **Aerobic exercise = S-tier for both**: BDNF spike 200–300% during exercise → hippocampal neurogenesis → learning rate improvement. Exercise simultaneously reduces anxiety and cortisol → EQ resilience. Joe already does this at elite volume (6×/week).
+- **Dual n-back**: Real but modest Gf gains (~2–4 IQ points in meta-analyses). Use dual-nback.com, 20–25 sessions over 4–8 weeks. Effect partly confounded by motivation/placebo in passive-control studies.
+- **Therapy (CBT/DBT/ACT) = S-tier EQ**: Gains persist 12+ months. Indirect IQ benefit: anxiety consumes working memory; treating anxiety frees cognitive bandwidth.
+- **Affect labeling is the atomic EQ skill**: Naming emotions precisely activates vlPFC and down-regulates amygdala (Torre & Lieberman 2018). "I notice I feel disappointed" → measurable reduction in distress. Emotion granularity (distinguishing types of negative emotion) predicts regulation quality.
+- **Mindfulness has dual IQ+EQ pathway**: Medium effect on working memory (d≈0.5 across 29 studies) AND large effect on emotion regulation. Same 10–20 min/day practice captures both benefits. 8-week commitment minimum.
+- **Literary fiction EQ benefit only when transported**: Reading literary fiction (Dostoevsky, McCarthy, Morrison) improves Theory of Mind — but only when emotionally engaged. Genre fiction shows no effect. Kidd & Castano (Science 2013) replicated 5 times.
+- **Education is highest-impact IQ lever**: Flynn Effect (3 IQ pts/decade) driven by formal schooling and abstract problem-solving exposure. Each year of schooling → ~1–5 IQ points. Challenge yourself at the edge of ability, always.
+- **Formal education tier list (IQ)**: S = deliberate challenging study, sleep, aerobic exercise, dual n-back | A = new skill learning, challenging reading, chess, mindfulness | B = nutrition optimization, spaced repetition | C = brain training apps | D = nootropics (standalone)
+- **EQ tier list**: S = therapy, journaling, mindfulness, empathy practice | A = social skills training, affect labeling, emotion regulation practice | B = literary fiction, volunteering, perspective-taking | C = EQ apps | D = passive consumption without reflection
+- **Joe's highest-ROI additions**: Structured journaling 10 min/day (EQ+IQ) + mindfulness 10 min/day (EQ+IQ) + protect sleep 7.5h+ fixed wake (EQ+IQ) — all three address identified gaps without adding burden to existing schedule
+
 ### FURI Program at ASU — newest autoresearch
 - **FURI = Fulton Undergraduate Research Initiative**: flagship undergrad research program; $1,500 stipend + $400 supplies per semester; available from 2nd semester through senior year; good academic standing required (2.0+ GPA minimum)
 - **Deadline pattern**: 3rd Wednesday of March (for Fall) and 3rd Wednesday of October (for Spring); Spring 2027 deadline is ~October 2026 — Joe's target application window
