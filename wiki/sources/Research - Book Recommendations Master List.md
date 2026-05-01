@@ -3,7 +3,7 @@ type: research
 title: "Research — Book Recommendations Master List"
 status: complete
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-05-01
 tags:
   - books
   - finance
@@ -14,6 +14,12 @@ tags:
   - stoicism
   - psychology
   - business
+  - biography
+  - science
+  - history
+  - writing
+  - economics
+  - health
 ---
 
 # Research — Book Recommendations Master List
