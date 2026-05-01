@@ -64,6 +64,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Semiconductor Device Fundamentals]] — p-n junction, diode I-V, BJT modes, MOSFET I-V, power MOSFET body diode, IGBT, SiC vs GaN physics — gateway to WBG power electronics (developing)
 - [[Digital Logic and Boolean Algebra]] — Boolean algebra, De Morgan's laws, K-maps, combinational circuits, D flip-flops, FSMs, intro Verilog — prerequisite for EEE 120 and FPGA career track (developing)
 
+### Fall 2026 Upcoming Coursework
+- [[EEE 202 Circuits I — Topics and Prep]] — 8-unit topic map (KVL/KCL → Laplace); Vasileska/Myhajlenko; Irwin textbook; best prep resources; overlap with PHY 131 (developing)
+- [[MAT 343 Applied Linear Algebra — Topics and Prep]] — 10-unit topic map; MATLAB required; EE applications of eigenvalues/SVD; prep stack: 3B1B + MIT 18.06 (developing)
+- [[PHY 131 University Physics II EM — Topics and Prep]] — 16-unit E&M topic map; Qing/Reaves; Young & Freedman 15th ed; 40% topic overlap with EEE 202 (developing)
+- [[Fall 2026 Summer Study Plan — Joe]] — 3-phase 16-week schedule (May–Aug); weekly deliverables; resource quick-reference; synergy table (developing)
+- [[Research - Fall 2026 Course Prep Plan]] — synthesis: full prep strategy, cross-course synergy table, open questions (complete)
+
 ### Math and Physics Foundations for EE
 - [[Calculus in Electrical Engineering]] — Calc 1-3 mapped to EE: derivatives for V-I relations, integrals for energy/RMS/Fourier, vector calc for Maxwell (developing)
 - [[Differential Equations in Electrical Engineering]] — RC/RL/RLC ODEs, Laplace/transfer functions, control systems, wave equation (developing)
