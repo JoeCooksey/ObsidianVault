@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | Fall 2026 Course Prep Plan
+- Rounds: 2
+- Searches: 8
+- Pages created: [[EEE 202 Circuits I — Topics and Prep]], [[MAT 343 Applied Linear Algebra — Topics and Prep]], [[PHY 131 University Physics II EM — Topics and Prep]], [[Fall 2026 Summer Study Plan — Joe]], [[EEE 202 Course Page ASU Tsakalis]], [[MIT 18.06 Linear Algebra OCW Gilbert Strang]], [[Research - Fall 2026 Course Prep Plan]]
+- Synthesis: [[Research - Fall 2026 Course Prep Plan]]
+- Key finding: EEE 202 and PHY 131 share ~40% of content (KVL/KCL, RLC, phasors) — studying them simultaneously is the highest-efficiency move; eigenvalues from MAT 343 = poles from EEE 202 = natural frequencies from PHY 131; 3Blue1Brown + MIT 18.06SC is the optimal free linear algebra stack
+
 ## [2026-05-01] autoresearch | Book Master List Expansion — Biographies, Science, History + Bonus Categories
 - Pages updated: [[Research - Book Recommendations Master List]]
 - Pages created: [[Book List — Biographies]], [[Book List — Science]], [[Book List — History]], [[Book List — Writing and Communication]], [[Book List — Economics]], [[Book List — Health and Longevity]], [[Book List — Mathematics]]
