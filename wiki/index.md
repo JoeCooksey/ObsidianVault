@@ -120,6 +120,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[GPU vs TPU Trade-offs]] — programmability vs specialization; ecosystem vs efficiency (developing)
 - [[AI Five-Layer Cake]] — Jensen Huang's framework: energy → chips → platform → models → applications (developing)
 
+### Intelligence Enhancement (EQ + IQ)
+- [[EQ-IQ-Enhancement-Guide]] — master framework: definitions, trainability, evidence summary, combined tier list, Joe's priority stack (complete)
+- [[IQ-Enhancement-Tier-List]] — S–D tier list: dual n-back, sleep, exercise, education, chess, nutrition, brain training apps; expected gains and evidence quality for each (complete)
+- [[EQ-Enhancement-Tier-List]] — S–D tier list: therapy/CBT, journaling, mindfulness, empathy practice, affect labeling, fiction reading, volunteering; mechanisms for each (complete)
+- [[Combined-EQ-IQ-Tier-List]] — high-ROI activities that develop both IQ and EQ simultaneously; S–D ranking; Joe's optimal daily stack (complete)
+
 ### Psychology / Emotional Intelligence
 - [[Emotional Agility]] — compassionate, curious, courageous relationship with thoughts/emotions/stories (developing)
 - [[Emotional Rigidity]] — fusion with thoughts/emotions/stories; drives action away from values (developing)
