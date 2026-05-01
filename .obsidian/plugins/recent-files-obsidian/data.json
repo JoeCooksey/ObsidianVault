@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "EQ-Enhancement-Tier-List",
+      "path": "wiki/concepts/EQ-Enhancement-Tier-List.md"
+    },
+    {
+      "basename": "IQ-Enhancement-Tier-List",
+      "path": "wiki/concepts/IQ-Enhancement-Tier-List.md"
+    },
+    {
+      "basename": "Combined-EQ-IQ-Tier-List",
+      "path": "wiki/concepts/Combined-EQ-IQ-Tier-List.md"
+    },
+    {
+      "basename": "EQ-IQ-Enhancement-Guide",
+      "path": "wiki/concepts/EQ-IQ-Enhancement-Guide.md"
+    },
+    {
       "basename": "Research - FURI Program ASU Full Guide",
       "path": "wiki/questions/Research - FURI Program ASU Full Guide.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "How To Win Friends and Influence People - Dale Carnegie",
       "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
-    },
-    {
-      "basename": "2026-04-25",
-      "path": "Daily News Debrief/2026-04-25.md"
-    },
-    {
-      "basename": "2026-04-24",
-      "path": "Daily News Debrief/2026-04-24.md"
-    },
-    {
-      "basename": "2026-04-25",
-      "path": "Journal/Daily/2026-04-25.md"
-    },
-    {
-      "basename": "Research - Post-Study Motivation and Active Recovery",
-      "path": "wiki/questions/Research - Post-Study Motivation and Active Recovery.md"
     }
   ],
   "omittedPaths": [],
