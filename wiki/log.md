@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-30] autoresearch | MS EE Programs Acceptance Rates
+- Rounds: 1 | Searches: 8 | Pages created: 1
+- Created: [[Research - MS EE Programs Acceptance Rates]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) No university officially publishes MS ECE acceptance rates — all figures are estimates from aggregators and institutional enrollment reports; (2) MIT has no standalone terminal MS for external applicants — PhD track only at ~6–9%; (3) Stanford MS EE ~15%, UC Berkeley MEng ~20–25%, U Michigan grad engineering ~27% (most reliable figure), Purdue ~37% (most accessible high-prestige option, avg GPA 3.6); (4) NC State MS-WBGS (Fall 2026 launch) and UT Austin SSE (Fall 2025) have no historical acceptance rate data as brand-new programs — first-cohort early-mover advantage may apply; (5) For Joe: NC State and VT CPES are the best-odds targets; GPA ≥3.5 + FURI research experience + named faculty in SOP are the key differentiators across all programs
+
 ## [2026-04-30] autoresearch | Rome & Vatican City Family Tourist Guide (May 11–19 2026)
 - Rounds: 2 | Searches: 9 | Pages created: 1
 - Created: [[Research - Rome Vatican Family Trip May 2026]]
