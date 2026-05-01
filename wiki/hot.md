@@ -8,6 +8,9 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-01 — Autoresearch: Book Master List Expansion — added 7 new book list pages (Biographies, Science, History, Writing, Economics, Health/Longevity, Mathematics) plus expanded [[Research - Book Recommendations Master List]]; 13 book list pages total now in wiki
+
+## Last Updated (prev-2)
 2026-05-01 — Ingest: Power Electronics UWBG Faculty Scan; entity pages for Mike Ranjram, Raja Ayyanar, Yuji Zhao; 4-year FURI-to-grad-school roadmap created
 
 ### Power Electronics Faculty Scan — newest ingest
