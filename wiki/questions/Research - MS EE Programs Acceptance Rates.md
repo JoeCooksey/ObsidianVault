@@ -20,18 +20,18 @@ status: developing
 
 ## Acceptance Rate Table
 
-| School | Program | Est. Acceptance Rate | Avg Admitted GPA | Data Quality | Notes |
-|---|---|---|---|---|---|
-| **MIT** | SM/PhD EECS | ~6–9% | Not published | Medium | PhD track only — no standalone terminal MS for external applicants |
-| **Stanford** | MS EE | ~15% | Top of class | Medium | Terminal MS available; does not publish official rate |
-| **UC Berkeley** | MEng EECS | ~20–25%† | 3.7 | Medium | MEng = industry track; MS = research/PhD track, more selective |
-| **UIUC** | MS ECE | ~15–25%† | ~3.5+ | Low | Large program; no official rate published |
-| **Georgia Tech** | MS ECE | ~20–30%† | ~3.5 | Low | All-GT grad programs ≈45% overall; ECE more selective |
-| **U Michigan** | MS ECE | ~27% | ~3.5+ | High | Official: ~27% admitted across all grad engineering (Fall 2024) |
-| **UT Austin** | MS ECE / Semiconductor S&E | ~15–25%† | ~3.5 | Low | New SSE program (Fall 2025) — no historical data yet |
-| **Virginia Tech** | MS/MEng ECE | ~30–40%† | 3.3+ recommended | Low | Recommends 3.3+ GPA; more accessible than top-3 |
-| **NC State** | MS ECE | ~25–35%† | 3.25+ required | Low | Prefers ≥3.25 GPA; MS-WBGS is brand-new (Fall 2026) |
-| **Purdue** | MS ECE | ~37% | 3.6 avg | Medium | Official-ish: reported 37% admit rate; avg admitted GPA 3.6 |
+| School            | Program                    | Est. Acceptance Rate | Avg Admitted GPA | Data Quality | Notes                                                              |
+| ----------------- | -------------------------- | -------------------- | ---------------- | ------------ | ------------------------------------------------------------------ |
+| **MIT**           | SM/PhD EECS                | ~6–9%                | Not published    | Medium       | PhD track only — no standalone terminal MS for external applicants |
+| **Stanford**      | MS EE                      | ~15%                 | Top of class     | Medium       | Terminal MS available; does not publish official rate              |
+| **UC Berkeley**   | MEng EECS                  | ~20–25%†             | 3.7              | Medium       | MEng = industry track; MS = research/PhD track, more selective     |
+| **UIUC**          | MS ECE                     | ~15–25%†             | ~3.5+            | Low          | Large program; no official rate published                          |
+| **Georgia Tech**  | MS ECE                     | ~20–30%†             | ~3.5             | Low          | All-GT grad programs ≈45% overall; ECE more selective              |
+| **U Michigan**    | MS ECE                     | ~27%                 | ~3.5+            | High         | Official: ~27% admitted across all grad engineering (Fall 2024)    |
+| **UT Austin**     | MS ECE / Semiconductor S&E | ~15–25%†             | ~3.5             | Low          | New SSE program (Fall 2025) — no historical data yet               |
+| **Virginia Tech** | MS/MEng ECE                | ~30–40%†             | 3.3+ recommended | Low          | Recommends 3.3+ GPA; more accessible than top-3                    |
+| **NC State**      | MS ECE                     | ~25–35%†             | 3.25+ required   | Low          | Prefers ≥3.25 GPA; MS-WBGS is brand-new (Fall 2026)                |
+| **Purdue**        | MS ECE                     | ~37%                 | 3.6 avg          | Medium       | Official-ish: reported 37% admit rate; avg admitted GPA 3.6        |
 
 †Estimated range based on institutional data, applicant forum reports, and comparisons with published peer-school rates. Not officially confirmed.
 
@@ -55,18 +55,18 @@ status: developing
 
 ## Practical Context for Joe
 
-| School | Joe's Odds | Notes |
-|---|---|---|
-| NC State MS-WBGS | **Best shot** | New program, min 3.0 GPA, directly aligned; first cohort may be most accessible |
-| VT CPES | **Strong** | Moderate selectivity, 3.3+ GPA target; named faculty in SOP is the key differentiator |
-| Purdue MS Microelectronics | **Accessible** | ~37% admit; GPA 3.6 avg — good backup with top-10 school prestige; also available online |
-| UT Austin SSE | **Moderate** | New program, no GRE required, 3.0 GPA minimum; fellowship model means they want to fill quality seats |
-| U Michigan | **Moderate** | ~27% grad engineering; competitive but achievable with strong GPA + research experience |
-| Georgia Tech | **Moderate-Hard** | ECE more selective than GT's overall 45% grad rate; FURI research experience would help significantly |
-| UIUC | **Moderate-Hard** | Large program but very competitive applicant pool for EE; named faculty SOP critical |
-| Stanford | **Reach** | ~15% but extremely strong applicant pool; research experience from FURI essentially required |
-| UC Berkeley | **Reach** | MEng ~20–25%, but admits almost exclusively from top-tier undergrads; FURI publication would help |
-| MIT | **Long Shot** | PhD track only, ~6–9%; essentially requires undergraduate research publication |
+| School                     | Joe's Odds        | Notes                                                                                                 |
+| -------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------- |
+| NC State MS-WBGS           | **Best shot**     | New program, min 3.0 GPA, directly aligned; first cohort may be most accessible                       |
+| VT CPES                    | **Strong**        | Moderate selectivity, 3.3+ GPA target; named faculty in SOP is the key differentiator                 |
+| Purdue MS Microelectronics | **Accessible**    | ~37% admit; GPA 3.6 avg — good backup with top-10 school prestige; also available online              |
+| UT Austin SSE              | **Moderate**      | New program, no GRE required, 3.0 GPA minimum; fellowship model means they want to fill quality seats |
+| U Michigan                 | **Moderate**      | ~27% grad engineering; competitive but achievable with strong GPA + research experience               |
+| Georgia Tech               | **Moderate-Hard** | ECE more selective than GT's overall 45% grad rate; FURI research experience would help significantly |
+| UIUC                       | **Moderate-Hard** | Large program but very competitive applicant pool for EE; named faculty SOP critical                  |
+| Stanford                   | **Reach**         | ~15% but extremely strong applicant pool; research experience from FURI essentially required          |
+| UC Berkeley                | **Reach**         | MEng ~20–25%, but admits almost exclusively from top-tier undergrads; FURI publication would help     |
+| MIT                        | **Long Shot**     | PhD track only, ~6–9%; essentially requires undergraduate research publication                        |
 
 ## What Moves the Needle Most (Any School)
 
