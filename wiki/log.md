@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | GLP Medications Complete Guide (Semaglutide, Tirzepatide, Retatrutide)
+- Rounds: 2 | Searches: 9 | Pages created: 5
+- Created: [[GLP-1 Medications Overview]], [[Semaglutide]], [[Tirzepatide]], [[Retatrutide]], [[GLP Medication Exit Strategy]], [[Research - GLP Medications Complete Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Three-generation progression — semaglutide (GLP-1 only, ~14–20% wt loss), tirzepatide (GLP-1+GIP, ~20–22%), retatrutide (GLP-1+GIP+glucagon, ~26–28.7%); (2) Tirzepatide beats semaglutide by 47% in SURMOUNT-5 head-to-head; (3) Retatrutide achieves 28.7% mean body weight loss at 68 weeks in TRIUMPH-4 Phase 3 — highest ever for a pharmacological agent; (4) Retatrutide NOT FDA-approved; NDA expected Q4 2026, approval ~mid-2027; dysesthesia safety signal (20.9% at 12 mg) under Phase 3 review; (5) All three use slow 4-week titration protocol — skipping steps causes dropout; (6) Exit strategy: stopping = weight regain (>40% of loss in 28 weeks per STEP-10); best approach is maintenance dosing reduction, not full cessation; (7) Oral semaglutide (Wegovy pill 25 mg/day) approved December 2025 — first GLP-1 pill for obesity; (8) Gradual 9-week taper with diet+exercise coaching maintained weight stability in 2024 study
+
 ## [2026-05-01] autoresearch | Fall 2026 Course Prep Plan
 - Rounds: 2
 - Searches: 8
