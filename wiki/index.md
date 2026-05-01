@@ -85,6 +85,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
 - [[Programming Skills AI Cannot Replace]] — architecture, domain knowledge, debugging instinct, code review taste, security mindset, communication (developing)
 
+### ASU Research Programs
+- [[FURI Program Complete Guide]] — complete quick-reference: eligibility, deadlines, application checklist, poster specs, faculty mentor table, Joe's action timeline (developing)
+- [[Research - FURI Program ASU Full Guide]] — full research synthesis: all application components, 7 research themes, faculty cold-email formula, semester timeline, grad-school connection (developing)
+- [[ASU EE Mentorship Pathways]] — all mentorship channels ranked (peer mentor → FURI → IEEE → Barrett alumni) (developing)
+- [[Research - EE Mentorship at ASU]] — full mentorship research: faculty contacts, cold email formula, Year 1 action stack (developing)
+
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
