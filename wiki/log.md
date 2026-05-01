@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-04-30] autoresearch | FURI Program at ASU — Full Guide
+- Rounds: 1 | Searches: 5 | Pages created: 2
+- Created: [[Research - FURI Program ASU Full Guide]], [[FURI Program Complete Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) FURI = $1,500 stipend + $400 supplies, available from 2nd semester until graduation, no GPA floor beyond "good standing"; (2) Deadlines are 3rd Wednesday of March (Fall) and October (Spring) — Fall 2026 deadline was March 18; Spring 2027 is ~October 2026; (3) Application requires 6 documents — the most critical prerequisite is securing faculty mentor approval BEFORE submitting; (4) No AI tools (ChatGPT, Claude) permitted anywhere in application; (5) 7 research themes — Energy and Semiconductor Manufacturing are Joe's primary alignment; (6) Prof. Mike Ranjram (MAPEL, mike.ranjram@asu.edu) is the highest-priority FURI mentor for Joe's WBG track; (7) Expo format: 23" × 35" poster at Fulton Forge Student Research Expo end of each semester; (8) FURI is the single strongest grad-school differentiator — NC State MS-WBGS and VT CPES both weight research experience heavily; Joe's chain = FURI Year 2 → named WBG letter → MS EE admission
+
 ## [2026-04-30] autoresearch | MS EE Programs Acceptance Rates
 - Rounds: 1 | Searches: 8 | Pages created: 1
 - Created: [[Research - MS EE Programs Acceptance Rates]]
