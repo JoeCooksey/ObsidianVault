@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "GLP-1 Medications Overview",
+      "path": "wiki/concepts/GLP-1 Medications Overview.md"
+    },
+    {
+      "basename": "GLP Medication Exit Strategy",
+      "path": "wiki/concepts/GLP Medication Exit Strategy.md"
+    },
+    {
+      "basename": "Tirzepatide",
+      "path": "wiki/concepts/Tirzepatide.md"
+    },
+    {
       "basename": "PHY 131 University Physics II EM — Topics and Prep",
       "path": "wiki/concepts/PHY 131 University Physics II EM — Topics and Prep.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Financial Literacy Roadmap",
       "path": "wiki/concepts/Financial Literacy Roadmap.md"
-    },
-    {
-      "basename": "Financial Order of Operations",
-      "path": "wiki/concepts/Financial Order of Operations.md"
-    },
-    {
-      "basename": "Index Fund Investing",
-      "path": "wiki/concepts/Index Fund Investing.md"
-    },
-    {
-      "basename": "Research - Zero Cost Computer Skills",
-      "path": "wiki/sources/Research - Zero Cost Computer Skills.md"
     }
   ],
   "omittedPaths": [],
