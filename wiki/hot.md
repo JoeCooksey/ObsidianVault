@@ -25,6 +25,18 @@ tags:
 
 ## Key Recent Facts
 
+### Fall 2026 Course Prep — newest autoresearch
+- **Schedule**: EEE 202 Circuits I (Vasileska/Myhajlenko), MAT 343 Applied Linear Algebra (Espanol), PHY 131/132 University Physics II E&M (Qing/Reaves)
+- **Biggest cross-course insight**: EEE 202 Units 1–3, 4–5, and 6 overlap ~100% with PHY 131 Chs 25–26, 30, and 31 respectively — studying them together is the highest-efficiency move in the schedule
+- **Eigenvalue bridge**: MAT 343 eigenvalues = EEE 202 transfer function poles = PHY 131 natural frequencies of RLC circuits; when this clicks, all three courses unite
+- **EEE 202 prep priority**: KVL/KCL → nodal/mesh analysis → Thevenin/Norton → phasors → Laplace; Units 1–3 are front-loaded in first 4 weeks
+- **PHY 131 hardest topic**: Gauss's Law — master 3 symmetric geometries (sphere, cylinder, infinite plane) before class; drill 10 problems on each
+- **MAT 343 must-dos before Day 1**: Watch all 16 3Blue1Brown "Essence of Linear Algebra" episodes (~4 hrs); learn MATLAB basics (`eig()`, `inv()`, `null()`, `A*b`)
+- **Summer plan**: 3 phases over 16 weeks (May 5 – Aug 23); 15–20 hrs/week; Phase 1 = circuit fundamentals + electrostatics + LA orientation; Phase 2 = phasors + magnetism + LA depth; Phase 3 = Laplace + eigenvalues + integration
+- **Textbooks**: EEE 202 = Irwin *Basic Engineering Circuit Analysis* 10th ed; PHY 131 = Young & Freedman *University Physics with Modern Physics* 15th ed (Canvas)
+- **Quan Qing office hours**: Tue 1:30–2:30 PM, PSB 147
+- **Best free resource stack**: Khan Academy E&M (PHY 131) + Khan Academy DC Circuits (EEE 202) + 3Blue1Brown Essence of LA + MIT 18.06SC + Paul's Online Notes (Laplace) + LTSpice + MATLAB Onramp
+
 ### Chess Improvement Guide — newest autoresearch
 - **Tactics are the single fastest improvement lever**: 20–30 min/day of quality puzzles (10–20 puzzles, not rushed), spaced repetition via Chess.com or Lichess. Pattern recognition + thought process are the two trainable muscles. Review every wrong answer — the pattern matters more than the solution.
 - **Study distribution shifts by rating**: Beginners (400–800): ~70% tactics; Club players (1200–1600): ~50% tactics, ~25% openings, ~15% strategy, ~10% endgames; Intermediate (1600–2000): ~40% tactics, ~25% endgames weight rising; Advanced (2000+): ~25% endgames.
