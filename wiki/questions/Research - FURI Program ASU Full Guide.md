@@ -142,11 +142,11 @@ Browse faculty profiles at:
 
 **Power electronics and WBG priority targets for Joe:**
 
-| Professor | Lab | Focus | Email |
-|---|---|---|---|
-| **Mike Ranjram** | MAPEL | WBG devices, miniaturized converters, gate drivers | mike.ranjram@asu.edu |
-| **Raja Ayyanar** | ECEE | EV/PV/WBG/motor drives (senior faculty, broad scope) | rayyanar@asu.edu |
-| Yuji Zhao | EECS | GaN and Ga₂O₃ ultra-wide bandgap devices | via faculty dir |
+| Professor        | Lab   | Focus                                                | Email                |
+| ---------------- | ----- | ---------------------------------------------------- | -------------------- |
+| **Mike Ranjram** | MAPEL | WBG devices, miniaturized converters, gate drivers   | mike.ranjram@asu.edu |
+| **Raja Ayyanar** | ECEE  | EV/PV/WBG/motor drives (senior faculty, broad scope) | rayyanar@asu.edu     |
+| Yuji Zhao        | EECS  | GaN and Ga₂O₃ ultra-wide bandgap devices             | via faculty dir      |
 
 Prof. Ranjram (MAPEL) is the **highest-priority cold approach** for Joe's WBG power track — he has supervised FURI students, his lab is accessible to undergrads, and his work is directly aligned.
 
