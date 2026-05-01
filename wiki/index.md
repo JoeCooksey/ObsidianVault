@@ -297,6 +297,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Post-Study Motivation and Active Recovery]] — 8 key findings; cognitive depletion science; active recovery tier list; guilt reframe; schedule architecture fix; Joe-specific action plan (developing)
 - [[Research - Where to Get Cheap Books]] — full tier list (S=free → D=avoid); Libby, BookBub, ThriftBooks, AbeBooks, BookFinder, Project Gutenberg; Joe-specific sourcing path for his 9-book reading list (complete)
 - [[Research - Top MS EE Programs Physical Side]] — 10 schools ranked; NC State WBG MS, VT CPES, UT Austin SSE; Joe's recommended path to NC State + PowerAmerica pipeline (developing)
+- [[Research - MS EE Programs Acceptance Rates]] — acceptance rate table for all 10 schools; Purdue ~37% most accessible; MIT PhD-only ~6–9%; NC State WBGS and UT Austin SSE too new for data; GPA + FURI + named-faculty SOP are key differentiators (developing)
 - [[Research - College Dating Guide for Young Men]] — all methods ranked S–D; app rankings; the ask formula; baseline stack; mindset principles (complete)
 - [[Research - Building Social Connections at ASU]] — 8 key findings; proximity science; Jeffrey Hall 50–200 hr formula; ASU-specific resources; online student strategy (developing)
 - [[Research - Social Confidence and Climbing the Social Ladder]] — 8 key findings; 12-week week-by-week plan; CBT + exposure hierarchy; conversation techniques; social ladder strategy (developing)
