@@ -8,7 +8,19 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-30 — Autoresearch: Rome & Vatican City Family Tourist Guide (May 11–19 2026); 9-day day-by-day itinerary; Vatican pre-booking critical; Tivoli day trip best for parents; Ostia Antica underrated gem; full guide filed
+2026-04-30 — Autoresearch: MS EE Programs Acceptance Rates; compiled acceptance rate table for all 10 programs; key result: rates mostly unpublished, best estimates range from ~6–9% (MIT PhD) to ~37% (Purdue); NC State WBGS and UT Austin SSE too new for data; full table filed
+
+## Key Recent Facts
+
+### MS EE Programs — Acceptance Rates — newest autoresearch
+- **No university officially publishes MS ECE acceptance rates.** All data is estimated from enrollment reports, GradCafe aggregations, and institutional comparisons.
+- **Rate table (estimates)**: MIT PhD-only ~6–9% | Stanford MS EE ~15% | UC Berkeley MEng ~20–25% (avg GPA 3.7) | UIUC MS ECE ~15–25% | Georgia Tech MS ECE ~20–30% | U Michigan ~27% (most reliable — official grad engineering figure, Fall 2024) | UT Austin ~15–25% | Virginia Tech ~30–40% | NC State ~25–35% | Purdue ~37% (avg GPA 3.6)
+- **MIT = PhD track only**: No standalone terminal MS for external applicants; SM is earned en route to PhD.
+- **NC State MS-WBGS (Fall 2026) and UT Austin SSE (Fall 2025) have NO historical acceptance rate data** — brand-new programs; first cohort may be most accessible due to early-mover effect.
+- **Purdue is the most accessible high-prestige option** (~37%, avg GPA 3.6, online available within top-10 engineering school).
+- **Joe's best-odds targets**: NC State (new program + Joe's WBG alignment) → VT CPES (moderate selectivity, GPA 3.3+ recommended) → Purdue (accessible backup).
+- **What moves the needle**: GPA ≥3.5 + FURI/lab research experience + named faculty in SOP + LTSpice/WBG skills. GRE mostly waived.
+- **Stanford ~15% applicant pool caveat**: Even at 15% the pool is top undergraduate research students; needs FURI publication to be competitive.
 
 ## Key Recent Facts
 
