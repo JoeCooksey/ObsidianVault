@@ -12,6 +12,19 @@ tags:
 
 ## Key Recent Facts
 
+### FURI Program at ASU — newest autoresearch
+- **FURI = Fulton Undergraduate Research Initiative**: flagship undergrad research program; $1,500 stipend + $400 supplies per semester; available from 2nd semester through senior year; good academic standing required (2.0+ GPA minimum)
+- **Deadline pattern**: 3rd Wednesday of March (for Fall) and 3rd Wednesday of October (for Spring); Spring 2027 deadline is ~October 2026 — Joe's target application window
+- **Application = 6 components**: resume + 2-page research proposal + bibliography + timeline + 1-page personal statement + transcript + **faculty mentor approval** (must have mentor first — this is the gate)
+- **No AI tools permitted**: ChatGPT, Claude, etc. are explicitly banned for any application component — write everything yourself
+- **7 research themes**: Data | Education | Energy | Health | Security | **Semiconductor Manufacturing** | Sustainability → Joe's primary themes are **Energy** (power electronics/WBG) and **Semiconductor Manufacturing** (SiC/GaN)
+- **Faculty mentor priority for Joe**: Prof. Mike Ranjram (MAPEL, mike.ranjram@asu.edu) = highest priority — WBG devices + miniaturized converters, FURI-friendly; Prof. Raja Ayyanar (rayyanar@asu.edu) = second option — EV/PV/WBG/motor drives
+- **Mentor acquisition strategy**: read 1–2 MAPEL papers → visit Ranjram office hours 2–3 times → express research interest → ask for FURI mentorship; cold email as fallback (7–12 sentences, one at a time, 7 business days before follow-up)
+- **End-of-semester deliverable**: 23" × 35" poster presented at Fulton Forge Student Research Expo; required sections: Introduction | Methods | Results | Conclusions | References; less text, more charts
+- **Why FURI matters for grad school**: NC State MS-WBGS and VT CPES both weight research experience heavily; FURI under Ranjram → named WBG letter + research abstract = strongest differentiator in SOP; chain = FURI Year 2 → MS EE admission → LLNL/Sandia/WBG career
+- **Joe's action plan**: Year 1 now = visit Ranjram/Ayyanar office hours + build LTspice + Python portfolio + join IEEE + Solar Devils; October 2026 = Spring 2027 FURI application; research topic ideas = SiC gate driver optimization, GaN OBC thermal characterization, WBG double-pulse test analysis
+- **Scale**: 117 students participated Fall 2025; can apply multiple semesters; GCSP Research Stipend is similar alternative for GCSP scholars; MORE = grad-student equivalent
+
 ### MS EE Programs — Acceptance Rates — newest autoresearch
 - **No university officially publishes MS ECE acceptance rates.** All data is estimated from enrollment reports, GradCafe aggregations, and institutional comparisons.
 - **Rate table (estimates)**: MIT PhD-only ~6–9% | Stanford MS EE ~15% | UC Berkeley MEng ~20–25% (avg GPA 3.7) | UIUC MS ECE ~15–25% | Georgia Tech MS ECE ~20–30% | U Michigan ~27% (most reliable — official grad engineering figure, Fall 2024) | UT Austin ~15–25% | Virginia Tech ~30–40% | NC State ~25–35% | Purdue ~37% (avg GPA 3.6)
