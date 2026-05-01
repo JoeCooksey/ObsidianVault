@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "FURI Program Complete Guide",
+      "path": "wiki/concepts/FURI Program Complete Guide.md"
+    },
+    {
+      "basename": "Mike Ranjram",
+      "path": "wiki/entities/Mike Ranjram.md"
+    },
+    {
+      "basename": "FURI to Grad School Roadmap — Joe",
+      "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
+    },
+    {
       "basename": "EQ-Enhancement-Tier-List",
       "path": "wiki/concepts/EQ-Enhancement-Tier-List.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2026-04-27",
       "path": "Daily News Debrief/2026-04-27.md"
-    },
-    {
-      "basename": "Hobbies for Young Men - Life Domain Framework",
-      "path": "wiki/concepts/Hobbies for Young Men - Life Domain Framework.md"
-    },
-    {
-      "basename": "Python EE Project Ladder",
-      "path": "wiki/concepts/Python EE Project Ladder.md"
-    },
-    {
-      "basename": "How To Win Friends and Influence People - Dale Carnegie",
-      "path": "Books/How To Win Friends and Influence People - Dale Carnegie.md"
     }
   ],
   "omittedPaths": [],
