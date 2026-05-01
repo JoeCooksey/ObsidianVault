@@ -520,6 +520,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - Chess Improvement Guide]] + [[Chess Improvement Complete Guide]] + [[Chess Rating Roadmap]] — complete chess improvement system: four pillars, rating-phase breakdown with study distributions, book ladder (Capablanca→Seirawan→Silman→Yusupov→Dvoretsky), platform guide (Chess.com + Lichess + Chessable), endgame must-know list, Joe-specific daily integration (15 min puzzles + 1-2 weekly long games + game analysis)
 - Created: [[EQ-IQ-Enhancement-Guide]] + [[IQ-Enhancement-Tier-List]] + [[EQ-Enhancement-Tier-List]] + [[Combined-EQ-IQ-Tier-List]] — complete EQ and IQ enhancement reference with S–D tier lists grounded in RCT/meta-analysis evidence; dual-benefit activities ranked; Joe-specific priority stack included
 - Created: [[Research - FURI Program ASU Full Guide]] + [[FURI Program Complete Guide]] — complete FURI guide: eligibility, 6 application components, 7 research themes, faculty mentor strategy (Ranjram/Ayyanar), poster specs, Joe's Year 2 action timeline; key insight: securing faculty mentor approval is the prerequisite gate before any other application step
 - Created: [[Research - Hobbies for Young Men]], [[Hobbies for Young Men — Life Domain Framework]], [[Martial Arts for Young Men]], [[Music as a Life Skill]] — 5-domain hobby framework; BJJ + guitar + investing as Joe's priority gap-filling stack; domain audit showing creative + financial as primary gaps
