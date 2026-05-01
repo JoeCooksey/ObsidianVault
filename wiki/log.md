@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | Book Master List Expansion — Biographies, Science, History + Bonus Categories
+- Pages updated: [[Research - Book Recommendations Master List]]
+- Pages created: [[Book List — Biographies]], [[Book List — Science]], [[Book List — History]], [[Book List — Writing and Communication]], [[Book List — Economics]], [[Book List — Health and Longevity]], [[Book List — Mathematics]]
+- Updated: [[Wiki Index]], [[Wiki Log]]
+- Key additions: (1) Biographies — Isaacson trio (da Vinci, Jobs, Musk) + Chernow (Hamilton, Rockefeller) + McCullough (Wright Brothers, 1776) + Caro (Power Broker); (2) Science — Feynman Lectures as the gold standard, Selfish Gene, Bryson's Short History, QED, Mukherjee's Gene + Emperor of All Maladies, GEB; (3) History — Sapiens (macro frame), Guns of August (cascade decisions), Rise and Fall of Third Reich, Genghis Khan (revisionist), Silk Roads, SPQR; (4) Bonus: Writing (On Writing Well), Economics (Economics in One Lesson, Freakonomics, Sowell), Health/Longevity (Outlive, Why We Sleep), Mathematics (How to Prove It, Linear Algebra Done Right, Spivak)
+
 ## [2026-05-01] ingest | Power Electronics and UWBG Faculty Research Scan
 - Source: `.raw/articles/power-electronics-uwbg-faculty-scan-2026-05-01.md`
 - Summary: [[Research - Power Electronics UWBG Faculty Scan 2026]]
