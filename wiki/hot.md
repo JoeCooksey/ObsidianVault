@@ -25,6 +25,18 @@ tags:
 
 ## Key Recent Facts
 
+### GLP Medications — newest autoresearch
+- **Three-generation progression:** Semaglutide (GLP-1 only) → Tirzepatide (GLP-1+GIP) → Retatrutide (GLP-1+GIP+Glucagon); each generation adds receptor targets and meaningfully greater weight loss
+- **Weight loss outcomes:** Semaglutide ~14–20% | Tirzepatide ~20–22% | Retatrutide ~26–28.7% (Phase 3, not FDA-approved)
+- **Tirzepatide beats semaglutide by 47%** in direct SURMOUNT-5 head-to-head trial (NEJM, 2025); tirzepatide is the current best FDA-approved agent
+- **Retatrutide status:** Phase 3 TRIUMPH program ongoing; NDA filing expected Q4 2026; FDA approval ~mid-to-late 2027; NOT currently legally available by prescription; dysesthesia safety signal (20.9% at 12 mg) under review
+- **Oral semaglutide (Wegovy pill 25 mg/day) approved December 2025** — first GLP-1 pill for obesity; ~13.6% weight loss at 64 weeks
+- **Semaglutide dosing (Wegovy):** 0.25 → 0.5 → 1.0 → 1.7 → 2.4 mg/week; 4 weeks per step; 16–20 weeks to max dose
+- **Tirzepatide dosing (Zepbound):** 2.5 → 5 → 7.5 → 10 → 12.5 → 15 mg/week; 4 weeks per step; 20+ weeks to max dose
+- **Retatrutide dosing (Phase 3):** 2 → 4 → 6 → 9 → 12 mg/week; 4 weeks per step
+- **Exit strategy reality:** Stopping = weight regain; >40–50% of lost weight returns within 28–52 weeks (STEP-10, SURMOUNT-4 trials); best approach is maintenance dose reduction, not full cessation
+- **Best exit approach if stopping:** 9-week gradual taper + diet/exercise coaching + protein 1.6g/kg/day + Zone 2 cardio (increases endogenous GLP-1 by 25%) + metformin bridge if needed + 5-lb trigger rule for re-intervention
+
 ### Fall 2026 Course Prep — newest autoresearch
 - **Schedule**: EEE 202 Circuits I (Vasileska/Myhajlenko), MAT 343 Applied Linear Algebra (Espanol), PHY 131/132 University Physics II E&M (Qing/Reaves)
 - **Biggest cross-course insight**: EEE 202 Units 1–3, 4–5, and 6 overlap ~100% with PHY 131 Chs 25–26, 30, and 31 respectively — studying them together is the highest-efficiency move in the schedule
