@@ -88,6 +88,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
 - [[Programming Skills AI Cannot Replace]] — architecture, domain knowledge, debugging instinct, code review taste, security mindset, communication (developing)
 
+### Power Electronics Faculty + Grad School Roadmap
+- [[FURI to Grad School Roadmap — Joe]] — 4-year roadmap: Year 1 skills → Year 2 FURI under Ranjram → Year 3 second research term + grad prep → Year 4 NC State/VT CPES applications; key metrics table (developing)
+- [[Research - Power Electronics UWBG Faculty Scan 2026]] — faculty scan of Ranjram/Ayyanar/Zhao; simplified for Joe's WBG interests; critical correction: Zhao is at Rice not ASU (complete)
+
 ### ASU Research Programs
 - [[FURI Program Complete Guide]] — complete quick-reference: eligibility, deadlines, application checklist, poster specs, faculty mentor table, Joe's action timeline (developing)
 - [[Research - FURI Program ASU Full Guide]] — full research synthesis: all application components, 7 research themes, faculty cold-email formula, semester timeline, grad-school connection (developing)
