@@ -12,6 +12,17 @@ tags:
 
 ## Key Recent Facts
 
+### Chess Improvement Guide — newest autoresearch
+- **Tactics are the single fastest improvement lever**: 20–30 min/day of quality puzzles (10–20 puzzles, not rushed), spaced repetition via Chess.com or Lichess. Pattern recognition + thought process are the two trainable muscles. Review every wrong answer — the pattern matters more than the solution.
+- **Study distribution shifts by rating**: Beginners (400–800): ~70% tactics; Club players (1200–1600): ~50% tactics, ~25% openings, ~15% strategy, ~10% endgames; Intermediate (1600–2000): ~40% tactics, ~25% endgames weight rising; Advanced (2000+): ~25% endgames.
+- **Game analysis without engine first is the highest-ROI habit**: After every long game, analyze on your own, then run the engine. Ask "why did I choose the wrong move?" not just "what was right?" Extract one specific lesson per game and act on it that week.
+- **Openings: ideas, not lines**: Choose one White system + two Black defenses; learn 4–5 moves + the ideas/pawn structures. Don't memorize deep lines before ~1500 Elo — every hour of opening memorization below 1400 gives far worse returns than an hour of tactics.
+- **Endgames are the most neglected decisive factor**: Must-know positions in order — K+P vs K (opposition, square rule, key squares) → Lucena position (winning K+R+P) → Philidor position (drawing K+R) → rook behind passed pawn. *Silman's Complete Endgame Course* teaches by rating level — start exactly at your level.
+- **Platform tier list**: Chess.com (best lessons, puzzle trainer, analysis tools, clean app) + Lichess (100% free, no ads, excellent puzzles + engine analysis) = both essential and free. Chessable uses spaced repetition for opening memorization — best for learning repertoires.
+- **Book ladder**: Capablanca *Chess Fundamentals* (beginner, free online) → Seirawan *Winning Chess Tactics* + *Openings* (novice-club, ~$15 each) → Silman *How to Reassess Your Chess* (1200–2000, imbalance framework) → Yusupov 9-book series (systematic) → Dvoretsky *Endgame Manual* (advanced).
+- **Blitz kills improvement**: Players who only play blitz plateau early; long time controls (15+5 or 30 min) + game analysis is what builds real pattern depth. Magnus Carlsen recommends analyzing slow games for improvement, not grinding blitz.
+- **Joe's integration**: Daily 15 min Chess.com puzzles (already in Joe's game stack) → add 1–2 weekly long games (30 min) + analyze each game without engine first → this turns casual play into systematic improvement.
+
 ### EQ and IQ Enhancement Guide — newest autoresearch
 - **EQ is far more trainable than IQ**: Therapy, journaling, mindfulness, and empathy practice produce large sustained EQ gains. IQ fluid intelligence (Gf) gains are small (~2–4 points) and contested; crystallized intelligence (Gc) grows indefinitely through deliberate learning.
 - **Sleep = S-tier for both**: 24h sleep deprivation → −10–15 IQ points (working memory impaired). Sleep deprivation → amygdala 60% more reactive; emotion regulation collapses. Sleep is the prerequisite, not an option.
