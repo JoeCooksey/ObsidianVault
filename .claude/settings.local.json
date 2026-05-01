@@ -55,7 +55,10 @@
       "WebFetch(domain:hkn.engineering.asu.edu)",
       "WebFetch(domain:studentorgs.engineering.asu.edu)",
       "WebFetch(domain:sundevilcentral.eoss.asu.edu)",
-      "Skill(claude-obsidian:wiki-ingest)"
+      "Skill(claude-obsidian:wiki-ingest)",
+      "WebFetch(domain:tsakalis.faculty.asu.edu)",
+      "WebFetch(domain:wiki.thesoda.io)",
+      "WebFetch(domain:sites.google.com)"
     ]
   },
   "enabledPlugins": {}
