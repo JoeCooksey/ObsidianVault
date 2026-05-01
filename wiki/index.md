@@ -291,6 +291,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts; human relations, influence, leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
 
+### Course Syllabi / Prep Resources
+- [[EEE 202 Course Page ASU Tsakalis]] — Tsakalis/Vasileska; canonical 8-unit sequence; PSpice + MATLAB; Irwin textbook
+- [[MIT 18.06 Linear Algebra OCW Gilbert Strang]] — 34 lectures, free, CC BY-NC-SA; 18.06SC has problem sets; selective lecture guide for MAT 343 prep
+
 ### Computer Architecture
 - [[SIGGRAPH - Eras of GPU Development 2025]] — ACM SIGGRAPH Blog, April 2025; authoritative GPU era framework
 - [[Darkesh-Patel-Jensen-Huang-Nvidia-2025]] — Jensen Huang interview; CUDA moat, TPU vs GPU, supply chain, China export controls
