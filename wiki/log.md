@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | Chess Improvement Guide — Complete Guide
+- Rounds: 1 | Searches: 7 | Pages created: 3
+- Created: [[Research - Chess Improvement Guide]], [[Chess Improvement Complete Guide]], [[Chess Rating Roadmap]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Tactics are the single fastest improvement lever — 20–30 min/day of quality puzzles, spaced repetition, review every wrong answer; (2) Study distribution shifts by rating: beginners ~70% tactics, intermediates ~50% tactics / 30% openings, advanced players weight endgames more heavily; (3) Game analysis without engine first is the highest-ROI habit — ask "why did I choose the wrong move?" then check engine and extract a specific lesson; (4) Openings: learn 4–5 moves + ideas, not deep lines; don't deep-study openings before ~1500 Elo; (5) Endgames are neglected but decisive — must-know: K+P opposition, Lucena, Philidor, rook behind passed pawn; Silman's *Complete Endgame Course* is the best starting resource; (6) Chess.com + Lichess are the two essential free platforms; Chessable uses spaced repetition for openings; (7) Best books: Seirawan *Winning Chess* series (novice-club), Silman *How to Reassess Your Chess* (1200–2000), Yusupov 9-book series (systematic training), Dvoretsky *Endgame Manual* (advanced); (8) Players who improve fastest combine daily tactics + long time control games + game analysis — blitz-only players plateau early
+
 ## [2026-05-01] autoresearch | EQ and IQ Enhancement Guide — Full Tier Lists
 - Rounds: 1 | Searches: 12 | Pages created: 4
 - Created: [[EQ-IQ-Enhancement-Guide]], [[IQ-Enhancement-Tier-List]], [[EQ-Enhancement-Tier-List]], [[Combined-EQ-IQ-Tier-List]]
