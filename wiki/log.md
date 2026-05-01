@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | EQ and IQ Enhancement Guide — Full Tier Lists
+- Rounds: 1 | Searches: 12 | Pages created: 4
+- Created: [[EQ-IQ-Enhancement-Guide]], [[IQ-Enhancement-Tier-List]], [[EQ-Enhancement-Tier-List]], [[Combined-EQ-IQ-Tier-List]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) EQ is substantially more trainable than IQ — EQ gains are large and sustained; IQ fluid intelligence gains are small (2–4 points) and contested; crystallized intelligence grows indefinitely through deliberate learning; (2) Sleep and aerobic exercise are S-tier for BOTH IQ and EQ simultaneously — they are not optional; (3) Dual n-back training produces ~2–4 IQ points of fluid intelligence gain (real but modest; best-evidenced working-memory training); (4) Therapy (CBT/DBT/ACT) is the highest-impact EQ intervention — gains persist 12+ months; indirect IQ benefit via freed cognitive bandwidth from reduced anxiety; (5) Affect labeling (naming emotions precisely) directly down-regulates amygdala via vlPFC — the atomic EQ skill; emotion granularity (distinguishing "disappointed" from "humiliated") predicts regulation quality; (6) Literary fiction improves Theory of Mind (empathy) only when reader is emotionally transported — genre fiction shows no effect; (7) Mindfulness has dual-pathway: working memory improvement (IQ-adjacent, medium effect d≈0.5) AND emotion regulation (EQ-adjacent, large effect); (8) Formal education is the highest-impact IQ intervention of all — the Flynn Effect (3 pts/decade) was driven by educational expansion and abstract problem-solving exposure
+
 ## [2026-04-30] autoresearch | FURI Program at ASU — Full Guide
 - Rounds: 1 | Searches: 5 | Pages created: 2
 - Created: [[Research - FURI Program ASU Full Guide]], [[FURI Program Complete Guide]]
