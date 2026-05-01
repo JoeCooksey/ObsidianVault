@@ -17,6 +17,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Mike Ranjram]] — ASU MAPEL; converter architecture + MHz magnetics; ML-CEMS (flux 231→66 mT) + HPPC; Joe's #1 FURI target
+- [[Raja Ayyanar]] — ASU EVSTS; EV/PV/WBG/grid control; senior faculty; Joe's #2 FURI target
+- [[Yuji Zhao]] — Rice WIDE Lab (formerly ASU); GaN/β-Ga₂O₃ device physics; BN interface engineering; not FURI-eligible
 - [[Stephen Covey]] — *The 7 Habits of Highly Effective People* (1989); Maturity Continuum; Character Ethic; 40M+ copies sold
 - [[James Clear]] — *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
