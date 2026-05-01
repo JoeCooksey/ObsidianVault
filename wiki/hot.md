@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-30 — Autoresearch: MS EE Programs Acceptance Rates; compiled acceptance rate table for all 10 programs; key result: rates mostly unpublished, best estimates range from ~6–9% (MIT PhD) to ~37% (Purdue); NC State WBGS and UT Austin SSE too new for data; full table filed
+2026-04-30 — Autoresearch: FURI Program at ASU — Full Guide; created 2 pages covering eligibility, all application components, faculty mentor strategy, 7 research themes, poster specs, and Joe's action timeline; key result: faculty mentor approval is the critical prerequisite; Spring 2027 deadline is ~October 2026; Prof. Ranjram (MAPEL) is top target
 
 ## Key Recent Facts
 
