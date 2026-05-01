@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-01 — Autoresearch: EQ and IQ Enhancement Guide; created 4 pages (EQ-IQ-Enhancement-Guide, IQ-Enhancement-Tier-List, EQ-Enhancement-Tier-List, Combined-EQ-IQ-Tier-List); key results: sleep and exercise are S-tier for both; dual n-back gives ~2–4 IQ pts Gf; therapy is S-tier EQ; affect labeling is the atomic EQ skill; mindfulness improves working memory (d≈0.5) AND emotion regulation simultaneously
+2026-05-01 — Autoresearch: Chess Improvement Guide; created 3 pages (Research - Chess Improvement Guide, Chess Improvement Complete Guide, Chess Rating Roadmap); key results: tactics are the fastest lever; daily puzzles + game analysis + long time controls is the winning formula; don't study openings deeply before 1500; Silman/Seirawan/Yusupov/Dvoretsky are the book ladder; Chess.com + Lichess are the essential free platforms
 
 ## Key Recent Facts
 
