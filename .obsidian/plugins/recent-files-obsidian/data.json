@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Chess Improvement Complete Guide",
+      "path": "wiki/concepts/Chess Improvement Complete Guide.md"
+    },
+    {
+      "basename": "Research - Chess Improvement Guide",
+      "path": "wiki/questions/Research - Chess Improvement Guide.md"
+    },
+    {
       "basename": "FURI to Grad School Roadmap — Joe",
       "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "EE Topic Depth Priority Map",
       "path": "wiki/concepts/EE Topic Depth Priority Map.md"
-    },
-    {
-      "basename": "Research - EE Deep Learning Topics for First-Year Students",
-      "path": "wiki/questions/Research - EE Deep Learning Topics for First-Year Students.md"
-    },
-    {
-      "basename": "2026-04-27",
-      "path": "Daily News Debrief/2026-04-27.md"
     }
   ],
   "omittedPaths": [],
