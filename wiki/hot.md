@@ -8,6 +8,16 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-01 — Ingest: Power Electronics UWBG Faculty Scan; entity pages for Mike Ranjram, Raja Ayyanar, Yuji Zhao; 4-year FURI-to-grad-school roadmap created
+
+### Power Electronics Faculty Scan — newest ingest
+- **Yuji Zhao is at Rice, not ASU**: his ASU pages are stale; not a FURI option — only Ranjram and Ayyanar are ASU-based
+- **Mike Ranjram = top FURI priority**: ML-CEMS paper (ECCE 2024) is the best entry-point read; key result = peak flux 231 mT → 66 mT at fixed frequency via multi-level transformer voltage injection; HPPC (2025) = single-stage ac/dc; MAPEL GitHub has MHzCoreLossAggregateDataset
+- **Raja Ayyanar = second FURI option**: recent visible papers are feeder/DER control (hosting capacity 3× improvement, volt-PF); hardware thread (EV high-frequency converters) exists in EVSTS but is less documented
+- **FURI → grad school chain**: FURI under Ranjram → named WBG research letter → NC State MS-WBGS (PowerAmerica connection) → LLNL/Sandia pipeline
+- **4-year roadmap created**: [[FURI to Grad School Roadmap — Joe]] — Year 1 = skills + office hours + LLNL Oct apply; Year 2 = FURI application Spring 2027; Year 3 = second research term + conference target; Year 4 = grad applications
+
+## Last Updated (prev)
 2026-05-01 — Autoresearch: Chess Improvement Guide; created 3 pages (Research - Chess Improvement Guide, Chess Improvement Complete Guide, Chess Rating Roadmap); key results: tactics are the fastest lever; daily puzzles + game analysis + long time controls is the winning formula; don't study openings deeply before 1500; Silman/Seirawan/Yusupov/Dvoretsky are the book ladder; Chess.com + Lichess are the essential free platforms
 
 ## Key Recent Facts
