@@ -179,6 +179,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Bulk and Cut Decision Framework]] — BF%-based decision rule; lean bulk/cut/recomp protocols; calorie math; cycle structure (developing)
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
 
+### GLP Medications (Weight Management)
+- [[GLP-1 Medications Overview]] — generation comparison table: semaglutide vs. tirzepatide vs. retatrutide; receptor targets; decision framework (developing)
+- [[Semaglutide]] — GLP-1 only; Ozempic/Wegovy/Rybelsus; 0.25→2.4 mg/week titration; ~14–20% wt loss; SELECT CV trial; oral form Dec 2025 (developing)
+- [[Tirzepatide]] — GLP-1+GIP dual agonist; Mounjaro/Zepbound; 2.5→15 mg/week titration; ~20–22% wt loss; SURMOUNT-5 beats sema by 47%; OSA indication (developing)
+- [[Retatrutide]] — GLP-1+GIP+glucagon triple agonist; 2→12 mg/week; 28.7% wt loss Phase 3; NOT FDA-approved (~2027); dysesthesia safety signal (developing)
+- [[GLP Medication Exit Strategy]] — weight regain reality; maintenance dosing; 9-week taper protocol; pharmacological bridges; 5-lb trigger rule (developing)
+
 ### Health / Personal
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
 - [[Creatine for Cognitive Performance]] — memory SMD 0.31; moderate certainty; 3–5 g/day (developing)
