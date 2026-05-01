@@ -8,7 +8,7 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-04-30 — Autoresearch: FURI Program at ASU — Full Guide; created 2 pages covering eligibility, all application components, faculty mentor strategy, 7 research themes, poster specs, and Joe's action timeline; key result: faculty mentor approval is the critical prerequisite; Spring 2027 deadline is ~October 2026; Prof. Ranjram (MAPEL) is top target
+2026-05-01 — Autoresearch: EQ and IQ Enhancement Guide; created 4 pages (EQ-IQ-Enhancement-Guide, IQ-Enhancement-Tier-List, EQ-Enhancement-Tier-List, Combined-EQ-IQ-Tier-List); key results: sleep and exercise are S-tier for both; dual n-back gives ~2–4 IQ pts Gf; therapy is S-tier EQ; affect labeling is the atomic EQ skill; mindfulness improves working memory (d≈0.5) AND emotion regulation simultaneously
 
 ## Key Recent Facts
 
