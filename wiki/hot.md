@@ -8,10 +8,10 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-01 — Autoresearch: Fall 2026 Course Prep Plan; 7 pages created; full topic maps for EEE 202 Circuits I, MAT 343 Applied Linear Algebra, PHY 131/132 Physics II E&M; 16-week summer study plan; cross-course synergy table
+2026-05-01 — Autoresearch: GLP Medications Complete Guide; 5 pages created: [[GLP-1 Medications Overview]], [[Semaglutide]], [[Tirzepatide]], [[Retatrutide]], [[GLP Medication Exit Strategy]], plus [[Research - GLP Medications Complete Guide]] synthesis
 
 ## Last Updated (prev-2)
-2026-05-01 — Autoresearch: Book Master List Expansion — added 7 new book list pages (Biographies, Science, History, Writing, Economics, Health/Longevity, Mathematics) plus expanded [[Research - Book Recommendations Master List]]; 13 book list pages total now in wiki
+2026-05-01 — Autoresearch: Fall 2026 Course Prep Plan; 7 pages created; full topic maps for EEE 202 Circuits I, MAT 343 Applied Linear Algebra, PHY 131/132 Physics II E&M; 16-week summer study plan; cross-course synergy table
 
 ### Power Electronics Faculty Scan — newest ingest
 - **Yuji Zhao is at Rice, not ASU**: his ASU pages are stale; not a FURI option — only Ranjram and Ayyanar are ASU-based
