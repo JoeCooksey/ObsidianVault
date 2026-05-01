@@ -202,6 +202,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Book List — Psychology and Persuasion]] — S/A/B tier; Influence (Cialdini), Never Split the Difference (Voss), Thinking Fast and Slow, Getting to Yes; core persuasion models (developing)
 - [[Book List — Business and Entrepreneurship]] — S/A/B tier; Zero to One, Good to Great, Shoe Dog, The Lean Startup, Hard Thing About Hard Things (developing)
 - [[Book List — Fiction Must-Reads]] — S/A tier classics and modern; Count of Monte Cristo, East of Eden, 1984, Crime and Punishment, Dune, The Road; phased reading order (developing)
+- [[Book List — Biographies]] — S/A/B tier; da Vinci, Jobs, Musk (Isaacson); Hamilton, Napoleon, Franklin, Rockefeller (Chernow/Roberts); Team of Rivals, Power Broker (developing)
+- [[Book List — Science]] — S/A/B tier; Feynman Lectures, Selfish Gene, Short History of Nearly Everything, QED, The Gene, Emperor of All Maladies, GEB (developing)
+- [[Book List — History]] — S/A/B tier; Sapiens, Guns of August, Rise and Fall of Third Reich; Genghis Khan, Silk Roads, SPQR, 1776; Durant's Story of Civilization (developing)
+- [[Book List — Writing and Communication]] — S/A tier; On Writing Well (Zinsser), Elements of Style, Bird by Bird, Several Short Sentences (developing)
+- [[Book List — Economics]] — S/A/B tier; Economics in One Lesson, Freakonomics, Worldly Philosophers, Basic Economics (Sowell), Poor Economics (developing)
+- [[Book List — Health and Longevity]] — S/A/B tier; Outlive (Attia), Why We Sleep (Walker), Lifespan (Sinclair), Obesity Code (Fung) (developing)
+- [[Book List — Mathematics]] — S/A/B tier; How to Prove It, GEB, Linear Algebra Done Right, Calculus (Spivak), AoPS series (developing)
 - [[Research - Book Recommendations Master List]] — master synthesis with Joe's 12-book phased reading order across all categories (complete)
 
 ### Food / Nutrition Tier Lists
