@@ -509,6 +509,7 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[EQ-IQ-Enhancement-Guide]] + [[IQ-Enhancement-Tier-List]] + [[EQ-Enhancement-Tier-List]] + [[Combined-EQ-IQ-Tier-List]] — complete EQ and IQ enhancement reference with S–D tier lists grounded in RCT/meta-analysis evidence; dual-benefit activities ranked; Joe-specific priority stack included
 - Created: [[Research - FURI Program ASU Full Guide]] + [[FURI Program Complete Guide]] — complete FURI guide: eligibility, 6 application components, 7 research themes, faculty mentor strategy (Ranjram/Ayyanar), poster specs, Joe's Year 2 action timeline; key insight: securing faculty mentor approval is the prerequisite gate before any other application step
 - Created: [[Research - Hobbies for Young Men]], [[Hobbies for Young Men — Life Domain Framework]], [[Martial Arts for Young Men]], [[Music as a Life Skill]] — 5-domain hobby framework; BJJ + guitar + investing as Joe's priority gap-filling stack; domain audit showing creative + financial as primary gaps
 - Created: [[Research - Programming in the AI Era]], [[AI-Assisted Programming Learning Roadmap]], [[Programming Skills AI Cannot Replace]] — AI-era programming guide; 5-phase learning roadmap; irreplaceable human skills
