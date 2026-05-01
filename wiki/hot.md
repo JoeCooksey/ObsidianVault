@@ -8,10 +8,10 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-01 — Autoresearch: Book Master List Expansion — added 7 new book list pages (Biographies, Science, History, Writing, Economics, Health/Longevity, Mathematics) plus expanded [[Research - Book Recommendations Master List]]; 13 book list pages total now in wiki
+2026-05-01 — Autoresearch: Fall 2026 Course Prep Plan; 7 pages created; full topic maps for EEE 202 Circuits I, MAT 343 Applied Linear Algebra, PHY 131/132 Physics II E&M; 16-week summer study plan; cross-course synergy table
 
 ## Last Updated (prev-2)
-2026-05-01 — Ingest: Power Electronics UWBG Faculty Scan; entity pages for Mike Ranjram, Raja Ayyanar, Yuji Zhao; 4-year FURI-to-grad-school roadmap created
+2026-05-01 — Autoresearch: Book Master List Expansion — added 7 new book list pages (Biographies, Science, History, Writing, Economics, Health/Longevity, Mathematics) plus expanded [[Research - Book Recommendations Master List]]; 13 book list pages total now in wiki
 
 ### Power Electronics Faculty Scan — newest ingest
 - **Yuji Zhao is at Rice, not ASU**: his ASU pages are stale; not a FURI option — only Ranjram and Ayyanar are ASU-based
