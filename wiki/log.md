@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] ingest | Power Electronics and UWBG Faculty Research Scan
+- Source: `.raw/articles/power-electronics-uwbg-faculty-scan-2026-05-01.md`
+- Summary: [[Research - Power Electronics UWBG Faculty Scan 2026]]
+- Pages created: [[Mike Ranjram]], [[Raja Ayyanar]], [[Yuji Zhao]], [[FURI to Grad School Roadmap — Joe]]
+- Pages updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]], [[Entities Index]]
+- Key insight: Yuji Zhao is at Rice (not ASU) — only Ranjram and Ayyanar are FURI-viable; Ranjram's ML-CEMS fixed-frequency gain control (flux 231→66 mT) is the top-priority read for Joe; the FURI → MAPEL → NC State MS-WBGS pipeline is the clearest grad school chain
+
 ## [2026-05-01] autoresearch | Chess Improvement Guide — Complete Guide
 - Rounds: 1 | Searches: 7 | Pages created: 3
 - Created: [[Research - Chess Improvement Guide]], [[Chess Improvement Complete Guide]], [[Chess Rating Roadmap]]
