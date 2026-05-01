@@ -225,6 +225,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 - [[ASU EE Mentorship Pathways]] — tier list of all mentorship channels at ASU: peer mentors, FURI, faculty (Ranjram/Ayyanar), IEEE ASU, IEEE Collabratec, Barrett Alumni; Year 1 action stack (developing)
 
+### Chess Improvement
+- [[Chess Improvement Complete Guide]] — master reference: four pillars (tactics, openings, endgames, game analysis), daily routines, common mistakes, cognitive benefits, Joe-specific integration (complete)
+- [[Chess Rating Roadmap]] — phase-by-phase guide from unrated to 2000+; study distribution by rating, book ladder, platform comparison, endgame must-know list (complete)
+
 ### Free Time / Lifestyle
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
 - [[Post-Study Energy Management]] — cognitive depletion model; recovery activity tier list; 10-min diagnostic; shutdown ritual; morning block schedule fix (developing)
