@@ -36,18 +36,18 @@ status: developing
 
 ## School Comparison Table
 
-| School | Program | Specialty | Research Center | Key Advantage |
-|---|---|---|---|---|
-| **Virginia Tech** | MS/MEng ECE | Power Electronics | CPES | #1 PE research globally, ~100 researchers |
-| **NC State** | MS-WBGS (Fall 2026) | WBG Semiconductors | FREEDM + PowerAmerica | Only dedicated WBG MS; 49 industry partners |
-| **UT Austin** | MS Semiconductor S&E | Semiconductor Devices | Cockrell School | Industry-funded fellowships; 4 device tracks |
-| **Purdue** | MS Microelectronics & Semi | Semiconductor Devices/Mfg | Birck Nano | Online available; top-10 school; accessible |
-| **MIT** | MS/SM EECS | Broad EE | MTL, RLE | #1 globally; most doors opened; hardest to enter |
-| **Stanford** | MS EE (terminal) | Broad EE + devices | SystemX, E3S | Top 3; terminal MS = 1.5-2 yrs; no thesis |
-| **UC Berkeley** | MS or MEng EECS | Broad EE + devices | BNC, BSAC | Top 3; MEng for industry-track; MS for PhD-track |
-| **Georgia Tech** | MS ECE | Power Systems, smart grids | GTPE, IDEAS | Strong smart grid / energy concentration |
-| **UIUC** | MS ECE | Power & Energy Systems | GRAINGER | Top-5 EE; strong power & energy concentration |
-| **U Michigan** | MS ECE | Solid-state devices | SSEL, WIMS | Microelectronics + MEMS depth |
+| School            | Program                    | Specialty                  | Research Center       | Key Advantage                                    |
+| ----------------- | -------------------------- | -------------------------- | --------------------- | ------------------------------------------------ |
+| **Virginia Tech** | MS/MEng ECE                | Power Electronics          | CPES                  | #1 PE research globally, ~100 researchers        |
+| **NC State**      | MS-WBGS (Fall 2026)        | WBG Semiconductors         | FREEDM + PowerAmerica | Only dedicated WBG MS; 49 industry partners      |
+| **UT Austin**     | MS Semiconductor S&E       | Semiconductor Devices      | Cockrell School       | Industry-funded fellowships; 4 device tracks     |
+| **Purdue**        | MS Microelectronics & Semi | Semiconductor Devices/Mfg  | Birck Nano            | Online available; top-10 school; accessible      |
+| **MIT**           | MS/SM EECS                 | Broad EE                   | MTL, RLE              | #1 globally; most doors opened; hardest to enter |
+| **Stanford**      | MS EE (terminal)           | Broad EE + devices         | SystemX, E3S          | Top 3; terminal MS = 1.5-2 yrs; no thesis        |
+| **UC Berkeley**   | MS or MEng EECS            | Broad EE + devices         | BNC, BSAC             | Top 3; MEng for industry-track; MS for PhD-track |
+| **Georgia Tech**  | MS ECE                     | Power Systems, smart grids | GTPE, IDEAS           | Strong smart grid / energy concentration         |
+| **UIUC**          | MS ECE                     | Power & Energy Systems     | GRAINGER              | Top-5 EE; strong power & energy concentration    |
+| **U Michigan**    | MS ECE                     | Solid-state devices        | SSEL, WIMS            | Microelectronics + MEMS depth                    |
 
 ## NC State MS-WBGS — Closest Match to Joe's Career Track
 
