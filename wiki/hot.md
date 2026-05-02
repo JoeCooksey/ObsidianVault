@@ -8,10 +8,10 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-01 — Autoresearch: GLP Medications Complete Guide; 5 pages created: [[GLP-1 Medications Overview]], [[Semaglutide]], [[Tirzepatide]], [[Retatrutide]], [[GLP Medication Exit Strategy]], plus [[Research - GLP Medications Complete Guide]] synthesis
+2026-05-01 — Autoresearch: Destructive Habits to Avoid at 19; 2 pages created: [[Destructive Habits to Avoid at 19]] (concept tier list), [[Research - Destructive Habits to Avoid at 19]] (synthesis + citations)
 
 ## Last Updated (prev-2)
-2026-05-01 — Autoresearch: Fall 2026 Course Prep Plan; 7 pages created; full topic maps for EEE 202 Circuits I, MAT 343 Applied Linear Algebra, PHY 131/132 Physics II E&M; 16-week summer study plan; cross-course synergy table
+2026-05-01 — Autoresearch: GLP Medications Complete Guide; 5 pages created: [[GLP-1 Medications Overview]], [[Semaglutide]], [[Tirzepatide]], [[Retatrutide]], [[GLP Medication Exit Strategy]], plus [[Research - GLP Medications Complete Guide]] synthesis
 
 ### Power Electronics Faculty Scan — newest ingest
 - **Yuji Zhao is at Rice, not ASU**: his ASU pages are stale; not a FURI option — only Ranjram and Ayyanar are ASU-based
