@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-02] autoresearch | Daily Caloric Intake and Tracking Apps
+- Searches: 8 | Pages created: 2
+- Created: [[Daily Caloric Intake Calculator]], [[Research - Daily Caloric Intake and Tracking Apps]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Mifflin-St Jeor is the gold-standard BMR formula (within 10% of measured RMR); (2) Self-reported intake underreported by 12–54%; portion size = ~49% of logging error; (3) 500 kcal/day deficit → ~1 lb/week loss without significant muscle loss; (4) Diet breaks every 8–12 weeks improve fat loss (MATADOR study); (5) Clean bulk +250–500 kcal/day is as effective as large surpluses for muscle with far less fat gain; (6) Protein 1.6–2.2 g/kg applies to both weight loss AND muscle gain; (7) Static TDEE estimates can be off by 200–400 kcal/day — adaptive apps (MacroFactor, Carbon) self-correct from real weight data; (8) App tier: MacroFactor S-tier (adaptive TDEE, verified database) | Cronometer A-tier (best free micronutrients) | MyFitnessPal A-tier (best integrations, weaker free tier) | Lose It B-tier | Noom C-tier
+
 ## [2026-05-02] autoresearch | Cardio Training Zones
 - Searches: 8 | Pages created: 2
 - Created: [[Cardio Training Zones]], [[Research - Cardio Training Zones]]
