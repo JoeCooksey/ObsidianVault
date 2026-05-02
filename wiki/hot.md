@@ -8,9 +8,12 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-02 — Autoresearch: Daily Caloric Intake and Tracking Apps; 2 pages created: [[Daily Caloric Intake Calculator]] (concept with formulas, activity multipliers, goal targets, protein floors, macro splits), [[Research - Daily Caloric Intake and Tracking Apps]] (full synthesis with 8 findings, app tier list S–C, open questions, sources)
+2026-05-02 — Autoresearch: Online Income Ways for 19 Year Old; 4 pages created: [[Online Income Methods Tier List]] (S–C tier list of all methods), [[Freelancing Online]] (platforms, AI freelancing breakout, income ladder), [[UGC Content Creation]] (brand deals, equipment, income tiers), [[Research - Online Income Ways for 19 Year Old]] (full synthesis with 8 findings and sources)
 
 ## Last Updated (prev-2)
+2026-05-02 — Autoresearch: Daily Caloric Intake and Tracking Apps; 2 pages created: [[Daily Caloric Intake Calculator]] (concept with formulas, activity multipliers, goal targets, protein floors, macro splits), [[Research - Daily Caloric Intake and Tracking Apps]] (full synthesis with 8 findings, app tier list S–C, open questions, sources)
+
+## Last Updated (prev-3)
 2026-05-02 — Autoresearch: Cardio Training Zones; 2 pages created: [[Cardio Training Zones]] (concept with BPM tables for age 19), [[Research - Cardio Training Zones]] (full synthesis with physiology, Karvonen formula, system comparisons, citations)
 
 ## Last Updated (prev-3)
