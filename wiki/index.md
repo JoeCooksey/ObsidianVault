@@ -382,3 +382,4 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
 - [[Research - ASU EE Clubs]] — 8 key findings; S–C tier list; Solar Devils + SDSL + IEEE ASU S-tier project/networking clubs; honor society timeline; Joe's recommended club stack and timeline (developing)
 - [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
+- [[Research - Cardio Training Zones]] — 5-zone system deep dive; Zone 1–5 physiology; max HR 201 bpm at age 19; Karvonen formula; Garmin/Polar/Seiler/Coggan system comparisons; mitochondrial biogenesis mechanism; San Millán Zone 2 metabolic health evidence (evergreen)
