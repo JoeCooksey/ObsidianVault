@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | Destructive Habits to Avoid at 19
+- Rounds: 2 | Searches: 7 | Pages created: 2
+- Created: [[Destructive Habits to Avoid at 19]], [[Research - Destructive Habits to Avoid at 19]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Doom scrolling is S-tier — "brain rot" degrades the prefrontal cortex and attention span, making every other goal harder; 68% of young people now report difficulty focusing; (2) Pornography use elevates dopamine to 250%+ of baseline, causing desensitization, sexual dysfunction, depression, and prefrontal cortex structural changes — particularly damaging before age 25; (3) Alcohol at 19 causes 2× more cognitive impairment per dose than at 25+; gray matter abnormality and higher lifetime addiction risk confirmed; (4) Chronic sleep deprivation is the most underestimated — young adults are the group that most underestimates it; 15% of Alzheimer's risk attributable to chronic poor sleep; (5) Consumer debt destroys compounding — not opening a Roth IRA at 19 is an irreversible decision; (6) Social isolation = smoking 15 cigarettes/day in health impact; effects MORE severe in young adults than older adults; (7) Fixed/victim mindset is the invisible ceiling — Dweck research consistently shows lower achievement, higher burnout; (8) Chronic procrastination affects 20–25% of adults and creates reinforcing learned helplessness
+
 ## [2026-05-01] autoresearch | GLP Medications Complete Guide (Semaglutide, Tirzepatide, Retatrutide)
 - Rounds: 2 | Searches: 9 | Pages created: 5
 - Created: [[GLP-1 Medications Overview]], [[Semaglutide]], [[Tirzepatide]], [[Retatrutide]], [[GLP Medication Exit Strategy]], [[Research - GLP Medications Complete Guide]]
