@@ -161,6 +161,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
 - [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
 
+### Habits — Destructive (What to Avoid)
+- [[Destructive Habits to Avoid at 19]] — S–C tier list of most damaging habits ranked by long-term harm × reversibility; doom scrolling/porn/alcohol S-tier; sleep deprivation/debt/procrastination A-tier; Joe-specific priority stack (complete)
+
 ### Habits / Behavior Design (Atomic Habits)
 - [[Habit Loop]] — Clear's 4-step Cue→Craving→Response→Reward; extends Duhigg by adding Craving stage (developing)
 - [[Four Laws of Behavior Change]] — Make it Obvious / Attractive / Easy / Satisfying; design framework mapped to Habit Loop (developing)
