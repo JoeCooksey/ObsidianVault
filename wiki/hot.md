@@ -28,6 +28,23 @@ tags:
 
 ## Key Recent Facts
 
+### Daily Caloric Intake and Tracking Apps — newest autoresearch
+- **TDEE = BMR × Activity Multiplier.** Mifflin-St Jeor is the gold-standard BMR formula; Katch-McArdle is better for lean/athletic individuals who know their body fat %.
+- **Weight loss:** TDEE − 500 kcal/day → ~1 lb/week. Hard floor: 1,200 kcal women, 1,500 kcal men. Safe rate: ≤0.5–1% body weight/week.
+- **Muscle gain:** TDEE + 250–500 kcal/day (clean bulk). Dirty bulk (>+500 kcal/day) produces same muscle, much more fat — not evidence-based.
+- **Maintenance:** Start at TDEE estimate, track weight 2–4 weeks, adjust ±100–150 kcal/day based on trend.
+- **Protein floor (all goals):** 1.6–2.2 g/kg body weight. ~0.7–1.0 g/lb is the US-convenient equivalent. Goes beyond 2.2 g/kg provides no additional benefit.
+- **Diet breaks:** 1–2 weeks at maintenance every 8–12 weeks of restriction → better fat loss and less muscle loss (MATADOR study).
+- **Self-reported intake underreported by 12–54%;** portion size = ~49% of total logging error. Weigh food when precision matters.
+- **Static TDEE formulas can be off by 200–400 kcal/day individually** — adaptive apps correct from real weight data over 2–4 weeks.
+- **App Tier List:**
+  - **S-Tier:** MacroFactor (~$72/yr) — adaptive TDEE back-calculation, verified database, clean UI; best overall
+  - **S-Tier:** Carbon Diet Coach (~$100/yr) — Dr. Layne Norton; coaching-oriented; structured phases; weaker micronutrients
+  - **A-Tier:** Cronometer (free tier) — 80+ nutrients, USDA-verified database; best free micronutrient tracker
+  - **A-Tier:** MyFitnessPal (free, limited; Premium ~$80/yr) — largest database (14M+ foods) but crowdsourced with frequent errors; best ecosystem integrations
+  - **B-Tier:** Lose It! (free; Premium ~$40/yr) — simplest UI; macro/nutrient depth shallow
+  - **C-Tier:** Noom (~$70+/mo) — behavioral coaching, color-coded system; not for precision tracking; worst value
+
 ### Cardio Training Zones — newest autoresearch
 - **Age 19 max HR:** 201 bpm (220−19) or ~195 bpm (Tanaka formula: 208 − 0.7×age)
 - **Zone 1 (Recovery):** 50–60% max HR → **101–121 bpm** — active recovery, fat metabolism baseline
