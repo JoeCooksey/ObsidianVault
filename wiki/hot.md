@@ -28,6 +28,17 @@ tags:
 
 ## Key Recent Facts
 
+### Cardio Training Zones — newest autoresearch
+- **Age 19 max HR:** 201 bpm (220−19) or ~195 bpm (Tanaka formula: 208 − 0.7×age)
+- **Zone 1 (Recovery):** 50–60% max HR → **101–121 bpm** — active recovery, fat metabolism baseline
+- **Zone 2 (Aerobic Base):** 60–70% → **121–141 bpm** — mitochondrial biogenesis (PGC-1α), peak fat oxidation rate; most important zone for long-term aerobic development; minimum 45–60 min/session for full stimulus
+- **Zone 3 (Aerobic Threshold):** 70–80% → **141–161 bpm** — lactate buffering, tempo conditioning; Seiler's "grey zone" — elite athletes largely avoid it in favor of polarized training
+- **Zone 4 (Lactate Threshold):** 80–90% → **161–181 bpm** — raises LT2, the primary predictor of endurance race performance
+- **Zone 5 (VO2 Max):** 90–100% → **181–201 bpm** — expands VO2 max ceiling; EPOC calorie burn; 2×/week max; requires Zone 2 base first
+- **Karvonen zones (RHR 60 bpm):** ~10–18 bpm higher than simple % max HR — Zone 2 becomes 145–159 bpm rather than 121–141
+- **Naming collision:** Seiler's "Zone 2" = the grey zone to AVOID; popular "Zone 2 training" = Seiler's Zone 1 (easy aerobic base work)
+- **San Millán finding:** Zone 2 (at LT1, ~1.5–2 mmol/L lactate) improves insulin sensitivity comparably to metformin; therapeutic for metabolic syndrome, T2D, long COVID fatigue
+
 ### Testosterone Habits Tier List — newest autoresearch
 - **S-Tier:** Sleep (7.5–9 hrs; -24% T from single night deprivation) | Maintain lean body fat (<18% BF; adipose aromatase destroys T) | Resistance training compound lifts (squats/deadlifts/bench)
 - **A-Tier:** Chronic stress reduction (cortisol competes with T for pregnenolone substrate) | Vitamin D + sunlight (17-RCT meta: WMD +0.38 ng/mL total T) | Zinc sufficiency (Leydig cell RCTs) | Zone 2 cardio (fat loss → less aromatase) | Limit/eliminate alcohol (Leydig cell toxicity)
