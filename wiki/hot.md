@@ -25,6 +25,16 @@ tags:
 
 ## Key Recent Facts
 
+### Testosterone Habits Tier List — newest autoresearch
+- **S-Tier:** Sleep (7.5–9 hrs; -24% T from single night deprivation) | Maintain lean body fat (<18% BF; adipose aromatase destroys T) | Resistance training compound lifts (squats/deadlifts/bench)
+- **A-Tier:** Chronic stress reduction (cortisol competes with T for pregnenolone substrate) | Vitamin D + sunlight (17-RCT meta: WMD +0.38 ng/mL total T) | Zinc sufficiency (Leydig cell RCTs) | Zone 2 cardio (fat loss → less aromatase) | Limit/eliminate alcohol (Leydig cell toxicity)
+- **B-Tier:** Adequate dietary fat ≥20% of calories (steroid hormones are cholesterol-derived) | Magnesium glycinate (reduces SHBG → more free T) | Competition & winning (bidirectional T feedback loop) | Protein 1.6–2.2 g/kg (preserves lean mass during deficits)
+- **C-Tier:** Ashwagandha KSM-66 (small industry-funded RCTs, ~14% increase) | Creatine (DHT increase only, not total T) | Morning sunlight (circadian → sleep → T, indirect only)
+- **D-Tier:** NoFap (masturbation has NO long-term T effect; the "7-day spike" was unreplicated) | Porn abstinence (porn causes temp T spike, not long-term decrease) | Tribulus/fenugreek/T-booster supps (no evidence in healthy men)
+- **F-Tier:** Chronic sleep deprivation | High body fat (aromatase cycle) | Chronic alcohol | Overtraining without recovery | Exogenous anabolic steroids (HPTA shutdown)
+- **Key nuance:** Intermittent fasting LOWERS T in lean men (~35% reduction from 3-day fast) — only raises T in overweight men via fat loss
+- **Cold exposure myth:** Cold showers do NOT raise T; cold water immersion post-workout BLUNTS the T spike
+
 ### Destructive Habits at 19 — newest autoresearch
 - **S-Tier (catastrophic, self-reinforcing):** Doom scrolling / short-form content addiction, pornography use, heavy/regular alcohol consumption
 - **A-Tier (compounds over years):** Chronic sleep deprivation, consumer debt / not investing early, chronic procrastination
