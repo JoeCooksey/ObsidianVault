@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-01] autoresearch | Testosterone Habits Tier List
+- Rounds: 2 | Searches: 7 | Pages created: 2
+- Created: [[Testosterone Habits Tier List]], [[Research - Testosterone Habits Tier List]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Sleep is the #1 T lever — one night of deprivation drops T 24%; 90%+ of daily T production occurs during sleep; (2) Body fat % is the most reversible structural T suppressor — adipose aromatase converts T → estradiol in a self-reinforcing hypogonadal-obesity cycle; (3) Resistance training (compound lifts) is the best exercise modality for T — acute spike + chronic hormonal environment improvement; (4) Cortisol is the upstream T suppressor — it competes with T for pregnenolone substrate; stress management is literally hormonal; (5) Vitamin D (17-RCT meta-analysis: WMD +0.38 ng/mL) and zinc (Leydig cell RCTs) are the only micronutrients with strong T-specific evidence — mainly for correcting deficiency; (6) Intermittent fasting LOWERS T in lean men (~35% reduction during 3-day fast); only raises T in overweight men via fat loss; (7) NoFap / masturbation abstinence has NO effect on resting testosterone — the single "7-day spike" study was unreplicated and measured receptor sensitivity, not serum T; (8) Cold exposure is overrated — no robust T increase evidence; cold water immersion post-workout actually blunts the T response
+
 ## [2026-05-01] autoresearch | Destructive Habits to Avoid at 19
 - Rounds: 2 | Searches: 7 | Pages created: 2
 - Created: [[Destructive Habits to Avoid at 19]], [[Research - Destructive Habits to Avoid at 19]]
