@@ -161,6 +161,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
 - [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
 
+### Hormones / Testosterone
+- [[Testosterone Habits Tier List]] — S–F tier list of all habits ranked by effect × evidence: sleep/lean body fat/resistance training S-tier; cold exposure and NoFap D-tier; IF lowers T in lean men (complete)
+
 ### Habits — Destructive (What to Avoid)
 - [[Destructive Habits to Avoid at 19]] — S–C tier list of most damaging habits ranked by long-term harm × reversibility; doom scrolling/porn/alcohol S-tier; sleep deprivation/debt/procrastination A-tier; Joe-specific priority stack (complete)
 
