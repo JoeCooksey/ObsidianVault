@@ -178,6 +178,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; one-time actions; automation (developing)
 
 ### Health / Fitness / Cycling
+- [[Cardio Training Zones]] — 5-zone system; Zone 1–5 definitions, benefits, BPM ranges for age 19 (max HR 201); Karvonen formula; zone system comparisons (evergreen)
 - [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
 - [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
 - [[VO2 Max Interval Training]] — 2–4 min at 106–120% FTP; concentrated 2–3 week blocks (developing)
