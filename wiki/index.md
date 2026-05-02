@@ -346,6 +346,7 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Travel
 - [[Research - Rome Vatican Family Trip May 2026]] — complete 9-day family tourist guide (May 11–19); Joe + parents aged 60+52; Vatican Museums, Colosseum, Tivoli day trip, Ostia Antica, day-by-day itinerary, food guide, senior-friendly tips, booking checklist (complete)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
+- [[Research - Testosterone Habits Tier List]] — 8 key findings + 17 sources; sleep #1, body fat aromatase cycle, cold exposure myth debunked, NoFap myth debunked (complete)
 - [[Research - Destructive Habits to Avoid at 19]] — 8 key findings + 5 open questions; doom scrolling brain rot, porn neuroplasticity damage, alcohol at 19 2× impairment, sleep deprivation Alzheimer's link, procrastination learned helplessness, debt compounding, social isolation = 15 cigarettes/day, fixed mindset ceiling (complete)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Hobbies for Young Men]] — 8 key findings; 5 life domain framework; S–D tier list; BJJ + guitar + investing as Joe's priority stack; Roth IRA + martial arts + rock climbing action moves (developing)
