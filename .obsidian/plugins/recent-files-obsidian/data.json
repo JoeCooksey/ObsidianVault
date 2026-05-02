@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Caloric Intake Calculator",
+      "path": "wiki/concepts/Daily Caloric Intake Calculator.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Daily Caloric Intake and Tracking Apps",
+      "path": "wiki/questions/Research - Daily Caloric Intake and Tracking Apps.md"
+    },
+    {
       "basename": "Cardio Training Zones",
       "path": "wiki/concepts/Cardio Training Zones.md"
     },
     {
       "basename": "hot",
       "path": "wiki/hot.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "Book List — Self-Help, Discipline, and Productivity",
       "path": "wiki/concepts/Book List — Self-Help, Discipline, and Productivity.md"
-    },
-    {
-      "basename": "Book List — Psychology and Persuasion",
-      "path": "wiki/concepts/Book List — Psychology and Persuasion.md"
-    },
-    {
-      "basename": "Book List — Finance and Investing",
-      "path": "wiki/concepts/Book List — Finance and Investing.md"
     }
   ],
   "omittedPaths": [],
