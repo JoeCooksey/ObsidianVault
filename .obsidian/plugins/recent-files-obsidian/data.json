@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Testosterone Habits Tier List",
+      "path": "wiki/concepts/Testosterone Habits Tier List.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Destructive Habits to Avoid at 19",
       "path": "wiki/concepts/Destructive Habits to Avoid at 19.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Caffeine Timing Protocol",
       "path": "wiki/concepts/Caffeine Timing Protocol.md"
-    },
-    {
-      "basename": "Circle of Concern vs Circle of Influence",
-      "path": "Circle of Concern vs Circle of Influence.md"
-    },
-    {
-      "basename": "2026-04-28",
-      "path": "Journal/Daily/2026-04-28.md"
     }
   ],
   "omittedPaths": [],
