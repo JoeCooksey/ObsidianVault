@@ -8,13 +8,13 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-02 — Autoresearch: Cardio Training Zones; 2 pages created: [[Cardio Training Zones]] (concept with BPM tables for age 19), [[Research - Cardio Training Zones]] (full synthesis with physiology, Karvonen formula, system comparisons, citations)
+2026-05-02 — Autoresearch: Daily Caloric Intake and Tracking Apps; 2 pages created: [[Daily Caloric Intake Calculator]] (concept with formulas, activity multipliers, goal targets, protein floors, macro splits), [[Research - Daily Caloric Intake and Tracking Apps]] (full synthesis with 8 findings, app tier list S–C, open questions, sources)
 
 ## Last Updated (prev-2)
-2026-05-01 — Autoresearch: Testosterone Habits Tier List; 2 pages created: [[Testosterone Habits Tier List]] (S–F tier list concept), [[Research - Testosterone Habits Tier List]] (synthesis + 17-source citations)
+2026-05-02 — Autoresearch: Cardio Training Zones; 2 pages created: [[Cardio Training Zones]] (concept with BPM tables for age 19), [[Research - Cardio Training Zones]] (full synthesis with physiology, Karvonen formula, system comparisons, citations)
 
 ## Last Updated (prev-3)
-2026-05-01 — Autoresearch: Destructive Habits to Avoid at 19; 2 pages created: [[Destructive Habits to Avoid at 19]] (concept tier list), [[Research - Destructive Habits to Avoid at 19]] (synthesis + citations)
+2026-05-01 — Autoresearch: Testosterone Habits Tier List; 2 pages created: [[Testosterone Habits Tier List]] (S–F tier list concept), [[Research - Testosterone Habits Tier List]] (synthesis + 17-source citations)
 
 ### Power Electronics Faculty Scan — newest ingest
 - **Yuji Zhao is at Rice, not ASU**: his ASU pages are stale; not a FURI option — only Ranjram and Ayyanar are ASU-based
