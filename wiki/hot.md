@@ -25,6 +25,18 @@ tags:
 
 ## Key Recent Facts
 
+### Destructive Habits at 19 — newest autoresearch
+- **S-Tier (catastrophic, self-reinforcing):** Doom scrolling / short-form content addiction, pornography use, heavy/regular alcohol consumption
+- **A-Tier (compounds over years):** Chronic sleep deprivation, consumer debt / not investing early, chronic procrastination
+- **B-Tier (correctable but ignored):** Social isolation, fixed/victim mindset, sedentary lifestyle
+- **Doom scrolling:** "Brain rot" (Oxford WotY 2024) — 68% of youth report difficulty focusing; reduced theta brainwave activity in prefrontal cortex; makes engineering study, reading, and deep work neurologically harder
+- **Porn:** Dopamine to 250%+ of baseline sustained for hours; fMRI studies (Nature, 2017) confirm addiction-like patterns; sexual dysfunction, depression, prefrontal cortex structural changes
+- **Alcohol at 19:** 2× more cognitively impaired per dose than at 25+; brain develops until 25; gray matter abnormality confirmed; earlier start = higher lifetime addiction risk
+- **Sleep:** Young adults underestimate it most; 15% of Alzheimer's risk attributed to chronic poor sleep; 7.5–9 hrs is non-negotiable
+- **Roth IRA:** $6k at 19 = ~$200k at 65 (10% avg); this window is permanently irreversible — missing it is a compounding loss
+- **Social isolation:** Equivalent health risk to smoking 15 cigarettes/day; 2× worse than obesity; MORE psychologically damaging in young adults than older adults
+- **Fixed mindset:** Dweck's decades of research: lower achievement, higher burnout, worse coping — the invisible ceiling on all other goals
+
 ### GLP Medications — newest autoresearch
 - **Three-generation progression:** Semaglutide (GLP-1 only) → Tirzepatide (GLP-1+GIP) → Retatrutide (GLP-1+GIP+Glucagon); each generation adds receptor targets and meaningfully greater weight loss
 - **Weight loss outcomes:** Semaglutide ~14–20% | Tirzepatide ~20–22% | Retatrutide ~26–28.7% (Phase 3, not FDA-approved)
