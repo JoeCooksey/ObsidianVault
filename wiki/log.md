@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-02] autoresearch | Online Income Ways for 19 Year Old
+- Searches: 5 | Pages created: 4
+- Created: [[Online Income Methods Tier List]], [[Freelancing Online]], [[UGC Content Creation]], [[Research - Online Income Ways for 19 Year Old]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Online tutoring is the fastest S-tier path — $20–$80/hr, no degree, start within 1–2 weeks; (2) Freelancing (writing/design/video) is the highest-leverage skill-based path — 2–8 weeks to first client, $5,000–$20,000+/month ceiling; (3) AI Freelancing is the breakout 2026 category — Upwork demand up 109% YoY; prompt engineering $75–$200/hr; AI video work up 329%; (4) UGC creation requires zero audience — brands pay $50–$150/video for authentic product content; $5,000–$15,000+/month for established creators; (5) Content creation (YT/TikTok) has high ceiling but 6–18 month ramp — real money from brand deals ($2,000–$10,000/post at 100K followers), not platform payouts; (6) Digital products (Etsy/Gumroad) — $1,000–$2,500/month realistic for consistent sellers; printables/templates/AI prompt packs are top categories; (7) Dropshipping is C-tier for beginners — needs $5k–$10k startup, competitive, rising ad costs; (8) Universal pattern: build proof → first clients at low rates → testimonials → raise rates → scale
+
 ## [2026-05-02] autoresearch | Daily Caloric Intake and Tracking Apps
 - Searches: 8 | Pages created: 2
 - Created: [[Daily Caloric Intake Calculator]], [[Research - Daily Caloric Intake and Tracking Apps]]
