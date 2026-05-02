@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Testosterone Habits Tier List",
-      "path": "wiki/concepts/Testosterone Habits Tier List.md"
+      "basename": "Cardio Training Zones",
+      "path": "wiki/concepts/Cardio Training Zones.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "Mathematics",
+      "path": "wiki/domains/Mathematics.md"
+    },
+    {
+      "basename": "overview",
+      "path": "wiki/overview.md"
+    },
+    {
+      "basename": "Testosterone Habits Tier List",
+      "path": "wiki/concepts/Testosterone Habits Tier List.md"
     },
     {
       "basename": "Destructive Habits to Avoid at 19",
@@ -179,26 +199,6 @@
     {
       "basename": "Book List — Finance and Investing",
       "path": "wiki/concepts/Book List — Finance and Investing.md"
-    },
-    {
-      "basename": "Book List — Fiction Must-Reads",
-      "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
-    },
-    {
-      "basename": "Caffeine Complete Guide",
-      "path": "wiki/concepts/Caffeine Complete Guide.md"
-    },
-    {
-      "basename": "Caffeinated Drinks Health Tier List",
-      "path": "wiki/concepts/Caffeinated Drinks Health Tier List.md"
-    },
-    {
-      "basename": "Caffeine Cycling Protocol",
-      "path": "wiki/concepts/Caffeine Cycling Protocol.md"
-    },
-    {
-      "basename": "Caffeine Timing Protocol",
-      "path": "wiki/concepts/Caffeine Timing Protocol.md"
     }
   ],
   "omittedPaths": [],
