@@ -1,16 +1,19 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-01T00:00:00
+updated: 2026-05-02T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-05-01 — Autoresearch: Testosterone Habits Tier List; 2 pages created: [[Testosterone Habits Tier List]] (S–F tier list concept), [[Research - Testosterone Habits Tier List]] (synthesis + 17-source citations)
+2026-05-02 — Autoresearch: Cardio Training Zones; 2 pages created: [[Cardio Training Zones]] (concept with BPM tables for age 19), [[Research - Cardio Training Zones]] (full synthesis with physiology, Karvonen formula, system comparisons, citations)
 
 ## Last Updated (prev-2)
+2026-05-01 — Autoresearch: Testosterone Habits Tier List; 2 pages created: [[Testosterone Habits Tier List]] (S–F tier list concept), [[Research - Testosterone Habits Tier List]] (synthesis + 17-source citations)
+
+## Last Updated (prev-3)
 2026-05-01 — Autoresearch: Destructive Habits to Avoid at 19; 2 pages created: [[Destructive Habits to Avoid at 19]] (concept tier list), [[Research - Destructive Habits to Avoid at 19]] (synthesis + citations)
 
 ### Power Electronics Faculty Scan — newest ingest
