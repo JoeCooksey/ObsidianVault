@@ -5,6 +5,10 @@
       "path": "wiki/questions/Research - Online Income Ways for 19 Year Old.md"
     },
     {
+      "basename": "Research - High Income Skills Tier List",
+      "path": "wiki/questions/Research - High Income Skills Tier List.md"
+    },
+    {
       "basename": "Online Income Methods Tier List",
       "path": "wiki/concepts/Online Income Methods Tier List.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Book View",
       "path": "Book View.base"
-    },
-    {
-      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
-      "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
     }
   ],
   "omittedPaths": [],
