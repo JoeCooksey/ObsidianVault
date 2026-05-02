@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-02] autoresearch | Cardio Training Zones
+- Searches: 8 | Pages created: 2
+- Created: [[Cardio Training Zones]], [[Research - Cardio Training Zones]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Max HR for a 19-year-old = 201 bpm (220−age) or 195 bpm (Tanaka formula); (2) Zone 1 = 101–121 bpm — recovery and fat metabolism; (3) Zone 2 = 121–141 bpm — mitochondrial biogenesis, fat oxidation, aerobic base (the most important zone for long-term development); (4) Zone 3 = 141–161 bpm — lactate buffering, tempo conditioning, but the "grey zone" that polarized training avoids; (5) Zone 4 = 161–181 bpm — lactate threshold elevation, the primary race performance predictor; (6) Zone 5 = 181–201 bpm — VO2 max ceiling, neuromuscular power; (7) Karvonen formula (using heart rate reserve) gives zones ~10–18 bpm higher than simple % max HR; (8) Naming collision: Seiler's "Zone 2" means the grey zone to avoid — this is different from popular "Zone 2 training" which is Seiler's Zone 1 (easy aerobic work)
+
 ## [2026-05-01] autoresearch | Testosterone Habits Tier List
 - Rounds: 2 | Searches: 7 | Pages created: 2
 - Created: [[Testosterone Habits Tier List]], [[Research - Testosterone Habits Tier List]]
