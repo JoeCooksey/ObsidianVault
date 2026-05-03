@@ -164,6 +164,11 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Hormones / Testosterone
 - [[Testosterone Habits Tier List]] — S–F tier list of all habits ranked by effect × evidence: sleep/lean body fat/resistance training S-tier; cold exposure and NoFap D-tier; IF lowers T in lean men (complete)
 
+### Sleep
+- [[Sleep Habits Tier List]] — S–F tier list of all habits, products, and actions affecting sleep: circadian anchoring/morning sunlight/cool dark room S-tier; nicotine/alcohol/caffeine F-tier; supplements hierarchy; quick-reference protocol stack (complete)
+- [[Research - Sleep Habits Tier List]] — full synthesis: 8 findings, CBT-I vs meds, supplement rankings, environment variables, diet-sleep connection, 20+ sources (complete)
+- [[Sleep Optimization Supplements]] — melatonin (0.1–0.5 mg), magnesium glycinate (200–400 mg), L-theanine; what not to take (Benadryl, high-dose melatonin) (developing)
+
 ### Habits — Destructive (What to Avoid)
 - [[Destructive Habits to Avoid at 19]] — S–C tier list of most damaging habits ranked by long-term harm × reversibility; doom scrolling/porn/alcohol S-tier; sleep deprivation/debt/procrastination A-tier; Joe-specific priority stack (complete)
 
