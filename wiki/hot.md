@@ -8,6 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: Human Hormones and Optimization; 2 pages created: [[Human Hormones Complete Guide]] (14-hormone reference covering cortisol, insulin, testosterone, estrogen, progesterone, thyroid T3/T4, HGH, dopamine, serotonin, melatonin, oxytocin, leptin/ghrelin, adrenaline, DHEA — full function descriptions + optimization protocols + master convergence table), [[Research - Human Hormones and Optimization]] (8-finding synthesis: sleep as multi-hormone lever, cortisol as master saboteur, insulin resistance upstream disease driver, dopamine = motivation not pleasure, serotonin is a gut hormone, thyroid underdiagnosis + selenium/zinc deficiency, xenoestrogen disruption, morning sunlight free protocol)
+
+## Key Recent Facts
+
+### Human Hormones — newest autoresearch
+- **Top multi-hormone lever:** Sleep 7–9h → testosterone ↑, HGH ↑ (75% released in deep sleep), cortisol ↓, melatonin ✓, insulin sensitivity ↑ (one night of 4h sleep = 25% decrease), leptin ✓ / ghrelin ↓
+- **Cortisol is the master saboteur:** Chronic elevation → blocks T4→T3 conversion, suppresses testosterone (inverse relationship), steals progesterone via "pregnenolone steal," disrupts melatonin timing, promotes visceral fat → worsens insulin resistance
+- **Insulin sensitivity:** Combined diet + exercise = 188–269% greater improvement than exercise alone (2025 meta-analysis); post-meal 10–15 min walk → 20–30% glucose spike reduction; Berberine 500 mg 3x/day ≈ metformin in some RCTs
+- **Dopamine = wanting/pursuit, NOT pleasure:** Junk dopamine (social media, porn, infinite scroll) downgrades receptors → real goals feel unrewarding; Cold exposure → 250% dopamine increase lasting hours vs. spike-and-crash from sugar
+- **Serotonin is 95% a gut hormone:** Dysbiosis, poor fiber, and processed diet cause brain-like serotonin deficiency; fermented foods + prebiotic fiber + tryptophan protein are direct interventions
+- **Thyroid underdiagnosis:** Selenium deficiency in ~50% of thyroid patients impairs T4→T3 conversion deiodinase enzyme; 1–2 Brazil nuts/day = ~200 mcg selenium fix; cortisol blocks T4→T3 independently
+- **HGH:** 37.5-hr fast → 10x basal GH increase (2021 study); sauna (170°F, 20 min) → 2–3x GH; reduce sugar before bed to protect overnight GH pulse
+- **Morning sunlight (free protocol):** Hits 5 systems simultaneously — dopamine ↑, serotonin ↑, melatonin timing ✓, cortisol awakening response ✓, Vitamin D → testosterone + insulin sensitivity
+- **Xenoestrogens:** BPA, phthalates, parabens, pesticides mimic estrogen; mitigation: avoid plastic heat, fragrance-free products, filter water, organic produce (Dirty Dozen)
+- **Thyroid nutrients:** Iodine (seaweed, seafood, iodized salt) | Selenium 200 mcg (1-2 Brazil nuts) | Zinc 25-40 mg | Tyrosine (eggs, dairy, chicken) — without these, T3/T4 cannot be synthesized
+- **Master convergence habits** (improve ALL hormones): Consistent sleep → Resistance training 3-4x/week → Reduce sugar → Morning sunlight → Cold exposure → Manage chronic stress → Gut health (fiber + fermented foods) → Vitamin D 2000–5000 IU if deficient
+
+## Last Updated (prev-0)
 2026-05-03 — Autoresearch: Top Learning Podcasts; 2 pages created: [[Podcast Learning Tier List]] (S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain quick-reference table; Joe's listening stack), [[Research - Top Learning Podcasts]] (8-finding synthesis: long-form vs short-form, Philosophize This! as best philosophy audio, Dwarkesh 5× audience growth, Hardcore History unmatched for history depth, economics podcast taxonomy, AI podcast split; full tier table + sources)
 
 ## Last Updated (prev-0)
