@@ -18,6 +18,20 @@ tags:
 
 ## Key Recent Facts
 
+### Laplace Transforms and Electrical Engineering — newest autoresearch
+- **Core power:** $d/dt \to s$ multiplication. Every inductor/capacitor ODE becomes algebra. KVL/KCL still apply — just with $Z_C = 1/sC$ and $Z_L = sL$ instead of derivatives.
+- **S-domain impedances:** $Z_R = R$ (unchanged) | $Z_C = 1/sC$ (high-Z at low freq) | $Z_L = sL$ (low-Z at low freq). Set $s = j\omega$ to recover phasor impedances.
+- **Initial conditions:** Capacitor IC $V_0$ → series voltage source $V_0/s$. Inductor IC $I_0$ → series voltage source $LI_0$. No separate homogeneous solution needed.
+- **Transfer function:** $H(s) = Y(s)/X(s)$ at zero ICs. Contains all behavior. Frequency response = $H(j\omega)$.
+- **Poles = natural frequencies:** LHP pole $s = -a$ → decaying exponential $e^{-at}$ (stable). RHP pole → growing (unstable). Complex pair $-\sigma \pm j\omega_d$ → damped oscillation.
+- **Stability rule:** All poles must be in LHP. One RHP pole = unstable system.
+- **Bode plot:** Set $s = j\omega$ → plot $|H(j\omega)|$ in dB and $\angle H(j\omega)$ vs log freq. Each pole: $-20$ dB/dec slope, $-90°$ phase. Each zero: $+20$ dB/dec, $+90°$ phase.
+- **Phase margin:** Measure $180° + \angle H$ at 0 dB crossing. Target: 45–70°. Controls overshoot/stability of feedback loops.
+- **Buck converter Gvd(s):** $V_g/(LC) \times 1/(s^2 + s/RC + 1/LC)$ — second-order; $\omega_n = 1/\sqrt{LC}$; WBG (SiC/GaN) enables smaller LC → higher ωn → faster transient response.
+- **Partial fractions = inverse Laplace:** Factor denominator into poles → expand → look up each term in transform table. Complex pairs → damped sinusoidal terms.
+- **Fourier is Laplace at σ=0:** Set $s = j\omega$ (real part = 0) in the Laplace integral → Fourier transform. Laplace handles transients; Fourier handles steady-state frequency content only.
+- **Key pairs to memorize:** $e^{-at} \leftrightarrow 1/(s+a)$ | $u(t) \leftrightarrow 1/s$ | $\delta(t) \leftrightarrow 1$ | $\sin(\omega_0 t) \leftrightarrow \omega_0/(s^2+\omega_0^2)$
+
 ### Drug Harm vs Benefit Ranking — newest autoresearch
 - **Nutt/ISCD 2010 harm scores (out of 100, combined self + others):** Alcohol 72 | Heroin 55 | Crack 54 | Meth 33 | Cocaine 27 | Tobacco 26 | Amphetamine 23 | Cannabis 20 | GHB 19 | Benzos 15 | Ketamine 15 | Methadone 14 | Ecstasy 7 | LSD 7 | Buprenorphine 6 | Psilocybin 5
 - **S-Tier (best harm-to-benefit ratio):** Psilocybin (harm 5, >50% depression remission at 6mo, FDA Breakthrough, non-addictive, no known lethal dose) | Buprenorphine (harm 6, reduces opioid mortality 50%+, gold standard OUD treatment)
