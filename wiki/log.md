@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Top Learning Podcasts
+- Searches: 8 | Pages created: 2
+- Created: [[Podcast Learning Tier List]], [[Research - Top Learning Podcasts]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Long-form podcasts (45 min–4 hr) beat short-form for durable knowledge; (2) Huberman Lab is S-tier for neuroscience/health — synthesizes primary research into actionable protocols; (3) Philosophize This! is the best self-teaching philosophy resource in audio, covering full Western canon in ~200 episodes; (4) Dwarkesh Patel grew 5× in 2025 and is now a top-5 intellectual podcast — tighter and more confrontational than Lex Fridman; (5) Dan Carlin's Hardcore History has no close second for history depth — 4–6 hr episodes on WWI, Mongols, Eastern Front WWII; (6) Economics podcasts split into "thinking tools" (Freakonomics, Planet Money) vs "market news" — build the framework first; (7) AI podcasts split into "research frontier" (Lex, Dwarkesh) vs "engineering practice" (Latent Space, TWIML); (8) Best learning outcome = podcast paired with textbook, not podcast alone
+
 ## [2026-05-03] autoresearch | Self-Teaching Topics Tier List
 - Searches: 9 | Pages created: 2
 - Created: [[Self-Teaching Topics Tier List]], [[Research - Self-Teaching Topics Tier List]]
