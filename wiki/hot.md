@@ -8,6 +8,9 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: Laplace Transforms and Electrical Engineering; 4 pages created: [[Laplace Transform — Mathematical Foundations]] (definition, ROC, properties, transform pairs, inverse via partial fractions, Fourier connection), [[Laplace Transform in Circuit Analysis]] (s-domain impedances, 3 worked examples, buck converter application), [[Transfer Functions and Poles Zeros]] (s-plane stability, Bode construction, gain/phase margin, Python code), [[Research - Laplace Transforms and Electrical Engineering]] (8-finding synthesis)
+
+## Last Updated (prev-0)
 2026-05-03 — Autoresearch: Drug Harm vs Benefit Ranking; 2 pages created: [[Drug Harm vs Benefit Ranking]] (S–F tier list by net harm-to-benefit ratio using Nutt/ISCD 2010 harm scores + therapeutic evidence), [[Research - Drug Harm vs Benefit Ranking]] (full synthesis with 8 findings and 14+ sources)
 
 ## Last Updated (prev-1)
