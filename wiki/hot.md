@@ -24,6 +24,14 @@ tags:
 
 ## Key Recent Facts
 
+### Top Learning Podcasts — newest autoresearch
+- **S-Tier:** Huberman Lab (neuroscience/health, Stanford PhD host, actionable protocols, Essentials = 30 min) | Hardcore History (Dan Carlin, 4–6 hr history deep dives, WWI/Mongols/WWII, no close second) | Lex Fridman (3–4 hr broad conversations: AI/physics/philosophy/history) | Dwarkesh Podcast (60–120 min, 5× audience growth 2025, "Lex but tighter and more confrontational")
+- **A-Tier:** Hidden Brain (psychology/behavior, ~45 min, most-listened science show Apple Podcasts) | Philosophize This! (200+ episodes, full Western philosophy canon, beginner-friendly, free) | Freakonomics Radio (economics + behavioral science, Nobel laureate guests) | Mindscape/Sean Carroll (physics + philosophy intersection, best for quantum/consciousness) | The Knowledge Project (mental models, "how to think" > "what to think") | Radiolab (science + culture, distinctive storytelling)
+- **B-Tier:** Planet Money (20–30 min economics, very accessible) | In Our Time BBC (45 min, expert panels, 1,000+ archive) | Revisionist History (Gladwell, historical reinterpretation) | The Rest is History (daily, two professional historians, broad) | We Study Billionaires (investing, 180M+ downloads, value investing focus)
+- **Domain best picks:** History → Hardcore History | Philosophy → Philosophize This! | Health → Huberman Lab | Physics → Mindscape | Economics → Freakonomics | Psychology → Hidden Brain | AI → Lex or Dwarkesh | Investing → We Study Billionaires
+- **Key finding:** Podcast + textbook beats either alone. Long-form (45 min+) creates durable knowledge; short digests create awareness only.
+- **Joe's stack:** Daily exercise → Huberman Essentials; Weekly long → Hardcore History or Lex; Weekly short → Philosophize This!; Economics fill → Freakonomics + Planet Money
+
 ### Self-Teaching Topics Tier List — newest autoresearch
 - **S-Tier (start here):** Mathematics (Strang *Linear Algebra* + MIT 18.06 OCW) | Personal Finance (Sethi *I Will Teach You to Be Rich* — Roth IRA at 19 = ~$500k+ vs 35 at retirement) | Programming (Python: *Automate the Boring Stuff* free; C++: K&R → STM32) | Logic & Critical Thinking (Weston *A Rulebook for Arguments* $5 + Kahneman *Thinking Fast and Slow*)
 - **A-Tier:** Writing (Zinsser *On Writing Well*) | Economics (Hazlitt *Economics in One Lesson* — free online | Sowell *Basic Economics*) | Philosophy/Stoicism (Aurelius *Meditations* — free Gutenberg; 2-week read, lifetime dividends) | Statistics (Wheelan *Naked Statistics* → Ross *Intro to Prob & Stats for Engineers*; free: Pishro-Nik probabilitycourse.com)
