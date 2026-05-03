@@ -55,6 +55,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### Self-Teaching / Lifelong Learning
+- [[Self-Teaching Topics Tier List]] — S–C tier list of 18 subjects ranked by life ROI × self-teachability; S-tier: Math/Finance/Programming/Logic; full textbook recommendations per subject; Joe's 90-day priority stack (complete)
+
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
 
