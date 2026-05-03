@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Sleep Habits Tier List
+- Searches: 6 | Pages created: 2
+- Created: [[Sleep Habits Tier List]], [[Research - Sleep Habits Tier List]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Consistent wake time every day (including weekends) is the single highest-leverage sleep habit — anchors the circadian clock; (2) Morning sunlight (5–20 min, no sunglasses) boosts cortisol awakening response by ~50% and sets a 14–16 hr sleep-onset timer; (3) Bedroom must be 60–67°F — core body temp drop of ~1°C is required to initiate sleep; (4) The three primary sleep-destroying substances are nicotine (most harmful; −43 min sleep in insomniacs), alcohol (fragments REM architecture), and caffeine (cutoff 8–10 hrs before bed; 400 mg 6 hrs before = −60+ min sleep); (5) CBT-I is the gold standard for chronic insomnia — beats sleep medications long-term; 70–80% response rate; digital CBT-I (Sleepio) is comparable to in-person; (6) Supplement hierarchy: melatonin (0.1–0.5 mg; not 5–10 mg pharmacy doses) > magnesium glycinate (200–400 mg) > L-theanine (200–400 mg) > tart cherry > valerian; (7) Weighted blankets proven effective (Flinders University/AJOT review); white/brown noise machines well-supported; blue-light glasses are C-tier (cut screens instead); (8) Diet: fruits, vegetables, and carbohydrates at dinner associated with lower sleep fragmentation (2025 NSF study)
+
 ## [2026-05-02] autoresearch | Online Income Ways for 19 Year Old
 - Searches: 5 | Pages created: 4
 - Created: [[Online Income Methods Tier List]], [[Freelancing Online]], [[UGC Content Creation]], [[Research - Online Income Ways for 19 Year Old]]
