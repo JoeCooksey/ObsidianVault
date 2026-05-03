@@ -60,6 +60,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Podcast Learning Tier List]] — S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain best-picks table; Joe's listening stack (complete)
 - [[Research - Top Learning Podcasts]] — 8-finding synthesis: long-form beats short-form, Philosophize This! as best philosophy audio resource, Dwarkesh rise, Hardcore History as S-tier history, economics podcast taxonomy, AI podcast split; full tier table + sources (complete)
 
+### Personal Growth / Habits
+- [[Comfort Zone Habits Tier List]] — S–F tier list of daily habits ranked by effectiveness at expanding comfort zone; S-tier: cold shower + daily social challenge; master daily protocol; Yerkes-Dodson zone model; PFC → amygdala mechanism explained (complete)
+- [[Research - Comfort Zone Daily Habits]] — 8-finding synthesis: Yerkes-Dodson sweet spot, cold exposure 250% dopamine, social challenge RCT evidence, avoidance compounds, eat-the-frog, keystone exercise habit, metacognitive journaling, PFC top-down control; full tier table + 11 sources (complete)
+- [[Testosterone Habits Tier List]] — S–F tier list covering sleep, training, nutrition, cold exposure, sunlight, stress management (complete)
+- [[Sleep Habits Tier List]] — S–F tier list covering all habits, products, actions, supplements (complete)
+- [[Human Hormones Complete Guide]] — 14-hormone reference; full function descriptions, optimization protocols, master convergence table (complete)
+
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
 
