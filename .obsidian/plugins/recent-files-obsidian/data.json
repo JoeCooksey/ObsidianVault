@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Self-Teaching Topics Tier List",
-      "path": "wiki/concepts/Self-Teaching Topics Tier List.md"
+      "basename": "Podcast Learning Tier List",
+      "path": "wiki/concepts/Podcast Learning Tier List.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Self-Teaching Topics Tier List",
+      "path": "wiki/concepts/Self-Teaching Topics Tier List.md"
     },
     {
       "basename": "Transfer Functions and Poles Zeros",
@@ -195,10 +199,6 @@
     {
       "basename": "Python EE Project Ladder - Phase 0-1",
       "path": "wiki/concepts/Python EE Project Ladder - Phase 0-1.md"
-    },
-    {
-      "basename": "Research - Python EE Project Roadmap",
-      "path": "wiki/questions/Research - Python EE Project Roadmap.md"
     }
   ],
   "omittedPaths": [],
