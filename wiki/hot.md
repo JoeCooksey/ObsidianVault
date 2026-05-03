@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: Comfort Zone Daily Habits; 2 pages created: [[Comfort Zone Habits Tier List]] (S–F tier list of daily habits: S-tier = cold shower + daily social challenge; A-tier = eat the frog, progressive overload training, public speaking exposure; B-tier = avoidance journaling, new experiences, IF; master daily protocol), [[Research - Comfort Zone Daily Habits]] (8-finding synthesis: Yerkes-Dodson 15–20% sweet spot, cold shower 250% dopamine sustained, social challenge RCT 1-week compounding, avoidance shrinks comfort zones, eat-the-frog PFC timing, keystone exercise habit, metacognitive journaling, PFC → amygdala top-down control as the core mechanism)
+
+## Key Recent Facts
+
+### Comfort Zone Habits — newest autoresearch
+- **S-tier #1: Cold shower (2–5 min daily)**: 250% dopamine increase (sustained hours), 200–300% norepinephrine spike; training PFC to override amygdala "get out" signal is the mechanism that transfers to all life challenges; start with 30 sec → add 15 sec/day
+- **S-tier #2: Daily social challenge**: talk to a stranger, ask for something you expect denied, introduce yourself; 2022 RCT showed one week made people less pessimistic about rejection and benefits persisted; daily practice compounds — expectations grow more accurate each day
+- **Yerkes-Dodson optimal zone**: ~15–20% beyond current capability = stretch zone (norepinephrine + learning); below = comfort (stagnation); above = panic (shutdown). Never try to make a giant leap — daily tiny stretch beats monthly heroics
+- **Comfort zones never stay static**: they expand through challenge OR shrink through avoidance — non-linear compounding in both directions
+- **Navy SEAL 40% rule**: when your mind says "I'm done," you're at ~40% actual capacity — the gap between perceived and real limits is the training target
+- **Eat the frog** (hardest task first before phone/email): uses peak PFC window, breaks avoidance→relief→reinforcement loop that shrinks comfort zones
+- **The core mechanism**: ALL effective comfort zone habits train one circuit: PFC → amygdala suppression. Each time you choose discomfort, you update the brain's threat model downward. This is neurologically trainable and transfers across domains.
+- **Master daily protocol**: Cold shower → Hard task first → Progressive overload training → One social challenge → Evening "What did I avoid?" journal
+
+## Last Updated (prev-0)
 2026-05-03 — Autoresearch: Human Hormones and Optimization; 2 pages created: [[Human Hormones Complete Guide]] (14-hormone reference covering cortisol, insulin, testosterone, estrogen, progesterone, thyroid T3/T4, HGH, dopamine, serotonin, melatonin, oxytocin, leptin/ghrelin, adrenaline, DHEA — full function descriptions + optimization protocols + master convergence table), [[Research - Human Hormones and Optimization]] (8-finding synthesis: sleep as multi-hormone lever, cortisol as master saboteur, insulin resistance upstream disease driver, dopamine = motivation not pleasure, serotonin is a gut hormone, thyroid underdiagnosis + selenium/zinc deficiency, xenoestrogen disruption, morning sunlight free protocol)
 
 ## Key Recent Facts
