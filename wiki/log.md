@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Laplace Transforms and Electrical Engineering
+- Searches: 6 | Pages created: 4
+- Created: [[Laplace Transform — Mathematical Foundations]], [[Laplace Transform in Circuit Analysis]], [[Transfer Functions and Poles Zeros]], [[Research - Laplace Transforms and Electrical Engineering]]
+- Updated: [[Signals and Systems — Laplace and Fourier]] (added deep-dive cross-references), [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Laplace's core power: d/dt → s multiplication, converting every ODE into algebra; (2) s = σ + jω is a plane — real part controls exponential growth/decay, imaginary part controls oscillation frequency; Fourier is just Laplace at σ=0; (3) S-domain impedances ZR=R, ZC=1/sC, ZL=sL let KVL/KCL work as pure algebra; initial conditions become explicit source terms; (4) Pole locations in the s-plane encode all dynamic behavior: LHP=stable decay, RHP=unstable growth, imaginary axis=sustained oscillation; (5) Bode plots are H(jω) — transfer function on the imaginary axis — each pole adds −20 dB/dec and −90° phase; (6) Control loop design: achieve phase margin 45–70° at gain crossover using compensator zeros in s-domain; (7) Buck converter Gvd(s) is second-order; WBG (SiC/GaN) shrinks LC values → higher ωn → faster transient; (8) Partial fraction decomposition is the mechanical inverse Laplace algorithm: factor denominator, expand, look up each term in the table
+
 ## [2026-05-03] autoresearch | Drug Harm vs Benefit Ranking
 - Searches: 8 | Pages created: 2
 - Created: [[Drug Harm vs Benefit Ranking]], [[Research - Drug Harm vs Benefit Ranking]]
