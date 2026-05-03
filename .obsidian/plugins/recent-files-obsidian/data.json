@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
+      "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
+    },
+    {
       "basename": "Research - Fall 2026 Course Prep Plan",
       "path": "wiki/questions/Research - Fall 2026 Course Prep Plan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The 7 Habits of Highly Effective People - Stephen R Covey",
       "path": "Books/The 7 Habits of Highly Effective People - Stephen R Covey.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "Book View.base"
     }
   ],
   "omittedPaths": [],
