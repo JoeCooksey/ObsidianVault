@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: Deepening Connection with Jesus Christ as a Catholic; 6 pages created: [[Catholic Spiritual Growth Steps]] (master tier list: S-tier = Mass + Confession + daily prayer; A-tier = Lectio Divina + Examen + Rosary + spiritual reading; B-tier = Adoration + Liturgy of Hours; C-tier = spiritual direction + retreats; Joe's 6-month starting stack), [[Catholic Prayer Methods]] (Lectio Divina 4 movements, Ignatian Examen 5 steps, Rosary 20 mysteries, Liturgy of Hours, Adoration), [[Three Ways of Spiritual Life]] (Purgative/Illuminative/Unitive framework; aridity is progress not failure), [[Catholic Sacraments for Spiritual Growth]] (Eucharist + Confession as the objective sacramental backbone), [[Catholic Spiritual Classics]] (reading ladder: Imitation of Christ → Introduction to Devout Life → Story of a Soul → Interior Castle → Dark Night), [[Research - Deepening Connection with Jesus Catholic]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### Catholic Spiritual Growth — newest autoresearch
+- **S-tier foundation (non-negotiable)**: Weekly Sunday Mass (Eucharist = source and summit, CCC 1324), monthly Confession (restores sanctifying grace; inoculates against sin), 15+ min daily prayer
+- **A-tier daily practices**: Lectio Divina (read→meditate→pray→contemplate, 15–20 min on Gospel), Ignatian Examen (5-step evening review, 10 min; use Hallow app), Rosary (20 mysteries; 20 min; start with one decade)
+- **The Three Ways**: Purgative (conversion; breaking sin habits; humility) → Illuminative (deepening prayer; virtue formation; periods of aridity are normal and signs of progress) → Unitive (habitual union with God's will; habitual joy; apostolic fruitfulness)
+- **Spiritual direction**: Most underutilized practice; one-on-one monthly with a trained director; start by asking your parish priest; not counseling but guided listening to God's action in your life
+- **Spiritual reading**: 15 min/day of *Imitation of Christ* (Kempis) first; then *Introduction to Devout Life* (de Sales); slow and prayerful, not cover-to-cover
+- **Fasting**: Church requires meat abstinence every Friday (or substitute penance) + full fast on Ash Wednesday and Good Friday; fasting unites body to Christ's passion + opens the spirit to God
+- **Community**: Small faith groups statistically 80% faith retention vs. isolation; works of mercy encounter Christ in the poor (Mt 25:40)
+- **Aridity is not failure**: Most Catholics in the Illuminative Way experience dryness in prayer; the correct response is to continue faithfully without seeking consolation — it is the beginning of deeper purification
+
+## Last Updated (prev)
 2026-05-03 — Autoresearch: Comfort Zone Daily Habits; 2 pages created: [[Comfort Zone Habits Tier List]] (S–F tier list of daily habits: S-tier = cold shower + daily social challenge; A-tier = eat the frog, progressive overload training, public speaking exposure; B-tier = avoidance journaling, new experiences, IF; master daily protocol), [[Research - Comfort Zone Daily Habits]] (8-finding synthesis: Yerkes-Dodson 15–20% sweet spot, cold shower 250% dopamine sustained, social challenge RCT 1-week compounding, avoidance shrinks comfort zones, eat-the-frog PFC timing, keystone exercise habit, metacognitive journaling, PFC → amygdala top-down control as the core mechanism)
 
 ## Key Recent Facts
