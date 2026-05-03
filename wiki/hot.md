@@ -8,9 +8,12 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-03 — Autoresearch: Self-Teaching Topics Tier List; 2 pages created: [[Self-Teaching Topics Tier List]] (S–C tier list of 18 subjects ranked by life ROI × self-teachability; textbook recommendations per subject; Joe's 90-day priority stack), [[Research - Self-Teaching Topics Tier List]] (8-finding synthesis with full tier table and sources)
+2026-05-03 — Autoresearch: Top Learning Podcasts; 2 pages created: [[Podcast Learning Tier List]] (S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain quick-reference table; Joe's listening stack), [[Research - Top Learning Podcasts]] (8-finding synthesis: long-form vs short-form, Philosophize This! as best philosophy audio, Dwarkesh 5× audience growth, Hardcore History unmatched for history depth, economics podcast taxonomy, AI podcast split; full tier table + sources)
 
 ## Last Updated (prev-0)
+2026-05-03 — Autoresearch: Self-Teaching Topics Tier List; 2 pages created: [[Self-Teaching Topics Tier List]] (S–C tier list of 18 subjects ranked by life ROI × self-teachability; textbook recommendations per subject; Joe's 90-day priority stack), [[Research - Self-Teaching Topics Tier List]] (8-finding synthesis with full tier table and sources)
+
+## Last Updated (prev-1-old)
 2026-05-03 — Autoresearch: Laplace Transforms and Electrical Engineering; 4 pages created: [[Laplace Transform — Mathematical Foundations]] (definition, ROC, properties, transform pairs, inverse via partial fractions, Fourier connection), [[Laplace Transform in Circuit Analysis]] (s-domain impedances, 3 worked examples, buck converter application), [[Transfer Functions and Poles Zeros]] (s-plane stability, Bode construction, gain/phase margin, Python code), [[Research - Laplace Transforms and Electrical Engineering]] (8-finding synthesis)
 
 ## Last Updated (prev-1)
