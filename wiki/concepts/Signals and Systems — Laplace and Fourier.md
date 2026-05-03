@@ -119,6 +119,14 @@ Building these projects before taking EEE 350 means arriving fluent.
 4. Explain why a second-order RLC filter has two poles and how their position affects response shape
 5. Write the Laplace transform of a decaying exponential $e^{-at}$ from first principles
 
+## Deep-Dive Pages (New 2026-05-03)
+
+These pages expand each topic to full depth:
+
+- [[Laplace Transform — Mathematical Foundations]] — complete math: ROC, all properties, full transform pairs table, partial fractions, connection to Fourier
+- [[Laplace Transform in Circuit Analysis]] — s-domain impedances, 3 worked circuit examples, buck converter small-signal model, step-by-step procedure
+- [[Transfer Functions and Poles Zeros]] — poles/zeros/stability table, Bode plot construction rules, gain/phase margin, Python code examples
+
 ## Related Concepts
 - [[Circuit Theory Fundamentals]]
 - [[Differential Equations in Electrical Engineering]]
