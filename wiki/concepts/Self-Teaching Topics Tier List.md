@@ -66,12 +66,12 @@ A ranked guide to subjects you can master independently with textbooks or free r
 ### 4. Logic & Critical Thinking
 **Why S-tier:** The *meta-skill*. Logic improves how you reason about every other subject — math, physics, arguments, code, decisions. Most people never study it explicitly yet it's the infrastructure of all rigorous thought.
 
-| Sub-topic | Best Resource | Level |
-|-----------|--------------|-------|
-| Informal logic & argumentation | Weston *A Rulebook for Arguments* ($5) | Beginner |
-| Cognitive biases | Kahneman *Thinking Fast and Slow* | Beginner |
-| Formal logic intro | *Introduction to Logic and Critical Thinking* (open textbook, free) | Intermediate |
-| Fallacy identification | Pirie *How to Win Every Argument* | Beginner |
+| Sub-topic                      | Best Resource                                                       | Level        |
+| ------------------------------ | ------------------------------------------------------------------- | ------------ |
+| Informal logic & argumentation | Weston *A Rulebook for Arguments* ($5)                              | Beginner     |
+| Cognitive biases               | Kahneman *Thinking Fast and Slow*                                   | Beginner     |
+| Formal logic intro             | *Introduction to Logic and Critical Thinking* (open textbook, free) | Intermediate |
+| Fallacy identification         | Pirie *How to Win Every Argument*                                   | Beginner     |
 
 ---
 
