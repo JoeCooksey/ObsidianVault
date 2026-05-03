@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-04-19T00:00:00
+updated: 2026-05-03T00:00:00
 tags:
   - meta
 ---
@@ -12,11 +12,14 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Domains
 - [[Engineering]] — software, systems, hardware, power electronics (6 sources, 2 syntheses)
 - [[Mathematics]] — pure math, applied math, statistics (0 sources)
-- [[Books]] — literature, non-fiction, key ideas from reading (2 sources, 6 book list pages)
+- [[Books]] — literature, non-fiction, key ideas from reading (2 sources, 13 book list pages)
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Mike Ranjram]] — ASU MAPEL; converter architecture + MHz magnetics; ML-CEMS (flux 231→66 mT) + HPPC; Joe's #1 FURI target
+- [[Raja Ayyanar]] — ASU EVSTS; EV/PV/WBG/grid control; senior faculty; Joe's #2 FURI target
+- [[Yuji Zhao]] — Rice WIDE Lab (formerly ASU); GaN/β-Ga₂O₃ device physics; BN interface engineering; not FURI-eligible
 - [[Stephen Covey]] — *The 7 Habits of Highly Effective People* (1989); Maturity Continuum; Character Ethic; 40M+ copies sold
 - [[James Clear]] — *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
@@ -25,6 +28,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
 - [[Lawrence Livermore National Laboratory]] — DOE national security lab in Livermore, CA; undergrad summer internships; apply Oct–Jan; ~8,000 staff
+- [[IEEE ASU Student Branch]] — 600+ member networking org; "Dinner With Engineers" with Boeing/TI/Honeywell/Intel; S-tier for EE networking
+- [[Solar Devils ASU]] — solar-powered EV build club; electrical sub-team does battery pack + BMS + MPPT; S-tier project club for WBG track
+- [[Sun Devil Satellite Laboratory]] — CubeSat + Altium PCB design; Northrop/Lockheed partnerships; S-tier project club
+- [[HKN Eta Kappa Nu ASU]] — IEEE honor society for EE/CE; invitation-based; resume distribution to industry; A-tier
+- [[Tau Beta Pi ASU]] — pan-engineering honor society; top 1/8 junior GPA; $10k fellowships; grad school recruiting; A-tier
+- [[IEEE PES ASU Chapter]] — Power and Energy Society sub-chapter; WBG/power electronics networking; A-tier
+- [[Sun Devil Semiconductor Club]] — semiconductor-focused student org (Sun Devil Central ID 36278); directly WBG/IC design-aligned; details pending; A-tier provisionally
 - [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
 - [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
 - [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024); electrons→tokens; 5-layer cake
@@ -45,6 +55,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### Self-Teaching / Lifelong Learning
+- [[Self-Teaching Topics Tier List]] — S–C tier list of 18 subjects ranked by life ROI × self-teachability; S-tier: Math/Finance/Programming/Logic; full textbook recommendations per subject; Joe's 90-day priority stack (complete)
+- [[Podcast Learning Tier List]] — S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain best-picks table; Joe's listening stack (complete)
+- [[Research - Top Learning Podcasts]] — 8-finding synthesis: long-form beats short-form, Philosophize This! as best philosophy audio resource, Dwarkesh rise, Hardcore History as S-tier history, economics podcast taxonomy, AI podcast split; full tier table + sources (complete)
+
+### Personal Growth / Habits
+- [[Comfort Zone Habits Tier List]] — S–F tier list of daily habits ranked by effectiveness at expanding comfort zone; S-tier: cold shower + daily social challenge; master daily protocol; Yerkes-Dodson zone model; PFC → amygdala mechanism explained (complete)
+- [[Research - Comfort Zone Daily Habits]] — 8-finding synthesis: Yerkes-Dodson sweet spot, cold exposure 250% dopamine, social challenge RCT evidence, avoidance compounds, eat-the-frog, keystone exercise habit, metacognitive journaling, PFC top-down control; full tier table + 11 sources (complete)
+- [[Testosterone Habits Tier List]] — S–F tier list covering sleep, training, nutrition, cold exposure, sunlight, stress management (complete)
+- [[Sleep Habits Tier List]] — S–F tier list covering all habits, products, actions, supplements (complete)
+- [[Human Hormones Complete Guide]] — 14-hormone reference; full function descriptions, optimization protocols, master convergence table (complete)
+
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
 
@@ -53,6 +75,20 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Signals and Systems — Laplace and Fourier]] — Fourier Series/Transform, Laplace Transform, transfer functions, poles/zeros/stability, Bode plots, convolution, Z-transform — most powerful EE mathematical framework (developing)
 - [[Semiconductor Device Fundamentals]] — p-n junction, diode I-V, BJT modes, MOSFET I-V, power MOSFET body diode, IGBT, SiC vs GaN physics — gateway to WBG power electronics (developing)
 - [[Digital Logic and Boolean Algebra]] — Boolean algebra, De Morgan's laws, K-maps, combinational circuits, D flip-flops, FSMs, intro Verilog — prerequisite for EEE 120 and FPGA career track (developing)
+
+### Laplace Transform Deep Dive (2026-05-03)
+- [[Laplace Transform — Mathematical Foundations]] — definition, complex $s$-plane, ROC, all key properties, transform pairs table, inverse Laplace via partial fractions, connection to Fourier (developing)
+- [[Laplace Transform in Circuit Analysis]] — s-domain impedances ($Z_R=R$, $Z_C=1/sC$, $Z_L=sL$), IC source terms, 3 worked examples (RC/RLC/RL), transfer function forms, buck converter small-signal application (developing)
+- [[Transfer Functions and Poles Zeros]] — poles/zeros definition, s-plane stability map, $\zeta$/$\omega_n$, Bode plot construction rules, gain/phase margin, Python code (developing)
+- [[Research - Laplace Transforms and Electrical Engineering]] — 8-finding synthesis: core insight, complex $s$, impedances, poles, Bode, control design, power electronics, partial fractions; ASU curriculum map; key formulas (complete)
+- [[Research - Self-Teaching Topics Tier List]] — 8-finding synthesis: mathematics ROI, logic as meta-skill, personal finance compounding, writing as multiplier, economics worldview, Stoicism OS, statistics literacy, history as pattern recognition; complete tier list + 90-day stack (complete)
+
+### Fall 2026 Upcoming Coursework
+- [[EEE 202 Circuits I — Topics and Prep]] — 8-unit topic map (KVL/KCL → Laplace); Vasileska/Myhajlenko; Irwin textbook; best prep resources; overlap with PHY 131 (developing)
+- [[MAT 343 Applied Linear Algebra — Topics and Prep]] — 10-unit topic map; MATLAB required; EE applications of eigenvalues/SVD; prep stack: 3B1B + MIT 18.06 (developing)
+- [[PHY 131 University Physics II EM — Topics and Prep]] — 16-unit E&M topic map; Qing/Reaves; Young & Freedman 15th ed; 40% topic overlap with EEE 202 (developing)
+- [[Fall 2026 Summer Study Plan — Joe]] — 3-phase 16-week schedule (May–Aug); weekly deliverables; resource quick-reference; synergy table (developing)
+- [[Research - Fall 2026 Course Prep Plan]] — synthesis: full prep strategy, cross-course synergy table, open questions (complete)
 
 ### Math and Physics Foundations for EE
 - [[Calculus in Electrical Engineering]] — Calc 1-3 mapped to EE: derivatives for V-I relations, integrals for energy/RMS/Fourier, vector calc for Maxwell (developing)
@@ -77,6 +113,16 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Programming in the AI Era
 - [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
 - [[Programming Skills AI Cannot Replace]] — architecture, domain knowledge, debugging instinct, code review taste, security mindset, communication (developing)
+
+### Power Electronics Faculty + Grad School Roadmap
+- [[FURI to Grad School Roadmap — Joe]] — 4-year roadmap: Year 1 skills → Year 2 FURI under Ranjram → Year 3 second research term + grad prep → Year 4 NC State/VT CPES applications; key metrics table (developing)
+- [[Research - Power Electronics UWBG Faculty Scan 2026]] — faculty scan of Ranjram/Ayyanar/Zhao; simplified for Joe's WBG interests; critical correction: Zhao is at Rice not ASU (complete)
+
+### ASU Research Programs
+- [[FURI Program Complete Guide]] — complete quick-reference: eligibility, deadlines, application checklist, poster specs, faculty mentor table, Joe's action timeline (developing)
+- [[Research - FURI Program ASU Full Guide]] — full research synthesis: all application components, 7 research themes, faculty cold-email formula, semester timeline, grad-school connection (developing)
+- [[ASU EE Mentorship Pathways]] — all mentorship channels ranked (peer mentor → FURI → IEEE → Barrett alumni) (developing)
+- [[Research - EE Mentorship at ASU]] — full mentorship research: faculty contacts, cold email formula, Year 1 action stack (developing)
 
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
@@ -107,6 +153,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[GPU vs TPU Trade-offs]] — programmability vs specialization; ecosystem vs efficiency (developing)
 - [[AI Five-Layer Cake]] — Jensen Huang's framework: energy → chips → platform → models → applications (developing)
 
+### Intelligence Enhancement (EQ + IQ)
+- [[EQ-IQ-Enhancement-Guide]] — master framework: definitions, trainability, evidence summary, combined tier list, Joe's priority stack (complete)
+- [[IQ-Enhancement-Tier-List]] — S–D tier list: dual n-back, sleep, exercise, education, chess, nutrition, brain training apps; expected gains and evidence quality for each (complete)
+- [[EQ-Enhancement-Tier-List]] — S–D tier list: therapy/CBT, journaling, mindfulness, empathy practice, affect labeling, fiction reading, volunteering; mechanisms for each (complete)
+- [[Combined-EQ-IQ-Tier-List]] — high-ROI activities that develop both IQ and EQ simultaneously; S–D ranking; Joe's optimal daily stack (complete)
+
 ### Psychology / Emotional Intelligence
 - [[Emotional Agility]] — compassionate, curious, courageous relationship with thoughts/emotions/stories (developing)
 - [[Emotional Rigidity]] — fusion with thoughts/emotions/stories; drives action away from values (developing)
@@ -128,6 +180,23 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
 - [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
 
+### Pharmacology / Drug Harm
+- [[Drug Harm vs Benefit Ranking]] — S–F harm-to-benefit tier list across 20 drugs; psilocybin S-tier (harm 5, strongest therapeutic pipeline); alcohol F-tier (harm 72, highest of all drugs); legal status inverts pharmacological evidence (complete)
+
+### Hormones / Endocrinology
+- [[Human Hormones Complete Guide]] — 14-hormone reference: cortisol, insulin, testosterone, estrogen, progesterone, thyroid T3/T4, HGH, dopamine, serotonin, melatonin, oxytocin, leptin/ghrelin, adrenaline, DHEA; functions + optimization protocols + master convergence table (complete)
+- [[Research - Human Hormones and Optimization]] — 8-finding synthesis: sleep as top multi-hormone lever, cortisol as master saboteur, insulin resistance as upstream disease driver, dopamine = motivation not pleasure, serotonin is a gut hormone, thyroid underdiagnosis, xenoestrogens, morning sunlight protocol; tier list + 16 sources (complete)
+- [[Testosterone Habits Tier List]] — S–F tier list of all habits ranked by effect × evidence: sleep/lean body fat/resistance training S-tier; cold exposure and NoFap D-tier; IF lowers T in lean men (complete)
+
+### Sleep
+- [[Sleep Habits Tier List]] — S–F tier list of all habits, products, and actions affecting sleep: circadian anchoring/morning sunlight/cool dark room S-tier; nicotine/alcohol/caffeine F-tier; supplements hierarchy; quick-reference protocol stack (complete)
+- [[Research - Sleep Habits Tier List]] — full synthesis: 8 findings, CBT-I vs meds, supplement rankings, environment variables, diet-sleep connection, 20+ sources (complete)
+- [[Research - Drug Harm vs Benefit Ranking]] — full synthesis: 8 findings, Nutt/ISCD 2010 harm scores for all 20 drugs, therapeutic evidence for psychedelics/buprenorphine/ketamine, cannabis evidence review, 14+ sources (complete)
+- [[Sleep Optimization Supplements]] — melatonin (0.1–0.5 mg), magnesium glycinate (200–400 mg), L-theanine; what not to take (Benadryl, high-dose melatonin) (developing)
+
+### Habits — Destructive (What to Avoid)
+- [[Destructive Habits to Avoid at 19]] — S–C tier list of most damaging habits ranked by long-term harm × reversibility; doom scrolling/porn/alcohol S-tier; sleep deprivation/debt/procrastination A-tier; Joe-specific priority stack (complete)
+
 ### Habits / Behavior Design (Atomic Habits)
 - [[Habit Loop]] — Clear's 4-step Cue→Craving→Response→Reward; extends Duhigg by adding Craving stage (developing)
 - [[Four Laws of Behavior Change]] — Make it Obvious / Attractive / Easy / Satisfying; design framework mapped to Habit Loop (developing)
@@ -139,12 +208,21 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; one-time actions; automation (developing)
 
 ### Health / Fitness / Cycling
+- [[Cardio Training Zones]] — 5-zone system; Zone 1–5 definitions, benefits, BPM ranges for age 19 (max HR 201); Karvonen formula; zone system comparisons (evergreen)
 - [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
 - [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
 - [[VO2 Max Interval Training]] — 2–4 min at 106–120% FTP; concentrated 2–3 week blocks (developing)
 - [[Strength Training for Cyclists]] — 4-phase off-season gym arc: Adaptation → Hypertrophy → Strength → Power (developing)
+- [[Daily Caloric Intake Calculator]] — TDEE calculation (Mifflin-St Jeor, Katch-McArdle, Harris-Benedict); activity multipliers; loss/gain/maintain targets; protein floors; macro splits (developing)
 - [[Bulk and Cut Decision Framework]] — BF%-based decision rule; lean bulk/cut/recomp protocols; calorie math; cycle structure (developing)
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
+
+### GLP Medications (Weight Management)
+- [[GLP-1 Medications Overview]] — generation comparison table: semaglutide vs. tirzepatide vs. retatrutide; receptor targets; decision framework (developing)
+- [[Semaglutide]] — GLP-1 only; Ozempic/Wegovy/Rybelsus; 0.25→2.4 mg/week titration; ~14–20% wt loss; SELECT CV trial; oral form Dec 2025 (developing)
+- [[Tirzepatide]] — GLP-1+GIP dual agonist; Mounjaro/Zepbound; 2.5→15 mg/week titration; ~20–22% wt loss; SURMOUNT-5 beats sema by 47%; OSA indication (developing)
+- [[Retatrutide]] — GLP-1+GIP+glucagon triple agonist; 2→12 mg/week; 28.7% wt loss Phase 3; NOT FDA-approved (~2027); dysesthesia safety signal (developing)
+- [[GLP Medication Exit Strategy]] — weight regain reality; maintenance dosing; 9-week taper protocol; pharmacological bridges; 5-lb trigger rule (developing)
 
 ### Health / Personal
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
@@ -176,6 +254,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Book List — Psychology and Persuasion]] — S/A/B tier; Influence (Cialdini), Never Split the Difference (Voss), Thinking Fast and Slow, Getting to Yes; core persuasion models (developing)
 - [[Book List — Business and Entrepreneurship]] — S/A/B tier; Zero to One, Good to Great, Shoe Dog, The Lean Startup, Hard Thing About Hard Things (developing)
 - [[Book List — Fiction Must-Reads]] — S/A tier classics and modern; Count of Monte Cristo, East of Eden, 1984, Crime and Punishment, Dune, The Road; phased reading order (developing)
+- [[Book List — Biographies]] — S/A/B tier; da Vinci, Jobs, Musk (Isaacson); Hamilton, Napoleon, Franklin, Rockefeller (Chernow/Roberts); Team of Rivals, Power Broker (developing)
+- [[Book List — Science]] — S/A/B tier; Feynman Lectures, Selfish Gene, Short History of Nearly Everything, QED, The Gene, Emperor of All Maladies, GEB (developing)
+- [[Book List — History]] — S/A/B tier; Sapiens, Guns of August, Rise and Fall of Third Reich; Genghis Khan, Silk Roads, SPQR, 1776; Durant's Story of Civilization (developing)
+- [[Book List — Writing and Communication]] — S/A tier; On Writing Well (Zinsser), Elements of Style, Bird by Bird, Several Short Sentences (developing)
+- [[Book List — Economics]] — S/A/B tier; Economics in One Lesson, Freakonomics, Worldly Philosophers, Basic Economics (Sowell), Poor Economics (developing)
+- [[Book List — Health and Longevity]] — S/A/B tier; Outlive (Attia), Why We Sleep (Walker), Lifespan (Sinclair), Obesity Code (Fung) (developing)
+- [[Book List — Mathematics]] — S/A/B tier; How to Prove It, GEB, Linear Algebra Done Right, Calculus (Spivak), AoPS series (developing)
 - [[Research - Book Recommendations Master List]] — master synthesis with Joe's 12-book phased reading order across all categories (complete)
 
 ### Food / Nutrition Tier Lists
@@ -197,6 +282,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
+### Online Income / Entrepreneurship
+- [[Online Income Methods Tier List]] — S–C tier list of all online income methods ranked by speed-to-first-dollar and ceiling: tutoring S-tier, AI freelancing S-tier, UGC A-tier, dropshipping C-tier (developing)
+- [[Freelancing Online]] — concept page: top categories, income ladder, AI freelancing breakout, platforms (Upwork/Fiverr/Toptal), starting with no experience (developing)
+- [[UGC Content Creation]] — brand-paid content creation; no audience needed; $50–$150/video entry, $5,000–$15,000+/month ceiling; equipment, platforms, contract basics (developing)
+- [[Research - Online Income Ways for 19 Year Old]] — full synthesis: 8 findings, S–C tier list, cross-links to finance and career tracks (complete)
+
 ### Income / Career Tier Lists
 - [[High Income Skills Tier List]] — S–C ranking of all learnable skills by 2026 salary ceiling; AI/ML S-tier, power electronics A-tier, freelance ceilings (developing)
 - [[EE Specialization Salary Tier List]] — EE-specific tier list: analog/mixed-signal S-tier ($222k median), FPGA S-tier ($175k avg), WBG power electronics A-tier ($112k–$230k); Joe income ladder (developing)
@@ -205,6 +296,10 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Career / Job Search
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 - [[ASU EE Mentorship Pathways]] — tier list of all mentorship channels at ASU: peer mentors, FURI, faculty (Ranjram/Ayyanar), IEEE ASU, IEEE Collabratec, Barrett Alumni; Year 1 action stack (developing)
+
+### Chess Improvement
+- [[Chess Improvement Complete Guide]] — master reference: four pillars (tactics, openings, endgames, game analysis), daily routines, common mistakes, cognitive benefits, Joe-specific integration (complete)
+- [[Chess Rating Roadmap]] — phase-by-phase guide from unrated to 2000+; study distribution by rating, book ladder, platform comparison, endgame must-know list (complete)
 
 ### Free Time / Lifestyle
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
@@ -226,6 +321,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Social Connection / Friendships
 - [[ASU Social Connection Methods Ranked]] — S–D tier list of all ASU friendship-building methods; IEEE/Solar Devils S-tier; study groups S-tier; proximity science; Joe's action stack (developing)
+- [[ASU EE Clubs Tier List]] — S–C tier ranking of all ASU engineering clubs for EE students; IEEE+Solar Devils+SDSL S-tier; HKN/Tau Beta Pi/PES A-tier; Joe's recommended timeline (developing)
 
 ### Networking / Relationships
 - [[Social Confidence Building]] — Three-staircase model (micro → sustained → high-stakes); conversation techniques (Flooding Smile, Sticky Eyes, mirroring); cognitive restructuring; identity shift (developing)
@@ -245,6 +341,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts; human relations, influence, leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
+
+### Course Syllabi / Prep Resources
+- [[EEE 202 Course Page ASU Tsakalis]] — Tsakalis/Vasileska; canonical 8-unit sequence; PSpice + MATLAB; Irwin textbook
+- [[MIT 18.06 Linear Algebra OCW Gilbert Strang]] — 34 lectures, free, CC BY-NC-SA; 18.06SC has problem sets; selective lecture guide for MAT 343 prep
 
 ### Computer Architecture
 - [[SIGGRAPH - Eras of GPU Development 2025]] — ACM SIGGRAPH Blog, April 2025; authoritative GPU era framework
@@ -280,12 +380,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
 ## Questions / Synthesis
+
+### Travel
+- [[Research - Rome Vatican Family Trip May 2026]] — complete 9-day family tourist guide (May 11–19); Joe + parents aged 60+52; Vatican Museums, Colosseum, Tivoli day trip, Ostia Antica, day-by-day itinerary, food guide, senior-friendly tips, booking checklist (complete)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
+- [[Research - Testosterone Habits Tier List]] — 8 key findings + 17 sources; sleep #1, body fat aromatase cycle, cold exposure myth debunked, NoFap myth debunked (complete)
+- [[Research - Destructive Habits to Avoid at 19]] — 8 key findings + 5 open questions; doom scrolling brain rot, porn neuroplasticity damage, alcohol at 19 2× impairment, sleep deprivation Alzheimer's link, procrastination learned helplessness, debt compounding, social isolation = 15 cigarettes/day, fixed mindset ceiling (complete)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Hobbies for Young Men]] — 8 key findings; 5 life domain framework; S–D tier list; BJJ + guitar + investing as Joe's priority stack; Roth IRA + martial arts + rock climbing action moves (developing)
 - [[Research - Post-Study Motivation and Active Recovery]] — 8 key findings; cognitive depletion science; active recovery tier list; guilt reframe; schedule architecture fix; Joe-specific action plan (developing)
 - [[Research - Where to Get Cheap Books]] — full tier list (S=free → D=avoid); Libby, BookBub, ThriftBooks, AbeBooks, BookFinder, Project Gutenberg; Joe-specific sourcing path for his 9-book reading list (complete)
 - [[Research - Top MS EE Programs Physical Side]] — 10 schools ranked; NC State WBG MS, VT CPES, UT Austin SSE; Joe's recommended path to NC State + PowerAmerica pipeline (developing)
+- [[Research - MS EE Programs Acceptance Rates]] — acceptance rate table for all 10 schools; Purdue ~37% most accessible; MIT PhD-only ~6–9%; NC State WBGS and UT Austin SSE too new for data; GPA + FURI + named-faculty SOP are key differentiators (developing)
 - [[Research - College Dating Guide for Young Men]] — all methods ranked S–D; app rankings; the ask formula; baseline stack; mindset principles (complete)
 - [[Research - Building Social Connections at ASU]] — 8 key findings; proximity science; Jeffrey Hall 50–200 hr formula; ASU-specific resources; online student strategy (developing)
 - [[Research - Social Confidence and Climbing the Social Ladder]] — 8 key findings; 12-week week-by-week plan; CBT + exposure hierarchy; conversation techniques; social ladder strategy (developing)
@@ -297,16 +403,21 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
 - [[Research - Peptide Tier List]] — 8 key findings; full peptide tier list personalized for Joe; WADA considerations; synergy stacks; regulatory shift Feb 2026; priority action plan (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
+- [[Research - GLP Medications Complete Guide]] — 8 key findings; semaglutide/tirzepatide/retatrutide mechanisms, full dosing tables, weight loss outcomes, exit strategies; retatrutide ~2027 FDA (developing)
 - [[Research - High Income Skills Tier List]] — general + EE skill tier lists by 2026 salary; 4-phase Joe action plan; FPGA and WBG primary/secondary stack (developing)
 - [[Research - EE Mentorship at ASU]] — 8 key findings; S–C tier list of all mentorship channels; faculty contact info; cold email formula; Year 1 action stack (developing)
 - [[Research - Games Cognitive Tier List]] — 8 key findings; Portal 2 > Lumosity study; StarCraft II RCT; FPS attention research; gacha harm evidence; Joe game stack (developing)
+- [[Research - Chess Improvement Guide]] — 8 key findings; tactics as fastest lever; rating-based study distribution; game analysis protocol; book ladder Seirawan → Silman → Yusupov → Dvoretsky; Joe-specific integration (complete)
 - [[Research - Python and C++ in Electrical Engineering]] — 8 key findings; Python two-layer stack model, PyVISA ATE control, python-control design, TI C2000 DSP, MISRA-C, language handoff pattern; Joe's 9–24 month dual roadmap (developing)
 - [[Research - YouTube Channels and Learning Media]] — 8 key findings; S-tier channel/documentary/film rankings; Joe-specific watch order for EE track; 5 open questions (developing)
 - [[Research - Programming in the AI Era]] — 8 key findings; Python still the dominant AI-era language; 5-phase AI-native learning roadmap; skills AI can't replace; best 2026 tool combo (developing)
+- [[Research - Daily Caloric Intake and Tracking Apps]] — 8 key findings; Mifflin-St Jeor formula; goal-based calorie targets; app tier list S–C (MacroFactor/Carbon/Cronometer/MFP/LoseIt/Noom); adaptive TDEE science (complete)
 - [[Research - Bulking vs Cutting Body Composition Guide]] — bulk/cut/recomp decision tree; FFMI targets at 5'9"; Joe-specific calorie math; muscle gain timelines (developing)
 - [[Research - Financial Literacy Roadmap]] — 8 key findings; 5-phase roadmap; FOO sequence; Roth IRA at 19 math; index fund fee table; credit score 4-step path; Joe-specific action plan; 40-year compound table (developing)
 - [[Research - Zero Cost Computer Skills]] — 8 key findings; S–C tier list; touch typing, Python, Git, LTSpice S-tier; free resource links per skill; Joe start-today action stack (complete)
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
+- [[Research - ASU EE Clubs]] — 8 key findings; S–C tier list; Solar Devils + SDSL + IEEE ASU S-tier project/networking clubs; honor society timeline; Joe's recommended club stack and timeline (developing)
 - [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
+- [[Research - Cardio Training Zones]] — 5-zone system deep dive; Zone 1–5 physiology; max HR 201 bpm at age 19; Karvonen formula; Garmin/Polar/Seiler/Coggan system comparisons; mitochondrial biogenesis mechanism; San Millán Zone 2 metabolic health evidence (evergreen)

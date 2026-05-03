@@ -44,7 +44,21 @@
       "WebFetch(domain:pysdr.org)",
       "WebFetch(domain:incompliancemag.com)",
       "WebFetch(domain:examine.com)",
-      "WebFetch(domain:medschoolinsiders.com)"
+      "WebFetch(domain:medschoolinsiders.com)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'journal: daily entry 2026-04-29 \\(prayer + book lesson\\)' --body ' *)",
+      "WebFetch(domain:students.engineering.asu.edu)",
+      "WebFetch(domain:news.asu.edu)",
+      "WebFetch(domain:hkn.engineering.asu.edu)",
+      "WebFetch(domain:studentorgs.engineering.asu.edu)",
+      "WebFetch(domain:sundevilcentral.eoss.asu.edu)",
+      "Skill(claude-obsidian:wiki-ingest)",
+      "WebFetch(domain:tsakalis.faculty.asu.edu)",
+      "WebFetch(domain:wiki.thesoda.io)",
+      "WebFetch(domain:sites.google.com)"
     ]
   },
   "enabledPlugins": {}
