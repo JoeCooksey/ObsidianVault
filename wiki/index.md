@@ -14,7 +14,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Mathematics]] — pure math, applied math, statistics (0 sources)
 - [[Books]] — literature, non-fiction, key ideas from reading (2 sources, 13 book list pages)
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
-- [[Theology]] — Bible study, theology, apologetics (0 sources)
+- [[Theology]] — Bible study, theology, apologetics (1 research synthesis, 5 concept pages)
 
 ## Entities
 - [[Mike Ranjram]] — ASU MAPEL; converter architecture + MHz magnetics; ML-CEMS (flux 231→66 mT) + HPPC; Joe's #1 FURI target
