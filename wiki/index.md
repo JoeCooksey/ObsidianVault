@@ -170,6 +170,7 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Sleep
 - [[Sleep Habits Tier List]] — S–F tier list of all habits, products, and actions affecting sleep: circadian anchoring/morning sunlight/cool dark room S-tier; nicotine/alcohol/caffeine F-tier; supplements hierarchy; quick-reference protocol stack (complete)
 - [[Research - Sleep Habits Tier List]] — full synthesis: 8 findings, CBT-I vs meds, supplement rankings, environment variables, diet-sleep connection, 20+ sources (complete)
+- [[Research - Drug Harm vs Benefit Ranking]] — full synthesis: 8 findings, Nutt/ISCD 2010 harm scores for all 20 drugs, therapeutic evidence for psychedelics/buprenorphine/ketamine, cannabis evidence review, 14+ sources (complete)
 - [[Sleep Optimization Supplements]] — melatonin (0.1–0.5 mg), magnesium glycinate (200–400 mg), L-theanine; what not to take (Benadryl, high-dose melatonin) (developing)
 
 ### Habits — Destructive (What to Avoid)
