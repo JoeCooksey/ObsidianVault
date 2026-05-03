@@ -176,7 +176,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Pharmacology / Drug Harm
 - [[Drug Harm vs Benefit Ranking]] — S–F harm-to-benefit tier list across 20 drugs; psilocybin S-tier (harm 5, strongest therapeutic pipeline); alcohol F-tier (harm 72, highest of all drugs); legal status inverts pharmacological evidence (complete)
 
-### Hormones / Testosterone
+### Hormones / Endocrinology
+- [[Human Hormones Complete Guide]] — 14-hormone reference: cortisol, insulin, testosterone, estrogen, progesterone, thyroid T3/T4, HGH, dopamine, serotonin, melatonin, oxytocin, leptin/ghrelin, adrenaline, DHEA; functions + optimization protocols + master convergence table (complete)
+- [[Research - Human Hormones and Optimization]] — 8-finding synthesis: sleep as top multi-hormone lever, cortisol as master saboteur, insulin resistance as upstream disease driver, dopamine = motivation not pleasure, serotonin is a gut hormone, thyroid underdiagnosis, xenoestrogens, morning sunlight protocol; tier list + 16 sources (complete)
 - [[Testosterone Habits Tier List]] — S–F tier list of all habits ranked by effect × evidence: sleep/lean body fat/resistance training S-tier; cold exposure and NoFap D-tier; IF lowers T in lean men (complete)
 
 ### Sleep
