@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Human Hormones and Optimization
+- Searches: 6 | Pages created: 2
+- Created: [[Human Hormones Complete Guide]], [[Research - Human Hormones and Optimization]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Sleep is the highest-leverage multi-hormone intervention — directly optimizes testosterone, HGH, cortisol, melatonin, insulin sensitivity, and leptin/ghrelin simultaneously; (2) Cortisol is the master saboteur — blocks T4→T3 thyroid conversion, suppresses testosterone, steals progesterone's precursor, disrupts melatonin; fixing cortisol is the prerequisite for everything else; (3) Insulin resistance is the upstream mechanistic cause of T2D, PCOS, NAFLD, and cardiovascular disease — combined diet + exercise is 188–269% more effective than either alone; (4) Dopamine is the *wanting* and *pursuit* hormone, not the pleasure hormone — junk dopamine sources downregulate receptors and destroy baseline motivation; cold exposure produces 250% dopamine increase lasting hours; (5) Serotonin is 95% a gut hormone — dysbiosis, poor fiber, and processed diet can cause serotonin deficiency independent of brain function; (6) Thyroid is the most underdiagnosed hormonal issue — selenium deficiency (~50% of patients) impairs T4→T3 conversion; cortisol directly blocks this conversion; (7) Xenoestrogens (BPA, phthalates, parabens, pesticides) are a major modern disruption to the estrogen system with measurable reproductive and metabolic effects; (8) Morning sunlight is the free protocol that touches more hormones than any supplement: dopamine, serotonin, melatonin timing, cortisol awakening response, and vitamin D
+
 ## [2026-05-03] autoresearch | Top Learning Podcasts
 - Searches: 8 | Pages created: 2
 - Created: [[Podcast Learning Tier List]], [[Research - Top Learning Podcasts]]
