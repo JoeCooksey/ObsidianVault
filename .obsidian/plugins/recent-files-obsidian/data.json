@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Human Hormones Complete Guide",
+      "path": "wiki/concepts/Human Hormones Complete Guide.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-01",
       "path": "Daily News Debrief/2026-05-01.md"
-    },
-    {
-      "basename": "Python EE Project Ladder - Phase 0-1",
-      "path": "wiki/concepts/Python EE Project Ladder - Phase 0-1.md"
     }
   ],
   "omittedPaths": [],
