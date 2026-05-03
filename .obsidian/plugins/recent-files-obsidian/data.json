@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Drug Harm vs Benefit Ranking",
-      "path": "wiki/concepts/Drug Harm vs Benefit Ranking.md"
+      "basename": "Self-Teaching Topics Tier List",
+      "path": "wiki/concepts/Self-Teaching Topics Tier List.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Transfer Functions and Poles Zeros",
+      "path": "wiki/concepts/Transfer Functions and Poles Zeros.md"
+    },
+    {
+      "basename": "Laplace Transform in Circuit Analysis",
+      "path": "wiki/concepts/Laplace Transform in Circuit Analysis.md"
+    },
+    {
+      "basename": "Research",
+      "path": "wiki/domains/Research.md"
+    },
+    {
+      "basename": "overview",
+      "path": "wiki/overview.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "Laplace Transform — Mathematical Foundations",
+      "path": "wiki/concepts/Laplace Transform — Mathematical Foundations.md"
+    },
+    {
+      "basename": "Drug Harm vs Benefit Ranking",
+      "path": "wiki/concepts/Drug Harm vs Benefit Ranking.md"
     },
     {
       "basename": "Sleep Habits Tier List",
@@ -73,16 +101,8 @@
       "path": "wiki/hot.md"
     },
     {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
       "basename": "Mathematics",
       "path": "wiki/domains/Mathematics.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
     },
     {
       "basename": "Testosterone Habits Tier List",
@@ -179,26 +199,6 @@
     {
       "basename": "Research - Python EE Project Roadmap",
       "path": "wiki/questions/Research - Python EE Project Roadmap.md"
-    },
-    {
-      "basename": "2026-05-01",
-      "path": "Journal/Daily/2026-05-01.md"
-    },
-    {
-      "basename": "Research - MS EE Programs Acceptance Rates",
-      "path": "wiki/questions/Research - MS EE Programs Acceptance Rates.md"
-    },
-    {
-      "basename": "Research - Top MS EE Programs Physical Side",
-      "path": "wiki/questions/Research - Top MS EE Programs Physical Side.md"
-    },
-    {
-      "basename": "Research - Rome Vatican Family Trip May 2026",
-      "path": "wiki/questions/Research - Rome Vatican Family Trip May 2026.md"
-    },
-    {
-      "basename": "2026-04-30",
-      "path": "Daily News Debrief/2026-04-30.md"
     }
   ],
   "omittedPaths": [],
