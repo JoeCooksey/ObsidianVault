@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Drug Harm vs Benefit Ranking
+- Searches: 8 | Pages created: 2
+- Created: [[Drug Harm vs Benefit Ranking]], [[Research - Drug Harm vs Benefit Ranking]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Alcohol has the highest overall harm score (72/100) in the Nutt/ISCD 2010 Lancet study — higher than heroin (55) or crack (54) — primarily due to catastrophic harm to others (score 46); (2) The three lowest-harm drugs — psilocybin (5), MDMA (7), LSD (7) — are all Schedule I in the US yet have the strongest emerging therapeutic pipelines; legal classification inversely tracks pharmacological evidence; (3) Psilocybin shows >50% depression remission at 6 months and FDA Breakthrough Therapy designation; MDMA eliminated PTSD criteria in >70% of Phase 3 participants; ketamine/esketamine is FDA-approved for treatment-resistant depression; (4) Tobacco kills more people than all illegal drugs combined (~8M/year) but has a harm score of only 26 because the scoring framework captures multiple dimensions, not just mortality; (5) Harm-to-self vs. harm-to-others rankings differ substantially: heroin/crack/meth are most harmful to individuals; alcohol is uniquely most harmful to others; (6) Buprenorphine (harm score 6) has arguably the best harm-to-benefit ratio of any widely-used drug — reduces opioid mortality 50%+; (7) Cannabis medical evidence is much weaker than public perception: strong evidence only for epilepsy (CBD) and chemotherapy nausea; evidence for pain, anxiety, insomnia is weak per 2025 systematic review of 2,500+ studies; (8) Addiction liability and acute toxicity are separate axes: tobacco has low acute toxicity but kills cumulatively via addiction; psilocybin has near-zero addictive liability and no known lethal dose
+
 ## [2026-05-03] autoresearch | Sleep Habits Tier List
 - Searches: 6 | Pages created: 2
 - Created: [[Sleep Habits Tier List]], [[Research - Sleep Habits Tier List]]
