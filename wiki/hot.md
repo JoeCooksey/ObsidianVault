@@ -21,6 +21,15 @@ tags:
 
 ## Key Recent Facts
 
+### Self-Teaching Topics Tier List — newest autoresearch
+- **S-Tier (start here):** Mathematics (Strang *Linear Algebra* + MIT 18.06 OCW) | Personal Finance (Sethi *I Will Teach You to Be Rich* — Roth IRA at 19 = ~$500k+ vs 35 at retirement) | Programming (Python: *Automate the Boring Stuff* free; C++: K&R → STM32) | Logic & Critical Thinking (Weston *A Rulebook for Arguments* $5 + Kahneman *Thinking Fast and Slow*)
+- **A-Tier:** Writing (Zinsser *On Writing Well*) | Economics (Hazlitt *Economics in One Lesson* — free online | Sowell *Basic Economics*) | Philosophy/Stoicism (Aurelius *Meditations* — free Gutenberg; 2-week read, lifetime dividends) | Statistics (Wheelan *Naked Statistics* → Ross *Intro to Prob & Stats for Engineers*; free: Pishro-Nik probabilitycourse.com)
+- **B-Tier:** Psychology (Cialdini *Influence* + Aronson *The Social Animal*) | History (Harari *Sapiens* → Diamond → Durant) | Physics (Young & Freedman = PHY 131 textbook) | Rhetoric (Heinrichs *Thank You for Arguing* + Voss *Never Split the Difference*)
+- **C-Tier:** Spanish (*Language Transfer* free audio) | Biology/Health | Legal Literacy | CS Theory (CLRS/Sedgewick) | Formal Logic | Music Theory
+- **Joe's 90-day stack:** Week 1–2: Weston logic ($5) + Sethi finance (open Roth IRA); Week 3–4: Aurelius *Meditations*; Week 5–8: Hazlitt economics; Week 9–12: Wheelan statistics; Ongoing: Strang linear algebra + Zinsser writing
+- **Logic is the meta-skill gap:** most educated people never study argumentation explicitly; deliberate fallacy training improves reasoning in every other domain
+- **History as pattern recognition:** Charlie Munger cited history as one of the most important disciplines for decision-makers; 1 Durant volume = 1,000 years of compressed cause/effect
+
 ### Laplace Transforms and Electrical Engineering — newest autoresearch
 - **Core power:** $d/dt \to s$ multiplication. Every inductor/capacitor ODE becomes algebra. KVL/KCL still apply — just with $Z_C = 1/sC$ and $Z_L = sL$ instead of derivatives.
 - **S-domain impedances:** $Z_R = R$ (unchanged) | $Z_C = 1/sC$ (high-Z at low freq) | $Z_L = sL$ (low-Z at low freq). Set $s = j\omega$ to recover phasor impedances.
