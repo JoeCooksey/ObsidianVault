@@ -64,6 +64,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Semiconductor Device Fundamentals]] — p-n junction, diode I-V, BJT modes, MOSFET I-V, power MOSFET body diode, IGBT, SiC vs GaN physics — gateway to WBG power electronics (developing)
 - [[Digital Logic and Boolean Algebra]] — Boolean algebra, De Morgan's laws, K-maps, combinational circuits, D flip-flops, FSMs, intro Verilog — prerequisite for EEE 120 and FPGA career track (developing)
 
+### Laplace Transform Deep Dive (2026-05-03)
+- [[Laplace Transform — Mathematical Foundations]] — definition, complex $s$-plane, ROC, all key properties, transform pairs table, inverse Laplace via partial fractions, connection to Fourier (developing)
+- [[Laplace Transform in Circuit Analysis]] — s-domain impedances ($Z_R=R$, $Z_C=1/sC$, $Z_L=sL$), IC source terms, 3 worked examples (RC/RLC/RL), transfer function forms, buck converter small-signal application (developing)
+- [[Transfer Functions and Poles Zeros]] — poles/zeros definition, s-plane stability map, $\zeta$/$\omega_n$, Bode plot construction rules, gain/phase margin, Python code (developing)
+- [[Research - Laplace Transforms and Electrical Engineering]] — 8-finding synthesis: core insight, complex $s$, impedances, poles, Bode, control design, power electronics, partial fractions; ASU curriculum map; key formulas (complete)
+
 ### Fall 2026 Upcoming Coursework
 - [[EEE 202 Circuits I — Topics and Prep]] — 8-unit topic map (KVL/KCL → Laplace); Vasileska/Myhajlenko; Irwin textbook; best prep resources; overlap with PHY 131 (developing)
 - [[MAT 343 Applied Linear Algebra — Topics and Prep]] — 10-unit topic map; MATLAB required; EE applications of eigenvalues/SVD; prep stack: 3B1B + MIT 18.06 (developing)
