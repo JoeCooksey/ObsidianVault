@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Comfort Zone Daily Habits
+- Searches: 6 | Pages created: 2
+- Created: [[Comfort Zone Habits Tier List]], [[Research - Comfort Zone Daily Habits]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Yerkes-Dodson Law (1908) establishes the optimal discomfort zone is ~15–20% beyond current capability — moderate arousal maximizes learning and growth; too much triggers panic and regression; (2) Cold shower/immersion is the S-tier daily habit — 250% dopamine increase (sustained hours, not spike-crash) + 200–300% norepinephrine spike, and the act of staying in the cold trains the prefrontal cortex → amygdala suppression circuit that underlies all forms of courage; (3) Daily social challenges compound fast — a 2022 RCT (Cooney et al.) showed one week of daily stranger-conversations made people measurably less pessimistic about rejection, with benefits persisting a week later; the main barrier is distorted expectations, not actual rejection rates; (4) Comfort zones either expand or shrink — never static; avoidance behavior non-linearly entrenches the threat response; small daily challenges beat occasional large ones; (5) "Eat the frog" (hardest task first) prevents the avoidance→relief→reinforcement loop and uses peak prefrontal cortex function before decision fatigue; (6) Progressive overload training is the keystone habit — the "push-through" circuit is transferable from physical to social to cognitive domains; Navy SEAL 40% rule: perceived failure = 40% actual capacity; (7) End-of-day journaling ("What did I avoid today?") surfaces invisible avoidance behavior and creates the metacognitive awareness that precedes change; (8) The underlying mechanism of all comfort zone habits is the same — training top-down prefrontal cortex control over the amygdala's threat response; this pathway grows stronger with daily use and is the neurological basis of courage
+
 ## [2026-05-03] autoresearch | Human Hormones and Optimization
 - Searches: 6 | Pages created: 2
 - Created: [[Human Hormones Complete Guide]], [[Research - Human Hormones and Optimization]]
