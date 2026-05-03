@@ -34,6 +34,16 @@ tags:
 
 ## Key Recent Facts
 
+### Sleep Habits Tier List — newest autoresearch
+- **S-Tier anchors:** Consistent wake time every day (no exceptions) | Morning sunlight 5–20 min within 30 min of waking (no sunglasses) | Bedroom 60–67°F (core body temp must drop ~1°C to initiate sleep) | Complete darkness (blackout curtains or eye mask) | CBT-I for chronic insomnia (70–80% response rate; beats medication long-term)
+- **A-Tier behavioral:** No caffeine within 8–10 hrs of bed (400 mg at 6 hrs before = −60+ min sleep) | No alcohol within 3 hrs of bed (destroys REM) | No nicotine (most sleep-disruptive substance; −43 min sleep in insomniacs) | Wind-down routine 30–60 min before bed | Exercise (but not within 2–3 hrs of bed)
+- **B-Tier supplements:** Magnesium glycinate 200–400 mg (GABA activation, cortisol↓) | Melatonin 0.1–0.5 mg (NOT 5–10 mg pharmacy dose — that's an overdose) | White/brown noise machine | Weighted blanket 15–25 lb (DTP → serotonin↑, melatonin↑) | Warm-lit room in evenings
+- **C-Tier:** L-theanine 200–400 mg (better combined with Mg) | Blue-light blocking glasses | Tart cherry juice (240 mL x2/day) | Hot shower 60–90 min before bed (induces temp drop)
+- **D-Tier (weak evidence):** Ashwagandha | CBD | Chamomile | Oura/WHOOP (awareness only, no direct improvement) | Diphenhydramine/Benadryl (sedates but degrades sleep quality — avoid)
+- **F-Tier destroyers:** Irregular schedule | Bright lights after dark | Blue light within 1 hr of bed (23% melatonin suppression) | Caffeine within 6 hrs | Alcohol before bed | Nicotine | Hot bedroom (>70°F) | Large late meals | Naps >30 min after 4 PM
+- **CBT-I key fact:** Gold standard per APA; more durable than benzodiazepines/Z-drugs; digital apps (Sleepio) comparable to in-person
+- **Diet-sleep link (2025):** Fruits, vegetables, and carbohydrates at dinner associated with lower sleep fragmentation (NSF 2025 study)
+
 ### Online Income Ways for 19 Year Old — newest autoresearch
 - **S-Tier fastest paths:** Online tutoring ($20–$80/hr, no degree, 1–2 week start) and Freelancing (writing/design/video, 2–8 weeks to first client, $5k–$20k+/month ceiling)
 - **AI Freelancing is the 2026 breakout category:** Upwork demand up 109% YoY; AI video work up 329%; prompt engineering $75–$200/hr; no CS degree needed
