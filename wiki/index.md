@@ -72,6 +72,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Laplace Transform in Circuit Analysis]] — s-domain impedances ($Z_R=R$, $Z_C=1/sC$, $Z_L=sL$), IC source terms, 3 worked examples (RC/RLC/RL), transfer function forms, buck converter small-signal application (developing)
 - [[Transfer Functions and Poles Zeros]] — poles/zeros definition, s-plane stability map, $\zeta$/$\omega_n$, Bode plot construction rules, gain/phase margin, Python code (developing)
 - [[Research - Laplace Transforms and Electrical Engineering]] — 8-finding synthesis: core insight, complex $s$, impedances, poles, Bode, control design, power electronics, partial fractions; ASU curriculum map; key formulas (complete)
+- [[Research - Self-Teaching Topics Tier List]] — 8-finding synthesis: mathematics ROI, logic as meta-skill, personal finance compounding, writing as multiplier, economics worldview, Stoicism OS, statistics literacy, history as pattern recognition; complete tier list + 90-day stack (complete)
 
 ### Fall 2026 Upcoming Coursework
 - [[EEE 202 Circuits I — Topics and Prep]] — 8-unit topic map (KVL/KCL → Laplace); Vasileska/Myhajlenko; Irwin textbook; best prep resources; overlap with PHY 131 (developing)
