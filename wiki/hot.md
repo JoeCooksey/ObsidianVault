@@ -13,6 +13,17 @@ tags:
 ## Last Updated (prev-1)
 2026-05-03 — Autoresearch: Sleep Habits Tier List; 2 pages created: [[Sleep Habits Tier List]] (S–F tier list covering all habits, products, actions, supplements), [[Research - Sleep Habits Tier List]] (full synthesis with 8 findings and 20+ sources)
 
+## Key Recent Facts
+
+### Drug Harm vs Benefit Ranking — newest autoresearch
+- **Nutt/ISCD 2010 harm scores (out of 100, combined self + others):** Alcohol 72 | Heroin 55 | Crack 54 | Meth 33 | Cocaine 27 | Tobacco 26 | Amphetamine 23 | Cannabis 20 | GHB 19 | Benzos 15 | Ketamine 15 | Methadone 14 | Ecstasy 7 | LSD 7 | Buprenorphine 6 | Psilocybin 5
+- **S-Tier (best harm-to-benefit ratio):** Psilocybin (harm 5, >50% depression remission at 6mo, FDA Breakthrough, non-addictive, no known lethal dose) | Buprenorphine (harm 6, reduces opioid mortality 50%+, gold standard OUD treatment)
+- **A-Tier:** MDMA (harm 7, 71% PTSD relief in Phase 3) | LSD (harm 7, cluster headaches) | Ketamine/Esketamine (harm 15, only rapid-acting antidepressant, FDA-approved for TRD) | Amphetamines (moderate harm, transformative for ADHD) | Methadone (harm 14, OUD harm reduction)
+- **F-Tier (highest harm, lowest benefit):** Alcohol (harm 72, highest of all 20 drugs; WHO: no safe level; Group 1 carcinogen) | Tobacco (harm 26, 8M deaths/year, zero therapeutic benefit) | Crack cocaine (harm 54, no medical use)
+- **The inversion:** Legal status systematically inverts pharmacological evidence. The 3 lowest-harm drugs (psilocybin, MDMA, LSD) are Schedule I. The 2 most harmful (alcohol, tobacco) are fully legal.
+- **Cannabis evidence reality check:** Strong evidence only for epilepsy (CBD/Epidiolex) and chemo nausea. Evidence for pain, anxiety, insomnia = weak/conflicting per 2025 review of 2,500+ studies. Daily use doubles CHD risk.
+- **Key axis:** Harm to self ≠ harm to others. Heroin/crack/meth → most harmful to the individual. Alcohol → most harmful to others (violence, accidents, family destruction).
+
 ## Last Updated (prev-2)
 2026-05-02 — Autoresearch: Online Income Ways for 19 Year Old; 4 pages created: [[Online Income Methods Tier List]] (S–C tier list of all methods), [[Freelancing Online]] (platforms, AI freelancing breakout, income ladder), [[UGC Content Creation]] (brand deals, equipment, income tiers), [[Research - Online Income Ways for 19 Year Old]] (full synthesis with 8 findings and sources)
 
