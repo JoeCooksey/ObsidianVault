@@ -334,6 +334,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Super Connectors]] — high-density network nodes; one super connector > 20 weak connections (developing)
 - [[Health Wealth Family Framework]] — help someone with these three domains = deepest possible bond (developing)
 
+### Catholic Spirituality
+- [[Catholic Spiritual Growth Steps]] — master tier list: S-tier (Mass, Confession, daily prayer) → A-tier (Lectio Divina, Examen, Rosary, spiritual reading) → B-tier (Adoration, LOTH) → C-tier (direction, retreats); Joe's phased 6-month starting stack (complete)
+- [[Catholic Prayer Methods]] — Lectio Divina (4 movements: read→meditate→pray→contemplate), Ignatian Examen (5 steps, 10 min/night), Rosary (20 mysteries in 4 sets), Liturgy of the Hours (developing)
+- [[Three Ways of Spiritual Life]] — Purgative (conversion/breaking sin) → Illuminative (virtue/deepening prayer) → Unitive (habitual union); aridity = progress not failure (developing)
+- [[Catholic Sacraments for Spiritual Growth]] — Eucharist (source and summit; Real Presence; CCC 1324) + Confession (restores grace; inoculates against sin; monthly ideal) (developing)
+- [[Catholic Spiritual Classics]] — reading ladder: *Imitation of Christ* (Kempis) → *Introduction to Devout Life* (de Sales) → *Story of a Soul* (Thérèse) → *Interior Castle* (Teresa of Ávila) → *Dark Night* (John of Cross) (developing)
+- [[Research - Deepening Connection with Jesus Catholic]] — 8-finding synthesis; master practical guide; Rosary, Lectio Divina, Examen, Three Ways, spiritual direction, fasting, community (complete)
+
 ## Sources
 
 ### Books
