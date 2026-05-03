@@ -1,22 +1,25 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-02T00:00:00
+updated: 2026-05-03T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-05-02 — Autoresearch: Online Income Ways for 19 Year Old; 4 pages created: [[Online Income Methods Tier List]] (S–C tier list of all methods), [[Freelancing Online]] (platforms, AI freelancing breakout, income ladder), [[UGC Content Creation]] (brand deals, equipment, income tiers), [[Research - Online Income Ways for 19 Year Old]] (full synthesis with 8 findings and sources)
+2026-05-03 — Autoresearch: Sleep Habits Tier List; 2 pages created: [[Sleep Habits Tier List]] (S–F tier list covering all habits, products, actions, supplements), [[Research - Sleep Habits Tier List]] (full synthesis with 8 findings and 20+ sources)
 
 ## Last Updated (prev-2)
+2026-05-02 — Autoresearch: Online Income Ways for 19 Year Old; 4 pages created: [[Online Income Methods Tier List]] (S–C tier list of all methods), [[Freelancing Online]] (platforms, AI freelancing breakout, income ladder), [[UGC Content Creation]] (brand deals, equipment, income tiers), [[Research - Online Income Ways for 19 Year Old]] (full synthesis with 8 findings and sources)
+
+## Last Updated (prev-3)
 2026-05-02 — Autoresearch: Daily Caloric Intake and Tracking Apps; 2 pages created: [[Daily Caloric Intake Calculator]] (concept with formulas, activity multipliers, goal targets, protein floors, macro splits), [[Research - Daily Caloric Intake and Tracking Apps]] (full synthesis with 8 findings, app tier list S–C, open questions, sources)
 
-## Last Updated (prev-3)
+## Last Updated (prev-4)
 2026-05-02 — Autoresearch: Cardio Training Zones; 2 pages created: [[Cardio Training Zones]] (concept with BPM tables for age 19), [[Research - Cardio Training Zones]] (full synthesis with physiology, Karvonen formula, system comparisons, citations)
 
-## Last Updated (prev-3)
+## Last Updated (prev-5)
 2026-05-01 — Autoresearch: Testosterone Habits Tier List; 2 pages created: [[Testosterone Habits Tier List]] (S–F tier list concept), [[Research - Testosterone Habits Tier List]] (synthesis + 17-source citations)
 
 ### Power Electronics Faculty Scan — newest ingest
