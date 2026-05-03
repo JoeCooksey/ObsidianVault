@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Self-Teaching Topics Tier List
+- Searches: 9 | Pages created: 2
+- Created: [[Self-Teaching Topics Tier List]], [[Research - Self-Teaching Topics Tier List]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Mathematics has the highest universal ROI of any self-teachable subject — linear algebra alone feeds EE, ML, signal processing, and control theory; start with Strang + MIT 18.06 OCW; (2) Logic and critical thinking is the meta-skill that improves every other domain — explicitly studying argumentation and fallacies (Weston + Kahneman) significantly improves reasoning quality; most educated people never study this deliberately; (3) Personal finance is the most immediately life-changing topic — a Roth IRA at 19 vs 35 = ~$500k–$700k difference at retirement due to compounding; the mechanics are learnable in a weekend; (4) Writing and communication multiply all other skills — engineering communication quality predicts promotion velocity; Zinsser *On Writing Well* + Strunk & White are the entry-point canon; (5) Economics (Hazlitt + Sowell + Dixit/Nalebuff) provides a worldview framework explaining most human decisions at scale; game theory specifically has high career ROI in negotiations; (6) Philosophy (Stoicism first — Aurelius *Meditations* free on Gutenberg) provides a mental OS for adversity; Marcus Aurelius' Meditations are private notes from one of history's most effective leaders — 2-week read with lifetime dividends; (7) Statistics is the language of modern scientific literacy — without it, you cannot read research papers critically or evaluate claims; Wheelan *Naked Statistics* is the accessible entry, Ross is the engineering follow-up; (8) History is the highest-density source of pattern recognition — Harari/Diamond/Durant give you 10,000 years of compressed cause/effect; Charlie Munger considered it one of the most important disciplines for decision-makers
+
 ## [2026-05-03] autoresearch | Laplace Transforms and Electrical Engineering
 - Searches: 6 | Pages created: 4
 - Created: [[Laplace Transform — Mathematical Foundations]], [[Laplace Transform in Circuit Analysis]], [[Transfer Functions and Poles Zeros]], [[Research - Laplace Transforms and Electrical Engineering]]
