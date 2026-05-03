@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Sleep Habits Tier List",
-      "path": "wiki/concepts/Sleep Habits Tier List.md"
+      "basename": "Drug Harm vs Benefit Ranking",
+      "path": "wiki/concepts/Drug Harm vs Benefit Ranking.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Sleep Habits Tier List",
+      "path": "wiki/concepts/Sleep Habits Tier List.md"
     },
     {
       "basename": "EE Freshman Action Plans",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-30",
       "path": "Daily News Debrief/2026-04-30.md"
-    },
-    {
-      "basename": "2026-04-30",
-      "path": "Journal/Daily/2026-04-30.md"
     }
   ],
   "omittedPaths": [],
