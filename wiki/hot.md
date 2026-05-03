@@ -8,6 +8,9 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: Drug Harm vs Benefit Ranking; 2 pages created: [[Drug Harm vs Benefit Ranking]] (S–F tier list by net harm-to-benefit ratio using Nutt/ISCD 2010 harm scores + therapeutic evidence), [[Research - Drug Harm vs Benefit Ranking]] (full synthesis with 8 findings and 14+ sources)
+
+## Last Updated (prev-1)
 2026-05-03 — Autoresearch: Sleep Habits Tier List; 2 pages created: [[Sleep Habits Tier List]] (S–F tier list covering all habits, products, actions, supplements), [[Research - Sleep Habits Tier List]] (full synthesis with 8 findings and 20+ sources)
 
 ## Last Updated (prev-2)
