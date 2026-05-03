@@ -161,6 +161,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Habit Breaking via Replacement Behavior]] — immediate post-habit replacement remaps neural circuits (developing)
 - [[Procedural Memory Visualization]] — mental step-through lowers execution threshold (developing)
 
+### Pharmacology / Drug Harm
+- [[Drug Harm vs Benefit Ranking]] — S–F harm-to-benefit tier list across 20 drugs; psilocybin S-tier (harm 5, strongest therapeutic pipeline); alcohol F-tier (harm 72, highest of all drugs); legal status inverts pharmacological evidence (complete)
+
 ### Hormones / Testosterone
 - [[Testosterone Habits Tier List]] — S–F tier list of all habits ranked by effect × evidence: sleep/lean body fat/resistance training S-tier; cold exposure and NoFap D-tier; IF lowers T in lean men (complete)
 
