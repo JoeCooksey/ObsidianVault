@@ -408,6 +408,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Questions / Synthesis
 
+### EE Curriculum
+- [[Research - ASU EE Major Map Semiconductor Connection]] — 8-finding synthesis: EEE 352 as the entire first-half's destination; PHY 241 as the underestimated quantum foundation; EEE 334's deliberate pedagogical inversion; 7 pathways = 7 semiconductor domains; noise physics in EEE 350; WBG extremes in power track; MOSFET→processor chain; senior design as forced integration; complete course-by-course semiconductor role map (complete)
+
 ### Travel
 - [[Research - Rome Vatican Family Trip May 2026]] — complete 9-day family tourist guide (May 11–19); Joe + parents aged 60+52; Vatican Museums, Colosseum, Tivoli day trip, Ostia Antica, day-by-day itinerary, food guide, senior-friendly tips, booking checklist (complete)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
