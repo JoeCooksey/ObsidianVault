@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | ASU Scholarships for California EE Students
+- Created [[ASU Scholarships for California EE Students]]: full tiered guide — NAU Scholarship ($5,500–$17,500/yr auto-awarded) + Commitment Scholarship ($5,500–$7,500/yr, new for Fall 2026, replaces WUE) + Fulton Schools Scholarship Universe portal (Nov. 1 open, Feb. 1 deadline, $1.7M pool) + IEEE PES Scholarship Plus (up to $10k, power EE focus, April 30 deadline); Cal Grants not portable; ACEC CA restricted to in-state; stacking strategy table included
+- Created [[Research - ASU Scholarships for California EE Students]]: 8-finding synthesis with 11 sources
+
+---
+
 ## [2026-05-03] autoresearch | Top 90-Day Project Ideas for Joe
 - Searches: 6 | Pages created: 2
 - Created: [[90 Day Project Tier List]], [[Research - 90 Day Project Ideas]]
