@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: ASU EE Major Map Semiconductor Connection; 3 pages created: [[ASU EE BSE 2025-2026 Major Map]] (complete 8-semester sequence with all course codes, credits, prerequisites, 7 Area Pathways, full technical elective area list), [[ASU EE Major Map Semiconductor Connection]] (5-layer framework: math language → physics foundation → semiconductor core → device circuits → domain applications; complete domain pathway tables; WBG connection chain; Joe's optimal pathway selection), [[Research - ASU EE Major Map Semiconductor Connection]] (8-finding synthesis: EEE 352 as entire first-half destination; PHY 241 as quantum foundation; EEE 334's inversion pedagogy; 7 pathways = 7 semiconductor domains; EEE 350 as noise physics; WBG physical extremes; MOSFET→processor chain; senior design synthesis)
+
+## Key Recent Facts
+
+### ASU EE Major Map — Semiconductor Connection — newest autoresearch
+- **EEE 352 (Properties of Electronic Materials) is THE gateway course** — prerequisites: CHM 114 + EEE 241 + PHY 241; teaches silicon crystal structure, intrinsic carrier concentration, Fermi level, n/p-type doping, drift/diffusion transport, p-n junction I-V (Shockley equation); every course in Terms 1–4 is building toward this moment
+- **PHY 241 (Modern Physics) is the quantum foundation** — Fermi-Dirac statistics + energy band theory explains WHY Si has a 1.1 eV bandgap and ~1.5×10¹⁰ cm⁻³ intrinsic carriers at 300K; without PHY 241, EEE 352 is memorized formulas; with it, EEE 352 is derived from first principles
+- **EEE 334's pedagogical inversion** — students use diodes/BJTs/MOSFETs as circuit models (EEE 334, Term 5) BEFORE learning the physics (EEE 352 Pathway); deliberate "top-down then bottom-up" strategy
+- **7 Area Pathways = 7 semiconductor domains** — EEE 304 (DSP/signals), EEE 333 (FPGA/ASIC), EEE 335 (analog ICs), EEE 341 (RF/microwave GaN), EEE 352 (device physics core), EEE 360 (WBG power), EEE 394 (quantum devices); 4 of 7 required
+- **WBG connection chain**: PHY 241 → EEE 352 → EEE 436 → EEE 439/465 → EEE 470 → EEE 472 → EEE 473
+- **Joe's optimal pathway stack** (WBG/Ranjram focus): EEE 352 + EEE 360 + EEE 304 + EEE 333; Tech Elects: EEE 436 + EEE 472 + EEE 470 + EEE 480 + EEE 465 or EEE 473
+- **Complete 8-semester sequence**: Term 1 (16cr): MAT265+CHM114+FSE100+CSE100/110+ENG101+ASU101 | Term 2 (16cr): MAT266+PHY121/122+EEE120+ENG102+HUAD | Term 3 (14cr): MAT267+MAT275+PHY131/132+EEE202 | Term 4 (15cr): MAT342/343+EEE203+EEE241+PHY241+HUAD | Term 5 (14cr): EEE350+EEE334+Pathway1+ECN | Term 6 (15cr): Pathway2+Pathway3+Pathway4+AMIT | Term 7 (15cr): EEE488+3xTechElect+CIVI | Term 8 (15cr): EEE489+2xTechElect+GCSI+SUST
+- **EEE 350 = semiconductor noise physics** — thermal noise (kT/q, Fermi-Dirac origin), shot noise (Q=ne, Poisson junction crossings), 1/f flicker noise (MOSFET SiO₂/Si interface carrier trapping)
+
+## Last Updated (prev)
 2026-05-04 — Autoresearch: Stackable EE Scholarships - ASU Second Year; 2 pages created: [[Stackable EE Scholarships - ASU Second Year]] (full tier list: Tier 1 = Fulton Scholarship Universe (continuing students eligible, Nov 1–Feb 1) + ASU ONSA advising; Tier 2 = IEEE PES $10k + IEEE AESS $10k + AFCEA $2.5–5k; Tier 3 = DoD SMART (full tuition + $30–46k stipend) + Goldwater $7,500/yr; Tier 4 = Bold.org + Scholarships360; stacking ceiling ~$62k+/yr), [[Research - Stackable EE Scholarships ASU Second Year]] (8-finding synthesis: DoD SMART is highest-value by large margin, Fulton Universe open to continuing students, Goldwater needs FURI → ONSA pipeline, AFCEA perfect for sophomore entry, IEEE AESS $10k with low competition, Bold.org lowest effort/dollar, NAU renewal is defensive priority, ONSA unlocks all prestige programs)
 
 ## Key Recent Facts
