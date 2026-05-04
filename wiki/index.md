@@ -252,6 +252,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Index Fund Investing]] — why index funds beat 92% of active managers; fund guide (VTI/FXAIX/VTWAX); expense ratio math; DCA; Roth IRA setup steps; compound interest table by age (developing)
 - [[Credit Score Building]] — FICO breakdown (35% payment history, 30% utilization); 4-step path from 0 to 750+; secured card strategy; authorized user hack; milestones by age (developing)
 
+### Books — Ingested Biographies
+- [[Steve Jobs - Walter Isaacson]] — Isaacson (2011); authorized biography; full life arc 1955–2011; Reality Distortion Field; 14 leadership imperatives; Pixar, NeXT, Apple second act; iPhone creation story; product over profit; humanities × sciences (complete)
+- [[Research - Steve Jobs Walter Isaacson]] — 8-finding synthesis: biography as Jobs's legacy move, RDF as the unifying concept, Pixar as his greatest bet, simplicity via subtraction, calligraphy-to-typography dot connection, product before profit, iPhone as category creation, humanities × sciences as lasting thesis (complete)
+- [[Reality Distortion Field]] — Steve Jobs's ability to bend others' perception of possibility through charisma and conviction; coined by Bud Tribble 1981; double-edged: drove extraordinary achievement and enabled willful denial (developing)
+
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
 
