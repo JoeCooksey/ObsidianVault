@@ -58,7 +58,8 @@
       "Skill(claude-obsidian:wiki-ingest)",
       "WebFetch(domain:tsakalis.faculty.asu.edu)",
       "WebFetch(domain:wiki.thesoda.io)",
-      "WebFetch(domain:sites.google.com)"
+      "WebFetch(domain:sites.google.com)",
+      "WebFetch(domain:webapp4.asu.edu)"
     ]
   },
   "enabledPlugins": {}
