@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Book View",
+      "path": "Book View.base"
+    },
+    {
+      "basename": "Steve Jobs - Walter Isaacson",
+      "path": "Books/Steve Jobs - Walter Isaacson.md"
+    },
+    {
+      "basename": "Steve Jobs - Walter Isaacson",
+      "path": "wiki/sources/Steve Jobs - Walter Isaacson.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Books",
+      "path": "wiki/domains/Books.md"
+    },
+    {
+      "basename": "Reality Distortion Field",
+      "path": "wiki/concepts/Reality Distortion Field.md"
+    },
+    {
+      "basename": "2026-05-04",
+      "path": "Journal/Daily/2026-05-04.md"
+    },
+    {
       "basename": "EEE 202 Circuits I — Topics and Prep",
       "path": "wiki/concepts/EEE 202 Circuits I — Topics and Prep.md"
     },
@@ -39,10 +67,6 @@
     {
       "basename": "ASU Scholarships for California EE Students",
       "path": "wiki/concepts/ASU Scholarships for California EE Students.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "90 Day Project Tier List",
@@ -175,30 +199,6 @@
     {
       "basename": "Cardio Training Zones",
       "path": "wiki/concepts/Cardio Training Zones.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
-    },
-    {
-      "basename": "Mathematics",
-      "path": "wiki/domains/Mathematics.md"
-    },
-    {
-      "basename": "Testosterone Habits Tier List",
-      "path": "wiki/concepts/Testosterone Habits Tier List.md"
-    },
-    {
-      "basename": "Destructive Habits to Avoid at 19",
-      "path": "wiki/concepts/Destructive Habits to Avoid at 19.md"
-    },
-    {
-      "basename": "Research - Chess Improvement Guide",
-      "path": "wiki/questions/Research - Chess Improvement Guide.md"
-    },
-    {
-      "basename": "GLP-1 Medications Overview",
-      "path": "wiki/concepts/GLP-1 Medications Overview.md"
     }
   ],
   "omittedPaths": [],
