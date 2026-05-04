@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: ASU Scholarships for California EE Students; 2 pages created: [[ASU Scholarships for California EE Students]] (full tiered guide: Tier 1 = NAU Scholarship $5,500–$17,500/yr + Commitment Scholarship $5,500–$7,500/yr, both auto-awarded at admission; Tier 2 = Fulton Schools Scholarship Universe $1.7M pool, Feb. 1 deadline; Tier 3 = IEEE PES Scholarship Plus up to $10k, April 30; WUE discontinued Fall 2026; Cal Grants not portable to ASU; stacking potential $47k+/yr), [[Research - ASU Scholarships for California EE Students]] (8-finding synthesis: WUE dead, NAU+Commitment auto-stack to $25k, Cal Grants locked in-state, Fulton pool $1.7M and not GPA-only, IEEE PES is top EE external scholarship, Pell is the only CA portable aid, ACEC CA requires in-state enrollment, application sequence mapped)
+
+## Key Recent Facts
+
+### ASU Scholarships for California EE Students — newest autoresearch
+- **WUE is DEAD for Fall 2026+**: The Western Undergraduate Exchange (saved ~$15k/yr for Western-state students) is phased out — replaced by the Commitment Scholarship ($5,500–$7,500/yr); net loss vs. WUE era is ~$7,500–$9,500/yr
+- **Auto-awarded Tier 1 stack (no application needed)**: NAU Scholarship ($5,500–$17,500/yr, GPA-based, submit SAT/ACT by May 1 for higher tier) + Commitment Scholarship ($5,500–$7,500/yr, first-time freshman, family income ≤ $200k) = $11,000–$25,000/yr stacked
+- **Fulton Schools Scholarship Universe**: Opens Nov. 1, deadline Feb. 1; $1.7M+ pool for undergrads; NOT just for A students — talent, story, creativity also count; log in with ASURITE credentials
+- **IEEE PES Scholarship Plus**: Up to $10,000/year; power and energy EE focus; min 3.0 GPA; deadline April 30; US citizen/PR; the single best external scholarship for a WBG/power electronics track student
+- **Cal Grants do NOT transfer to ASU**: Restricted to California institutions only — a hard constraint, nothing to do about it
+- **Federal Pell Grant DOES travel**: Up to $7,395/yr based on family income; file FAFSA by March 2 (CA priority deadline) every year
+- **Optimal sequence**: (1) Use ASU estimator at admission to confirm NAU + Commitment amounts → (2) File FAFSA by March 2 → (3) Apply Fulton Schools portal by Feb. 1 → (4) Apply IEEE PES by April 30 → (5) Search Bold.org + Scholarship Universe for additional EE opportunities annually
+- **Stacking ceiling**: Strong CA student → up to $47k+/yr total; ASU out-of-state tuition base ~$32k/yr → net-zero or better is achievable with full stack
+
+## Last Updated (prev)
 2026-05-03 — Autoresearch: Top 90-Day Project Ideas; 2 pages created: [[90 Day Project Tier List]] (S–F tier list of 90-day projects tailored to Joe: S-tier = FURI outreach campaign + synchronous buck converter build (STM32+PCB) + MIT 18.06 Linear Algebra; A-tier = Python EE Ladder Phase 0–3 + progressive overload 3×/week + open Roth IRA + cold email 30 engineers; B-tier = KiCad PCB design, Catholic daily prayer stack, Imitation of Christ, technical blog, Spanish via Language Transfer; F-tier = YouTube channel, crypto trading, generic "learn AI"), [[Research - 90 Day Project Ideas]] (8-finding synthesis: execution gap is Joe's real constraint, FURI needs 90+ day runway, hardware project is FURI differentiator, MIT 18.06 fits perfectly in 90 days, Roth IRA is 2-hr action with highest ROI/hr, progressive overload is meta-keystone habit, Python EE Ladder complements hardware build, failure modes are parallelism + vague deliverables)
 
 ## Key Recent Facts
