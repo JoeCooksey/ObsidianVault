@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Book List — Business and Entrepreneurship",
+      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
+    },
+    {
+      "basename": "Book List — Biographies",
+      "path": "wiki/concepts/Book List — Biographies.md"
+    },
+    {
       "basename": "ASU Scholarships for California EE Students",
       "path": "wiki/concepts/ASU Scholarships for California EE Students.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Chess Improvement Complete Guide",
       "path": "wiki/concepts/Chess Improvement Complete Guide.md"
-    },
-    {
-      "basename": "FURI to Grad School Roadmap — Joe",
-      "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
-    },
-    {
-      "basename": "Research - Book Recommendations Master List",
-      "path": "wiki/sources/Research - Book Recommendations Master List.md"
     }
   ],
   "omittedPaths": [],
