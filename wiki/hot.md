@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: Stackable EE Scholarships - ASU Second Year; 2 pages created: [[Stackable EE Scholarships - ASU Second Year]] (full tier list: Tier 1 = Fulton Scholarship Universe (continuing students eligible, Nov 1–Feb 1) + ASU ONSA advising; Tier 2 = IEEE PES $10k + IEEE AESS $10k + AFCEA $2.5–5k; Tier 3 = DoD SMART (full tuition + $30–46k stipend) + Goldwater $7,500/yr; Tier 4 = Bold.org + Scholarships360; stacking ceiling ~$62k+/yr), [[Research - Stackable EE Scholarships ASU Second Year]] (8-finding synthesis: DoD SMART is highest-value by large margin, Fulton Universe open to continuing students, Goldwater needs FURI → ONSA pipeline, AFCEA perfect for sophomore entry, IEEE AESS $10k with low competition, Bold.org lowest effort/dollar, NAU renewal is defensive priority, ONSA unlocks all prestige programs)
+
+## Key Recent Facts
+
+### Stackable EE Scholarships (Second Year) — newest autoresearch
+- **DoD SMART — the BIG one**: Full tuition + $30,000–$46,000 annual stipend + summer DoD internship + civilian job offer after graduation; requires post-graduation service at a DoD facility; application opens August 1, closes first Friday of December; [smartscholarship.org](https://www.smartscholarship.org/smart/en)
+- **Fulton Scholarship Universe IS open to continuing students**: $1.7M+ pool, opens Nov 1, deadline Feb 1; not GPA-only — talent, story, leadership also count; log in with ASURITE at scholarships.asu.edu
+- **Goldwater ($7,500/yr) pipeline**: Requires institutional nomination through ASU ONSA; FURI research experience is the key prerequisite; correct sequence: FURI outreach summer 2026 → FURI participation → ONSA meeting Fall 2026 → nomination Jan 2027
+- **AFCEA STEM Majors ($2,500–$5,000)**: Explicitly requires sophomore or junior status — second year is the entry point; min 3.0 GPA; US citizen; check annual deadline at afcea.org
+- **IEEE AESS Engineering Scholarship ($10,000)**: Only 2 awarded annually — small applicant pool; 2.8 GPA minimum (lower than PES); requires AESS student membership + essay + 3 LoRs; evaluated on essay quality + financial need
+- **Bold.org "Be Bold" No-Essay Scholarship ($25,000)**: No GPA requirement, any major, any state; 20-min profile creation auto-matches to dozens more EE scholarships; do this first
+- **NAU renewal is downside protection**: 3.0 GPA + 30 credits/year; losing it costs $5,500–$17,500/yr — more than most external scholarships you'd chase
+- **Priority sequence**: (1) Bold.org profile now → (2) DoD SMART Aug 1 → (3) FURI outreach for Goldwater pipeline → (4) Fulton Universe Nov 1 → (5) Goldwater via ONSA Jan/Feb → (6) IEEE PES by April 30 → (7) AFCEA + IEEE AESS annually
+
+## Last Updated (prev)
 2026-05-04 — Autoresearch: Top Apartment Health Products + Coffee Machines; 2 pages created: [[Apartment Health Products Tier List]] (S–B tier list with Amazon links for air purifiers, water filters, yoga mat, foam roller, robot vacuum, humidifier, sleep mask, plus full coffee machine section), [[Research - Top Apartment Health Products]] (8-finding synthesis: air purifier passive ROI, water filter near-infinite ROI, Manduka PRO as only mat you'll ever need, TriggerPoint GRID as PT standard, Bambino Plus as S-tier espresso, Nespresso Vertuo for zero-technique, Keurig K-Mini for space efficiency, robot vacuum as purifier multiplier; full product table with confirmed Amazon links)
 
 ## Key Recent Facts
