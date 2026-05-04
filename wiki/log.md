@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-04] autoresearch | Stackable EE Scholarships - ASU Second Year
+- Searches: 8 | Pages created: 2
+- Created: [[Stackable EE Scholarships - ASU Second Year]], [[Research - Stackable EE Scholarships ASU Second Year]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) DoD SMART is highest-value undergraduate scholarship by far — full tuition + $30k–$46k annual stipend + summer DoD internship + job offer; application opens Aug 1 and closes first Friday in December; (2) Fulton Scholarship Universe is open to continuing students — $1.7M+ pool, opens Nov 1, deadline Feb 1, not GPA-only; (3) Goldwater ($7,500/yr) requires institutional nomination through ASU ONSA — FURI research experience is the prerequisite; FURI → ONSA meeting Fall 2026 → nomination Jan 2027; (4) AFCEA STEM Majors Scholarship ($2,500–$5,000) explicitly requires sophomore or junior status — perfect timing for second year entry; min 3.0 GPA; (5) IEEE AESS Engineering Scholarship is $10,000 with only 2 awarded annually — low applicant pool, 2.8 GPA minimum, evaluated on essay quality + financial need; (6) Bold.org profile takes 20 min and auto-matches to dozens of EE scholarships including $25k Be Bold No-Essay Scholarship with no GPA requirement; (7) NAU Scholarship renewal (3.0 GPA + 30 credits/yr) is the highest-dollar defensive action — losing it costs $5,500–$17,500/yr, more than most external scholarships; (8) ASU ONSA is the unlocking mechanism for Goldwater and SMART — students cannot apply for Goldwater without going through institutional advising
+
 ## [2026-05-04] autoresearch | Top Apartment Health Products + Coffee Machines
 - Searches: 7 | Pages created: 2
 - Created: [[Apartment Health Products Tier List]], [[Research - Top Apartment Health Products]]
