@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-03] autoresearch | Top 90-Day Project Ideas for Joe
+- Searches: 6 | Pages created: 2
+- Created: [[90 Day Project Tier List]], [[Research - 90 Day Project Ideas]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Joe's constraint is execution, not research — his vault has comprehensive roadmaps and tier lists; the 90-day challenge is building, not planning; (2) FURI outreach must begin in summer to hit the October deadline — faculty relationships require 90+ days of runway; cold emails referencing specific papers result in 3–5× higher response rates; (3) A physical hardware project (synchronous buck converter + STM32 PWM control) is the FURI portfolio differentiator that breaks the tie between otherwise equal applicants; direct alignment with Ranjram's MAPEL lab work; (4) MIT 18.06 Linear Algebra fits perfectly in 90 days (34 lectures × 40 min/day = 85 days) and is the ideal prep for Fall 2026 MAT 343; (5) Opening a Roth IRA is a 2-hour action with the highest ROI/hour of any 90-day initiative — $100/month starting at 19 = ~$525k at retirement; (6) Progressive overload training 3×/week is the meta-keystone habit that unlocks testosterone, HGH, dopamine, cortisol management, and academic productivity simultaneously; (7) Python EE Project Ladder Phase 0–3 (12 projects, 1/week) complements the hardware build — same circuit, two representations; strong GitHub portfolio artifact; (8) 90-day project killers are: too many parallel projects, vague deliverables, and more research instead of starting — recommended stack is MIT 18.06 + Buck Converter as the two primary builds with FURI outreach as the career campaign
+
 ## [2026-05-03] autoresearch | Deepening Connection with Jesus Christ as a Catholic
 - Searches: 8 | Pages created: 6
 - Created: [[Catholic Spiritual Growth Steps]], [[Catholic Prayer Methods]], [[Three Ways of Spiritual Life]], [[Catholic Sacraments for Spiritual Growth]], [[Catholic Spiritual Classics]], [[Research - Deepening Connection with Jesus Catholic]]
