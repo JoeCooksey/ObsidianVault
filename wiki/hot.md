@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: Top Apartment Health Products + Coffee Machines; 2 pages created: [[Apartment Health Products Tier List]] (S–B tier list with Amazon links for air purifiers, water filters, yoga mat, foam roller, robot vacuum, humidifier, sleep mask, plus full coffee machine section), [[Research - Top Apartment Health Products]] (8-finding synthesis: air purifier passive ROI, water filter near-infinite ROI, Manduka PRO as only mat you'll ever need, TriggerPoint GRID as PT standard, Bambino Plus as S-tier espresso, Nespresso Vertuo for zero-technique, Keurig K-Mini for space efficiency, robot vacuum as purifier multiplier; full product table with confirmed Amazon links)
+
+## Key Recent Facts
+
+### Apartment Health Products — newest autoresearch
+- **S-tier health: Levoit Core 300 Air Purifier (~$100)** — indoor air 2–5× more polluted than outdoor; HEPA removes 99.97% allergens/VOCs/dust; 24dB quiet; +12 min sleep/night (RCT); [Amazon](https://www.amazon.com/LEVOIT-Core-300-Purifier-Filter/dp/B07SGPPBD4)
+- **S-tier health: Brita 10-Cup Elite (~$35)** — removes 99% lead + chlorine; replaces 1,800 plastic bottles/year; cheapest high-ROI health habit available; [Amazon](https://www.amazon.com/Pitcher-Everyday-Filter-Removes-Capacity/dp/B0B3GK9RW6)
+- **S-tier health: Manduka PRO Yoga Mat (~$120)** — lifetime warranty; 6mm cushioning; closed-cell hygienic surface; enables all floor exercise; one purchase for life; [Amazon](https://www.amazon.com/Manduka-PRO-Yoga-Mat-Performance/dp/B078VJ81M2)
+- **A-tier health: TriggerPoint GRID Foam Roller (~$35)** — PT standard; multi-density surface replicates massage therapist hands; reduces DOMS; 500 lb capacity; [Amazon](https://www.amazon.com/TriggerPoint-Roller-Online-Instructional-Original/dp/B07JGM74B5)
+- **S-tier coffee: Breville Bambino Plus (~$500)** — 3-sec heat-up; 12" footprint; auto milk frother; real 9-bar espresso; pays back coffee shop visits in ~3–4 months; [Amazon](https://www.amazon.com/Breville-BES500BSS-Bambino-Espresso-Stainless/dp/B07JVD78TT)
+- **S-tier coffee: Nespresso Vertuo Plus (~$150)** — centrifusion capsule technology; real crema; zero technique needed; ultra-compact; best for non-hobbyist daily coffee; [Amazon](https://www.amazon.com/Breville-BNV420IBL1BUC1-Nespresso-VertuoPlus-single-serve/dp/B07Y2Q7YXZ)
+- **A-tier coffee: Keurig K-Mini Plus (~$80)** — < 5 inches wide; stores 9 K-Cups; 6–12 oz brew; fastest morning coffee; space-efficiency champion; [Amazon](https://www.amazon.com/Keurig-K-Mini-Single-Coffee-Friendly/dp/B07DR89BR6)
+- **A-tier coffee: Breville Barista Express (~$700)** — built-in grinder + espresso in one machine; complete home barista workflow; larger footprint; best if you want the coffee hobby experience; [Amazon Search](https://www.amazon.com/s?k=breville+barista+express)
+
+## Last Updated (prev)
 2026-05-04 — Autoresearch: Steve Jobs by Walter Isaacson; 4 pages created: [[Steve Jobs - Walter Isaacson]] (full source summary: authorized biography 2011, 40+ interviews, life arc 1955–2011, 8 key themes, 14 leadership imperatives, key quotes, critical reception), [[Steve Jobs]] (entity: vitals, career timeline, defining characteristics, product table), [[Reality Distortion Field]] (concept: origin, mechanism, double-edged table, leadership theory cross-links), [[Research - Steve Jobs Walter Isaacson]] (8-finding synthesis: biography as Jobs's legacy move, RDF as unifying concept, Pixar as greatest bet, simplicity via subtraction, calligraphy-to-Mac dot connection, product before profit, iPhone as category creation, humanities × sciences as lasting thesis)
 
 ## Key Recent Facts
