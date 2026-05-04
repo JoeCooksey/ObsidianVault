@@ -368,6 +368,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
 
 ### Course Syllabi / Prep Resources
+- [[ASU EE BSE 2025-2026 Major Map]] — official 2025–2026 Flow Chart PDF; complete 8-semester sequence; all 7 Area Pathways + technical elective areas; prerequisite graph (complete)
 - [[EEE 202 Course Page ASU Tsakalis]] — Tsakalis/Vasileska; canonical 8-unit sequence; PSpice + MATLAB; Irwin textbook
 - [[MIT 18.06 Linear Algebra OCW Gilbert Strang]] — 34 lectures, free, CC BY-NC-SA; 18.06SC has problem sets; selective lecture guide for MAT 343 prep
 
