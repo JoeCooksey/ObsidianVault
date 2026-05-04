@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "FURI to Grad School Roadmap — Joe",
-      "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
-    },
-    {
       "basename": "EEE 202 Circuits I — Topics and Prep",
       "path": "wiki/concepts/EEE 202 Circuits I — Topics and Prep.md"
+    },
+    {
+      "basename": "FURI Program Complete Guide",
+      "path": "wiki/concepts/FURI Program Complete Guide.md"
+    },
+    {
+      "basename": "FURI to Grad School Roadmap — Joe",
+      "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
     },
     {
       "basename": "Fall 2026 Summer Study Plan — Joe",
@@ -195,10 +199,6 @@
     {
       "basename": "GLP-1 Medications Overview",
       "path": "wiki/concepts/GLP-1 Medications Overview.md"
-    },
-    {
-      "basename": "GLP Medication Exit Strategy",
-      "path": "wiki/concepts/GLP Medication Exit Strategy.md"
     }
   ],
   "omittedPaths": [],
