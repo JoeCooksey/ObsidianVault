@@ -124,3 +124,4 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging system, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
 - [[The Psychology of Money - Morgan Housel]] — Housel (2020); 20 chapters on behavioral finance; behavior > knowledge; compounding, freedom, enough, tail events; Joe reading since 3/1/2026
+- [[Steve Jobs - Walter Isaacson]] — Isaacson (2011); authorized biography; 40+ interviews; Reality Distortion Field; 14 leadership imperatives; full life arc 1955–2011; 3M+ US copies
