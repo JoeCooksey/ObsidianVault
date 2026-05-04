@@ -86,6 +86,7 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2005/2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
 - [[Morgan Housel]] — *The Psychology of Money* (2020); behavioral finance; "behavior > knowledge"; compounding, freedom, enough
+- [[Steve Jobs]] — *Steve Jobs* by Walter Isaacson (2011); Reality Distortion Field; humanities × sciences intersection; product absolutism; 3M+ copies sold; authorized biography
 
 ## Cross-Domain Connections
 
