@@ -1,13 +1,28 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-03T00:00:00
+updated: 2026-05-04T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: Steve Jobs by Walter Isaacson; 4 pages created: [[Steve Jobs - Walter Isaacson]] (full source summary: authorized biography 2011, 40+ interviews, life arc 1955–2011, 8 key themes, 14 leadership imperatives, key quotes, critical reception), [[Steve Jobs]] (entity: vitals, career timeline, defining characteristics, product table), [[Reality Distortion Field]] (concept: origin, mechanism, double-edged table, leadership theory cross-links), [[Research - Steve Jobs Walter Isaacson]] (8-finding synthesis: biography as Jobs's legacy move, RDF as unifying concept, Pixar as greatest bet, simplicity via subtraction, calligraphy-to-Mac dot connection, product before profit, iPhone as category creation, humanities × sciences as lasting thesis)
+
+## Key Recent Facts
+
+### Steve Jobs (Isaacson) — newest autoresearch
+- **Reality Distortion Field** — coined by Bud Tribble at Apple, 1981; Jobs's ability to convince engineers that the impossible was achievable through charm, charisma, bravado, and relentless persistence; appears 34× in the biography; the same trait that built Apple also led Jobs to delay cancer surgery 9 months in 2003 (his deepest regret)
+- **The Pixar gamble** — bought Pixar from George Lucas for $5M in 1986 (Lucas needed cash from his divorce); Jobs had no animation insight and thought he was buying a hardware company; pumped in $50M+ over a decade of losses before Toy Story (1995) proved the model; the Pixar experience taught Jobs the end-to-end integration formula that became the iPhone
+- **Simplicity via radical subtraction** — when Jobs returned to Apple in 1997, cut from 350 products to 10 using one filter: "would I be embarrassed to give this to a friend?"; focus on 10 things and move faster than any company your size has the right to
+- **The calligraphy connection** — dropped out of Reed College but audited classes for 18 months; calligraphy course taught by a Trappist monk introduced him to typography as art; 10 years later became the direct inspiration for the Mac's multiple fonts and proportional spacing — the first personal computer to take typography seriously
+- **Product before profit** — "If you don't cannibalize yourself, someone else will"; launched iPod knowing it would hurt Mac sales, iPhone knowing it would kill iPod; Apple became world's most valuable company precisely because profit was never the primary objective
+- **iPhone (2007) as category creation** — three decisions made it revolutionary: (1) eliminate stylus in favor of full multi-touch, (2) use Gorilla Glass (which didn't yet exist commercially — Jobs called Corning's CEO and said "you need to make this"), (3) put a full internet browser in people's pockets; the iPhone didn't improve existing phones — it made the category obsolete
+- **Humanities × sciences intersection** — Jobs's lasting thesis: the greatest innovations live at the crossroads of technology and liberal arts; Apple didn't win by having better engineers — it won by holding engineers and artists to the same standard in the same room
+- **Biography as legacy move** — Jobs hounded Isaacson for 5+ years to write it; gave unprecedented access with zero editorial control; published 3 weeks after his death; Tim Cook said it "did Jobs a tremendous disservice" — suggests the candor Jobs authorized came at too high a price to his reputation posthumously
+
+## Last Updated (prev)
 2026-05-03 — Autoresearch: ASU Scholarships for California EE Students; 2 pages created: [[ASU Scholarships for California EE Students]] (full tiered guide: Tier 1 = NAU Scholarship $5,500–$17,500/yr + Commitment Scholarship $5,500–$7,500/yr, both auto-awarded at admission; Tier 2 = Fulton Schools Scholarship Universe $1.7M pool, Feb. 1 deadline; Tier 3 = IEEE PES Scholarship Plus up to $10k, April 30; WUE discontinued Fall 2026; Cal Grants not portable to ASU; stacking potential $47k+/yr), [[Research - ASU Scholarships for California EE Students]] (8-finding synthesis: WUE dead, NAU+Commitment auto-stack to $25k, Cal Grants locked in-state, Fulton pool $1.7M and not GPA-only, IEEE PES is top EE external scholarship, Pell is the only CA portable aid, ACEC CA requires in-state enrollment, application sequence mapped)
 
 ## Key Recent Facts
