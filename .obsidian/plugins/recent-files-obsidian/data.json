@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Stackable EE Scholarships - ASU Second Year",
+      "path": "wiki/concepts/Stackable EE Scholarships - ASU Second Year.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "ASU Scholarships for California EE Students",
+      "path": "wiki/concepts/ASU Scholarships for California EE Students.md"
+    },
+    {
+      "basename": "Apartment Health Products Tier List",
+      "path": "wiki/concepts/Apartment Health Products Tier List.md"
+    },
+    {
       "basename": "Book View",
       "path": "Book View.base"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Steve Jobs - Walter Isaacson",
       "path": "wiki/sources/Steve Jobs - Walter Isaacson.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Books",
@@ -63,10 +75,6 @@
     {
       "basename": "Book List — Biographies",
       "path": "wiki/concepts/Book List — Biographies.md"
-    },
-    {
-      "basename": "ASU Scholarships for California EE Students",
-      "path": "wiki/concepts/ASU Scholarships for California EE Students.md"
     },
     {
       "basename": "90 Day Project Tier List",
@@ -191,14 +199,6 @@
     {
       "basename": "Daily Caloric Intake Calculator",
       "path": "wiki/concepts/Daily Caloric Intake Calculator.md"
-    },
-    {
-      "basename": "Research - Daily Caloric Intake and Tracking Apps",
-      "path": "wiki/questions/Research - Daily Caloric Intake and Tracking Apps.md"
-    },
-    {
-      "basename": "Cardio Training Zones",
-      "path": "wiki/concepts/Cardio Training Zones.md"
     }
   ],
   "omittedPaths": [],
