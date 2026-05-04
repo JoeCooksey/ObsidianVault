@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "90 Day Project Tier List",
+      "path": "wiki/concepts/90 Day Project Tier List.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FURI Program Complete Guide",
       "path": "wiki/concepts/FURI Program Complete Guide.md"
-    },
-    {
-      "basename": "Mike Ranjram",
-      "path": "wiki/entities/Mike Ranjram.md"
     }
   ],
   "omittedPaths": [],
