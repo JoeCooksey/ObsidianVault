@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-04] autoresearch | Top Apartment Health Products + Coffee Machines
+- Searches: 7 | Pages created: 2
+- Created: [[Apartment Health Products Tier List]], [[Research - Top Apartment Health Products]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Air purifier is the highest-leverage passive health investment — HEPA removes 99.97% of contaminants, indoor air 2–5× more polluted than outdoor, RCT shows +12 min sleep/night; Levoit Core 300 is the 2026 apartment standard at ~$100; (2) Brita water filter has near-infinite ROI — $35 removes 99% of lead + chlorine, replaces 1,800 plastic bottles/year, zero activation energy to hydrate correctly; (3) Manduka PRO yoga mat ($120) is the only mat you'll ever buy — lifetime warranty, closed-cell hygienic surface, enables yoga/strength/mobility in one piece of equipment; (4) TriggerPoint GRID foam roller ($35) is the physical therapy standard — multi-density surface replicates massage therapist hands, reduces DOMS, supports 500 lbs; (5) Breville Bambino Plus is the S-tier apartment espresso machine — 3-second heat-up, 12-inch footprint, auto milk frother, pays back coffee shop visits in 3–4 months at ~$500; (6) Nespresso Vertuo Plus is S-tier for zero-technique users — centrifusion capsule technology produces real crema with zero variables at ~$150; (7) Keurig K-Mini Plus is the space-efficiency champion — < 5 inches wide, stores 9 pods internally, ~$80; (8) Robot vacuum multiplies the air purifier — daily autonomous floor cleaning keeps particulate load near zero and dramatically reduces allergen volume the purifier must capture
+
 ## [2026-05-04] autoresearch | Steve Jobs by Walter Isaacson
 - Searches: 5 | Pages created: 4
 - Created: [[Steve Jobs - Walter Isaacson]], [[Steve Jobs]], [[Reality Distortion Field]], [[Research - Steve Jobs Walter Isaacson]]
