@@ -60,7 +60,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Podcast Learning Tier List]] — S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain best-picks table; Joe's listening stack (complete)
 - [[Research - Top Learning Podcasts]] — 8-finding synthesis: long-form beats short-form, Philosophize This! as best philosophy audio resource, Dwarkesh rise, Hardcore History as S-tier history, economics podcast taxonomy, AI podcast split; full tier table + sources (complete)
 
-### Personal Growth / Habits
+### Personal Growth / Habits / Projects
+- [[90 Day Project Tier List]] — S–F tier list of 90-day projects ranked by ROI for Joe's specific situation: S-tier = FURI outreach + buck converter build + MIT 18.06; A-tier = Python EE Ladder + progressive overload + Roth IRA + cold email 30 engineers; includes Joe's recommended execution stack (complete)
+- [[Research - 90 Day Project Ideas]] — 8-finding synthesis: execution gap is Joe's constraint, FURI needs summer runway, hardware project is FURI differentiator, MIT 18.06 fits 90-day window, Roth IRA = highest ROI/hour action, progressive overload is meta-keystone habit, Python Ladder complements hardware build, 90-day failure modes (complete)
 - [[Comfort Zone Habits Tier List]] — S–F tier list of daily habits ranked by effectiveness at expanding comfort zone; S-tier: cold shower + daily social challenge; master daily protocol; Yerkes-Dodson zone model; PFC → amygdala mechanism explained (complete)
 - [[Research - Comfort Zone Daily Habits]] — 8-finding synthesis: Yerkes-Dodson sweet spot, cold exposure 250% dopamine, social challenge RCT evidence, avoidance compounds, eat-the-frog, keystone exercise habit, metacognitive journaling, PFC top-down control; full tier table + 11 sources (complete)
 - [[Testosterone Habits Tier List]] — S–F tier list covering sleep, training, nutrition, cold exposure, sunlight, stress management (complete)
