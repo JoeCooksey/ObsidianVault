@@ -83,6 +83,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
 
 ### EE Core Curriculum Topics
+- [[ASU EE Major Map Semiconductor Connection]] — complete cross-reference: how all 120 credits of the EE BSE connect to semiconductor theory and application; Layer 1–5 framework; domain pathway tables; WBG-focused elective stack for Ranjram/MAPEL Lab (complete)
 - [[Circuit Theory Fundamentals]] — KVL/KCL, nodal/mesh analysis, Thevenin/Norton, AC phasors, impedance, RLC transients, op-amps, power — the bedrock of all EE (developing)
 - [[Signals and Systems — Laplace and Fourier]] — Fourier Series/Transform, Laplace Transform, transfer functions, poles/zeros/stability, Bode plots, convolution, Z-transform — most powerful EE mathematical framework (developing)
 - [[Semiconductor Device Fundamentals]] — p-n junction, diode I-V, BJT modes, MOSFET I-V, power MOSFET body diode, IGBT, SiC vs GaN physics — gateway to WBG power electronics (developing)
