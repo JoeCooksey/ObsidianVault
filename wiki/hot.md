@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-03 — Autoresearch: Top 90-Day Project Ideas; 2 pages created: [[90 Day Project Tier List]] (S–F tier list of 90-day projects tailored to Joe: S-tier = FURI outreach campaign + synchronous buck converter build (STM32+PCB) + MIT 18.06 Linear Algebra; A-tier = Python EE Ladder Phase 0–3 + progressive overload 3×/week + open Roth IRA + cold email 30 engineers; B-tier = KiCad PCB design, Catholic daily prayer stack, Imitation of Christ, technical blog, Spanish via Language Transfer; F-tier = YouTube channel, crypto trading, generic "learn AI"), [[Research - 90 Day Project Ideas]] (8-finding synthesis: execution gap is Joe's real constraint, FURI needs 90+ day runway, hardware project is FURI differentiator, MIT 18.06 fits perfectly in 90 days, Roth IRA is 2-hr action with highest ROI/hr, progressive overload is meta-keystone habit, Python EE Ladder complements hardware build, failure modes are parallelism + vague deliverables)
+
+## Key Recent Facts
+
+### 90-Day Project Ideas — newest autoresearch
+- **S-tier #1: FURI Faculty Outreach + Research Proposal** — October FURI deadline = 90-day campaign starting now; read 3–5 Ranjram papers → cold email with specific question → build relationship → draft proposal by August; cold emails referencing a specific paper get 3–5× higher response rates
+- **S-tier #2: Buck Converter Build (STM32 + PCB)** — working synchronous buck converter (12V→5V, 1A, 100 kHz) built in 12 weeks; weeks 1–3 = STM32 PWM basics; weeks 4–6 = LTspice design; weeks 7–9 = breadboard → PCB; weeks 10–12 = document + GitHub; total cost ~$50–70; this is the FURI portfolio differentiator
+- **S-tier #3: MIT 18.06 Linear Algebra (Strang)** — 34 lectures × 40 min/day = 85 days; direct prep for Fall 2026 MAT 343; covers eigenvalues/SVD/orthogonality; watch 3B1B Essence of Linear Algebra first for visual intuition
+- **A-tier: Roth IRA (2-hr action, do in Week 1)** — open Fidelity/Vanguard Roth IRA, automate $50–100/month, buy target-date index fund; $100/month at age 19 at 8% avg = ~$525k at 65; every month delayed costs $5–10k in compounding tail
+- **A-tier: Progressive overload 3×/week** — Starting Strength or StrongLifts 5×5; 12-week beginner block; measurable +30–50% strength gains; meta-keystone habit that raises T, HGH, insulin sensitivity, dopamine, academic productivity
+- **A-tier: Python EE Project Ladder Phase 0–3** — 12 projects in 13 weeks (1/week); Projects 1–6: Ohm's Law → RLC simulator; Projects 7–13: Bode plots → FFT → FIR → PID → closed-loop buck simulator; complements the hardware build
+- **Key execution rule**: Joe's constraint is execution, not research. The vault is comprehensive. More research before starting is comfort-seeking. Start building on Day 1.
+- **Joe's recommended daily stack**: MIT 18.06 (40 min) + Buck Converter build (60–90 min) + FURI outreach (30 min avg) + Python Ladder (45 min) + progressive overload (45–60 min × 3/week) + cold shower + evening journal
+
+## Last Updated (prev)
 2026-05-03 — Autoresearch: Deepening Connection with Jesus Christ as a Catholic; 6 pages created: [[Catholic Spiritual Growth Steps]] (master tier list: S-tier = Mass + Confession + daily prayer; A-tier = Lectio Divina + Examen + Rosary + spiritual reading; B-tier = Adoration + Liturgy of Hours; C-tier = spiritual direction + retreats; Joe's 6-month starting stack), [[Catholic Prayer Methods]] (Lectio Divina 4 movements, Ignatian Examen 5 steps, Rosary 20 mysteries, Liturgy of Hours, Adoration), [[Three Ways of Spiritual Life]] (Purgative/Illuminative/Unitive framework; aridity is progress not failure), [[Catholic Sacraments for Spiritual Growth]] (Eucharist + Confession as the objective sacramental backbone), [[Catholic Spiritual Classics]] (reading ladder: Imitation of Christ → Introduction to Devout Life → Story of a Soul → Interior Castle → Dark Night), [[Research - Deepening Connection with Jesus Catholic]] (8-finding synthesis)
 
 ## Key Recent Facts
