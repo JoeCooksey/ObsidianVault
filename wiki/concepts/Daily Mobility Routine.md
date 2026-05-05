@@ -59,14 +59,14 @@ Mobility = the ability to move joints through their full range of motion **under
 
 **Timing:** 30–60 minutes before bed (not the last thing before sleeping).
 
-| Exercise | Hold | Targets |
-|---|---|---|
-| Child's Pose | 60 sec | Hip flexors, thoracic spine, shoulder |
-| Supine Twist | 60 sec/side | Thoracic rotation, glutes, IT band |
-| Pigeon Pose / Figure-4 | 90 sec/side | Piriformis, glutes, hip external rotators |
-| Doorway Chest Stretch | 30 sec/side | Pectorals, anterior shoulder |
-| Supine Hamstring Stretch | 60 sec/leg | Hamstrings, posterior chain |
-| Legs-Up-Wall | 3–5 min | Nervous system reset, lymphatic drainage |
+| Exercise                 | Hold        | Targets                                   |
+| ------------------------ | ----------- | ----------------------------------------- |
+| Child's Pose             | 60 sec      | Hip flexors, thoracic spine, shoulder     |
+| Supine Twist             | 60 sec/side | Thoracic rotation, glutes, IT band        |
+| Pigeon Pose / Figure-4   | 90 sec/side | Piriformis, glutes, hip external rotators |
+| Doorway Chest Stretch    | 30 sec/side | Pectorals, anterior shoulder              |
+| Supine Hamstring Stretch | 60 sec/leg  | Hamstrings, posterior chain               |
+| Legs-Up-Wall             | 3–5 min     | Nervous system reset, lymphatic drainage  |
 
 **Total time: ~12 minutes**
 
