@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Joe's Custom Seasonal Training Plan",
+      "path": "wiki/concepts/Joe's Custom Seasonal Training Plan.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Cardio Complete Masterclass",
+      "path": "wiki/concepts/Cardio Complete Masterclass.md"
+    },
+    {
       "basename": "Muscle Building Complete Guide",
       "path": "wiki/concepts/Muscle Building Complete Guide.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Workout Splits Tier List",
       "path": "wiki/concepts/Workout Splits Tier List.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Daily Mobility Routine",
@@ -191,14 +199,6 @@
     {
       "basename": "Self-Teaching Topics Tier List",
       "path": "wiki/concepts/Self-Teaching Topics Tier List.md"
-    },
-    {
-      "basename": "Transfer Functions and Poles Zeros",
-      "path": "wiki/concepts/Transfer Functions and Poles Zeros.md"
-    },
-    {
-      "basename": "Laplace Transform in Circuit Analysis",
-      "path": "wiki/concepts/Laplace Transform in Circuit Analysis.md"
     }
   ],
   "omittedPaths": [],
