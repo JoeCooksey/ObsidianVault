@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: 5 Pillars of Fitness and Seasonal Periodization; 3 pages created: [[5 Pillars of Fitness]] (ACSM 5-component framework + Attia's Stability layer; priority tables by goal; weekly minimums per pillar), [[Seasonal Fitness Periodization]] (full annual plan with Fall/Winter/Spring/Summer phase tables, sample weekly structures, bulk/cut alignment, VO2 max block placement), [[Research - 5 Pillars of Fitness and Seasonal Periodization]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### 5 Pillars of Fitness & Seasonal Periodization — newest autoresearch
+- **The 5 Pillars (ACSM)**: (1) Cardiovascular Endurance, (2) Muscular Strength, (3) Muscular Endurance, (4) Flexibility/Mobility, (5) Body Composition — all five must be trained; ignoring any creates injury risk, performance caps, or health deficits
+- **Attia's missing pillar — Stability**: foundational layer beneath all others; single-leg control, rotational control, spinal loading patterns; 5–10 min before every session year-round; without it, heavy strength work leads to injury not gains
+- **Cardiovascular Endurance has two distinct layers**: aerobic base (Zone 1–2, Fall/Winter, 3+ hrs/week) and VO2 max blocks (4×4 min intervals, Spring, concentrated 2–3 week mesocycles); do not mix them year-round
+- **Strength training annual arc**: Anatomical Adaptation/Endurance (Fall, 15–25 reps, 50–60% 1RM) → Hypertrophy (early Winter, 8–12 reps, 65–75% 1RM) → Strength (late Winter, 3–6 reps, 80–90% 1RM) → Power (Spring, 1–3 reps, 85–95% 1RM + explosive)
+- **Muscular Endurance is the neglected pillar**: must precede heavy loading; peak in Fall as general prep; builds joint tolerance + lactate buffering; maintained via circuit finishers in other seasons
+- **Body composition seasonal rhythm**: lean bulk Fall/Winter (+200–300 kcal/day) → cut Spring (−300–500 kcal/day, 8–12 weeks) → maintain Summer; NEVER cut during a strength peak — it destroys gains
+- **Flexibility/Mobility**: year-round daily work (10–20 min) beats seasonal surges; dynamic before training, static after; mobility (neuromuscular) changes in weeks; flexibility (tissue) needs months; elevated Winter emphasis
+- **Summer = maintenance season**: reduce volume 30–40%, preserve intensity; 1–2×/week strength, 2–3×/week cardio; active lifestyle (hiking, swimming, sports) replaces structured volume; do NOT try to build in summer
+
+## Last Updated (prev)
 2026-05-04 — Autoresearch: ASU EE Major Map Semiconductor Connection; 3 pages created: [[ASU EE BSE 2025-2026 Major Map]] (complete 8-semester sequence with all course codes, credits, prerequisites, 7 Area Pathways, full technical elective area list), [[ASU EE Major Map Semiconductor Connection]] (5-layer framework: math language → physics foundation → semiconductor core → device circuits → domain applications; complete domain pathway tables; WBG connection chain; Joe's optimal pathway selection), [[Research - ASU EE Major Map Semiconductor Connection]] (8-finding synthesis: EEE 352 as entire first-half destination; PHY 241 as quantum foundation; EEE 334's inversion pedagogy; 7 pathways = 7 semiconductor domains; EEE 350 as noise physics; WBG physical extremes; MOSFET→processor chain; senior design synthesis)
 
 ## Key Recent Facts
