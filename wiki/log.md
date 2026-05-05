@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-04] autoresearch | 5 Pillars of Fitness and Seasonal Periodization
+- Searches: 5 | Pages created: 3
+- Created: [[5 Pillars of Fitness]], [[Seasonal Fitness Periodization]], [[Research - 5 Pillars of Fitness and Seasonal Periodization]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) The canonical framework is ACSM's 5 components — Cardiovascular Endurance, Muscular Strength, Muscular Endurance, Flexibility/Mobility, and Body Composition — each requires distinct training stimuli and seasonal emphasis; (2) Peter Attia adds a missing 6th pillar — Stability — as the foundational layer beneath strength and power; without it, heavy loading leads to injury, not gains; train it year-round in 5–10 min pre-session blocks; (3) Cardiovascular endurance should be built in two distinct seasonal layers: aerobic base (Zone 1–2) in Fall/Winter and VO2 max blocks (4×4 min intervals) concentrated in Spring, not scattered year-round; (4) Strength training follows a classic 4-phase annual arc: Anatomical Adaptation (Fall) → Hypertrophy (early Winter) → Strength (late Winter) → Power (Spring); cutting during a strength phase destroys gains; (5) Muscular endurance is the most neglected preparatory pillar — it must precede heavy strength loading to protect joints; peak emphasis in Fall, then maintain via circuit finishers; (6) Body composition follows a seasonal bulk/cut rhythm: lean bulk in Fall/Winter (+200–300 kcal/day), cut in Spring (−300–500 kcal/day), maintain in Summer; each phase needs 12 weeks minimum for meaningful effect; (7) Flexibility requires months of consistent work while mobility changes in weeks — year-round daily work (10–20 min) is more effective than seasonal surges; elevated emphasis in Winter when indoor training time is highest; (8) Summer is a maintenance season, not a building season — reduce training volume 30–40% but preserve intensity; active lifestyle + sport replaces structured volume
+
 ## [2026-05-04] autoresearch | ASU EE Major Map Semiconductor Connection
 - Searches: 6 | Pages created: 3
 - Created: [[ASU EE BSE 2025-2026 Major Map]], [[ASU EE Major Map Semiconductor Connection]], [[Research - ASU EE Major Map Semiconductor Connection]]
