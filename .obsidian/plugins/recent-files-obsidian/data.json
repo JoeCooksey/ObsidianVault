@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Seasonal Fitness Periodization",
-      "path": "wiki/concepts/Seasonal Fitness Periodization.md"
+      "basename": "Daily Mobility Routine",
+      "path": "wiki/concepts/Daily Mobility Routine.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Seasonal Fitness Periodization",
+      "path": "wiki/concepts/Seasonal Fitness Periodization.md"
     },
     {
       "basename": "5 Pillars of Fitness",
@@ -195,10 +199,6 @@
     {
       "basename": "The 7 Habits of Highly Effective People - Stephen R Covey",
       "path": "Books/The 7 Habits of Highly Effective People - Stephen R Covey.md"
-    },
-    {
-      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
-      "path": "wiki/sources/The 7 Habits of Highly Effective People - Stephen Covey.md"
     }
   ],
   "omittedPaths": [],
