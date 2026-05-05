@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_index",
+      "path": "wiki/concepts/_index.md"
+    },
+    {
+      "basename": "main",
+      "path": "wiki/canvases/main.canvas"
+    },
+    {
+      "basename": "The Subtle Art of Not Giving a Fck (Smiths UK) - Mark Manson",
+      "path": "Books/The Subtle Art of Not Giving a Fck (Smiths UK) - Mark Manson.md"
+    },
+    {
+      "basename": "Steve Jobs - Walter Isaacson",
+      "path": "Books/Steve Jobs - Walter Isaacson.md"
+    },
+    {
+      "basename": "The 7 Habits of Highly Effective People - Stephen R Covey",
+      "path": "Books/The 7 Habits of Highly Effective People - Stephen R Covey.md"
+    },
+    {
       "basename": "Research - Cardio Training Zones",
       "path": "wiki/research/Research - Cardio Training Zones.md"
     },
@@ -125,10 +145,6 @@
       "path": "wiki/concepts/Daily Mobility Routine.md"
     },
     {
-      "basename": "Steve Jobs - Walter Isaacson",
-      "path": "Books/Steve Jobs - Walter Isaacson.md"
-    },
-    {
       "basename": "Book View",
       "path": "Book View.base"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Reality Distortion Field",
       "path": "wiki/concepts/Reality Distortion Field.md"
-    },
-    {
-      "basename": "EEE 202 Circuits I — Topics and Prep",
-      "path": "wiki/concepts/EEE 202 Circuits I — Topics and Prep.md"
-    },
-    {
-      "basename": "FURI Program Complete Guide",
-      "path": "wiki/concepts/FURI Program Complete Guide.md"
-    },
-    {
-      "basename": "Fall 2026 Summer Study Plan — Joe",
-      "path": "wiki/concepts/Fall 2026 Summer Study Plan — Joe.md"
-    },
-    {
-      "basename": "MAT 343 Applied Linear Algebra — Topics and Prep",
-      "path": "wiki/concepts/MAT 343 Applied Linear Algebra — Topics and Prep.md"
     }
   ],
   "omittedPaths": [],
