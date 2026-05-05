@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Buck Converter Theory and Design",
-      "path": "wiki/concepts/Buck Converter Theory and Design.md"
+      "basename": "Research - Cardio Training Zones",
+      "path": "wiki/research/Research - Cardio Training Zones.md"
+    },
+    {
+      "basename": "Research - Electrolyte Supplements",
+      "path": "wiki/questions/Research - Electrolyte Supplements.md"
+    },
+    {
+      "basename": "_index",
+      "path": "wiki/papers/_index.md"
+    },
+    {
+      "basename": "dashboard",
+      "path": "wiki/meta/dashboard.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Buck Converter Theory and Design",
+      "path": "wiki/concepts/Buck Converter Theory and Design.md"
     },
     {
       "basename": "Supplement Tier List Complete",
@@ -183,22 +199,6 @@
     {
       "basename": "MAT 343 Applied Linear Algebra — Topics and Prep",
       "path": "wiki/concepts/MAT 343 Applied Linear Algebra — Topics and Prep.md"
-    },
-    {
-      "basename": "PHY 131 University Physics II EM — Topics and Prep",
-      "path": "wiki/concepts/PHY 131 University Physics II EM — Topics and Prep.md"
-    },
-    {
-      "basename": "Health Protocol Tier List",
-      "path": "wiki/concepts/Health Protocol Tier List.md"
-    },
-    {
-      "basename": "Book List — Business and Entrepreneurship",
-      "path": "wiki/concepts/Book List — Business and Entrepreneurship.md"
-    },
-    {
-      "basename": "Book List — Biographies",
-      "path": "wiki/concepts/Book List — Biographies.md"
     }
   ],
   "omittedPaths": [],
