@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-05] autoresearch | Muscle Building Complete Masterclass — Splits, Exercises, Muscle Groups, Nutrition
+- Searches: 9 | Pages created: 11
+- Created: [[Muscle Building Complete Guide]], [[Workout Splits Tier List]], [[Overall Exercise Tier List]], [[Exercise Tier List — Chest]], [[Exercise Tier List — Back]], [[Exercise Tier List — Legs]], [[Exercise Tier List — Shoulders]], [[Exercise Tier List — Arms]], [[Muscle Group Priority Guide]], [[Muscle Building Nutrition Guide]], [[Research - Muscle Building Complete Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Mechanical tension at stretched muscle length is the primary hypertrophy driver — full ROM and stretch position matter; (2) 10–20 sets/week per muscle group is optimal; cap at ~8 sets per session before fatigue > stimulus; must train 2×/week per muscle; (3) Rep range 5–30 all build muscle — RIR 1–2 is the sweet spot for 90–95% of max stimulus with manageable fatigue; (4) PPL 6-day and Upper/Lower 4-day are S-tier splits; Bro split is C-tier (only 1×/week frequency); (5) Best single exercises per muscle: hack squat (quads), RDL (hamstrings), machine chest press (chest), chest-supported row (back), cable lateral raise (side delts), Bayesian curl (biceps), overhead cable extension (triceps); (6) Most undertrained muscles: rear delts, lateral delts, hamstrings, upper back; most overtrained: anterior delts, quads; (7) Protein: 1.6–2.2 g/kg/day in 3–5 meals; lean bulk = +200–300 kcal/day; (8) Creatine monohydrate 3–5 g/day is the only supplement with robust evidence
+
 ## [2026-05-04] autoresearch | Electrolyte Supplements — Are They Needed, Best Brands, Best Practices
 - Searches: 5 | Pages created: 2
 - Created: [[Electrolyte Supplements]], [[Research - Electrolyte Supplements]]
