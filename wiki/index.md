@@ -434,6 +434,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - LTSpice Skills Guide]] — 8 key findings; 4 simulation types, 10-circuit ladder, SPICE directives, power electronics sim, common mistakes, Joe's 4-phase timeline (complete)
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
 - [[Research - Peptide Tier List]] — 8 key findings; full peptide tier list personalized for Joe; WADA considerations; synergy stacks; regulatory shift Feb 2026; priority action plan (developing)
+- [[Research - 5 Pillars of Fitness and Seasonal Periodization]] — 8 key findings: ACSM vs Attia frameworks, Zone 2 + VO2 max two-layer cardio, 4-phase strength arc, muscular endurance as neglected pillar, seasonal bulk/cut rhythm, flexibility year-round, Summer = maintenance not building, Stability as missing pillar (complete)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
 - [[Research - GLP Medications Complete Guide]] — 8 key findings; semaglutide/tirzepatide/retatrutide mechanisms, full dosing tables, weight loss outcomes, exit strategies; retatrutide ~2027 FDA (developing)
 - [[Research - High Income Skills Tier List]] — general + EE skill tier lists by 2026 salary; 4-phase Joe action plan; FPGA and WBG primary/secondary stack (developing)
