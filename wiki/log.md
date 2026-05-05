@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-04] autoresearch | Electrolyte Supplements — Are They Needed, Best Brands, Best Practices
+- Searches: 5 | Pages created: 2
+- Created: [[Electrolyte Supplements]], [[Research - Electrolyte Supplements]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Most people don't need electrolyte supplements — a balanced diet + plain water is sufficient for sedentary individuals and those exercising <60 min; the industry significantly overstates the need; (2) The evidence-based threshold is >60–75 minutes of moderate-to-high intensity exercise, or hot/humid conditions, or heavy sweating; (3) Sodium is the dominant electrolyte lost in sweat; potassium and magnesium matter for cramp prevention and energy metabolism but in smaller volumes; (4) Redmond Re-Lyte is the best overall brand — 810mg Na, 2:1 Na:K ratio (matching physiological sweat composition), magnesium malate (superior absorption), no sugar, third-party certified, affordable; (5) LMNT is best for heavy sweaters and keto athletes — 1,000mg sodium, 5:1 Na:K, zero sugar; (6) Keto/low-carb athletes have genuinely elevated electrolyte needs — reduced insulin causes kidneys to excrete more sodium and potassium, most acute days 1–4; (7) Liquid IV (11g sugar, no Mg) and Gatorade (21–36g sugar) are the worst value propositions — marketing-heavy, not science-optimized; (8) Third-party testing (NSF Sport, Informed Sport) is the only reliable quality signal in an unregulated supplement market
+
 ## [2026-05-04] autoresearch | Daily Mobility Stretch Routine (Morning + Evening)
 - Searches: 5 | Pages created: 2
 - Created: [[Daily Mobility Routine]], [[Research - Daily Mobility Stretch Routine]]
