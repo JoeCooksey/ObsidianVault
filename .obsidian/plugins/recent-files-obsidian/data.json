@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "ASU EE Mentorship Pathways",
+      "path": "wiki/concepts/ASU EE Mentorship Pathways.md"
+    },
+    {
       "basename": "ASU EE Major Map Semiconductor Connection",
       "path": "wiki/concepts/ASU EE Major Map Semiconductor Connection.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "dashboard",
       "path": "wiki/meta/dashboard.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Buck Converter Theory and Design",
@@ -195,10 +199,6 @@
     {
       "basename": "Books",
       "path": "wiki/domains/Books.md"
-    },
-    {
-      "basename": "Reality Distortion Field",
-      "path": "wiki/concepts/Reality Distortion Field.md"
     }
   ],
   "omittedPaths": [],
