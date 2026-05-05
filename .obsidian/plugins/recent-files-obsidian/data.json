@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Steve Jobs - Walter Isaacson",
+      "path": "Books/Steve Jobs - Walter Isaacson.md"
+    },
+    {
+      "basename": "Book View",
+      "path": "Book View.base"
+    },
+    {
+      "basename": "2026-05-05",
+      "path": "Journal/Daily/2026-05-05.md"
+    },
+    {
+      "basename": "2026-05-05",
+      "path": "Daily News Debrief/2026-05-05.md"
+    },
+    {
       "basename": "Daily Mobility Routine",
       "path": "wiki/concepts/Daily Mobility Routine.md"
     },
@@ -51,14 +67,6 @@
     {
       "basename": "Apartment Health Products Tier List",
       "path": "wiki/concepts/Apartment Health Products Tier List.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "Book View.base"
-    },
-    {
-      "basename": "Steve Jobs - Walter Isaacson",
-      "path": "Books/Steve Jobs - Walter Isaacson.md"
     },
     {
       "basename": "Steve Jobs - Walter Isaacson",
@@ -191,14 +199,6 @@
     {
       "basename": "EE Topic Depth Priority Map",
       "path": "wiki/concepts/EE Topic Depth Priority Map.md"
-    },
-    {
-      "basename": "2026-05-03",
-      "path": "Daily News Debrief/2026-05-03.md"
-    },
-    {
-      "basename": "2026-05-03",
-      "path": "Journal/Daily/2026-05-03.md"
     }
   ],
   "omittedPaths": [],
