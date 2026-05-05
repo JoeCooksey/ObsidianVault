@@ -8,6 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: Electrolyte Supplements; 2 pages created: [[Electrolyte Supplements]] (6-electrolyte table, evidence threshold, deficiency signs, keto section, brand tier list S–D, best practices timing/dosing/DIY, situation table), [[Research - Electrolyte Supplements]] (8-finding synthesis; 60–75 min threshold; Re-Lyte = best overall; LMNT = best for keto; Liquid IV = worst value; third-party testing = key signal; Joe's specific protocol)
+
+## Key Recent Facts
+
+### Electrolyte Supplements — newest autoresearch
+- **Most people don't need them**: Sedentary individuals and those exercising <60 min get all needed electrolytes from food + water. Global sodium intake already 4.3g/day — 2× WHO recommendation. Adding more can cause heart rhythm issues, hypertension, nausea.
+- **The threshold**: >60–75 min of moderate-to-high intensity exercise, hot/humid conditions, heavy sweating, low-carb diet, or illness with vomiting/diarrhea.
+- **Sodium is primary**: Sweat is mostly sodium + chloride. Potassium and magnesium losses are real but secondary — they matter most for cramp prevention and energy metabolism.
+- **S-tier brand: Redmond Re-Lyte** — 810mg Na, 400mg K (2:1 ratio matching sweat physiology), 60mg Mg malate (superior absorption), no sugar, third-party certified, ~$1/serving. Best overall.
+- **S-tier brand: LMNT** — 1,000mg Na, 200mg K (5:1 ratio), 60mg Mg, zero sugar. Best for heavy sweaters, keto athletes, endurance events in heat.
+- **Avoid: Liquid IV** — 11g added sugar, no magnesium. Gatorade = 21–36g sugar. Both are marketing products, not science-optimized supplements.
+- **Keto athletes genuinely need more**: Low insulin → kidneys excrete more Na and K. Most acute days 1–4 of keto. Combine with exercise sweat losses = substantial deficit.
+- **DIY option**: 1/8 tsp sea salt + squeeze of lemon + water = ~$0.02/serving vs $1–$2.50 commercial. Effective for moderate exercise.
+- **Joe's protocol**: Normal rides (<60 min) = no supplement needed. Long/hot rides (>60 min) = Re-Lyte or LMNT during/after. Low-carb phase = LMNT daily + potassium-rich foods.
+
+## Last Updated (prev)
 2026-05-04 — Autoresearch: Daily Mobility Stretch Routine; 2 pages created: [[Daily Mobility Routine]] (AM dynamic 7-min protocol + PM static 12-min protocol; 5 priority targets; World's Greatest Stretch step-by-step; Joe cycling + desk notes), [[Research - Daily Mobility Stretch Routine]] (8-finding synthesis; dynamic AM + static PM rule; evening flexibility advantage; hip flexors as #1 priority; PM stretching improves sleep; 8-week structural change; consistency as dominant variable)
 
 ## Key Recent Facts
