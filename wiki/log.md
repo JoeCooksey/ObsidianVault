@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-05] autoresearch | Buck Converter Build Guide — 12V→5V, 1A, 100 kHz STM32 Digital Control
+- Searches: 4 | Pages created: 5
+- [[Buck Converter Theory and Design]], [[Buck Converter LTspice Simulation]], [[STM32 Digital Control for Buck Converter]], [[Buck Converter PCB Design and Fabrication]], [[Buck Converter Measurement and Characterization]], [[Research - Buck Converter Build Guide]]
+
+---
+
 ## [2026-05-05] autoresearch | Cardio Complete Masterclass + Joe's Custom Seasonal Training Plan (Spring Endurance / Summer Strength / Fall Speed / Winter Muscle)
 - Searches: 4 | Pages created: 3
 - Created: [[Cardio Complete Masterclass]], [[Joe's Custom Seasonal Training Plan]], [[Research - Cardio Complete Masterclass and Seasonal Plan]]
