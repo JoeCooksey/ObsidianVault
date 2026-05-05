@@ -8,20 +8,33 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-04 — Autoresearch: Electrolyte Supplements; 2 pages created: [[Electrolyte Supplements]] (6-electrolyte table, evidence threshold, deficiency signs, keto section, brand tier list S–D, best practices timing/dosing/DIY, situation table), [[Research - Electrolyte Supplements]] (8-finding synthesis; 60–75 min threshold; Re-Lyte = best overall; LMNT = best for keto; Liquid IV = worst value; third-party testing = key signal; Joe's specific protocol)
+2026-05-05 — Autoresearch: Muscle Building Complete Masterclass; 11 pages created: [[Muscle Building Complete Guide]] (mechanisms, volume, frequency, RIR, progressive overload), [[Workout Splits Tier List]] (S–D ranking + full sample programs), [[Overall Exercise Tier List]] (master S–F list + #1 per muscle group), [[Exercise Tier List — Chest]], [[Exercise Tier List — Back]], [[Exercise Tier List — Legs]], [[Exercise Tier List — Shoulders]], [[Exercise Tier List — Arms]], [[Muscle Group Priority Guide]] (visual + injury prevention tiers + Joe-specific stack), [[Muscle Building Nutrition Guide]] (protein/macros/supplements), [[Research - Muscle Building Complete Guide]] (8-finding synthesis)
 
 ## Key Recent Facts
 
-### Electrolyte Supplements — newest autoresearch
-- **Most people don't need them**: Sedentary individuals and those exercising <60 min get all needed electrolytes from food + water. Global sodium intake already 4.3g/day — 2× WHO recommendation. Adding more can cause heart rhythm issues, hypertension, nausea.
-- **The threshold**: >60–75 min of moderate-to-high intensity exercise, hot/humid conditions, heavy sweating, low-carb diet, or illness with vomiting/diarrhea.
-- **Sodium is primary**: Sweat is mostly sodium + chloride. Potassium and magnesium losses are real but secondary — they matter most for cramp prevention and energy metabolism.
-- **S-tier brand: Redmond Re-Lyte** — 810mg Na, 400mg K (2:1 ratio matching sweat physiology), 60mg Mg malate (superior absorption), no sugar, third-party certified, ~$1/serving. Best overall.
-- **S-tier brand: LMNT** — 1,000mg Na, 200mg K (5:1 ratio), 60mg Mg, zero sugar. Best for heavy sweaters, keto athletes, endurance events in heat.
-- **Avoid: Liquid IV** — 11g added sugar, no magnesium. Gatorade = 21–36g sugar. Both are marketing products, not science-optimized supplements.
-- **Keto athletes genuinely need more**: Low insulin → kidneys excrete more Na and K. Most acute days 1–4 of keto. Combine with exercise sweat losses = substantial deficit.
-- **DIY option**: 1/8 tsp sea salt + squeeze of lemon + water = ~$0.02/serving vs $1–$2.50 commercial. Effective for moderate exercise.
-- **Joe's protocol**: Normal rides (<60 min) = no supplement needed. Long/hot rides (>60 min) = Re-Lyte or LMNT during/after. Low-carb phase = LMNT daily + potassium-rich foods.
+### Muscle Building Complete Masterclass — newest autoresearch
+- **Mechanical tension at stretch = primary driver**: Full ROM with tension in the stretched/lengthened position produces the most hypertrophy. This is why cables beat free weights on isolation exercises and preacher curls beat standing curls.
+- **10–20 sets/week per muscle, ~8 sets per session max**: Dose-response relationship is clear. Cap per session at ~8 sets before fatigue outweighs stimulus. Must train 2×/week per muscle — this is the main failure of bro splits.
+- **S-tier split: PPL 6-day or Upper/Lower 4-day**: Both give 2×/week frequency. Bro split = C-tier (1× frequency). Full body 3-day = A-tier for beginners.
+- **Rep range 5–30 all work; RIR 1–2 is the sweet spot**: 90–95% of max hypertrophic stimulus with manageable fatigue. Last set to failure is fine; every set to failure is counterproductive.
+- **Best exercise per muscle**: Hack squat (quads) · RDL (hamstrings) · Machine hip thrust or walking lunges (glutes) · Machine chest press (chest) · Chest-supported row (back) · Lat pulldown neutral (lats) · Machine shoulder press + cable lateral raise (delts) · Bayesian cable curl (biceps) · Overhead cable extension (triceps).
+- **Most neglected muscles**: Rear delts (shoulder impingement prevention), lateral delts (visual width), hamstrings (ACL protection), upper back/traps (posture + all lift performance). Fix: equal pulling to pressing volume; add cable lateral raises to every upper session; add face pulls always.
+- **Protein: 1.6–2.2 g/kg/day in 3–5 meals**: 0.4–0.55 g/kg per meal. Lean bulk = +200–300 kcal/day. Rate of weight gain: 0.25–0.5% bodyweight/week.
+- **Creatine monohydrate 3–5 g/day post-workout**: Only supplement with strong multi-study evidence for hypertrophy and strength. BCAAs = D-tier (redundant). Pre-workout blends = C-tier (just caffeine + stimulants).
+- **Joe's priority stack** (cyclist background — strong quads, weak posterior chain and upper body): Lats + upper back → Lateral + rear delts → Hamstrings + glutes → Chest → Quads (maintenance).
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: Electrolyte Supplements; 2 pages created: [[Electrolyte Supplements]] (6-electrolyte table, evidence threshold, deficiency signs, keto section, brand tier list S–D, best practices timing/dosing/DIY, situation table), [[Research - Electrolyte Supplements]] (8-finding synthesis; 60–75 min threshold; Re-Lyte = best overall; LMNT = best for keto; Liquid IV = worst value; third-party testing = key signal; Joe's specific protocol)
+
+## Key Recent Facts (prev)
+
+### Electrolyte Supplements
+- **Most people don't need them**: Sedentary individuals and those exercising <60 min get all needed electrolytes from food + water. Global sodium intake already 4.3g/day — 2× WHO recommendation.
+- **The threshold**: >60–75 min of moderate-to-high intensity exercise, hot/humid conditions, heavy sweating, low-carb diet.
+- **S-tier brand: Redmond Re-Lyte** — 810mg Na, 400mg K, 60mg Mg malate, no sugar, ~$1/serving. Best overall.
+- **S-tier brand: LMNT** — 1,000mg Na, 60mg Mg, zero sugar. Best for heavy sweaters and keto athletes.
+- **Avoid: Liquid IV** — 11g added sugar, no magnesium. Marketing product, not science-optimized.
+- **Joe's protocol**: Rides <60 min = no supplement. Rides >60 min = Re-Lyte or LMNT.
 
 ## Last Updated (prev)
 2026-05-04 — Autoresearch: Daily Mobility Stretch Routine; 2 pages created: [[Daily Mobility Routine]] (AM dynamic 7-min protocol + PM static 12-min protocol; 5 priority targets; World's Greatest Stretch step-by-step; Joe cycling + desk notes), [[Research - Daily Mobility Stretch Routine]] (8-finding synthesis; dynamic AM + static PM rule; evening flexibility advantage; hip flexors as #1 priority; PM stretching improves sleep; 8-week structural change; consistency as dominant variable)
