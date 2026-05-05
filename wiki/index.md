@@ -221,6 +221,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; one-time actions; automation (developing)
 
 ### Health / Fitness / Cycling
+- [[5 Pillars of Fitness]] — ACSM framework: Cardiovascular Endurance, Muscular Strength, Muscular Endurance, Flexibility/Mobility, Body Composition; Attia's Stability as foundational 6th layer; priority tables by goal; weekly minimums (complete)
+- [[Seasonal Fitness Periodization]] — full annual plan: Fall = aerobic base + muscular endurance + recomp; Winter = Zone 2 peak + hypertrophy→strength + lean bulk; Spring = VO2 max + power + cut; Summer = maintain all + active lifestyle; sample weekly structures per season (complete)
 - [[Cardio Training Zones]] — 5-zone system; Zone 1–5 definitions, benefits, BPM ranges for age 19 (max HR 201); Karvonen formula; zone system comparisons (evergreen)
 - [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
 - [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
