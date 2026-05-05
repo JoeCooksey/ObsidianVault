@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-05] autoresearch | Cardio Complete Masterclass + Joe's Custom Seasonal Training Plan (Spring Endurance / Summer Strength / Fall Speed / Winter Muscle)
+- Searches: 4 | Pages created: 3
+- Created: [[Cardio Complete Masterclass]], [[Joe's Custom Seasonal Training Plan]], [[Research - Cardio Complete Masterclass and Seasonal Plan]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) VO2 max is the single strongest predictor of all-cause mortality — each 1 MET increase reduces all-cause mortality ~15%; moving from "below average" to "good" VO2 max cuts mortality risk ~30%; (2) Zone 2 is the primary adaptation driver, not supplementary — 45+ min minimum per session for mitochondrial biogenesis; most people do everything in Zone 3 (wrong); (3) Polarized training: 80% Zone 1–2, 20% Zone 4–5, ~0% Zone 3 — elite endurance athletes worldwide follow this; (4) VO2 max intervals in concentrated 2–3 week blocks produce bigger step-ups than year-round distribution; Norwegian 4×4 is gold standard protocol; (5) Interference effect: 2 Zone 2 cycling sessions/week during lifting = minimal interference; running interferes more than cycling (eccentric damage); lift before cardio in same session; (6) Joe's seasonal plan validated: Winter muscle (Upper/Lower hypertrophy, 4 days, 2 Zone 2); Spring endurance (Full Body × 2 maintenance + 4–5 cardio sessions phased Zone 2 → LT → VO2 max); Summer strength (Upper/Lower heavy, 4–5 days, 2 Zone 2 cycling only); Fall speed (Power Full Body × 3 + 2–3 sprint sessions); (7) Sprint training (30 sec × 8–10 reps, full recovery) drives fast-twitch neuromuscular adaptations that Zone 2 cannot — six weeks of SIT improves 10m and 40m sprint speed; (8) Joe-specific: use cycling (not running) for all cardio during summer strength phase; add extra posterior chain set every season; face pulls + OHP priority every season
+
 ## [2026-05-05] autoresearch | Muscle Building Complete Masterclass — Splits, Exercises, Muscle Groups, Nutrition
 - Searches: 9 | Pages created: 11
 - Created: [[Muscle Building Complete Guide]], [[Workout Splits Tier List]], [[Overall Exercise Tier List]], [[Exercise Tier List — Chest]], [[Exercise Tier List — Back]], [[Exercise Tier List — Legs]], [[Exercise Tier List — Shoulders]], [[Exercise Tier List — Arms]], [[Muscle Group Priority Guide]], [[Muscle Building Nutrition Guide]], [[Research - Muscle Building Complete Guide]]
