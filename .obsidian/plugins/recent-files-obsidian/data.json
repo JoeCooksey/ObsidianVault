@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Muscle Building Complete Guide",
+      "path": "wiki/concepts/Muscle Building Complete Guide.md"
+    },
+    {
+      "basename": "Muscle Building Nutrition Guide",
+      "path": "wiki/concepts/Muscle Building Nutrition Guide.md"
+    },
+    {
+      "basename": "Seasonal Fitness Periodization",
+      "path": "wiki/concepts/Seasonal Fitness Periodization.md"
+    },
+    {
+      "basename": "Muscle Group Priority Guide",
+      "path": "wiki/concepts/Muscle Group Priority Guide.md"
+    },
+    {
+      "basename": "Exercise Tier List — Arms",
+      "path": "wiki/concepts/Exercise Tier List — Arms.md"
+    },
+    {
+      "basename": "Exercise Tier List — Shoulders",
+      "path": "wiki/concepts/Exercise Tier List — Shoulders.md"
+    },
+    {
+      "basename": "Exercise Tier List — Back",
+      "path": "wiki/concepts/Exercise Tier List — Back.md"
+    },
+    {
+      "basename": "Exercise Tier List — Chest",
+      "path": "wiki/concepts/Exercise Tier List — Chest.md"
+    },
+    {
+      "basename": "Overall Exercise Tier List",
+      "path": "wiki/concepts/Overall Exercise Tier List.md"
+    },
+    {
+      "basename": "Workout Splits Tier List",
+      "path": "wiki/concepts/Workout Splits Tier List.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Daily Mobility Routine",
+      "path": "wiki/concepts/Daily Mobility Routine.md"
+    },
+    {
       "basename": "Steve Jobs - Walter Isaacson",
       "path": "Books/Steve Jobs - Walter Isaacson.md"
     },
@@ -17,20 +65,8 @@
       "path": "Daily News Debrief/2026-05-05.md"
     },
     {
-      "basename": "Daily Mobility Routine",
-      "path": "wiki/concepts/Daily Mobility Routine.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
-    },
-    {
       "basename": "Electrolyte Supplements",
       "path": "wiki/concepts/Electrolyte Supplements.md"
-    },
-    {
-      "basename": "Seasonal Fitness Periodization",
-      "path": "wiki/concepts/Seasonal Fitness Periodization.md"
     },
     {
       "basename": "5 Pillars of Fitness",
@@ -163,42 +199,6 @@
     {
       "basename": "Laplace Transform in Circuit Analysis",
       "path": "wiki/concepts/Laplace Transform in Circuit Analysis.md"
-    },
-    {
-      "basename": "Research",
-      "path": "wiki/domains/Research.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
-      "basename": "Laplace Transform — Mathematical Foundations",
-      "path": "wiki/concepts/Laplace Transform — Mathematical Foundations.md"
-    },
-    {
-      "basename": "Drug Harm vs Benefit Ranking",
-      "path": "wiki/concepts/Drug Harm vs Benefit Ranking.md"
-    },
-    {
-      "basename": "Sleep Habits Tier List",
-      "path": "wiki/concepts/Sleep Habits Tier List.md"
-    },
-    {
-      "basename": "EE Freshman Action Plans",
-      "path": "wiki/concepts/EE Freshman Action Plans.md"
-    },
-    {
-      "basename": "LTSpice Complete Skills Guide",
-      "path": "wiki/concepts/LTSpice Complete Skills Guide.md"
-    },
-    {
-      "basename": "EE Topic Depth Priority Map",
-      "path": "wiki/concepts/EE Topic Depth Priority Map.md"
     }
   ],
   "omittedPaths": [],
