@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Buck Converter Theory and Design",
+      "path": "wiki/concepts/Buck Converter Theory and Design.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Book List — Biographies",
       "path": "wiki/concepts/Book List — Biographies.md"
-    },
-    {
-      "basename": "Research - Deepening Connection with Jesus Catholic",
-      "path": "wiki/questions/Research - Deepening Connection with Jesus Catholic.md"
     }
   ],
   "omittedPaths": [],
