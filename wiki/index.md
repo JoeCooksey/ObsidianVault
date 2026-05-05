@@ -78,6 +78,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Testosterone Habits Tier List]] — S–F tier list covering sleep, training, nutrition, cold exposure, sunlight, stress management (complete)
 - [[Sleep Habits Tier List]] — S–F tier list covering all habits, products, actions, supplements (complete)
 - [[Human Hormones Complete Guide]] — 14-hormone reference; full function descriptions, optimization protocols, master convergence table (complete)
+- [[Electrolyte Supplements]] — evidence-based guide: who needs them (>60–75 min exercise threshold), brand tier list (S: Re-Lyte + LMNT; A: Transparent Labs + Thorne; C: Liquid IV), best practices, keto considerations, DIY option (complete)
+- [[Research - Electrolyte Supplements]] — 8-finding synthesis: most people don't need them, 60–75 min threshold, sodium is primary electrolyte, Re-Lyte = best overall (2:1 Na:K, Mg malate), LMNT = best for keto/heavy sweaters, keto athletes have elevated need, Liquid IV is sugar-heavy marketing, third-party testing is the key quality signal (complete)
 
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
