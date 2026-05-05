@@ -8,6 +8,25 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-05 — Autoresearch: Cardio Complete Masterclass + Joe's Custom Seasonal Training Plan; 3 pages created: [[Cardio Complete Masterclass]] (VO2 max longevity science, Zone 2 protocol, VO2 max interval blocks, polarized 80/20 rule, interference effect rules, modality tier list, zone testing), [[Joe's Custom Seasonal Training Plan]] (Spring=endurance, Summer=strength, Fall=speed, Winter=muscle; day-by-day splits for all 4 seasons; Joe-specific posterior chain adjustments), [[Research - Cardio Complete Masterclass and Seasonal Plan]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### Cardio Complete Masterclass + Joe's Seasonal Plan — newest autoresearch
+- **VO2 max = #1 longevity biomarker**: each 1 MET increase reduces all-cause mortality ~15%; moving from below-average to good VO2 max cuts mortality risk ~30%; no other intervention matches this effect size per time invested.
+- **Zone 2 is the foundation**: 45+ min minimum per session triggers mitochondrial biogenesis; below 45 min = recovery, not adaptation. San Millán protocol: 3–4×/week × 45–60 min. 8–12 weeks to meaningful adaptation.
+- **Zone 3 is the grey zone — avoid it chronically**: too hard to recover from, not hard enough to drive VO2 max. Polarized rule: 80% Zone 1–2, 20% Zone 4–5, ~0% Zone 3 chronic.
+- **VO2 max intervals in blocks**: 2–3 weeks × 2 sessions/week → 1 recovery week. Norwegian 4×4 (4 × 4 min at 90–95% max HR) is gold standard. Short 30/15 intervals accumulate more time above 90% VO2 max per session.
+- **Interference effect rule**: 2 Zone 2 cycling sessions/week = minimal interference with lifting. Running interferes more than cycling (eccentric damage). Lift before cardio in same session. Separate hard efforts by 6+ hrs.
+- **Joe's seasonal plan**:
+  - **Winter (muscle)**: Upper/Lower hypertrophy × 4 days + 2 Zone 2 cycling days; +200–300 kcal lean bulk
+  - **Spring (endurance)**: Full Body × 2 maintenance + 4–5 cardio days (Zone 2 → LT → VO2 max progression); −200–300 kcal cut
+  - **Summer (strength)**: Upper/Lower strength × 4–5 days (3–5 rep range, 85–90% 1RM) + 2 Zone 2 cycling days; maintenance calories
+  - **Fall (speed)**: Power Full Body × 3 days + sprint sessions 2–3×/week; maintenance +100–200 kcal
+- **Sprint protocol**: 8–10 × 30 sec all-out / 2–3 min full recovery = max speed; 10 × 10 sec / 90 sec easy = repeated sprint ability; 6–8 × 20 sec hill sprints = safest entry. Six weeks drives fast-twitch neuromuscular adaptations.
+- **Joe-specific adjustments**: cycle (not run) during summer strength phase; extra posterior chain set every season; OHP + rows + face pulls are priority every season; Lower B (deadlift + hip thrust) is the most important day of the week in summer.
+
+## Last Updated (prev)
 2026-05-05 — Autoresearch: Muscle Building Complete Masterclass; 11 pages created: [[Muscle Building Complete Guide]] (mechanisms, volume, frequency, RIR, progressive overload), [[Workout Splits Tier List]] (S–D ranking + full sample programs), [[Overall Exercise Tier List]] (master S–F list + #1 per muscle group), [[Exercise Tier List — Chest]], [[Exercise Tier List — Back]], [[Exercise Tier List — Legs]], [[Exercise Tier List — Shoulders]], [[Exercise Tier List — Arms]], [[Muscle Group Priority Guide]] (visual + injury prevention tiers + Joe-specific stack), [[Muscle Building Nutrition Guide]] (protein/macros/supplements), [[Research - Muscle Building Complete Guide]] (8-finding synthesis)
 
 ## Key Recent Facts
