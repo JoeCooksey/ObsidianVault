@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-04] autoresearch | Daily Mobility Stretch Routine (Morning + Evening)
+- Searches: 5 | Pages created: 2
+- Created: [[Daily Mobility Routine]], [[Research - Daily Mobility Stretch Routine]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Dynamic stretching in the AM, static at night — static stretching before neural activation reduces power output ~8% and sprint speed 1.2%, while evening static activates the parasympathetic NS and improves sleep onset; (2) Evening flexibility gains per session are greater — body core temperature peaks 4–8 PM, when sit-and-reach and spinal extension ROM peak; morning dynamic stretching produces larger neuromuscular gains (+10.6% jump height AM vs. +6.0% PM); (3) The World's Greatest Stretch is the highest-ROI single exercise — covers hip flexors + thoracic rotation + hamstrings + ankle in ~90 seconds, 3 reps/side; used by Kelly Starrett and PT clinics as the foundational daily drill; (4) Hip flexors are the #1 mobility priority — the iliopsoas shortens at 90° hip flexion (exact sitting angle); anterior pelvic tilt from tight hip flexors is the upstream cause of most lower back pain; critical for both cyclists and desk students; (5) Static stretching 30–60 min before bed improves sleep quality — 2016 systematic review links meditative movement to improved sleep; mechanism is vagus nerve activation, cortisol reduction, and lowered heart rate; Legs-Up-Wall specifically activates parasympathetic NS in 2–3 min; (6) Thoracic spine mobility is upstream of neck, shoulder, and lower back pain — limited thoracic rotation forces cervical and lumbar spine to compensate; World's Greatest Stretch + supine twist address all three problem regions simultaneously; (7) Structural flexibility requires 8-week consistency minimum — neuromuscular changes feel fast (days–weeks) but tissue remodeling (sarcomere addition, connective tissue) requires 5–10 min/muscle/week for 8 consecutive weeks; (8) Consistency is the dominant variable — 5 min daily beats 20 min weekly; frequency outperforms duration, timing, and temperature optimization
+
 ## [2026-05-04] autoresearch | 5 Pillars of Fitness and Seasonal Periodization
 - Searches: 5 | Pages created: 3
 - Created: [[5 Pillars of Fitness]], [[Seasonal Fitness Periodization]], [[Research - 5 Pillars of Fitness and Seasonal Periodization]]
