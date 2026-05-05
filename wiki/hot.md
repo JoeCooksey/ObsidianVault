@@ -8,6 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-04 — Autoresearch: Daily Mobility Stretch Routine; 2 pages created: [[Daily Mobility Routine]] (AM dynamic 7-min protocol + PM static 12-min protocol; 5 priority targets; World's Greatest Stretch step-by-step; Joe cycling + desk notes), [[Research - Daily Mobility Stretch Routine]] (8-finding synthesis; dynamic AM + static PM rule; evening flexibility advantage; hip flexors as #1 priority; PM stretching improves sleep; 8-week structural change; consistency as dominant variable)
+
+## Key Recent Facts
+
+### Daily Mobility Routine — newest autoresearch
+- **Dynamic AM, static PM — the rule**: Dynamic (cat-cow, 90/90, World's Greatest Stretch flow) in the morning; static holds (30–90 sec) in the evening. Static stretching before neural activation reduces power output ~8% and sprint speed 1.2%. Evening static stretching activates parasympathetic NS, reduces cortisol, improves sleep.
+- **World's Greatest Stretch = highest-ROI mobility exercise**: single movement covers hip flexors + thoracic rotation + hamstrings + ankle dorsiflexion in ~90 seconds (3 reps/side). Step right foot outside right hand → drop left elbow to floor → rotate right arm to ceiling → step back → repeat left. Kelly Starrett's foundational daily drill.
+- **Morning protocol (7 min)**: Cat-Cow (2×10) → 90/90 Hip Switch (2×60 sec/side) → World's Greatest Stretch (3 reps/side) → Ankle Wall Stretch (2×30 sec/side) → Deep Squat Hold (2×30 sec)
+- **Evening protocol (12 min)**: Child's Pose (60 sec) → Supine Twist (60 sec/side) → Pigeon/Figure-4 (90 sec/side) → Doorway Chest Stretch (30 sec/side) → Supine Hamstring Stretch (60 sec/leg) → Legs-Up-Wall (3–5 min)
+- **Hip flexors are priority #1**: The iliopsoas shortens at exactly 90° hip flexion — the angle of sitting and cycling. Anterior pelvic tilt from tight hip flexors is the upstream cause of most lower back pain. Critical for Joe specifically as a cyclist + desk student.
+- **Thoracic spine is upstream of three pain sources**: limited thoracic rotation forces both the cervical (neck) and lumbar (lower back) spine to compensate. World's Greatest Stretch + supine twist fixes all three simultaneously — 5 min/day has multiplier effect.
+- **PM stretching improves sleep**: 2016 systematic review links static stretching/meditative movement to improved sleep quality. Legs-Up-Wall activates parasympathetic NS within 2–3 min. Time 30–60 min before bed.
+- **8 weeks for structural change**: neuromuscular changes (feeling looser) happen in days; tissue remodeling (sarcomere addition) requires 5–10 min/muscle/week for 8 consecutive weeks. Don't judge the routine before week 8.
+- **Consistency beats everything**: 5 min/day > 20 min/week. Frequency is the primary predictor of long-term mobility gains — not duration, timing, or temperature.
+
+## Last Updated (prev)
 2026-05-04 — Autoresearch: 5 Pillars of Fitness and Seasonal Periodization; 3 pages created: [[5 Pillars of Fitness]] (ACSM 5-component framework + Attia's Stability layer; priority tables by goal; weekly minimums per pillar), [[Seasonal Fitness Periodization]] (full annual plan with Fall/Winter/Spring/Summer phase tables, sample weekly structures, bulk/cut alignment, VO2 max block placement), [[Research - 5 Pillars of Fitness and Seasonal Periodization]] (8-finding synthesis)
 
 ## Key Recent Facts
