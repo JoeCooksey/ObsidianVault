@@ -142,6 +142,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[ASU EE Mentorship Pathways]] — all mentorship channels ranked (peer mentor → FURI → IEEE → Barrett alumni) (developing)
 - [[Research - EE Mentorship at ASU]] — full mentorship research: faculty contacts, cold email formula, Year 1 action stack (developing)
 
+### Buck Converter Build (90-Day FURI Project)
+- [[Buck Converter Theory and Design]] — volt-second balance, D=41.7%, L=100µH sizing, C=44µF, CCM analysis, MOSFET/diode/inductor selection, efficiency budget ~94%, PI control loop intro (complete)
+- [[Buck Converter LTspice Simulation]] — step-by-step sim: non-sync schematic, PULSE source settings, transient .tran, AC Bode plot, parametric sweep, Monte Carlo, common mistakes (complete)
+- [[STM32 Digital Control for Buck Converter]] — TIM1 complementary PWM, ARR=839@100kHz, dead time BDTR config, IR2110 wiring, bootstrap circuit, PI C code, tuning procedure, 5 beginner exercises, safety checklist (complete)
+- [[Buck Converter PCB Design and Fabrication]] — KiCad schematic sections, power loop layout rules, JLCPCB DRC rules/gerber export, component BOM ~$55 total (complete)
+- [[Buck Converter Measurement and Characterization]] — 6 oscilloscope measurements (ripple, gate signals, inductor current, efficiency, transient, Bode plot), technical report outline, GitHub repo structure (complete)
+- [[Research - Buck Converter Build Guide]] — 8-finding synthesis: D=Vout/Vin, TIM1 architecture, IR2110 bootstrap, PCB layout priority, simulation-first rule, non-sync→sync upgrade path, 3 key measurements, 90-day cost < $55 (complete)
+
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
