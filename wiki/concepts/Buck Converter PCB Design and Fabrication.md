@@ -140,6 +140,12 @@ Place in this order (don't route yet):
 7. **Feedback divider** away from the switching node (far side of the board)
 8. **STM32 connector** at the edge of the board
 
+### Rule 2b: IR2110 COM Grounding (Critical)
+
+The IR2110 is extremely sensitive to grounding. Its COM pin **must** be routed directly to the low-side MOSFET's source pad — not to the general ground plane elsewhere on the board. The COM pin is the ground reference for the low-side gate drive; if it picks up switching noise from a long ground-plane path, the gate signal becomes corrupted and the converter misbehaves or fails to start.
+
+**In KiCad**: draw a short, direct trace from IR2110 COM → M2 Source → then connect that node to the ground pour. Do not let the ground pour be the first path from COM.
+
 ### Rule 3: Copper Pour Zones
 
 - Create a **power ground plane** on the bottom layer covering the entire power section
