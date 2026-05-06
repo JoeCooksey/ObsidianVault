@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-06 — Autoresearch complete: Language Learning — Pros, Best Languages, and Full Roadmap; 6 pages created: [[Benefits of Language Learning]] (cognitive, career, social, health pros), [[Language ROI Rankings]] (Spanish #1, German #2 for Joe as EE student), [[FSI Language Difficulty Tiers]] (Cat I–V hour chart), [[Language Learning Roadmap]] (Phase 0–3 complete self-study guide), [[Immersion Method Language Learning]] (Refold/Anki/comprehensible input method), [[Research - Language Learning Roadmap and ROI]] (synthesis + sources); 6 web searches run
+
+## Key Recent Facts
+
+### Language Learning — autoresearch complete (2026-05-06)
+- **Spanish = #1 ROI for Joe**: FSI Category I — 575–600 hrs to professional proficiency; 41M US speakers; dominant in Arizona/California job markets; immersion available everywhere without travel; 30 min/day → ~A2/B1 by May 2027
+- **German = #2 for STEM engineers**: FSI Category II — ~750 hrs (only 25% harder than Spanish); Germany leads global power electronics, automotive electrification, and semiconductors (Infineon, Bosch, Siemens, BMW); 2nd most important research language after English; aligns directly with Joe's WBG/power electronics track
+- **Mandarin is 3.6× harder than Spanish** (2,200 hrs, Category V); only worth pursuing for China specialization (AI, EVs, solar manufacturing, CATL/BYD supply chain); not recommended for Joe without specific China-market goal
+- **5–20% salary premium** for bilinguals (The Economist); 9/10 US employers want multilingual employees; multilingual leaders build faster trust with international teams
+- **Cognitive benefits are structural**: bilingualism increases gray matter density; delays cognitive decline 4.5 years regardless of gender/ethnicity/occupation; *Nature Aging* Nov 2025: 50% less likely to show accelerated biological aging
+- **Refold immersion method**: Anki (10–15 new cards/day, review every day) creates vocabulary scaffolding; comprehensible input at 70–80% comprehension level is the acquisition engine; speaking at month 3–4 even if terrible — errors are data
+- **Consistency > intensity**: 15 min/day every day beats 2 hrs/week; language acquisition is cumulative — brain requires regular drip exposure to consolidate
+- **CEFR hour targets (Spanish)**: A1 = 50–100 hrs; B1 conversational = 200–400 hrs; C1 professional = 600–1,000 hrs; 300 total engaged hours = comfortable conversation (realistic year-2 target)
+
+## Last Updated (prev)
 2026-05-06 — Autoresearch complete: Buck Converter Build Guide (12V→5V, 1A, 100 kHz STM32 digital control); 6 pages created: [[Buck Converter Theory and Design]] (design equations, component sizing, efficiency budget), [[Buck Converter LTspice Simulation]] (step-by-step sim guide), [[STM32 Digital Control for Buck Converter]] (TIM1 PWM, IR2110, PI C code, 5 beginner exercises), [[Buck Converter PCB Design and Fabrication]] (KiCad layout rules, JLCPCB ordering, IR2110 COM grounding rule), [[Buck Converter Measurement and Characterization]] (6 oscilloscope measurements + Bode plot + report outline), [[Research - Buck Converter Build Guide]] (8-finding synthesis); 7 web searches run
 
 ## Key Recent Facts
