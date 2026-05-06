@@ -8,6 +8,23 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-05 — Autoresearch: Buck Converter Build Guide; 5 pages created: [[Buck Converter Theory and Design]] (design equations, component sizing, efficiency budget), [[Buck Converter LTspice Simulation]] (step-by-step sim guide), [[STM32 Digital Control for Buck Converter]] (TIM1 PWM, IR2110, PI C code), [[Buck Converter PCB Design and Fabrication]] (KiCad layout rules, JLCPCB ordering), [[Buck Converter Measurement and Characterization]] (6 measurements + report outline), [[Research - Buck Converter Build Guide]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### Buck Converter Build — newest autoresearch
+- **D = Vout/Vin = 5/12 = 41.7%** — the central equation; t_on = 4.17 µs, t_off = 5.83 µs at 100 kHz
+- **L = 100 µH** — from (Vin−Vout)×D / (fsw×ΔiL) = 7×0.417/(100k×0.3) ≈ 97 µH; peak inductor current 1.15A → need ≥1.5A saturation rating
+- **C_out = 44 µF** — two 22 µF MLCC X7R ceramics in parallel; ΔVout ≈ 9 mV (well under 50 mV spec)
+- **STM32 TIM1**: ARR=839 (center-aligned), PSC=0, 168 MHz clock → 100 kHz PWM; CCR1=~350 for D=41.7%; dead time = DTG=17 in BDTR register → ~101 ns hardware dead time; ADC triggered at counter peak = minimum-ripple sampling point
+- **IR2110 gate driver**: VDD=3.3V (STM32 compatible), VCC=12V, bootstrap capacitor=220 nF (UF4007 ultrafast diode — NOT 1N4007), drives both MOSFETs from single 12V supply
+- **Power loop layout**: input cap → M1 → SW node → M2 → back to cap — must fit in 15×15 mm square; this is the single most important PCB rule
+- **MOSFET choice**: IRLZ44N (TO-220, logic-level, 60V, 22.5 mΩ, 63 nC Qg) — easy to prototype, IR2110 drives with 10–12V
+- **Efficiency budget**: ~94% theoretical; dominated by inductor DCR (110 mW) and gate drive (151 mW); measured target 90–93%
+- **3 measurements for FURI report**: efficiency curve (20%→120% load), load transient (< 200 mV undershoot, < 1 ms settling), Bode plot (> 45° phase margin) — no other freshman will have all three
+- **Build sequence**: STM32 exercises (weeks 1–3) → LTspice design (weeks 4–6) → breadboard → KiCad PCB → JLCPCB ($20/5 boards, 2–3 weeks delivery) → characterization + report (weeks 10–12); total cost ~$55
+
+## Last Updated (prev)
 2026-05-05 — Autoresearch: Cardio Complete Masterclass + Joe's Custom Seasonal Training Plan; 3 pages created: [[Cardio Complete Masterclass]] (VO2 max longevity science, Zone 2 protocol, VO2 max interval blocks, polarized 80/20 rule, interference effect rules, modality tier list, zone testing), [[Joe's Custom Seasonal Training Plan]] (Spring=endurance, Summer=strength, Fall=speed, Winter=muscle; day-by-day splits for all 4 seasons; Joe-specific posterior chain adjustments), [[Research - Cardio Complete Masterclass and Seasonal Plan]] (8-finding synthesis)
 
 ## Key Recent Facts
