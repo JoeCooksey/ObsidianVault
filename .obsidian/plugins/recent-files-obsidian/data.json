@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "STM32 Digital Control for Buck Converter",
+      "path": "wiki/concepts/STM32 Digital Control for Buck Converter.md"
+    },
+    {
+      "basename": "Buck Converter Theory and Design",
+      "path": "wiki/concepts/Buck Converter Theory and Design.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "2026-05-06",
+      "path": "Daily News Debrief/2026-05-06.md"
+    },
+    {
+      "basename": "2026-05-06",
+      "path": "Journal/Daily/2026-05-06.md"
+    },
+    {
+      "basename": "Research - Buck Converter Build Guide",
+      "path": "wiki/questions/Research - Buck Converter Build Guide.md"
+    },
+    {
+      "basename": "overview",
+      "path": "wiki/overview.md"
     },
     {
       "basename": "ASU EE Mentorship Pathways",
@@ -49,10 +73,6 @@
       "path": "wiki/meta/dashboard.md"
     },
     {
-      "basename": "Buck Converter Theory and Design",
-      "path": "wiki/concepts/Buck Converter Theory and Design.md"
-    },
-    {
       "basename": "Supplement Tier List Complete",
       "path": "wiki/concepts/Supplement Tier List Complete.md"
     },
@@ -79,10 +99,6 @@
     {
       "basename": "Self-Teaching Topics Tier List",
       "path": "wiki/concepts/Self-Teaching Topics Tier List.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
     },
     {
       "basename": "FURI to Grad School Roadmap — Joe",
@@ -183,22 +199,6 @@
     {
       "basename": "Stackable EE Scholarships - ASU Second Year",
       "path": "wiki/concepts/Stackable EE Scholarships - ASU Second Year.md"
-    },
-    {
-      "basename": "ASU Scholarships for California EE Students",
-      "path": "wiki/concepts/ASU Scholarships for California EE Students.md"
-    },
-    {
-      "basename": "Apartment Health Products Tier List",
-      "path": "wiki/concepts/Apartment Health Products Tier List.md"
-    },
-    {
-      "basename": "Steve Jobs - Walter Isaacson",
-      "path": "wiki/sources/Steve Jobs - Walter Isaacson.md"
-    },
-    {
-      "basename": "Books",
-      "path": "wiki/domains/Books.md"
     }
   ],
   "omittedPaths": [],
