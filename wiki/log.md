@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-06] autoresearch | Language Learning — Pros, Best Languages, and Full Roadmap
+- Searches: 6 | Pages created: 6 | Pages updated: 3
+- Created: [[Benefits of Language Learning]], [[Language ROI Rankings]], [[FSI Language Difficulty Tiers]], [[Language Learning Roadmap]], [[Immersion Method Language Learning]], [[Research - Language Learning Roadmap and ROI]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Language learning delays cognitive decline 4.5 years and reduces accelerated biological aging 50% (*Nature Aging*, Nov 2025) — one of the highest-ROI longevity investments per hour; (2) 5–20% salary premium for bilinguals (The Economist); 9 out of 10 US employers want multilingual staff; (3) Spanish = #1 language for Joe — FSI Category I (575–600 hrs), 41M US speakers, dominant in AZ/CA job markets, immersion available everywhere without travel; (4) German = #2 for Joe — FSI Category II (750 hrs, only 25% harder than Spanish), Germany leads in power electronics/automotive electrification/semiconductors (Infineon, Bosch, Siemens), 2nd most important language in scientific research after English; (5) Mandarin is Category V (2,200 hrs = 3.6× harder than Spanish) — only pursue if planning deep China market specialization; (6) Refold immersion method: Anki (10–15 cards/day) creates dictionary entries; comprehensible input (70–80% comprehension threshold) fills them with real context; Stage 0→3 roadmap from sounds to C1 fluency; (7) Consistency beats intensity: 15 min/day every day outperforms 2 hrs once a week — language consolidation is drip-dependent; (8) 30 min/day on Spanish from May 2026 → ~180 hours by May 2027 → solid A2/B1 conversational Spanish within one year
+
+---
+
 ## [2026-05-06] autoresearch | Buck Converter Build Guide — 12V→5V, 1A, 100 kHz STM32 Digital Control
 - Searches: 7 | Pages created: 6 | Pages updated: 1
 - Created: [[Buck Converter Theory and Design]], [[Buck Converter LTspice Simulation]], [[STM32 Digital Control for Buck Converter]], [[Buck Converter PCB Design and Fabrication]], [[Buck Converter Measurement and Characterization]], [[Research - Buck Converter Build Guide]]
