@@ -57,6 +57,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### Language Learning
+- [[Benefits of Language Learning]] — cognitive (gray matter, delayed dementia, rational decision-making), career (5–20% salary premium), social (empathy, cultural access), health (50% slower biological aging per *Nature Aging* 2025) (developing)
+- [[Language ROI Rankings]] — S-tier: Spanish (600 hrs, #1 for AZ/CA job market) + German (750 hrs, best STEM/engineering fit globally); A-tier: Mandarin (2,200 hrs, highest ceiling); full tier table calibrated for Joe as EE student (developing)
+- [[FSI Language Difficulty Tiers]] — Cat I (575–600 hrs): Spanish/French; Cat II (750 hrs): German; Cat V (2,200 hrs): Mandarin/Japanese/Arabic; self-study multiplier table (stable)
+- [[Language Learning Roadmap]] — complete self-study guide: Phase 0 setup → Phase 1 foundation (Anki + passive immersion, months 1–3) → Phase 2 intermediate (sentence mining + italki, months 3–12) → Phase 3 advanced (native media only, 12–36 months); weekly template; common mistakes; CEFR hour estimates (developing)
+- [[Immersion Method Language Learning]] — Refold/Krashen input hypothesis; 4-stage roadmap; Anki SRS mechanics (10–15 cards/day max); full 2025 tools stack (Language Reactor, italki, Dreaming Spanish, AI partners); comprehensible input density principle (developing)
+- [[Research - Language Learning Roadmap and ROI]] — synthesis: Spanish = #1 ROI for Joe (600 hrs, AZ market, immersion available), German = #2 (750 hrs, power electronics/automotive/EU STEM), Mandarin = 3.6× harder than Spanish (only for China specialization track); full roadmap + sources (complete)
+
 ### Self-Teaching / Lifelong Learning
 - [[Self-Teaching Topics Tier List]] — S–C tier list of 18 subjects ranked by life ROI × self-teachability; S-tier: Math/Finance/Programming/Logic; full textbook recommendations per subject; Joe's 90-day priority stack (complete)
 - [[Podcast Learning Tier List]] — S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain best-picks table; Joe's listening stack (complete)
