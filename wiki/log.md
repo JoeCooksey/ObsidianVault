@@ -11,9 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
-## [2026-05-05] autoresearch | Buck Converter Build Guide — 12V→5V, 1A, 100 kHz STM32 Digital Control
-- Searches: 4 | Pages created: 5
-- [[Buck Converter Theory and Design]], [[Buck Converter LTspice Simulation]], [[STM32 Digital Control for Buck Converter]], [[Buck Converter PCB Design and Fabrication]], [[Buck Converter Measurement and Characterization]], [[Research - Buck Converter Build Guide]]
+## [2026-05-06] autoresearch | Buck Converter Build Guide — 12V→5V, 1A, 100 kHz STM32 Digital Control
+- Searches: 7 | Pages created: 6 | Pages updated: 1
+- Created: [[Buck Converter Theory and Design]], [[Buck Converter LTspice Simulation]], [[STM32 Digital Control for Buck Converter]], [[Buck Converter PCB Design and Fabrication]], [[Buck Converter Measurement and Characterization]], [[Research - Buck Converter Build Guide]]
+- Updated: [[Buck Converter PCB Design and Fabrication]] (IR2110 COM grounding rule added), [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Duty cycle is derived entirely from volt-second balance — D = Vout/Vin = 5/12 = 41.7%; all other design equations (L=100µH, C=44µF) flow from this one equation; (2) STM32 TIM1 complementary outputs with hardware dead-time (BDTR register, DTG=17 → 101 ns) is the correct architecture — hardware-enforced dead time is deterministic and jitter-free at zero software cost; (3) IR2110 bootstrap gate driver accepts 3.3V logic, drives both MOSFETs from single 12V supply via bootstrap circuit; bootstrap cap = 220 nF (UF4007 diode, NOT 1N4007 — slow recovery kills efficiency at 100 kHz); (4) PCB layout determines whether the design works or oscillates — power loop (input cap → M1 → SW node → M2 → back) must fit in 15×15 mm; IR2110 COM pin must route from low-side MOSFET source, not general ground plane; (5) LTspice simulation before hardware is mandatory — reveals CCM status (L_crit = 14.6 µH vs L = 100 µH, firmly CCM), actual ripple, and LC resonance at 2.4 kHz for PI design; (6) Start non-synchronous (diode + one MOSFET), then upgrade to synchronous — eliminates shoot-through risk during debug while all firmware/hardware infrastructure carries over; (7) Three measurements for FURI report: efficiency curve 20%→120% load, load transient (< 200 mV undershoot, < 1 ms settling), Bode plot (> 45° phase margin via swept-sine injection); no other freshman applicant will have all three; (8) 90-day build under $55: STM32 Nucleo ($15) + IR2110 ($2.50) + MOSFETs ($1.60) + inductor ($1.50) + passives ($5) + JLCPCB PCB ($20 shipped for 5 boards)
 
 ---
 
