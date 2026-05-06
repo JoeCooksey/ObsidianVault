@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Language Learning Roadmap",
+      "path": "wiki/concepts/Language Learning Roadmap.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Immersion Method Language Learning",
+      "path": "wiki/concepts/Immersion Method Language Learning.md"
+    },
+    {
+      "basename": "Language ROI Rankings",
+      "path": "wiki/concepts/Language ROI Rankings.md"
+    },
+    {
+      "basename": "Benefits of Language Learning",
+      "path": "wiki/concepts/Benefits of Language Learning.md"
+    },
+    {
       "basename": "STM32 Digital Control for Buck Converter",
       "path": "wiki/concepts/STM32 Digital Control for Buck Converter.md"
     },
     {
       "basename": "Buck Converter Theory and Design",
       "path": "wiki/concepts/Buck Converter Theory and Design.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "2026-05-06",
@@ -183,22 +199,6 @@
     {
       "basename": "5 Pillars of Fitness",
       "path": "wiki/concepts/5 Pillars of Fitness.md"
-    },
-    {
-      "basename": "Food Health Tier List — Vegetables",
-      "path": "wiki/concepts/Food Health Tier List — Vegetables.md"
-    },
-    {
-      "basename": "ASU EE BSE 2025-2026 Major Map",
-      "path": "wiki/sources/ASU EE BSE 2025-2026 Major Map.md"
-    },
-    {
-      "basename": "2026-05-04",
-      "path": "Journal/Daily/2026-05-04.md"
-    },
-    {
-      "basename": "Stackable EE Scholarships - ASU Second Year",
-      "path": "wiki/concepts/Stackable EE Scholarships - ASU Second Year.md"
     }
   ],
   "omittedPaths": [],
