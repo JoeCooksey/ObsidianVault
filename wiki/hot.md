@@ -19,6 +19,7 @@ tags:
 - **STM32 TIM1**: ARR=839 (center-aligned), PSC=0, 168 MHz clock → 100 kHz PWM; CCR1=~350 for D=41.7%; dead time = DTG=17 in BDTR register → ~101 ns hardware dead time; ADC triggered at counter peak = minimum-ripple sampling point
 - **IR2110 gate driver**: VDD=3.3V (STM32 compatible), VCC=12V, bootstrap capacitor=220 nF (UF4007 ultrafast diode — NOT 1N4007), drives both MOSFETs from single 12V supply
 - **Power loop layout**: input cap → M1 → SW node → M2 → back to cap — must fit in 15×15 mm square; this is the single most important PCB rule
+- **IR2110 COM grounding rule**: COM pin must route directly to low-side MOSFET (M2) source pad — NOT to the general ground plane; wrong routing corrupts gate drive and causes misbehavior
 - **MOSFET choice**: IRLZ44N (TO-220, logic-level, 60V, 22.5 mΩ, 63 nC Qg) — easy to prototype, IR2110 drives with 10–12V
 - **Efficiency budget**: ~94% theoretical; dominated by inductor DCR (110 mW) and gate drive (151 mW); measured target 90–93%
 - **3 measurements for FURI report**: efficiency curve (20%→120% load), load transient (< 200 mV undershoot, < 1 ms settling), Bode plot (> 45° phase margin) — no other freshman will have all three
