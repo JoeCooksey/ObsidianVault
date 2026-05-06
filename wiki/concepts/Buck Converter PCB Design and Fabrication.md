@@ -2,7 +2,7 @@
 type: concept
 title: "Buck Converter PCB Design and Fabrication"
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-06
 tags:
   - concept
   - domain/engineering
