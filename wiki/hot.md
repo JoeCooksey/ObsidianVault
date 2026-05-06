@@ -1,18 +1,18 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-05T00:00:00
+updated: 2026-05-06T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-05-05 — Autoresearch: Buck Converter Build Guide; 5 pages created: [[Buck Converter Theory and Design]] (design equations, component sizing, efficiency budget), [[Buck Converter LTspice Simulation]] (step-by-step sim guide), [[STM32 Digital Control for Buck Converter]] (TIM1 PWM, IR2110, PI C code), [[Buck Converter PCB Design and Fabrication]] (KiCad layout rules, JLCPCB ordering), [[Buck Converter Measurement and Characterization]] (6 measurements + report outline), [[Research - Buck Converter Build Guide]] (8-finding synthesis)
+2026-05-06 — Autoresearch complete: Buck Converter Build Guide (12V→5V, 1A, 100 kHz STM32 digital control); 6 pages created: [[Buck Converter Theory and Design]] (design equations, component sizing, efficiency budget), [[Buck Converter LTspice Simulation]] (step-by-step sim guide), [[STM32 Digital Control for Buck Converter]] (TIM1 PWM, IR2110, PI C code, 5 beginner exercises), [[Buck Converter PCB Design and Fabrication]] (KiCad layout rules, JLCPCB ordering, IR2110 COM grounding rule), [[Buck Converter Measurement and Characterization]] (6 oscilloscope measurements + Bode plot + report outline), [[Research - Buck Converter Build Guide]] (8-finding synthesis); 7 web searches run
 
 ## Key Recent Facts
 
-### Buck Converter Build — newest autoresearch
+### Buck Converter Build — autoresearch complete (2026-05-06)
 - **D = Vout/Vin = 5/12 = 41.7%** — the central equation; t_on = 4.17 µs, t_off = 5.83 µs at 100 kHz
 - **L = 100 µH** — from (Vin−Vout)×D / (fsw×ΔiL) = 7×0.417/(100k×0.3) ≈ 97 µH; peak inductor current 1.15A → need ≥1.5A saturation rating
 - **C_out = 44 µF** — two 22 µF MLCC X7R ceramics in parallel; ΔVout ≈ 9 mV (well under 50 mV spec)
