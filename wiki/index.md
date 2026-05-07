@@ -450,6 +450,8 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Travel
 - [[Research - Rome Vatican Family Trip May 2026]] — complete 9-day family tourist guide (May 11–19); Joe + parents aged 60+52; Vatican Museums, Colosseum, Tivoli day trip, Ostia Antica, day-by-day itinerary, food guide, senior-friendly tips, booking checklist (complete)
+- [[Family Road Trip Activities Guide]] — master guide: S–C tier list of all activities, no-equipment games, audio content picks (Harry Potter, Brains On!, Six Minutes), conversation questions, app stack (SmartStops/GasBuddy/iExit), 12-hour logistics checklist (complete)
+- [[Research - Family Road Trip Activities]] — 8-finding synthesis: shared audio = highest ROI, 90-minute break rule, no-equipment games beat equipment games, conversation lists unlock bonding, download offline, screen time as burst not drip; 5 sources (complete)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Testosterone Habits Tier List]] — 8 key findings + 17 sources; sleep #1, body fat aromatase cycle, cold exposure myth debunked, NoFap myth debunked (complete)
 - [[Research - Destructive Habits to Avoid at 19]] — 8 key findings + 5 open questions; doom scrolling brain rot, porn neuroplasticity damage, alcohol at 19 2× impairment, sleep deprivation Alzheimer's link, procrastination learned helplessness, debt compounding, social isolation = 15 cigarettes/day, fixed mindset ceiling (complete)
