@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-06 — Autoresearch complete: Family Road Trip Activities (12-hour drive); 2 pages created: [[Family Road Trip Activities Guide]] (S–C tier list, no-equipment games, audio picks, conversation questions, app stack, logistics checklist), [[Research - Family Road Trip Activities]] (8-finding synthesis, 5 searches); key finding: shared family audiobook + no-equipment games + 90-min break rule = the winning formula
+
+## Key Recent Facts
+
+### Family Road Trip Activities — autoresearch complete (2026-05-06)
+- **Shared audio is S-tier**: Harry Potter (Jim Dale narration), Brains On!, Six Minutes podcast are the top picks — they unite the whole car and work at all ages; download offline before leaving (cell dead zones are common on interstates)
+- **No-equipment games beat equipment games on a moving vehicle**: 20 Questions, Would You Rather, Categories, Collaborative Storytelling, The Picnic Game — zero setup, no items to lose, can run 30–90 min without attention decay
+- **The 90-minute break rule**: plan 6–8 stops on a 12-hour drive; SmartStops app (194,000+ parks/playgrounds) finds breaks on your exact route; skipping stops to "make time" destroys morale and driver alertness
+- **Conversation question lists are underused**: 20–30 curated questions (fun → reflective → deep) turn car time into genuine family bonding; print them — don't rely on passing a phone around; the "captive audience" effect makes long drives the best family conversation window of the year
+- **App stack**: SmartStops (breaks), Roadtrippers (route), GasBuddy (fuel), iExit (freeway food/restrooms), Wanderlog (optional route optimizer)
+- **Screen time = burst not drip**: 30-min tablets at scheduled points (after 3 hrs, after lunch stop) outperform passive all-day screen use in trip satisfaction
+- **Driver must rotate every 2–3 hrs**; night driving is 3× riskier — stop before 10 PM, resume 6 AM
+- **Snack logistics are a morale variable**: keep accessible snacks always; avoid heavy meals mid-drive (food coma worsens driver fatigue)
+
+## Last Updated (prev)
 2026-05-06 — Autoresearch complete: Diet Cheat Day Recovery; 3 pages created: [[Diet Cheat Day Recovery Guide]] (24-hr protocol, metabolic table, mindset reframes, structural prevention), [[Food Guilt and Diet Psychology]] (binge-restrict cycle, abstainer vs moderator, cognitive distortions, food neutrality), [[Research - Diet Cheat Day Recovery]] (8-finding synthesis + 10 sources); 5 web searches run
 
 ## Key Recent Facts
