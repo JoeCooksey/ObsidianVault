@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-06] autoresearch | Family Road Trip Activities — Best Activities for a 12-Hour Drive
+- Searches: 5 | Pages created: 2 | Pages updated: 3
+- Created: [[Family Road Trip Activities Guide]], [[Research - Family Road Trip Activities]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) Shared family audiobook or serialized podcast is the single highest-ROI activity — Harry Potter (Jim Dale), Brains On!, Six Minutes unify the whole car; download offline before departing; (2) No-equipment games (20 Questions, Would You Rather, Categories, Collaborative Storytelling) outperform equipment games per-hour on a moving vehicle — nothing to lose, no setup; (3) The 90-minute break rule is non-negotiable for morale and driver safety — plan 6–8 stops on a 12-hour drive; SmartStops app finds playgrounds and parks on exact route; (4) A printed conversation question list unlocks deeper family bonding than any game — 20–30 curated questions (fun → reflective → deep) turn car time into the best family conversation window of the year; (5) Download all audio content offline before leaving — rural interstates lose signal for 30–60 min stretches; (6) Screens work best as 30-min scheduled bursts (not all-day passive drip) — families that ration screens report more conversation; (7) Snack logistics are a morale variable — hunger amplifies impatience, heavy meals worsen driver fatigue; (8) Driver must rotate every 2–3 hours if possible; night driving is 3× riskier — stop before 10 PM and resume at 6 AM rather than pushing through
+
+---
+
 ## [2026-05-06] autoresearch | Diet Cheat Day Recovery — Action Steps After Cheating on Your Diet
 - Searches: 5 | Pages created: 3 | Pages updated: 3
 - Created: [[Diet Cheat Day Recovery Guide]], [[Food Guilt and Diet Psychology]], [[Research - Diet Cheat Day Recovery]]
