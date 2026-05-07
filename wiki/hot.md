@@ -8,9 +8,25 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-06 — Autoresearch complete: Language Learning — Pros, Best Languages, and Full Roadmap; 6 pages created: [[Benefits of Language Learning]] (cognitive, career, social, health pros), [[Language ROI Rankings]] (Spanish #1, German #2 for Joe as EE student), [[FSI Language Difficulty Tiers]] (Cat I–V hour chart), [[Language Learning Roadmap]] (Phase 0–3 complete self-study guide), [[Immersion Method Language Learning]] (Refold/Anki/comprehensible input method), [[Research - Language Learning Roadmap and ROI]] (synthesis + sources); 6 web searches run
+2026-05-06 — Autoresearch complete: Diet Cheat Day Recovery; 3 pages created: [[Diet Cheat Day Recovery Guide]] (24-hr protocol, metabolic table, mindset reframes, structural prevention), [[Food Guilt and Diet Psychology]] (binge-restrict cycle, abstainer vs moderator, cognitive distortions, food neutrality), [[Research - Diet Cheat Day Recovery]] (8-finding synthesis + 10 sources); 5 web searches run
 
 ## Key Recent Facts
+
+### Diet Cheat Day Recovery — autoresearch complete (2026-05-06)
+- **One cheat does not ruin fat loss**: 1 lb body fat = ~3,500 surplus calories; typical 1,500–2,000 kcal cheat day just reduces the week's deficit — the math still works in your favor
+- **Scale spike is water, not fat**: glycogen + sodium retention causes 1–5 lb increase; resolves in 24–72 hours once you return to normal eating
+- **The psychological harm > physiological harm**: guilt → all-or-nothing thinking ("I already blew it") → continued eating → more caloric damage than the original cheat; Duke Med & Psychology Today (2025) confirm this pattern
+- **Do NOT restrict to compensate**: fasting or cutting calories after a cheat reinforces binge-restrict cycling, elevates cortisol, increases cravings, and sets up the next cheat — the research is clear on this
+- **24-hr recovery protocol**: resume normal eating at next meal (no skipping) → next 1–2 meals: high protein (30–40g) + 2+ cups vegetables, minimize starchy carbs → drink 3–4L water → light movement only (walk/easy bike, NO punishing HIIT) → 7–9 hrs sleep (ghrelin/leptin regulation)
+- **The word "cheat" is the problem**: moral language around food ("cheating," "being bad") predicts higher rates of binge eating and lower adherence; 90/10 rule (90% on-plan, 10% flex) beats 100% rigid restriction
+- **Abstainer vs moderator**: abstainers do better removing trigger foods from home entirely; moderators need a scheduled flex meal to prevent compulsive cheating — wrong strategy for the wrong type = higher failure rate
+- **The Next Meal Rule**: the optimal restart is always the next meal — not Monday, not tomorrow morning — any meal, any time of day
+- **Structural fix**: food log + trigger analysis (stress? under-restriction? social?) → specific plan for that situation → repeat triggers stop being ambushes
+
+## Last Updated (prev)
+2026-05-06 — Autoresearch complete: Language Learning — Pros, Best Languages, and Full Roadmap; 6 pages created: [[Benefits of Language Learning]] (cognitive, career, social, health pros), [[Language ROI Rankings]] (Spanish #1, German #2 for Joe as EE student), [[FSI Language Difficulty Tiers]] (Cat I–V hour chart), [[Language Learning Roadmap]] (Phase 0–3 complete self-study guide), [[Immersion Method Language Learning]] (Refold/Anki/comprehensible input method), [[Research - Language Learning Roadmap and ROI]] (synthesis + sources); 6 web searches run
+
+## Key Recent Facts (prev)
 
 ### Language Learning — autoresearch complete (2026-05-06)
 - **Spanish = #1 ROI for Joe**: FSI Category I — 575–600 hrs to professional proficiency; 41M US speakers; dominant in Arizona/California job markets; immersion available everywhere without travel; 30 min/day → ~A2/B1 by May 2027
