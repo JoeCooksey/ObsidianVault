@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Food Guilt and Diet Psychology",
+      "path": "wiki/concepts/Food Guilt and Diet Psychology.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Diet Cheat Day Recovery Guide",
+      "path": "wiki/concepts/Diet Cheat Day Recovery Guide.md"
+    },
+    {
       "basename": "2026-05-06",
       "path": "Journal/Daily/2026-05-06.md"
     },
     {
       "basename": "Language Learning Roadmap",
       "path": "wiki/concepts/Language Learning Roadmap.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Immersion Method Language Learning",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-05-05",
       "path": "Daily News Debrief/2026-05-05.md"
-    },
-    {
-      "basename": "Electrolyte Supplements",
-      "path": "wiki/concepts/Electrolyte Supplements.md"
-    },
-    {
-      "basename": "5 Pillars of Fitness",
-      "path": "wiki/concepts/5 Pillars of Fitness.md"
     }
   ],
   "omittedPaths": [],
