@@ -1,16 +1,31 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-06T00:00:00
+updated: 2026-05-09T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-05-06 — Autoresearch complete: Family Road Trip Activities (12-hour drive); 2 pages created: [[Family Road Trip Activities Guide]] (S–C tier list, no-equipment games, audio picks, conversation questions, app stack, logistics checklist), [[Research - Family Road Trip Activities]] (8-finding synthesis, 5 searches); key finding: shared family audiobook + no-equipment games + 90-min break rule = the winning formula
+2026-05-09 — Autoresearch complete: Alcohol Harm by Consumption Tier + Quitting Timeline; 2 pages created: [[Alcohol Harm Guide by Consumption Tier]] (4-tier harm table, quitting timeline, age-group comparison), [[Research - Alcohol Harm Tiers and Quitting Timeline]] (8-finding synthesis, 5 searches, 12 sources); key finding: no safe level exists at any age; women reach damage thresholds at half men's intake; quitting produces measurable benefits starting within hours
 
 ## Key Recent Facts
+
+### Alcohol Harm Tiers — autoresearch complete (2026-05-09)
+- **No safe level — 2025 consensus**: WHO, Lancet, CDC, Stanford all align: the J-curve "light drinking is cardioprotective" hypothesis is debunked; AACR 2024: >5% of all U.S. cancers attributable to alcohol
+- **Tier 1 (1–7/week)**: Sleep REM suppression, minor cancer risk elevation, gut irritation, dehydration — "low risk" is a myth especially under age 25
+- **Tier 2 (7–14/week)**: Women already in high-risk zone; liver disease risk rising sharply; elevated BP; depression risk doubles; ~1,000 extra cal/week
+- **Tier 3 (14–21/week)**: Fatty liver nearly certain; measurable brain grey matter loss; testosterone suppressed 20–40%; 6 confirmed cancer types; peripheral neuropathy begins
+- **Tier 4 (21+/week)**: Cirrhosis, Wernicke-Korsakoff syndrome risk, cardiomyopathy; **never stop cold turkey without medical supervision** — withdrawal seizures and DTs possible
+- **Quitting timeline**: Hours (rehydration) → Week 1 (sleep, energy) → Week 4 (BP, liver inflammation, ~3 lbs weight loss) → Month 3 (sleep normalized, depression improving) → Month 6 (liver recovered) → Year 1 (cancer/CVD risk dropping) → Years 5–7 (brain fully recovered)
+- **Under-25s**: No safe level; 4× addiction risk vs starting after 25; 60% of alcohol injuries; neuroplasticity means fastest recovery if stopped
+- **65+**: 1 drink = physiological effect of ~2 drinks at 25; medication interactions in 60%+ of older adults; accelerates dementia; slowest recovery
+
+## Last Updated (prev)
+2026-05-06 — Autoresearch complete: Family Road Trip Activities (12-hour drive); 2 pages created: [[Family Road Trip Activities Guide]] (S–C tier list, no-equipment games, audio picks, conversation questions, app stack, logistics checklist), [[Research - Family Road Trip Activities]] (8-finding synthesis, 5 searches); key finding: shared family audiobook + no-equipment games + 90-min break rule = the winning formula
+
+## Key Recent Facts (prev)
 
 ### Family Road Trip Activities — autoresearch complete (2026-05-06)
 - **Shared audio is S-tier**: Harry Potter (Jim Dale narration), Brains On!, Six Minutes podcast are the top picks — they unite the whole car and work at all ages; download offline before leaving (cell dead zones are common on interstates)
