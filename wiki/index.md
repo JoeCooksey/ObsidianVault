@@ -66,9 +66,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Language Learning Roadmap and ROI]] — synthesis: Spanish = #1 ROI for Joe (600 hrs, AZ market, immersion available), German = #2 (750 hrs, power electronics/automotive/EU STEM), Mandarin = 3.6× harder than Spanish (only for China specialization track); full roadmap + sources (complete)
 
 ### Self-Teaching / Lifelong Learning
+- [[Top Topics to Research — Master Guide]] — ROI-ranked master index of 7 top research topics for Joe; 90-day activation plan; cross-topic synergy table; links to all individual roadmaps (complete)
+- [[Power Electronics Deep Study Roadmap]] — 4-phase self-study guide (Hart → Erickson → WBG deep dive → digital control); books, YouTube, milestones, WBG magnetics; research-track oriented (complete)
+- [[AI ML for Engineers Roadmap]] — 3-phase roadmap (ML fundamentals → deep learning → edge AI); fast.ai, Karpathy, 3B1B, Sutton RL, TensorFlow Lite on STM32; power electronics × ML intersection (complete)
+- [[Negotiation Skills Roadmap]] — Voss → Fisher/Ury → Cialdini → Malhotra; salary negotiation playbook; engineer-specific framing; practice opportunities + BATNA framework (complete)
+- [[Stoicism Self-Study Roadmap]] — sequenced reading plan (Daily Stoic → Ego Is Enemy → Enchiridion → Meditations → Seneca); YouTube stack (Einzelgänger, Daily Stoic channel); daily practice protocol (complete)
+- [[Sleep Science Deep Guide]] — two-process model (adenosine + SCN); sleep architecture (N1/N2/N3/REM); glymphatic system; memory consolidation by stage; long-term consequences; Walker/Huberman resources (complete)
 - [[Self-Teaching Topics Tier List]] — S–C tier list of 18 subjects ranked by life ROI × self-teachability; S-tier: Math/Finance/Programming/Logic; full textbook recommendations per subject; Joe's 90-day priority stack (complete)
 - [[Podcast Learning Tier List]] — S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain best-picks table; Joe's listening stack (complete)
 - [[Research - Top Learning Podcasts]] — 8-finding synthesis: long-form beats short-form, Philosophize This! as best philosophy audio resource, Dwarkesh rise, Hardcore History as S-tier history, economics podcast taxonomy, AI podcast split; full tier table + sources (complete)
+- [[Research - Top Topics to Research]] — 9-search synthesis: EE+ML rarity, Hart→Erickson sequence, negotiation ROI, Stoicism reading order, glymphatic system, missing negotiation gap, MIT 18.06 as top math investment; 7 pages created (complete)
 
 ### Finance / Scholarships
 - [[ASU Scholarships for California EE Students]] — complete scholarship guide for CA student at ASU EE: NAU Scholarship ($5,500–$17,500/yr auto) + Commitment Scholarship ($5,500–$7,500/yr auto) + Fulton Schools portal (Feb. 1 deadline) + IEEE PES ($10k external); WUE discontinued Fall 2026; Cal Grants not portable; stacking potential up to $47k/yr (complete)
