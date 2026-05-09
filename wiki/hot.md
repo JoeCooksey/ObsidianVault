@@ -8,6 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-09 — Autoresearch complete: AI Roblox Game Development; 6 pages created: [[Roblox Game Development with AI]] (Studio Assistant agentic workflow, AI tools stack, 7-step vibe-coding guide), [[Roblox Viral Game Design Patterns]] (5 viral principles, genre trends, 90-day post-viral lifecycle), [[Roblox Monetization Strategies]] (all 5 revenue streams, real DevEx numbers, per-genre strategy), [[Roblox Game Concepts for AI-Assisted Dev]] (10 buildable concepts with difficulty/monetization/AI tools), [[Research - AI Roblox Game Development]] (8-finding synthesis), [[Roblox AI Development Guide 2025]] (source record); key findings: Studio went fully agentic April 2026, tycoon/garden genre is hottest in 2026, top 10 devs avg $33.9M/year, Joe's best starting concept = Clicker Idle Empire or Garden Tycoon
+
+## Key Recent Facts
+
+### AI Roblox Game Development — autoresearch complete (2026-05-09)
+- **Roblox Studio went agentic April 2026**: built-in Assistant now handles planning, building, and testing in autonomous loops; 44% of top 1,000 creators use it; use RoCode, LuauGPT, or Nilo instead of generic LLMs (ChatGPT fails on deprecated Roblox APIs)
+- **Hottest genre 2026**: Garden/Tycoon — "Grow a Garden" hit 1 billion visits faster than almost any game in Roblox history; viral formula = short sessions + social comparison + identity expression + trend-riding within 2-week cultural moment window
+- **Real earnings**: top 10 devs avg $33.9M/year; top 1,000 avg $1.3M; median dev earns $1,440/year; Roblox takes ~70% at 350 Robux/$1; new 42% DevEx rate boost for R15 games with verified U.S. adult players (June 2026)
+- **Post-viral lifecycle**: ~80% of top-50 games collapse within 8–12 weeks; 90-day retention framework (bug fix sprint → daily rewards → community anchoring) separates sustained hits; seasonal events 4× long-term retention
+- **10 game concepts for Joe** (Easy→Hard): Clicker Idle Empire (ship in a week), Garden Tycoon (trend rider), Obby Race, Fashion Battle Arena, Social Roleplay Town, Pet Collector Sim, Horror Escape Rooms, Mini-Game Party Pack, Anime Dungeon Crawler, Base Building Survival
+- **AI tools stack**: Studio Assistant (agentic planning + scripting) + RoCode/LuauGPT (Luau-specific codegen) + Cube 3D (3D asset generation) + Material Generator (textures) + NPC Dialogue (hosted LLM for living NPCs)
+- **Joe's recommended first game**: Clicker Idle Empire (lowest complexity, ships fastest, teaches full monetization pipeline) or Garden Tycoon (hottest genre, trend momentum, Easy-Medium difficulty)
+
+## Last Updated (prev)
 2026-05-09 — Autoresearch complete: Top Topics to Research — Master Roadmaps; 7 pages created: [[Top Topics to Research — Master Guide]] (ROI-ranked master index, 90-day plan), [[Power Electronics Deep Study Roadmap]] (Hart→Erickson→WBG, 4 phases), [[AI ML for Engineers Roadmap]] (fast.ai→Karpathy→edge ML, 3 phases), [[Negotiation Skills Roadmap]] (Voss→Fisher/Ury, salary playbook), [[Stoicism Self-Study Roadmap]] (sequenced reading + practice stack), [[Sleep Science Deep Guide]] (two-process model, glymphatic system), [[Research - Top Topics to Research]] (9-search synthesis); key insight: EE+ML is the rarest combo in the workforce, Hart before Erickson is the correct power electronics sequence, negotiation was completely missing from the wiki
 
 ## Key Recent Facts
