@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Alcohol Harm Guide by Consumption Tier",
+      "path": "wiki/concepts/Alcohol Harm Guide by Consumption Tier.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "2026-05-09",
       "path": "Journal/Daily/2026-05-09.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Family Road Trip Activities Guide",
       "path": "wiki/concepts/Family Road Trip Activities Guide.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Food Guilt and Diet Psychology",
@@ -195,10 +199,6 @@
     {
       "basename": "Overall Exercise Tier List",
       "path": "wiki/concepts/Overall Exercise Tier List.md"
-    },
-    {
-      "basename": "Workout Splits Tier List",
-      "path": "wiki/concepts/Workout Splits Tier List.md"
     }
   ],
   "omittedPaths": [],
