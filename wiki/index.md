@@ -50,6 +50,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Game Development / Roblox
+- [[Roblox Game Development with AI]] — full guide: Luau + AI tools workflow, Studio Assistant agentic modes, vibe-coding with Nilo (developing)
+- [[Roblox Viral Game Design Patterns]] — what makes Roblox games go viral in 2025–2026; 28-day retention algorithm, genre trends, post-viral lifecycle (developing)
+- [[Roblox Monetization Strategies]] — Robux/DevEx rates, game passes, developer products, real earnings data ($1.3M top-1k avg) (developing)
+- [[Roblox Game Concepts for AI-Assisted Dev]] — 10 buildable game ideas for Joe with difficulty, viral potential, and AI tool mapping (developing)
+
 ### AI / Edge Computing
 - [[Post-Training Quantization]] — INT4/INT8/FP8 weight and activation quantization (developing)
 - [[GGUF Format]] — llama.cpp quantization file format; Q4_K_M recommended (developing)
