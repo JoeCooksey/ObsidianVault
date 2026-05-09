@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-09] autoresearch | Alcohol — Harm by Consumption Tier, Quitting Timeline, Age Comparison
+- Searches: 5 | Pages created: 2 | Pages updated: 3
+- Created: [[Alcohol Harm Guide by Consumption Tier]], [[Research - Alcohol Harm Tiers and Quitting Timeline]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) No safe level of alcohol — WHO, Lancet, CDC, Stanford 2025 all align; the J-curve cardioprotection hypothesis is methodologically flawed; AACR 2024: >5% of all U.S. cancers attributable to alcohol; (2) Women reach liver damage thresholds at roughly half men's intake (20 g/day vs 40–60 g/day); liver disease risk rises sharply above 7–13 drinks/week for women, 14–27 for men (Danish 12-yr study, n=13,000); (3) The 4-tier framework: Tier 1 (1–7/week) = minor harms including REM disruption and slight cancer risk; Tier 2 (7–14/week) = moderate liver risk, doubled depression/anxiety risk, measurable BP elevation; Tier 3 (14–21/week) = fatty liver, grey matter shrinkage, testosterone suppression 20–40%, 6 confirmed cancers; Tier 4 (21+/week) = cirrhosis risk, Wernicke-Korsakoff, cardiomyopathy, DTs on withdrawal; (4) Quitting benefits start within hours and cascade across 5–7 years: Week 1 = sleep and energy; Week 4 = BP, liver inflammation cleared, ~3 lbs weight loss; Month 6 = liver recovered; Year 1 = cancer/CVD risk reduction; Years 5–7 = full brain recovery; (5) Under-25s have no safe level — 4× addiction risk vs starting after 25; brain still developing; 60% of alcohol injuries in this cohort; fastest recovery if stopped; (6) 65+ face highest per-drink toxicity — 1 drink = effect of ~2 drinks at 25 due to lower body water and slower liver metabolism; medication interactions in >60% of older adults; accelerates dementia; (7) Grey matter begins recovering within 2 weeks of abstinence; over 7 months, cortex thickens in 25/34 brain regions (NIH); duration of prior drinking does not significantly predict recovery speed — abstinence length is the key variable; (8) Psychological and financial costs are underweighted: alcohol doubles anxiety/depression risk at Tier 2+; creates a self-reinforcing anxiety loop; saves $2,000–$8,000+/year to quit; Tier 3 adds ~1.5–2 lbs/month in alcohol calories alone
+
+---
+
 ## [2026-05-06] autoresearch | Family Road Trip Activities — Best Activities for a 12-Hour Drive
 - Searches: 5 | Pages created: 2 | Pages updated: 3
 - Created: [[Family Road Trip Activities Guide]], [[Research - Family Road Trip Activities]]
