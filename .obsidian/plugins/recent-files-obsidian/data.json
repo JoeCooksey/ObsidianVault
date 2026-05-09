@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-09",
+      "path": "Journal/Daily/2026-05-09.md"
+    },
+    {
+      "basename": "2026-05-09",
+      "path": "Daily News Debrief/2026-05-09.md"
+    },
+    {
       "basename": "Family Road Trip Activities Guide",
       "path": "wiki/concepts/Family Road Trip Activities Guide.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Workout Splits Tier List",
       "path": "wiki/concepts/Workout Splits Tier List.md"
-    },
-    {
-      "basename": "Daily Mobility Routine",
-      "path": "wiki/concepts/Daily Mobility Routine.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "Book View.base"
     }
   ],
   "omittedPaths": [],
