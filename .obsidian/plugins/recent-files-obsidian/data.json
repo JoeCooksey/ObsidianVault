@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Roblox Game Concepts for AI-Assisted Dev",
+      "path": "wiki/concepts/Roblox Game Concepts for AI-Assisted Dev.md"
+    },
+    {
+      "basename": "Roblox AI Development Guide 2025",
+      "path": "wiki/sources/Roblox AI Development Guide 2025.md"
+    },
+    {
+      "basename": "Roblox Viral Game Design Patterns",
+      "path": "wiki/concepts/Roblox Viral Game Design Patterns.md"
+    },
+    {
+      "basename": "Roblox Game Development with AI",
+      "path": "wiki/concepts/Roblox Game Development with AI.md"
+    },
+    {
       "basename": "AI ML for Engineers Roadmap",
       "path": "wiki/concepts/AI ML for Engineers Roadmap.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Power Electronics Deep Study Roadmap",
       "path": "wiki/concepts/Power Electronics Deep Study Roadmap.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Alcohol Harm Guide by Consumption Tier",
@@ -183,22 +199,6 @@
     {
       "basename": "Muscle Building Nutrition Guide",
       "path": "wiki/concepts/Muscle Building Nutrition Guide.md"
-    },
-    {
-      "basename": "Seasonal Fitness Periodization",
-      "path": "wiki/concepts/Seasonal Fitness Periodization.md"
-    },
-    {
-      "basename": "Muscle Group Priority Guide",
-      "path": "wiki/concepts/Muscle Group Priority Guide.md"
-    },
-    {
-      "basename": "Exercise Tier List — Arms",
-      "path": "wiki/concepts/Exercise Tier List — Arms.md"
-    },
-    {
-      "basename": "Exercise Tier List — Shoulders",
-      "path": "wiki/concepts/Exercise Tier List — Shoulders.md"
     }
   ],
   "omittedPaths": [],
