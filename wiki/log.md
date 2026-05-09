@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-09] autoresearch | AI Roblox Game Development — Viral Design, Monetization, Game Concepts
+- Searches: 10+ | Pages created: 6 | Pages updated: 2
+- Created: [[Roblox Game Development with AI]], [[Roblox Viral Game Design Patterns]], [[Roblox Monetization Strategies]], [[Roblox Game Concepts for AI-Assisted Dev]], [[Research - AI Roblox Game Development]], [[Roblox AI Development Guide 2025]] (source)
+- Updated: [[Wiki Index]], [[Wiki Log]]
+- Key sources: Roblox official blog (agentic Studio, Cube 3D, Economic Impact Report), TechCrunch, RoWatcher (AI tools + post-viral lifecycle), Nilo vibe-coding guide, Generalist Programmer monetization guide, Game Developer earnings data, Studio Krew top games May 2026
+- Key findings: (1) Roblox Studio went fully agentic in April 2026 — Planning + Building + Testing modes; 44% of top 1,000 creators use AI tools; (2) Specialized Luau AI tools (RoCode, LuauGPT, Nilo) outperform generic LLMs — generic models produce deprecated APIs; (3) Roblox Cube 3D (March 2025) enables text-to-3D-mesh inside Studio via GenerateModelAsync API — solo dev asset gap is solved; (4) Tycoon is 2025–2026's breakout genre; "Grow a Garden" hit 1B visits faster than almost any prior Roblox game; viral formula = short sessions + social mechanics + cultural moment hooking; (5) Top 10 devs averaged $33.9M/year; top 1,000 averaged $1.3M; median is $1,440 — the platform pays huge but distribution is extreme; Developer keeps ~30% after Roblox's cut; DevEx = 350 Robux/$1; (6) ~80% of top-50 games collapse within 8–12 weeks post-viral — sustained success requires pre-built community + seasonal content calendar
+
+---
+
 ## [2026-05-09] autoresearch | Top Topics to Research — Master Roadmaps (7 Topics, Full Resource Stacks)
 - Searches: 9 | Pages created: 7 | Pages updated: 3
 - Created: [[Top Topics to Research — Master Guide]], [[Power Electronics Deep Study Roadmap]], [[AI ML for Engineers Roadmap]], [[Negotiation Skills Roadmap]], [[Stoicism Self-Study Roadmap]], [[Sleep Science Deep Guide]], [[Research - Top Topics to Research]]
