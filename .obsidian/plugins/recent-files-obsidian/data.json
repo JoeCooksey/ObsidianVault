@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Power Electronics Deep Study Roadmap",
-      "path": "wiki/concepts/Power Electronics Deep Study Roadmap.md"
+      "basename": "AI ML for Engineers Roadmap",
+      "path": "wiki/concepts/AI ML for Engineers Roadmap.md"
     },
     {
       "basename": "Top Topics to Research — Master Guide",
       "path": "wiki/concepts/Top Topics to Research — Master Guide.md"
+    },
+    {
+      "basename": "Power Electronics Deep Study Roadmap",
+      "path": "wiki/concepts/Power Electronics Deep Study Roadmap.md"
     },
     {
       "basename": "log",
@@ -195,10 +199,6 @@
     {
       "basename": "Exercise Tier List — Shoulders",
       "path": "wiki/concepts/Exercise Tier List — Shoulders.md"
-    },
-    {
-      "basename": "Exercise Tier List — Back",
-      "path": "wiki/concepts/Exercise Tier List — Back.md"
     }
   ],
   "omittedPaths": [],
