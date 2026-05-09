@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-09] autoresearch | Top Topics to Research — Master Roadmaps (7 Topics, Full Resource Stacks)
+- Searches: 9 | Pages created: 7 | Pages updated: 3
+- Created: [[Top Topics to Research — Master Guide]], [[Power Electronics Deep Study Roadmap]], [[AI ML for Engineers Roadmap]], [[Negotiation Skills Roadmap]], [[Stoicism Self-Study Roadmap]], [[Sleep Science Deep Guide]], [[Research - Top Topics to Research]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) EE + ML is the rarest and most valuable engineer combo in 2026 — Ranjram's ML-CEMS is active proof of the power electronics × AI intersection; (2) Power electronics self-study should go Hart → Erickson (not Erickson first) — Daniel Hart is the correct undergrad on-ramp, then Erickson & Maksimovic for grad-level mastery; MIT OCW 6.622 is the best free complement; (3) Negotiation was completely absent from wiki — Chris Voss's Never Split the Difference is the consensus starting point; salary negotiation on first job is highest-ROI single application ($10k gap compounds to $250k+ over career); (4) Stoicism book list existed but lacked a sequenced reading plan — correct order: Daily Stoic → Ego Is the Enemy → Enchiridion → Meditations → Letters from a Stoic; Einzelgänger is best YouTube channel; (5) Sleep science protocols already complete in Sleep Habits Tier List; added the "why" — two-process model (adenosine + circadian), glymphatic clearance of amyloid-beta, stage architecture (N3 = physical restoration + GH, REM = emotional processing + creativity), 17 hrs awake = 0.05% BAC cognitive impairment; (6) Mathematics deep study partially covered; MIT 18.06 linear algebra (Prof. Gilbert Strang, free) is the single best math investment for EE + ML; (7) Top 7 topics ranked by ROI × urgency for Joe: Power Electronics, AI/ML for Engineers, Personal Finance, Negotiation, Stoicism, Mathematics, Sleep Science
+
+---
+
 ## [2026-05-09] autoresearch | Alcohol — Harm by Consumption Tier, Quitting Timeline, Age Comparison
 - Searches: 5 | Pages created: 2 | Pages updated: 3
 - Created: [[Alcohol Harm Guide by Consumption Tier]], [[Research - Alcohol Harm Tiers and Quitting Timeline]]
