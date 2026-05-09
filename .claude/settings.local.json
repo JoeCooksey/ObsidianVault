@@ -64,7 +64,13 @@
       "WebFetch(domain:search.asu.edu)",
       "WebFetch(domain:catalog.apps.asu.edu)",
       "WebFetch(domain:hackmd.io)",
-      "WebFetch(domain:barbend.com)"
+      "WebFetch(domain:barbend.com)",
+      "WebFetch(domain:rowatcher.com)",
+      "WebFetch(domain:blog.nilo.io)",
+      "WebFetch(domain:www.kitsblox.com)",
+      "WebFetch(domain:generalistprogrammer.com)",
+      "WebFetch(domain:www.obby.fun)",
+      "WebFetch(domain:game-ace.com)"
     ]
   },
   "enabledPlugins": {}
