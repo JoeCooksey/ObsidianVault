@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Alcohol Harm Guide by Consumption Tier",
-      "path": "wiki/concepts/Alcohol Harm Guide by Consumption Tier.md"
+      "basename": "Power Electronics Deep Study Roadmap",
+      "path": "wiki/concepts/Power Electronics Deep Study Roadmap.md"
+    },
+    {
+      "basename": "Top Topics to Research — Master Guide",
+      "path": "wiki/concepts/Top Topics to Research — Master Guide.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Alcohol Harm Guide by Consumption Tier",
+      "path": "wiki/concepts/Alcohol Harm Guide by Consumption Tier.md"
     },
     {
       "basename": "2026-05-09",
@@ -191,14 +199,6 @@
     {
       "basename": "Exercise Tier List — Back",
       "path": "wiki/concepts/Exercise Tier List — Back.md"
-    },
-    {
-      "basename": "Exercise Tier List — Chest",
-      "path": "wiki/concepts/Exercise Tier List — Chest.md"
-    },
-    {
-      "basename": "Overall Exercise Tier List",
-      "path": "wiki/concepts/Overall Exercise Tier List.md"
     }
   ],
   "omittedPaths": [],
