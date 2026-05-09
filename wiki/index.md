@@ -219,6 +219,8 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Pharmacology / Drug Harm
 - [[Drug Harm vs Benefit Ranking]] — S–F harm-to-benefit tier list across 20 drugs; psilocybin S-tier (harm 5, strongest therapeutic pipeline); alcohol F-tier (harm 72, highest of all drugs); legal status inverts pharmacological evidence (complete)
+- [[Alcohol Harm Guide by Consumption Tier]] — 4-tier harm table (1–7/7–14/14–21/21+ drinks/week) with organ-by-organ effects, full quitting timeline (hours → 7 years), and age-group comparison (Under 25 / 25–39 / 40–64 / 65+); no safe level for any age per 2025 consensus (complete)
+- [[Research - Alcohol Harm Tiers and Quitting Timeline]] — 8-finding synthesis: J-curve debunked, women's lower damage threshold, 4-tier damage cascade, quitting timeline, under-25 unique risks, 65+ per-drink toxicity, brain grey matter recovery timeline, psychological/financial costs; 12 sources (complete)
 
 ### Hormones / Endocrinology
 - [[Human Hormones Complete Guide]] — 14-hormone reference: cortisol, insulin, testosterone, estrogen, progesterone, thyroid T3/T4, HGH, dopamine, serotonin, melatonin, oxytocin, leptin/ghrelin, adrenaline, DHEA; functions + optimization protocols + master convergence table (complete)
