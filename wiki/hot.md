@@ -8,9 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-09 — Autoresearch complete: Alcohol Harm by Consumption Tier + Quitting Timeline; 2 pages created: [[Alcohol Harm Guide by Consumption Tier]] (4-tier harm table, quitting timeline, age-group comparison), [[Research - Alcohol Harm Tiers and Quitting Timeline]] (8-finding synthesis, 5 searches, 12 sources); key finding: no safe level exists at any age; women reach damage thresholds at half men's intake; quitting produces measurable benefits starting within hours
+2026-05-09 — Autoresearch complete: Top Topics to Research — Master Roadmaps; 7 pages created: [[Top Topics to Research — Master Guide]] (ROI-ranked master index, 90-day plan), [[Power Electronics Deep Study Roadmap]] (Hart→Erickson→WBG, 4 phases), [[AI ML for Engineers Roadmap]] (fast.ai→Karpathy→edge ML, 3 phases), [[Negotiation Skills Roadmap]] (Voss→Fisher/Ury, salary playbook), [[Stoicism Self-Study Roadmap]] (sequenced reading + practice stack), [[Sleep Science Deep Guide]] (two-process model, glymphatic system), [[Research - Top Topics to Research]] (9-search synthesis); key insight: EE+ML is the rarest combo in the workforce, Hart before Erickson is the correct power electronics sequence, negotiation was completely missing from the wiki
 
 ## Key Recent Facts
+
+### Top Research Roadmaps — autoresearch complete (2026-05-09)
+- **Top 7 topics ranked for Joe**: Power Electronics (CRITICAL), AI/ML for Engineers (CRITICAL), Personal Finance (NOW), Negotiation (HIGH), Stoicism (HIGH), Mathematics (MEDIUM), Sleep Science (MEDIUM)
+- **Power electronics sequence**: Daniel Hart (*Power Electronics*, undergrad-level) → Erickson & Maksimovic (graduate bible) → WBG deep dive (GaN/SiC Di Paolo Emilio) → digital control (Ordonez/Batarseh); MIT OCW 6.622 (Perreault) is best free complement; Phil's Lab + EEVblog are top YouTube
+- **AI/ML for engineers**: fast.ai (free, top-down) → Andrej Karpathy "Zero to Hero" series (build from scratch) → 3Blue1Brown neural networks → Sutton & Barto RL for control applications → TensorFlow Lite on STM32 (edge ML); EE+ML overlap = Ranjram's ML-CEMS + fault detection + RL for converter control
+- **Negotiation — completely new to wiki**: Chris Voss *Never Split the Difference* (tactical empathy, mirroring, calibrated questions) → *Getting to Yes* (BATNA, principled negotiation) → Cialdini *Influence* (6 persuasion principles); salary negotiation $10k gap at first job = $250k+ career earnings difference
+- **Stoicism reading order**: Daily Stoic (vocab install) → *Ego Is the Enemy* (most relevant for 19yo with ambitions) → Enchiridion (Epictetus, 30 pages, free) → *Meditations* (1 entry/day, Hays translation) → *Letters from a Stoic* (Seneca); Einzelgänger YouTube = best philosophical video essays
+- **Sleep science neuroscience**: Two-process model: Process S (adenosine accumulates during wakefulness, coffee blocks but doesn't reduce it) + Process C (SCN circadian clock, set by blue light at 480 nm); glymphatic system clears amyloid-beta during N3 — chronic <6 hrs = Alzheimer's risk; 17 hrs awake = 0.05% BAC cognitive equivalent; first-half of night = N3 (physical restoration, GH); second-half = REM (emotional processing, creativity, memory consolidation)
+- **Personal finance supplement to existing roadmap**: Ben Felix (evidence-based YouTube), JL Collins *The Simple Path to Wealth* (VTSAX + chill), Ramit Sethi *I Will Teach You to Be Rich* (practical 20s guide), Morgan Housel *Psychology of Money* (behavioral layer)
+- **MIT 18.06 linear algebra** (Prof. Gilbert Strang, free on OCW) is the single best math investment for EE + ML simultaneously — same course serves signals, control theory, and neural network math
+
+## Last Updated (prev)
+2026-05-09 — Autoresearch complete: Alcohol Harm by Consumption Tier + Quitting Timeline; 2 pages created: [[Alcohol Harm Guide by Consumption Tier]] (4-tier harm table, quitting timeline, age-group comparison), [[Research - Alcohol Harm Tiers and Quitting Timeline]] (8-finding synthesis, 5 searches, 12 sources); key finding: no safe level exists at any age; women reach damage thresholds at half men's intake; quitting produces measurable benefits starting within hours
+
+## Key Recent Facts (prev)
 
 ### Alcohol Harm Tiers — autoresearch complete (2026-05-09)
 - **No safe level — 2025 consensus**: WHO, Lancet, CDC, Stanford all align: the J-curve "light drinking is cardioprotective" hypothesis is debunked; AACR 2024: >5% of all U.S. cancers attributable to alcohol
