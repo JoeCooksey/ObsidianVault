@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-10] autoresearch | Cutting vs Maintenance for Lower Abs — Body Composition Protocol
+- Searches: 8 | Pages created: 4 | Pages updated: 2 (index, hot)
+- Pages: [[Research - Cutting vs Maintenance for Lower Abs]], [[Stubborn Lower Abdominal Fat]], [[Metabolic Adaptation and Diet Breaks]], [[Body Fat Percentage and Visible Abs]]
+- Key findings: (1) Lower abs require 10–12% BF in men — upper abs appear at 14–15%, lower abs 3–5% lower due to alpha-2 receptor dominance and reduced blood flow; (2) After 4 months of continuous cutting, metabolic adaptation is severe — NEAT drops 10–15%, REE suppresses beyond weight loss, testosterone drops (in lean men), cortisol rises; (3) The MATADOR study (2017, Nature/IJO) shows intermittent restriction beats continuous cutting for fat loss despite identical deficit weeks — maintenance breaks allow metabolic normalization; (4) Correct protocol: 4–8 week maintenance phase first (reset metabolism, build muscle via recomposition), then 8–10 week mini-cut at modest 300–400 kcal deficit; (5) Continuing to cut harder is counterproductive — deepens adaptation, accelerates muscle loss, doesn't fix the stall; (6) Bulking is also wrong choice — adds fat over hidden lower abs and delays the reveal; (7) Weighted progressive overload abs training (8–15 reps, add resistance) builds muscle thickness that makes abs more visible at any body fat level
+
 ## [2026-05-09] autoresearch | Book Reading for Maximum Retention — Full Guide
 - Searches: 8 | Pages created: 4 | Pages updated: 2 (index, hot)
 - Pages: [[Book Reading for Maximum Retention]], [[Adler Four Levels of Reading]], [[Active Reading Techniques]], [[Book Knowledge Management System]], [[Research - Book Reading for Maximum Retention]]
