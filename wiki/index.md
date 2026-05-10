@@ -72,6 +72,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Language Learning Roadmap and ROI]] — synthesis: Spanish = #1 ROI for Joe (600 hrs, AZ market, immersion available), German = #2 (750 hrs, power electronics/automotive/EU STEM), Mandarin = 3.6× harder than Spanish (only for China specialization track); full roadmap + sources (complete)
 
 ### Self-Teaching / Lifelong Learning
+- [[Book Reading for Maximum Retention]] — master guide: 5-phase system (pre-reading → active → note-taking → spaced repetition → implementation), SQ3R + Feynman + Zettelkasten + Anki stack, checklist, book-type table, top performer habits (complete)
+- [[Adler Four Levels of Reading]] — four-level framework: elementary, inspectional (10–30 min skim), analytical (structural → interpretive → critical), syntopical (multiple books, your own analysis); when to use each (complete)
+- [[Active Reading Techniques]] — SQ3R method (5 steps), annotation rules (≤1 sentence/paragraph + marginal notes explaining WHY), Feynman technique for comprehension checking, the 50-page rule (complete)
+- [[Book Knowledge Management System]] — Zettelkasten pipeline: fleeting → literature → permanent atomic notes; Anki + Readwise spaced repetition stack; post-book summary template; common mistakes table (complete)
 - [[Top Topics to Research — Master Guide]] — ROI-ranked master index of 7 top research topics for Joe; 90-day activation plan; cross-topic synergy table; links to all individual roadmaps (complete)
 - [[Power Electronics Deep Study Roadmap]] — 4-phase self-study guide (Hart → Erickson → WBG deep dive → digital control); books, YouTube, milestones, WBG magnetics; research-track oriented (complete)
 - [[AI ML for Engineers Roadmap]] — 3-phase roadmap (ML fundamentals → deep learning → edge AI); fast.ai, Karpathy, 3B1B, Sutton RL, TensorFlow Lite on STM32; power electronics × ML intersection (complete)
