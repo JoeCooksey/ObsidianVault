@@ -11,6 +11,10 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-09] autoresearch | Book Reading for Maximum Retention — Full Guide
+- Searches: 8 | Pages created: 4 | Pages updated: 2 (index, hot)
+- Pages: [[Book Reading for Maximum Retention]], [[Adler Four Levels of Reading]], [[Active Reading Techniques]], [[Book Knowledge Management System]], [[Research - Book Reading for Maximum Retention]]
+
 ## [2026-05-09] autoresearch | AI Roblox Game Development — Viral Design, Monetization, Game Concepts
 - Searches: 10+ | Pages created: 6 | Pages updated: 2
 - Created: [[Roblox Game Development with AI]], [[Roblox Viral Game Design Patterns]], [[Roblox Monetization Strategies]], [[Roblox Game Concepts for AI-Assisted Dev]], [[Research - AI Roblox Game Development]], [[Roblox AI Development Guide 2025]] (source)
