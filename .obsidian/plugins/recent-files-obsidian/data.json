@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Book Recommendations Master List",
+      "path": "wiki/sources/Research - Book Recommendations Master List.md"
+    },
+    {
       "basename": "Book Knowledge Management System",
       "path": "wiki/concepts/Book Knowledge Management System.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Joe's Custom Seasonal Training Plan",
       "path": "wiki/concepts/Joe's Custom Seasonal Training Plan.md"
-    },
-    {
-      "basename": "Cardio Complete Masterclass",
-      "path": "wiki/concepts/Cardio Complete Masterclass.md"
     }
   ],
   "omittedPaths": [],
