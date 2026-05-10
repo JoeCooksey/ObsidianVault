@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Book Reading for Maximum Retention",
-      "path": "wiki/concepts/Book Reading for Maximum Retention.md"
+      "basename": "Book Knowledge Management System",
+      "path": "wiki/concepts/Book Knowledge Management System.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Book Reading for Maximum Retention",
+      "path": "wiki/concepts/Book Reading for Maximum Retention.md"
     },
     {
       "basename": "AI ML for Engineers Roadmap",
@@ -195,10 +199,6 @@
     {
       "basename": "Cardio Complete Masterclass",
       "path": "wiki/concepts/Cardio Complete Masterclass.md"
-    },
-    {
-      "basename": "Muscle Building Complete Guide",
-      "path": "wiki/concepts/Muscle Building Complete Guide.md"
     }
   ],
   "omittedPaths": [],
