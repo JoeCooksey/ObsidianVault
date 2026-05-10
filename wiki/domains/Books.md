@@ -54,6 +54,16 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - Operant reinforcement — praise every improvement immediately; the signal must reach the person in the moment
 - Identity lever — treat people as who they could be and they rise to it; give a reputation to live up to
 
+### From Steve Jobs (Isaacson)
+- **[[Reality Distortion Field]]** — Jobs's ability to bend others' perception of possibility through charm, charisma, and relentless conviction; coined by Bud Tribble (1981); appeared 34 times in the biography; the mechanism behind both his greatest achievements and his worst behaviors
+- **Humanities × Sciences Intersection** — Jobs's central thesis: the greatest innovations live at the crossroads of technology and liberal arts; his Reed College calligraphy class → Mac typography is the prototype example
+- **Product over profit** — "If you don't cannibalize yourself, someone else will"; build what you believe in and profits follow; opposed to focus groups ("people don't know what they want until you show them")
+- **Simplicity as philosophy** — "Simplicity is the ultimate sophistication"; radical subtraction rather than addition; when Jobs returned to Apple in 1997 he cut from 350 products to 10
+- **End-to-end integration** — hardware + software + content as a closed, controlled system; the formula behind iPod→iTunes→iPhone→App Store
+- **Imputing** — packaging, stores, and presentation communicate product quality as powerfully as the product itself; the unboxing experience as product
+- **The 14 imperatives** — Focus, Simplify, Take responsibility end to end, Leapfrog when behind, Products before profits, Ignore focus groups, Bend reality, Impute, Push for perfection, Only A players, Engage face to face, Know big picture + details, Combine humanities and sciences, Stay hungry
+- **Pixar lesson** — buying Pixar for $5M in 1986 and funding it for a decade through losses was Jobs's greatest act of vision; Toy Story (1995) made him a billionaire and proved the end-to-end integration model that became the iPhone
+
 ### From The Psychology of Money (Housel)
 - [[Compounding Wealth]] — 99% of Buffett's wealth came after 60; duration beats rate; First Rule: don't interrupt
 - [[Untouchables]] — five things never worth sacrificing for money: reputation, freedom, family, friends, happiness
@@ -76,6 +86,7 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2005/2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
 - [[Morgan Housel]] — *The Psychology of Money* (2020); behavioral finance; "behavior > knowledge"; compounding, freedom, enough
+- [[Steve Jobs]] — *Steve Jobs* by Walter Isaacson (2011); Reality Distortion Field; humanities × sciences intersection; product absolutism; 3M+ copies sold; authorized biography
 
 ## Cross-Domain Connections
 
@@ -113,3 +124,4 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging system, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
 - [[The Psychology of Money - Morgan Housel]] — Housel (2020); 20 chapters on behavioral finance; behavior > knowledge; compounding, freedom, enough, tail events; Joe reading since 3/1/2026
+- [[Steve Jobs - Walter Isaacson]] — Isaacson (2011); authorized biography; 40+ interviews; Reality Distortion Field; 14 leadership imperatives; full life arc 1955–2011; 3M+ US copies

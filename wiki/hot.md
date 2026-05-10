@@ -1,16 +1,598 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-04-28T00:00:00
+updated: 2026-05-10T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-04-28 — Autoresearch: Caffeine Complete Research; matcha = S-tier drink; 90-min morning delay protocol; cycling strategies (weekend off → 5/2 → pre-competition taper); sleep cutoff rules; drink tier list S→F
+2026-05-10 — Autoresearch complete: Cutting vs Maintenance for Lower Abs; 4 pages created: [[Research - Cutting vs Maintenance for Lower Abs]] (full protocol + decision logic), [[Stubborn Lower Abdominal Fat]] (alpha-2 receptor biology), [[Metabolic Adaptation and Diet Breaks]] (MATADOR study + full break protocol), [[Body Fat Percentage and Visible Abs]] (BF% threshold table + estimation methods); key findings: lower abs require 10–12% BF (not just "be lean"); after 4 months of cutting, the correct move is a 4–8 wk maintenance break then a focused 8–10 wk mini-cut — not cutting harder or bulking
 
 ## Key Recent Facts
+
+### Cutting vs Maintenance for Lower Abs — autoresearch complete (2026-05-10)
+- **Lower abs require 10–12% BF for men**: upper abs appear around 14–15%, but lower abs have 3–4× more alpha-2 receptors that block fat release — they are biologically last
+- **Alpha-2 receptor dominance**: lower ab fat cells inhibit lipolysis via alpha-2 adrenergic receptors; reduced blood flow (2–3× fewer capillaries) compounds the problem — fat is mobilized from these cells last
+- **Cortisol preference**: chronic dieting raises cortisol, which preferentially protects and deposits fat in the lower abdomen — extended cuts literally work against lower abs
+- **After 4 months of cutting**: REE is suppressed 10–15% beyond weight-loss-predicted, NEAT drops, T3 falls, testosterone drops in lean men, leptin crashes — a 500 kcal deficit is likely only 200–300 kcal effective
+- **MATADOR study (2017)**: RCT of 51 men — intermittent dieting (2-week deficit blocks alternating with 2-week maintenance breaks) produced significantly more fat loss than continuous dieting, despite identical total deficit weeks; maintenance breaks allow metabolic re-normalization
+- **The protocol**: (1) 4–8 week maintenance phase to reset metabolism + build muscle via recomposition; (2) then 8–10 week mini-cut at 300–400 kcal deficit, 1.0–1.2 g protein/lb; (3) weighted progressive overload abs during both phases (8–15 reps, add weight)
+- **What not to do**: cutting harder → deepens adaptation; bulking → adds fat over the exact area you're trying to reveal; endless cardio → raises cortisol and accelerates muscle loss
+
+## Last Updated (prev)
+2026-05-09 — Autoresearch complete: Book Reading for Maximum Retention; 4 pages created: [[Book Reading for Maximum Retention]] (5-phase master guide), [[Adler Four Levels of Reading]], [[Active Reading Techniques]], [[Book Knowledge Management System]]; key findings: passive reading loses 90% within a week; retrieval practice beats re-reading by 50–100%; Feynman technique distinguishes familiarity from understanding
+
+## Key Recent Facts (prev)
+2026-05-09 — Autoresearch complete: AI Roblox Game Development; 6 pages created: [[Roblox Game Development with AI]] (Studio Assistant agentic workflow, AI tools stack, 7-step vibe-coding guide), [[Roblox Viral Game Design Patterns]] (5 viral principles, genre trends, 90-day post-viral lifecycle), [[Roblox Monetization Strategies]] (all 5 revenue streams, real DevEx numbers, per-genre strategy), [[Roblox Game Concepts for AI-Assisted Dev]] (10 buildable concepts with difficulty/monetization/AI tools), [[Research - AI Roblox Game Development]] (8-finding synthesis), [[Roblox AI Development Guide 2025]] (source record); key findings: Studio went fully agentic April 2026, tycoon/garden genre is hottest in 2026, top 10 devs avg $33.9M/year, Joe's best starting concept = Clicker Idle Empire or Garden Tycoon
+
+## Key Recent Facts (prev)
+
+### AI Roblox Game Development — autoresearch complete (2026-05-09)
+- **Roblox Studio went agentic April 2026**: built-in Assistant now handles planning, building, and testing in autonomous loops; 44% of top 1,000 creators use it; use RoCode, LuauGPT, or Nilo instead of generic LLMs (ChatGPT fails on deprecated Roblox APIs)
+- **Hottest genre 2026**: Garden/Tycoon — "Grow a Garden" hit 1 billion visits faster than almost any game in Roblox history; viral formula = short sessions + social comparison + identity expression + trend-riding within 2-week cultural moment window
+- **Real earnings**: top 10 devs avg $33.9M/year; top 1,000 avg $1.3M; median dev earns $1,440/year; Roblox takes ~70% at 350 Robux/$1; new 42% DevEx rate boost for R15 games with verified U.S. adult players (June 2026)
+- **Post-viral lifecycle**: ~80% of top-50 games collapse within 8–12 weeks; 90-day retention framework (bug fix sprint → daily rewards → community anchoring) separates sustained hits; seasonal events 4× long-term retention
+- **10 game concepts for Joe** (Easy→Hard): Clicker Idle Empire (ship in a week), Garden Tycoon (trend rider), Obby Race, Fashion Battle Arena, Social Roleplay Town, Pet Collector Sim, Horror Escape Rooms, Mini-Game Party Pack, Anime Dungeon Crawler, Base Building Survival
+- **AI tools stack**: Studio Assistant (agentic planning + scripting) + RoCode/LuauGPT (Luau-specific codegen) + Cube 3D (3D asset generation) + Material Generator (textures) + NPC Dialogue (hosted LLM for living NPCs)
+- **Joe's recommended first game**: Clicker Idle Empire (lowest complexity, ships fastest, teaches full monetization pipeline) or Garden Tycoon (hottest genre, trend momentum, Easy-Medium difficulty)
+
+## Last Updated (prev)
+2026-05-09 — Autoresearch complete: Top Topics to Research — Master Roadmaps; 7 pages created: [[Top Topics to Research — Master Guide]] (ROI-ranked master index, 90-day plan), [[Power Electronics Deep Study Roadmap]] (Hart→Erickson→WBG, 4 phases), [[AI ML for Engineers Roadmap]] (fast.ai→Karpathy→edge ML, 3 phases), [[Negotiation Skills Roadmap]] (Voss→Fisher/Ury, salary playbook), [[Stoicism Self-Study Roadmap]] (sequenced reading + practice stack), [[Sleep Science Deep Guide]] (two-process model, glymphatic system), [[Research - Top Topics to Research]] (9-search synthesis); key insight: EE+ML is the rarest combo in the workforce, Hart before Erickson is the correct power electronics sequence, negotiation was completely missing from the wiki
+
+## Key Recent Facts
+
+### Top Research Roadmaps — autoresearch complete (2026-05-09)
+- **Top 7 topics ranked for Joe**: Power Electronics (CRITICAL), AI/ML for Engineers (CRITICAL), Personal Finance (NOW), Negotiation (HIGH), Stoicism (HIGH), Mathematics (MEDIUM), Sleep Science (MEDIUM)
+- **Power electronics sequence**: Daniel Hart (*Power Electronics*, undergrad-level) → Erickson & Maksimovic (graduate bible) → WBG deep dive (GaN/SiC Di Paolo Emilio) → digital control (Ordonez/Batarseh); MIT OCW 6.622 (Perreault) is best free complement; Phil's Lab + EEVblog are top YouTube
+- **AI/ML for engineers**: fast.ai (free, top-down) → Andrej Karpathy "Zero to Hero" series (build from scratch) → 3Blue1Brown neural networks → Sutton & Barto RL for control applications → TensorFlow Lite on STM32 (edge ML); EE+ML overlap = Ranjram's ML-CEMS + fault detection + RL for converter control
+- **Negotiation — completely new to wiki**: Chris Voss *Never Split the Difference* (tactical empathy, mirroring, calibrated questions) → *Getting to Yes* (BATNA, principled negotiation) → Cialdini *Influence* (6 persuasion principles); salary negotiation $10k gap at first job = $250k+ career earnings difference
+- **Stoicism reading order**: Daily Stoic (vocab install) → *Ego Is the Enemy* (most relevant for 19yo with ambitions) → Enchiridion (Epictetus, 30 pages, free) → *Meditations* (1 entry/day, Hays translation) → *Letters from a Stoic* (Seneca); Einzelgänger YouTube = best philosophical video essays
+- **Sleep science neuroscience**: Two-process model: Process S (adenosine accumulates during wakefulness, coffee blocks but doesn't reduce it) + Process C (SCN circadian clock, set by blue light at 480 nm); glymphatic system clears amyloid-beta during N3 — chronic <6 hrs = Alzheimer's risk; 17 hrs awake = 0.05% BAC cognitive equivalent; first-half of night = N3 (physical restoration, GH); second-half = REM (emotional processing, creativity, memory consolidation)
+- **Personal finance supplement to existing roadmap**: Ben Felix (evidence-based YouTube), JL Collins *The Simple Path to Wealth* (VTSAX + chill), Ramit Sethi *I Will Teach You to Be Rich* (practical 20s guide), Morgan Housel *Psychology of Money* (behavioral layer)
+- **MIT 18.06 linear algebra** (Prof. Gilbert Strang, free on OCW) is the single best math investment for EE + ML simultaneously — same course serves signals, control theory, and neural network math
+
+## Last Updated (prev)
+2026-05-09 — Autoresearch complete: Alcohol Harm by Consumption Tier + Quitting Timeline; 2 pages created: [[Alcohol Harm Guide by Consumption Tier]] (4-tier harm table, quitting timeline, age-group comparison), [[Research - Alcohol Harm Tiers and Quitting Timeline]] (8-finding synthesis, 5 searches, 12 sources); key finding: no safe level exists at any age; women reach damage thresholds at half men's intake; quitting produces measurable benefits starting within hours
+
+## Key Recent Facts (prev)
+
+### Alcohol Harm Tiers — autoresearch complete (2026-05-09)
+- **No safe level — 2025 consensus**: WHO, Lancet, CDC, Stanford all align: the J-curve "light drinking is cardioprotective" hypothesis is debunked; AACR 2024: >5% of all U.S. cancers attributable to alcohol
+- **Tier 1 (1–7/week)**: Sleep REM suppression, minor cancer risk elevation, gut irritation, dehydration — "low risk" is a myth especially under age 25
+- **Tier 2 (7–14/week)**: Women already in high-risk zone; liver disease risk rising sharply; elevated BP; depression risk doubles; ~1,000 extra cal/week
+- **Tier 3 (14–21/week)**: Fatty liver nearly certain; measurable brain grey matter loss; testosterone suppressed 20–40%; 6 confirmed cancer types; peripheral neuropathy begins
+- **Tier 4 (21+/week)**: Cirrhosis, Wernicke-Korsakoff syndrome risk, cardiomyopathy; **never stop cold turkey without medical supervision** — withdrawal seizures and DTs possible
+- **Quitting timeline**: Hours (rehydration) → Week 1 (sleep, energy) → Week 4 (BP, liver inflammation, ~3 lbs weight loss) → Month 3 (sleep normalized, depression improving) → Month 6 (liver recovered) → Year 1 (cancer/CVD risk dropping) → Years 5–7 (brain fully recovered)
+- **Under-25s**: No safe level; 4× addiction risk vs starting after 25; 60% of alcohol injuries; neuroplasticity means fastest recovery if stopped
+- **65+**: 1 drink = physiological effect of ~2 drinks at 25; medication interactions in 60%+ of older adults; accelerates dementia; slowest recovery
+
+## Last Updated (prev)
+2026-05-06 — Autoresearch complete: Family Road Trip Activities (12-hour drive); 2 pages created: [[Family Road Trip Activities Guide]] (S–C tier list, no-equipment games, audio picks, conversation questions, app stack, logistics checklist), [[Research - Family Road Trip Activities]] (8-finding synthesis, 5 searches); key finding: shared family audiobook + no-equipment games + 90-min break rule = the winning formula
+
+## Key Recent Facts (prev)
+
+### Family Road Trip Activities — autoresearch complete (2026-05-06)
+- **Shared audio is S-tier**: Harry Potter (Jim Dale narration), Brains On!, Six Minutes podcast are the top picks — they unite the whole car and work at all ages; download offline before leaving (cell dead zones are common on interstates)
+- **No-equipment games beat equipment games on a moving vehicle**: 20 Questions, Would You Rather, Categories, Collaborative Storytelling, The Picnic Game — zero setup, no items to lose, can run 30–90 min without attention decay
+- **The 90-minute break rule**: plan 6–8 stops on a 12-hour drive; SmartStops app (194,000+ parks/playgrounds) finds breaks on your exact route; skipping stops to "make time" destroys morale and driver alertness
+- **Conversation question lists are underused**: 20–30 curated questions (fun → reflective → deep) turn car time into genuine family bonding; print them — don't rely on passing a phone around; the "captive audience" effect makes long drives the best family conversation window of the year
+- **App stack**: SmartStops (breaks), Roadtrippers (route), GasBuddy (fuel), iExit (freeway food/restrooms), Wanderlog (optional route optimizer)
+- **Screen time = burst not drip**: 30-min tablets at scheduled points (after 3 hrs, after lunch stop) outperform passive all-day screen use in trip satisfaction
+- **Driver must rotate every 2–3 hrs**; night driving is 3× riskier — stop before 10 PM, resume 6 AM
+- **Snack logistics are a morale variable**: keep accessible snacks always; avoid heavy meals mid-drive (food coma worsens driver fatigue)
+
+## Last Updated (prev)
+2026-05-06 — Autoresearch complete: Diet Cheat Day Recovery; 3 pages created: [[Diet Cheat Day Recovery Guide]] (24-hr protocol, metabolic table, mindset reframes, structural prevention), [[Food Guilt and Diet Psychology]] (binge-restrict cycle, abstainer vs moderator, cognitive distortions, food neutrality), [[Research - Diet Cheat Day Recovery]] (8-finding synthesis + 10 sources); 5 web searches run
+
+## Key Recent Facts
+
+### Diet Cheat Day Recovery — autoresearch complete (2026-05-06)
+- **One cheat does not ruin fat loss**: 1 lb body fat = ~3,500 surplus calories; typical 1,500–2,000 kcal cheat day just reduces the week's deficit — the math still works in your favor
+- **Scale spike is water, not fat**: glycogen + sodium retention causes 1–5 lb increase; resolves in 24–72 hours once you return to normal eating
+- **The psychological harm > physiological harm**: guilt → all-or-nothing thinking ("I already blew it") → continued eating → more caloric damage than the original cheat; Duke Med & Psychology Today (2025) confirm this pattern
+- **Do NOT restrict to compensate**: fasting or cutting calories after a cheat reinforces binge-restrict cycling, elevates cortisol, increases cravings, and sets up the next cheat — the research is clear on this
+- **24-hr recovery protocol**: resume normal eating at next meal (no skipping) → next 1–2 meals: high protein (30–40g) + 2+ cups vegetables, minimize starchy carbs → drink 3–4L water → light movement only (walk/easy bike, NO punishing HIIT) → 7–9 hrs sleep (ghrelin/leptin regulation)
+- **The word "cheat" is the problem**: moral language around food ("cheating," "being bad") predicts higher rates of binge eating and lower adherence; 90/10 rule (90% on-plan, 10% flex) beats 100% rigid restriction
+- **Abstainer vs moderator**: abstainers do better removing trigger foods from home entirely; moderators need a scheduled flex meal to prevent compulsive cheating — wrong strategy for the wrong type = higher failure rate
+- **The Next Meal Rule**: the optimal restart is always the next meal — not Monday, not tomorrow morning — any meal, any time of day
+- **Structural fix**: food log + trigger analysis (stress? under-restriction? social?) → specific plan for that situation → repeat triggers stop being ambushes
+
+## Last Updated (prev)
+2026-05-06 — Autoresearch complete: Language Learning — Pros, Best Languages, and Full Roadmap; 6 pages created: [[Benefits of Language Learning]] (cognitive, career, social, health pros), [[Language ROI Rankings]] (Spanish #1, German #2 for Joe as EE student), [[FSI Language Difficulty Tiers]] (Cat I–V hour chart), [[Language Learning Roadmap]] (Phase 0–3 complete self-study guide), [[Immersion Method Language Learning]] (Refold/Anki/comprehensible input method), [[Research - Language Learning Roadmap and ROI]] (synthesis + sources); 6 web searches run
+
+## Key Recent Facts (prev)
+
+### Language Learning — autoresearch complete (2026-05-06)
+- **Spanish = #1 ROI for Joe**: FSI Category I — 575–600 hrs to professional proficiency; 41M US speakers; dominant in Arizona/California job markets; immersion available everywhere without travel; 30 min/day → ~A2/B1 by May 2027
+- **German = #2 for STEM engineers**: FSI Category II — ~750 hrs (only 25% harder than Spanish); Germany leads global power electronics, automotive electrification, and semiconductors (Infineon, Bosch, Siemens, BMW); 2nd most important research language after English; aligns directly with Joe's WBG/power electronics track
+- **Mandarin is 3.6× harder than Spanish** (2,200 hrs, Category V); only worth pursuing for China specialization (AI, EVs, solar manufacturing, CATL/BYD supply chain); not recommended for Joe without specific China-market goal
+- **5–20% salary premium** for bilinguals (The Economist); 9/10 US employers want multilingual employees; multilingual leaders build faster trust with international teams
+- **Cognitive benefits are structural**: bilingualism increases gray matter density; delays cognitive decline 4.5 years regardless of gender/ethnicity/occupation; *Nature Aging* Nov 2025: 50% less likely to show accelerated biological aging
+- **Refold immersion method**: Anki (10–15 new cards/day, review every day) creates vocabulary scaffolding; comprehensible input at 70–80% comprehension level is the acquisition engine; speaking at month 3–4 even if terrible — errors are data
+- **Consistency > intensity**: 15 min/day every day beats 2 hrs/week; language acquisition is cumulative — brain requires regular drip exposure to consolidate
+- **CEFR hour targets (Spanish)**: A1 = 50–100 hrs; B1 conversational = 200–400 hrs; C1 professional = 600–1,000 hrs; 300 total engaged hours = comfortable conversation (realistic year-2 target)
+
+## Last Updated (prev)
+2026-05-06 — Autoresearch complete: Buck Converter Build Guide (12V→5V, 1A, 100 kHz STM32 digital control); 6 pages created: [[Buck Converter Theory and Design]] (design equations, component sizing, efficiency budget), [[Buck Converter LTspice Simulation]] (step-by-step sim guide), [[STM32 Digital Control for Buck Converter]] (TIM1 PWM, IR2110, PI C code, 5 beginner exercises), [[Buck Converter PCB Design and Fabrication]] (KiCad layout rules, JLCPCB ordering, IR2110 COM grounding rule), [[Buck Converter Measurement and Characterization]] (6 oscilloscope measurements + Bode plot + report outline), [[Research - Buck Converter Build Guide]] (8-finding synthesis); 7 web searches run
+
+## Key Recent Facts
+
+### Buck Converter Build — autoresearch complete (2026-05-06)
+- **D = Vout/Vin = 5/12 = 41.7%** — the central equation; t_on = 4.17 µs, t_off = 5.83 µs at 100 kHz
+- **L = 100 µH** — from (Vin−Vout)×D / (fsw×ΔiL) = 7×0.417/(100k×0.3) ≈ 97 µH; peak inductor current 1.15A → need ≥1.5A saturation rating
+- **C_out = 44 µF** — two 22 µF MLCC X7R ceramics in parallel; ΔVout ≈ 9 mV (well under 50 mV spec)
+- **STM32 TIM1**: ARR=839 (center-aligned), PSC=0, 168 MHz clock → 100 kHz PWM; CCR1=~350 for D=41.7%; dead time = DTG=17 in BDTR register → ~101 ns hardware dead time; ADC triggered at counter peak = minimum-ripple sampling point
+- **IR2110 gate driver**: VDD=3.3V (STM32 compatible), VCC=12V, bootstrap capacitor=220 nF (UF4007 ultrafast diode — NOT 1N4007), drives both MOSFETs from single 12V supply
+- **Power loop layout**: input cap → M1 → SW node → M2 → back to cap — must fit in 15×15 mm square; this is the single most important PCB rule
+- **IR2110 COM grounding rule**: COM pin must route directly to low-side MOSFET (M2) source pad — NOT to the general ground plane; wrong routing corrupts gate drive and causes misbehavior
+- **MOSFET choice**: IRLZ44N (TO-220, logic-level, 60V, 22.5 mΩ, 63 nC Qg) — easy to prototype, IR2110 drives with 10–12V
+- **Efficiency budget**: ~94% theoretical; dominated by inductor DCR (110 mW) and gate drive (151 mW); measured target 90–93%
+- **3 measurements for FURI report**: efficiency curve (20%→120% load), load transient (< 200 mV undershoot, < 1 ms settling), Bode plot (> 45° phase margin) — no other freshman will have all three
+- **Build sequence**: STM32 exercises (weeks 1–3) → LTspice design (weeks 4–6) → breadboard → KiCad PCB → JLCPCB ($20/5 boards, 2–3 weeks delivery) → characterization + report (weeks 10–12); total cost ~$55
+
+## Last Updated (prev)
+2026-05-05 — Autoresearch: Cardio Complete Masterclass + Joe's Custom Seasonal Training Plan; 3 pages created: [[Cardio Complete Masterclass]] (VO2 max longevity science, Zone 2 protocol, VO2 max interval blocks, polarized 80/20 rule, interference effect rules, modality tier list, zone testing), [[Joe's Custom Seasonal Training Plan]] (Spring=endurance, Summer=strength, Fall=speed, Winter=muscle; day-by-day splits for all 4 seasons; Joe-specific posterior chain adjustments), [[Research - Cardio Complete Masterclass and Seasonal Plan]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### Cardio Complete Masterclass + Joe's Seasonal Plan — newest autoresearch
+- **VO2 max = #1 longevity biomarker**: each 1 MET increase reduces all-cause mortality ~15%; moving from below-average to good VO2 max cuts mortality risk ~30%; no other intervention matches this effect size per time invested.
+- **Zone 2 is the foundation**: 45+ min minimum per session triggers mitochondrial biogenesis; below 45 min = recovery, not adaptation. San Millán protocol: 3–4×/week × 45–60 min. 8–12 weeks to meaningful adaptation.
+- **Zone 3 is the grey zone — avoid it chronically**: too hard to recover from, not hard enough to drive VO2 max. Polarized rule: 80% Zone 1–2, 20% Zone 4–5, ~0% Zone 3 chronic.
+- **VO2 max intervals in blocks**: 2–3 weeks × 2 sessions/week → 1 recovery week. Norwegian 4×4 (4 × 4 min at 90–95% max HR) is gold standard. Short 30/15 intervals accumulate more time above 90% VO2 max per session.
+- **Interference effect rule**: 2 Zone 2 cycling sessions/week = minimal interference with lifting. Running interferes more than cycling (eccentric damage). Lift before cardio in same session. Separate hard efforts by 6+ hrs.
+- **Joe's seasonal plan**:
+  - **Winter (muscle)**: Upper/Lower hypertrophy × 4 days + 2 Zone 2 cycling days; +200–300 kcal lean bulk
+  - **Spring (endurance)**: Full Body × 2 maintenance + 4–5 cardio days (Zone 2 → LT → VO2 max progression); −200–300 kcal cut
+  - **Summer (strength)**: Upper/Lower strength × 4–5 days (3–5 rep range, 85–90% 1RM) + 2 Zone 2 cycling days; maintenance calories
+  - **Fall (speed)**: Power Full Body × 3 days + sprint sessions 2–3×/week; maintenance +100–200 kcal
+- **Sprint protocol**: 8–10 × 30 sec all-out / 2–3 min full recovery = max speed; 10 × 10 sec / 90 sec easy = repeated sprint ability; 6–8 × 20 sec hill sprints = safest entry. Six weeks drives fast-twitch neuromuscular adaptations.
+- **Joe-specific adjustments**: cycle (not run) during summer strength phase; extra posterior chain set every season; OHP + rows + face pulls are priority every season; Lower B (deadlift + hip thrust) is the most important day of the week in summer.
+
+## Last Updated (prev)
+2026-05-05 — Autoresearch: Muscle Building Complete Masterclass; 11 pages created: [[Muscle Building Complete Guide]] (mechanisms, volume, frequency, RIR, progressive overload), [[Workout Splits Tier List]] (S–D ranking + full sample programs), [[Overall Exercise Tier List]] (master S–F list + #1 per muscle group), [[Exercise Tier List — Chest]], [[Exercise Tier List — Back]], [[Exercise Tier List — Legs]], [[Exercise Tier List — Shoulders]], [[Exercise Tier List — Arms]], [[Muscle Group Priority Guide]] (visual + injury prevention tiers + Joe-specific stack), [[Muscle Building Nutrition Guide]] (protein/macros/supplements), [[Research - Muscle Building Complete Guide]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### Muscle Building Complete Masterclass — newest autoresearch
+- **Mechanical tension at stretch = primary driver**: Full ROM with tension in the stretched/lengthened position produces the most hypertrophy. This is why cables beat free weights on isolation exercises and preacher curls beat standing curls.
+- **10–20 sets/week per muscle, ~8 sets per session max**: Dose-response relationship is clear. Cap per session at ~8 sets before fatigue outweighs stimulus. Must train 2×/week per muscle — this is the main failure of bro splits.
+- **S-tier split: PPL 6-day or Upper/Lower 4-day**: Both give 2×/week frequency. Bro split = C-tier (1× frequency). Full body 3-day = A-tier for beginners.
+- **Rep range 5–30 all work; RIR 1–2 is the sweet spot**: 90–95% of max hypertrophic stimulus with manageable fatigue. Last set to failure is fine; every set to failure is counterproductive.
+- **Best exercise per muscle**: Hack squat (quads) · RDL (hamstrings) · Machine hip thrust or walking lunges (glutes) · Machine chest press (chest) · Chest-supported row (back) · Lat pulldown neutral (lats) · Machine shoulder press + cable lateral raise (delts) · Bayesian cable curl (biceps) · Overhead cable extension (triceps).
+- **Most neglected muscles**: Rear delts (shoulder impingement prevention), lateral delts (visual width), hamstrings (ACL protection), upper back/traps (posture + all lift performance). Fix: equal pulling to pressing volume; add cable lateral raises to every upper session; add face pulls always.
+- **Protein: 1.6–2.2 g/kg/day in 3–5 meals**: 0.4–0.55 g/kg per meal. Lean bulk = +200–300 kcal/day. Rate of weight gain: 0.25–0.5% bodyweight/week.
+- **Creatine monohydrate 3–5 g/day post-workout**: Only supplement with strong multi-study evidence for hypertrophy and strength. BCAAs = D-tier (redundant). Pre-workout blends = C-tier (just caffeine + stimulants).
+- **Joe's priority stack** (cyclist background — strong quads, weak posterior chain and upper body): Lats + upper back → Lateral + rear delts → Hamstrings + glutes → Chest → Quads (maintenance).
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: Electrolyte Supplements; 2 pages created: [[Electrolyte Supplements]] (6-electrolyte table, evidence threshold, deficiency signs, keto section, brand tier list S–D, best practices timing/dosing/DIY, situation table), [[Research - Electrolyte Supplements]] (8-finding synthesis; 60–75 min threshold; Re-Lyte = best overall; LMNT = best for keto; Liquid IV = worst value; third-party testing = key signal; Joe's specific protocol)
+
+## Key Recent Facts (prev)
+
+### Electrolyte Supplements
+- **Most people don't need them**: Sedentary individuals and those exercising <60 min get all needed electrolytes from food + water. Global sodium intake already 4.3g/day — 2× WHO recommendation.
+- **The threshold**: >60–75 min of moderate-to-high intensity exercise, hot/humid conditions, heavy sweating, low-carb diet.
+- **S-tier brand: Redmond Re-Lyte** — 810mg Na, 400mg K, 60mg Mg malate, no sugar, ~$1/serving. Best overall.
+- **S-tier brand: LMNT** — 1,000mg Na, 60mg Mg, zero sugar. Best for heavy sweaters and keto athletes.
+- **Avoid: Liquid IV** — 11g added sugar, no magnesium. Marketing product, not science-optimized.
+- **Joe's protocol**: Rides <60 min = no supplement. Rides >60 min = Re-Lyte or LMNT.
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: Daily Mobility Stretch Routine; 2 pages created: [[Daily Mobility Routine]] (AM dynamic 7-min protocol + PM static 12-min protocol; 5 priority targets; World's Greatest Stretch step-by-step; Joe cycling + desk notes), [[Research - Daily Mobility Stretch Routine]] (8-finding synthesis; dynamic AM + static PM rule; evening flexibility advantage; hip flexors as #1 priority; PM stretching improves sleep; 8-week structural change; consistency as dominant variable)
+
+## Key Recent Facts
+
+### Daily Mobility Routine — newest autoresearch
+- **Dynamic AM, static PM — the rule**: Dynamic (cat-cow, 90/90, World's Greatest Stretch flow) in the morning; static holds (30–90 sec) in the evening. Static stretching before neural activation reduces power output ~8% and sprint speed 1.2%. Evening static stretching activates parasympathetic NS, reduces cortisol, improves sleep.
+- **World's Greatest Stretch = highest-ROI mobility exercise**: single movement covers hip flexors + thoracic rotation + hamstrings + ankle dorsiflexion in ~90 seconds (3 reps/side). Step right foot outside right hand → drop left elbow to floor → rotate right arm to ceiling → step back → repeat left. Kelly Starrett's foundational daily drill.
+- **Morning protocol (7 min)**: Cat-Cow (2×10) → 90/90 Hip Switch (2×60 sec/side) → World's Greatest Stretch (3 reps/side) → Ankle Wall Stretch (2×30 sec/side) → Deep Squat Hold (2×30 sec)
+- **Evening protocol (12 min)**: Child's Pose (60 sec) → Supine Twist (60 sec/side) → Pigeon/Figure-4 (90 sec/side) → Doorway Chest Stretch (30 sec/side) → Supine Hamstring Stretch (60 sec/leg) → Legs-Up-Wall (3–5 min)
+- **Hip flexors are priority #1**: The iliopsoas shortens at exactly 90° hip flexion — the angle of sitting and cycling. Anterior pelvic tilt from tight hip flexors is the upstream cause of most lower back pain. Critical for Joe specifically as a cyclist + desk student.
+- **Thoracic spine is upstream of three pain sources**: limited thoracic rotation forces both the cervical (neck) and lumbar (lower back) spine to compensate. World's Greatest Stretch + supine twist fixes all three simultaneously — 5 min/day has multiplier effect.
+- **PM stretching improves sleep**: 2016 systematic review links static stretching/meditative movement to improved sleep quality. Legs-Up-Wall activates parasympathetic NS within 2–3 min. Time 30–60 min before bed.
+- **8 weeks for structural change**: neuromuscular changes (feeling looser) happen in days; tissue remodeling (sarcomere addition) requires 5–10 min/muscle/week for 8 consecutive weeks. Don't judge the routine before week 8.
+- **Consistency beats everything**: 5 min/day > 20 min/week. Frequency is the primary predictor of long-term mobility gains — not duration, timing, or temperature.
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: 5 Pillars of Fitness and Seasonal Periodization; 3 pages created: [[5 Pillars of Fitness]] (ACSM 5-component framework + Attia's Stability layer; priority tables by goal; weekly minimums per pillar), [[Seasonal Fitness Periodization]] (full annual plan with Fall/Winter/Spring/Summer phase tables, sample weekly structures, bulk/cut alignment, VO2 max block placement), [[Research - 5 Pillars of Fitness and Seasonal Periodization]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### 5 Pillars of Fitness & Seasonal Periodization — newest autoresearch
+- **The 5 Pillars (ACSM)**: (1) Cardiovascular Endurance, (2) Muscular Strength, (3) Muscular Endurance, (4) Flexibility/Mobility, (5) Body Composition — all five must be trained; ignoring any creates injury risk, performance caps, or health deficits
+- **Attia's missing pillar — Stability**: foundational layer beneath all others; single-leg control, rotational control, spinal loading patterns; 5–10 min before every session year-round; without it, heavy strength work leads to injury not gains
+- **Cardiovascular Endurance has two distinct layers**: aerobic base (Zone 1–2, Fall/Winter, 3+ hrs/week) and VO2 max blocks (4×4 min intervals, Spring, concentrated 2–3 week mesocycles); do not mix them year-round
+- **Strength training annual arc**: Anatomical Adaptation/Endurance (Fall, 15–25 reps, 50–60% 1RM) → Hypertrophy (early Winter, 8–12 reps, 65–75% 1RM) → Strength (late Winter, 3–6 reps, 80–90% 1RM) → Power (Spring, 1–3 reps, 85–95% 1RM + explosive)
+- **Muscular Endurance is the neglected pillar**: must precede heavy loading; peak in Fall as general prep; builds joint tolerance + lactate buffering; maintained via circuit finishers in other seasons
+- **Body composition seasonal rhythm**: lean bulk Fall/Winter (+200–300 kcal/day) → cut Spring (−300–500 kcal/day, 8–12 weeks) → maintain Summer; NEVER cut during a strength peak — it destroys gains
+- **Flexibility/Mobility**: year-round daily work (10–20 min) beats seasonal surges; dynamic before training, static after; mobility (neuromuscular) changes in weeks; flexibility (tissue) needs months; elevated Winter emphasis
+- **Summer = maintenance season**: reduce volume 30–40%, preserve intensity; 1–2×/week strength, 2–3×/week cardio; active lifestyle (hiking, swimming, sports) replaces structured volume; do NOT try to build in summer
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: ASU EE Major Map Semiconductor Connection; 3 pages created: [[ASU EE BSE 2025-2026 Major Map]] (complete 8-semester sequence with all course codes, credits, prerequisites, 7 Area Pathways, full technical elective area list), [[ASU EE Major Map Semiconductor Connection]] (5-layer framework: math language → physics foundation → semiconductor core → device circuits → domain applications; complete domain pathway tables; WBG connection chain; Joe's optimal pathway selection), [[Research - ASU EE Major Map Semiconductor Connection]] (8-finding synthesis: EEE 352 as entire first-half destination; PHY 241 as quantum foundation; EEE 334's inversion pedagogy; 7 pathways = 7 semiconductor domains; EEE 350 as noise physics; WBG physical extremes; MOSFET→processor chain; senior design synthesis)
+
+## Key Recent Facts
+
+### ASU EE Major Map — Semiconductor Connection — newest autoresearch
+- **EEE 352 (Properties of Electronic Materials) is THE gateway course** — prerequisites: CHM 114 + EEE 241 + PHY 241; teaches silicon crystal structure, intrinsic carrier concentration, Fermi level, n/p-type doping, drift/diffusion transport, p-n junction I-V (Shockley equation); every course in Terms 1–4 is building toward this moment
+- **PHY 241 (Modern Physics) is the quantum foundation** — Fermi-Dirac statistics + energy band theory explains WHY Si has a 1.1 eV bandgap and ~1.5×10¹⁰ cm⁻³ intrinsic carriers at 300K; without PHY 241, EEE 352 is memorized formulas; with it, EEE 352 is derived from first principles
+- **EEE 334's pedagogical inversion** — students use diodes/BJTs/MOSFETs as circuit models (EEE 334, Term 5) BEFORE learning the physics (EEE 352 Pathway); deliberate "top-down then bottom-up" strategy
+- **7 Area Pathways = 7 semiconductor domains** — EEE 304 (DSP/signals), EEE 333 (FPGA/ASIC), EEE 335 (analog ICs), EEE 341 (RF/microwave GaN), EEE 352 (device physics core), EEE 360 (WBG power), EEE 394 (quantum devices); 4 of 7 required
+- **WBG connection chain**: PHY 241 → EEE 352 → EEE 436 → EEE 439/465 → EEE 470 → EEE 472 → EEE 473
+- **Joe's optimal pathway stack** (WBG/Ranjram focus): EEE 352 + EEE 360 + EEE 304 + EEE 333; Tech Elects: EEE 436 + EEE 472 + EEE 470 + EEE 480 + EEE 465 or EEE 473
+- **Complete 8-semester sequence**: Term 1 (16cr): MAT265+CHM114+FSE100+CSE100/110+ENG101+ASU101 | Term 2 (16cr): MAT266+PHY121/122+EEE120+ENG102+HUAD | Term 3 (14cr): MAT267+MAT275+PHY131/132+EEE202 | Term 4 (15cr): MAT342/343+EEE203+EEE241+PHY241+HUAD | Term 5 (14cr): EEE350+EEE334+Pathway1+ECN | Term 6 (15cr): Pathway2+Pathway3+Pathway4+AMIT | Term 7 (15cr): EEE488+3xTechElect+CIVI | Term 8 (15cr): EEE489+2xTechElect+GCSI+SUST
+- **EEE 350 = semiconductor noise physics** — thermal noise (kT/q, Fermi-Dirac origin), shot noise (Q=ne, Poisson junction crossings), 1/f flicker noise (MOSFET SiO₂/Si interface carrier trapping)
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: Stackable EE Scholarships - ASU Second Year; 2 pages created: [[Stackable EE Scholarships - ASU Second Year]] (full tier list: Tier 1 = Fulton Scholarship Universe (continuing students eligible, Nov 1–Feb 1) + ASU ONSA advising; Tier 2 = IEEE PES $10k + IEEE AESS $10k + AFCEA $2.5–5k; Tier 3 = DoD SMART (full tuition + $30–46k stipend) + Goldwater $7,500/yr; Tier 4 = Bold.org + Scholarships360; stacking ceiling ~$62k+/yr), [[Research - Stackable EE Scholarships ASU Second Year]] (8-finding synthesis: DoD SMART is highest-value by large margin, Fulton Universe open to continuing students, Goldwater needs FURI → ONSA pipeline, AFCEA perfect for sophomore entry, IEEE AESS $10k with low competition, Bold.org lowest effort/dollar, NAU renewal is defensive priority, ONSA unlocks all prestige programs)
+
+## Key Recent Facts
+
+### Stackable EE Scholarships (Second Year) — newest autoresearch
+- **DoD SMART — the BIG one**: Full tuition + $30,000–$46,000 annual stipend + summer DoD internship + civilian job offer after graduation; requires post-graduation service at a DoD facility; application opens August 1, closes first Friday of December; [smartscholarship.org](https://www.smartscholarship.org/smart/en)
+- **Fulton Scholarship Universe IS open to continuing students**: $1.7M+ pool, opens Nov 1, deadline Feb 1; not GPA-only — talent, story, leadership also count; log in with ASURITE at scholarships.asu.edu
+- **Goldwater ($7,500/yr) pipeline**: Requires institutional nomination through ASU ONSA; FURI research experience is the key prerequisite; correct sequence: FURI outreach summer 2026 → FURI participation → ONSA meeting Fall 2026 → nomination Jan 2027
+- **AFCEA STEM Majors ($2,500–$5,000)**: Explicitly requires sophomore or junior status — second year is the entry point; min 3.0 GPA; US citizen; check annual deadline at afcea.org
+- **IEEE AESS Engineering Scholarship ($10,000)**: Only 2 awarded annually — small applicant pool; 2.8 GPA minimum (lower than PES); requires AESS student membership + essay + 3 LoRs; evaluated on essay quality + financial need
+- **Bold.org "Be Bold" No-Essay Scholarship ($25,000)**: No GPA requirement, any major, any state; 20-min profile creation auto-matches to dozens more EE scholarships; do this first
+- **NAU renewal is downside protection**: 3.0 GPA + 30 credits/year; losing it costs $5,500–$17,500/yr — more than most external scholarships you'd chase
+- **Priority sequence**: (1) Bold.org profile now → (2) DoD SMART Aug 1 → (3) FURI outreach for Goldwater pipeline → (4) Fulton Universe Nov 1 → (5) Goldwater via ONSA Jan/Feb → (6) IEEE PES by April 30 → (7) AFCEA + IEEE AESS annually
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: Top Apartment Health Products + Coffee Machines; 2 pages created: [[Apartment Health Products Tier List]] (S–B tier list with Amazon links for air purifiers, water filters, yoga mat, foam roller, robot vacuum, humidifier, sleep mask, plus full coffee machine section), [[Research - Top Apartment Health Products]] (8-finding synthesis: air purifier passive ROI, water filter near-infinite ROI, Manduka PRO as only mat you'll ever need, TriggerPoint GRID as PT standard, Bambino Plus as S-tier espresso, Nespresso Vertuo for zero-technique, Keurig K-Mini for space efficiency, robot vacuum as purifier multiplier; full product table with confirmed Amazon links)
+
+## Key Recent Facts
+
+### Apartment Health Products — newest autoresearch
+- **S-tier health: Levoit Core 300 Air Purifier (~$100)** — indoor air 2–5× more polluted than outdoor; HEPA removes 99.97% allergens/VOCs/dust; 24dB quiet; +12 min sleep/night (RCT); [Amazon](https://www.amazon.com/LEVOIT-Core-300-Purifier-Filter/dp/B07SGPPBD4)
+- **S-tier health: Brita 10-Cup Elite (~$35)** — removes 99% lead + chlorine; replaces 1,800 plastic bottles/year; cheapest high-ROI health habit available; [Amazon](https://www.amazon.com/Pitcher-Everyday-Filter-Removes-Capacity/dp/B0B3GK9RW6)
+- **S-tier health: Manduka PRO Yoga Mat (~$120)** — lifetime warranty; 6mm cushioning; closed-cell hygienic surface; enables all floor exercise; one purchase for life; [Amazon](https://www.amazon.com/Manduka-PRO-Yoga-Mat-Performance/dp/B078VJ81M2)
+- **A-tier health: TriggerPoint GRID Foam Roller (~$35)** — PT standard; multi-density surface replicates massage therapist hands; reduces DOMS; 500 lb capacity; [Amazon](https://www.amazon.com/TriggerPoint-Roller-Online-Instructional-Original/dp/B07JGM74B5)
+- **S-tier coffee: Breville Bambino Plus (~$500)** — 3-sec heat-up; 12" footprint; auto milk frother; real 9-bar espresso; pays back coffee shop visits in ~3–4 months; [Amazon](https://www.amazon.com/Breville-BES500BSS-Bambino-Espresso-Stainless/dp/B07JVD78TT)
+- **S-tier coffee: Nespresso Vertuo Plus (~$150)** — centrifusion capsule technology; real crema; zero technique needed; ultra-compact; best for non-hobbyist daily coffee; [Amazon](https://www.amazon.com/Breville-BNV420IBL1BUC1-Nespresso-VertuoPlus-single-serve/dp/B07Y2Q7YXZ)
+- **A-tier coffee: Keurig K-Mini Plus (~$80)** — < 5 inches wide; stores 9 K-Cups; 6–12 oz brew; fastest morning coffee; space-efficiency champion; [Amazon](https://www.amazon.com/Keurig-K-Mini-Single-Coffee-Friendly/dp/B07DR89BR6)
+- **A-tier coffee: Breville Barista Express (~$700)** — built-in grinder + espresso in one machine; complete home barista workflow; larger footprint; best if you want the coffee hobby experience; [Amazon Search](https://www.amazon.com/s?k=breville+barista+express)
+
+## Last Updated (prev)
+2026-05-04 — Autoresearch: Steve Jobs by Walter Isaacson; 4 pages created: [[Steve Jobs - Walter Isaacson]] (full source summary: authorized biography 2011, 40+ interviews, life arc 1955–2011, 8 key themes, 14 leadership imperatives, key quotes, critical reception), [[Steve Jobs]] (entity: vitals, career timeline, defining characteristics, product table), [[Reality Distortion Field]] (concept: origin, mechanism, double-edged table, leadership theory cross-links), [[Research - Steve Jobs Walter Isaacson]] (8-finding synthesis: biography as Jobs's legacy move, RDF as unifying concept, Pixar as greatest bet, simplicity via subtraction, calligraphy-to-Mac dot connection, product before profit, iPhone as category creation, humanities × sciences as lasting thesis)
+
+## Key Recent Facts
+
+### Steve Jobs (Isaacson) — newest autoresearch
+- **Reality Distortion Field** — coined by Bud Tribble at Apple, 1981; Jobs's ability to convince engineers that the impossible was achievable through charm, charisma, bravado, and relentless persistence; appears 34× in the biography; the same trait that built Apple also led Jobs to delay cancer surgery 9 months in 2003 (his deepest regret)
+- **The Pixar gamble** — bought Pixar from George Lucas for $5M in 1986 (Lucas needed cash from his divorce); Jobs had no animation insight and thought he was buying a hardware company; pumped in $50M+ over a decade of losses before Toy Story (1995) proved the model; the Pixar experience taught Jobs the end-to-end integration formula that became the iPhone
+- **Simplicity via radical subtraction** — when Jobs returned to Apple in 1997, cut from 350 products to 10 using one filter: "would I be embarrassed to give this to a friend?"; focus on 10 things and move faster than any company your size has the right to
+- **The calligraphy connection** — dropped out of Reed College but audited classes for 18 months; calligraphy course taught by a Trappist monk introduced him to typography as art; 10 years later became the direct inspiration for the Mac's multiple fonts and proportional spacing — the first personal computer to take typography seriously
+- **Product before profit** — "If you don't cannibalize yourself, someone else will"; launched iPod knowing it would hurt Mac sales, iPhone knowing it would kill iPod; Apple became world's most valuable company precisely because profit was never the primary objective
+- **iPhone (2007) as category creation** — three decisions made it revolutionary: (1) eliminate stylus in favor of full multi-touch, (2) use Gorilla Glass (which didn't yet exist commercially — Jobs called Corning's CEO and said "you need to make this"), (3) put a full internet browser in people's pockets; the iPhone didn't improve existing phones — it made the category obsolete
+- **Humanities × sciences intersection** — Jobs's lasting thesis: the greatest innovations live at the crossroads of technology and liberal arts; Apple didn't win by having better engineers — it won by holding engineers and artists to the same standard in the same room
+- **Biography as legacy move** — Jobs hounded Isaacson for 5+ years to write it; gave unprecedented access with zero editorial control; published 3 weeks after his death; Tim Cook said it "did Jobs a tremendous disservice" — suggests the candor Jobs authorized came at too high a price to his reputation posthumously
+
+## Last Updated (prev)
+2026-05-03 — Autoresearch: ASU Scholarships for California EE Students; 2 pages created: [[ASU Scholarships for California EE Students]] (full tiered guide: Tier 1 = NAU Scholarship $5,500–$17,500/yr + Commitment Scholarship $5,500–$7,500/yr, both auto-awarded at admission; Tier 2 = Fulton Schools Scholarship Universe $1.7M pool, Feb. 1 deadline; Tier 3 = IEEE PES Scholarship Plus up to $10k, April 30; WUE discontinued Fall 2026; Cal Grants not portable to ASU; stacking potential $47k+/yr), [[Research - ASU Scholarships for California EE Students]] (8-finding synthesis: WUE dead, NAU+Commitment auto-stack to $25k, Cal Grants locked in-state, Fulton pool $1.7M and not GPA-only, IEEE PES is top EE external scholarship, Pell is the only CA portable aid, ACEC CA requires in-state enrollment, application sequence mapped)
+
+## Key Recent Facts
+
+### ASU Scholarships for California EE Students — newest autoresearch
+- **WUE is DEAD for Fall 2026+**: The Western Undergraduate Exchange (saved ~$15k/yr for Western-state students) is phased out — replaced by the Commitment Scholarship ($5,500–$7,500/yr); net loss vs. WUE era is ~$7,500–$9,500/yr
+- **Auto-awarded Tier 1 stack (no application needed)**: NAU Scholarship ($5,500–$17,500/yr, GPA-based, submit SAT/ACT by May 1 for higher tier) + Commitment Scholarship ($5,500–$7,500/yr, first-time freshman, family income ≤ $200k) = $11,000–$25,000/yr stacked
+- **Fulton Schools Scholarship Universe**: Opens Nov. 1, deadline Feb. 1; $1.7M+ pool for undergrads; NOT just for A students — talent, story, creativity also count; log in with ASURITE credentials
+- **IEEE PES Scholarship Plus**: Up to $10,000/year; power and energy EE focus; min 3.0 GPA; deadline April 30; US citizen/PR; the single best external scholarship for a WBG/power electronics track student
+- **Cal Grants do NOT transfer to ASU**: Restricted to California institutions only — a hard constraint, nothing to do about it
+- **Federal Pell Grant DOES travel**: Up to $7,395/yr based on family income; file FAFSA by March 2 (CA priority deadline) every year
+- **Optimal sequence**: (1) Use ASU estimator at admission to confirm NAU + Commitment amounts → (2) File FAFSA by March 2 → (3) Apply Fulton Schools portal by Feb. 1 → (4) Apply IEEE PES by April 30 → (5) Search Bold.org + Scholarship Universe for additional EE opportunities annually
+- **Stacking ceiling**: Strong CA student → up to $47k+/yr total; ASU out-of-state tuition base ~$32k/yr → net-zero or better is achievable with full stack
+
+## Last Updated (prev)
+2026-05-03 — Autoresearch: Top 90-Day Project Ideas; 2 pages created: [[90 Day Project Tier List]] (S–F tier list of 90-day projects tailored to Joe: S-tier = FURI outreach campaign + synchronous buck converter build (STM32+PCB) + MIT 18.06 Linear Algebra; A-tier = Python EE Ladder Phase 0–3 + progressive overload 3×/week + open Roth IRA + cold email 30 engineers; B-tier = KiCad PCB design, Catholic daily prayer stack, Imitation of Christ, technical blog, Spanish via Language Transfer; F-tier = YouTube channel, crypto trading, generic "learn AI"), [[Research - 90 Day Project Ideas]] (8-finding synthesis: execution gap is Joe's real constraint, FURI needs 90+ day runway, hardware project is FURI differentiator, MIT 18.06 fits perfectly in 90 days, Roth IRA is 2-hr action with highest ROI/hr, progressive overload is meta-keystone habit, Python EE Ladder complements hardware build, failure modes are parallelism + vague deliverables)
+
+## Key Recent Facts
+
+### 90-Day Project Ideas — newest autoresearch
+- **S-tier #1: FURI Faculty Outreach + Research Proposal** — October FURI deadline = 90-day campaign starting now; read 3–5 Ranjram papers → cold email with specific question → build relationship → draft proposal by August; cold emails referencing a specific paper get 3–5× higher response rates
+- **S-tier #2: Buck Converter Build (STM32 + PCB)** — working synchronous buck converter (12V→5V, 1A, 100 kHz) built in 12 weeks; weeks 1–3 = STM32 PWM basics; weeks 4–6 = LTspice design; weeks 7–9 = breadboard → PCB; weeks 10–12 = document + GitHub; total cost ~$50–70; this is the FURI portfolio differentiator
+- **S-tier #3: MIT 18.06 Linear Algebra (Strang)** — 34 lectures × 40 min/day = 85 days; direct prep for Fall 2026 MAT 343; covers eigenvalues/SVD/orthogonality; watch 3B1B Essence of Linear Algebra first for visual intuition
+- **A-tier: Roth IRA (2-hr action, do in Week 1)** — open Fidelity/Vanguard Roth IRA, automate $50–100/month, buy target-date index fund; $100/month at age 19 at 8% avg = ~$525k at 65; every month delayed costs $5–10k in compounding tail
+- **A-tier: Progressive overload 3×/week** — Starting Strength or StrongLifts 5×5; 12-week beginner block; measurable +30–50% strength gains; meta-keystone habit that raises T, HGH, insulin sensitivity, dopamine, academic productivity
+- **A-tier: Python EE Project Ladder Phase 0–3** — 12 projects in 13 weeks (1/week); Projects 1–6: Ohm's Law → RLC simulator; Projects 7–13: Bode plots → FFT → FIR → PID → closed-loop buck simulator; complements the hardware build
+- **Key execution rule**: Joe's constraint is execution, not research. The vault is comprehensive. More research before starting is comfort-seeking. Start building on Day 1.
+- **Joe's recommended daily stack**: MIT 18.06 (40 min) + Buck Converter build (60–90 min) + FURI outreach (30 min avg) + Python Ladder (45 min) + progressive overload (45–60 min × 3/week) + cold shower + evening journal
+
+## Last Updated (prev)
+2026-05-03 — Autoresearch: Deepening Connection with Jesus Christ as a Catholic; 6 pages created: [[Catholic Spiritual Growth Steps]] (master tier list: S-tier = Mass + Confession + daily prayer; A-tier = Lectio Divina + Examen + Rosary + spiritual reading; B-tier = Adoration + Liturgy of Hours; C-tier = spiritual direction + retreats; Joe's 6-month starting stack), [[Catholic Prayer Methods]] (Lectio Divina 4 movements, Ignatian Examen 5 steps, Rosary 20 mysteries, Liturgy of Hours, Adoration), [[Three Ways of Spiritual Life]] (Purgative/Illuminative/Unitive framework; aridity is progress not failure), [[Catholic Sacraments for Spiritual Growth]] (Eucharist + Confession as the objective sacramental backbone), [[Catholic Spiritual Classics]] (reading ladder: Imitation of Christ → Introduction to Devout Life → Story of a Soul → Interior Castle → Dark Night), [[Research - Deepening Connection with Jesus Catholic]] (8-finding synthesis)
+
+## Key Recent Facts
+
+### Catholic Spiritual Growth — newest autoresearch
+- **S-tier foundation (non-negotiable)**: Weekly Sunday Mass (Eucharist = source and summit, CCC 1324), monthly Confession (restores sanctifying grace; inoculates against sin), 15+ min daily prayer
+- **A-tier daily practices**: Lectio Divina (read→meditate→pray→contemplate, 15–20 min on Gospel), Ignatian Examen (5-step evening review, 10 min; use Hallow app), Rosary (20 mysteries; 20 min; start with one decade)
+- **The Three Ways**: Purgative (conversion; breaking sin habits; humility) → Illuminative (deepening prayer; virtue formation; periods of aridity are normal and signs of progress) → Unitive (habitual union with God's will; habitual joy; apostolic fruitfulness)
+- **Spiritual direction**: Most underutilized practice; one-on-one monthly with a trained director; start by asking your parish priest; not counseling but guided listening to God's action in your life
+- **Spiritual reading**: 15 min/day of *Imitation of Christ* (Kempis) first; then *Introduction to Devout Life* (de Sales); slow and prayerful, not cover-to-cover
+- **Fasting**: Church requires meat abstinence every Friday (or substitute penance) + full fast on Ash Wednesday and Good Friday; fasting unites body to Christ's passion + opens the spirit to God
+- **Community**: Small faith groups statistically 80% faith retention vs. isolation; works of mercy encounter Christ in the poor (Mt 25:40)
+- **Aridity is not failure**: Most Catholics in the Illuminative Way experience dryness in prayer; the correct response is to continue faithfully without seeking consolation — it is the beginning of deeper purification
+
+## Last Updated (prev)
+2026-05-03 — Autoresearch: Comfort Zone Daily Habits; 2 pages created: [[Comfort Zone Habits Tier List]] (S–F tier list of daily habits: S-tier = cold shower + daily social challenge; A-tier = eat the frog, progressive overload training, public speaking exposure; B-tier = avoidance journaling, new experiences, IF; master daily protocol), [[Research - Comfort Zone Daily Habits]] (8-finding synthesis: Yerkes-Dodson 15–20% sweet spot, cold shower 250% dopamine sustained, social challenge RCT 1-week compounding, avoidance shrinks comfort zones, eat-the-frog PFC timing, keystone exercise habit, metacognitive journaling, PFC → amygdala top-down control as the core mechanism)
+
+## Key Recent Facts
+
+### Comfort Zone Habits — newest autoresearch
+- **S-tier #1: Cold shower (2–5 min daily)**: 250% dopamine increase (sustained hours), 200–300% norepinephrine spike; training PFC to override amygdala "get out" signal is the mechanism that transfers to all life challenges; start with 30 sec → add 15 sec/day
+- **S-tier #2: Daily social challenge**: talk to a stranger, ask for something you expect denied, introduce yourself; 2022 RCT showed one week made people less pessimistic about rejection and benefits persisted; daily practice compounds — expectations grow more accurate each day
+- **Yerkes-Dodson optimal zone**: ~15–20% beyond current capability = stretch zone (norepinephrine + learning); below = comfort (stagnation); above = panic (shutdown). Never try to make a giant leap — daily tiny stretch beats monthly heroics
+- **Comfort zones never stay static**: they expand through challenge OR shrink through avoidance — non-linear compounding in both directions
+- **Navy SEAL 40% rule**: when your mind says "I'm done," you're at ~40% actual capacity — the gap between perceived and real limits is the training target
+- **Eat the frog** (hardest task first before phone/email): uses peak PFC window, breaks avoidance→relief→reinforcement loop that shrinks comfort zones
+- **The core mechanism**: ALL effective comfort zone habits train one circuit: PFC → amygdala suppression. Each time you choose discomfort, you update the brain's threat model downward. This is neurologically trainable and transfers across domains.
+- **Master daily protocol**: Cold shower → Hard task first → Progressive overload training → One social challenge → Evening "What did I avoid?" journal
+
+## Last Updated (prev-0)
+2026-05-03 — Autoresearch: Human Hormones and Optimization; 2 pages created: [[Human Hormones Complete Guide]] (14-hormone reference covering cortisol, insulin, testosterone, estrogen, progesterone, thyroid T3/T4, HGH, dopamine, serotonin, melatonin, oxytocin, leptin/ghrelin, adrenaline, DHEA — full function descriptions + optimization protocols + master convergence table), [[Research - Human Hormones and Optimization]] (8-finding synthesis: sleep as multi-hormone lever, cortisol as master saboteur, insulin resistance upstream disease driver, dopamine = motivation not pleasure, serotonin is a gut hormone, thyroid underdiagnosis + selenium/zinc deficiency, xenoestrogen disruption, morning sunlight free protocol)
+
+## Key Recent Facts
+
+### Human Hormones — newest autoresearch
+- **Top multi-hormone lever:** Sleep 7–9h → testosterone ↑, HGH ↑ (75% released in deep sleep), cortisol ↓, melatonin ✓, insulin sensitivity ↑ (one night of 4h sleep = 25% decrease), leptin ✓ / ghrelin ↓
+- **Cortisol is the master saboteur:** Chronic elevation → blocks T4→T3 conversion, suppresses testosterone (inverse relationship), steals progesterone via "pregnenolone steal," disrupts melatonin timing, promotes visceral fat → worsens insulin resistance
+- **Insulin sensitivity:** Combined diet + exercise = 188–269% greater improvement than exercise alone (2025 meta-analysis); post-meal 10–15 min walk → 20–30% glucose spike reduction; Berberine 500 mg 3x/day ≈ metformin in some RCTs
+- **Dopamine = wanting/pursuit, NOT pleasure:** Junk dopamine (social media, porn, infinite scroll) downgrades receptors → real goals feel unrewarding; Cold exposure → 250% dopamine increase lasting hours vs. spike-and-crash from sugar
+- **Serotonin is 95% a gut hormone:** Dysbiosis, poor fiber, and processed diet cause brain-like serotonin deficiency; fermented foods + prebiotic fiber + tryptophan protein are direct interventions
+- **Thyroid underdiagnosis:** Selenium deficiency in ~50% of thyroid patients impairs T4→T3 conversion deiodinase enzyme; 1–2 Brazil nuts/day = ~200 mcg selenium fix; cortisol blocks T4→T3 independently
+- **HGH:** 37.5-hr fast → 10x basal GH increase (2021 study); sauna (170°F, 20 min) → 2–3x GH; reduce sugar before bed to protect overnight GH pulse
+- **Morning sunlight (free protocol):** Hits 5 systems simultaneously — dopamine ↑, serotonin ↑, melatonin timing ✓, cortisol awakening response ✓, Vitamin D → testosterone + insulin sensitivity
+- **Xenoestrogens:** BPA, phthalates, parabens, pesticides mimic estrogen; mitigation: avoid plastic heat, fragrance-free products, filter water, organic produce (Dirty Dozen)
+- **Thyroid nutrients:** Iodine (seaweed, seafood, iodized salt) | Selenium 200 mcg (1-2 Brazil nuts) | Zinc 25-40 mg | Tyrosine (eggs, dairy, chicken) — without these, T3/T4 cannot be synthesized
+- **Master convergence habits** (improve ALL hormones): Consistent sleep → Resistance training 3-4x/week → Reduce sugar → Morning sunlight → Cold exposure → Manage chronic stress → Gut health (fiber + fermented foods) → Vitamin D 2000–5000 IU if deficient
+
+## Last Updated (prev-0)
+2026-05-03 — Autoresearch: Top Learning Podcasts; 2 pages created: [[Podcast Learning Tier List]] (S–C tier list of 20+ podcasts ranked by learning density × signal-to-noise; S-tier: Huberman Lab, Hardcore History, Lex Fridman, Dwarkesh; domain quick-reference table; Joe's listening stack), [[Research - Top Learning Podcasts]] (8-finding synthesis: long-form vs short-form, Philosophize This! as best philosophy audio, Dwarkesh 5× audience growth, Hardcore History unmatched for history depth, economics podcast taxonomy, AI podcast split; full tier table + sources)
+
+## Last Updated (prev-0)
+2026-05-03 — Autoresearch: Self-Teaching Topics Tier List; 2 pages created: [[Self-Teaching Topics Tier List]] (S–C tier list of 18 subjects ranked by life ROI × self-teachability; textbook recommendations per subject; Joe's 90-day priority stack), [[Research - Self-Teaching Topics Tier List]] (8-finding synthesis with full tier table and sources)
+
+## Last Updated (prev-1-old)
+2026-05-03 — Autoresearch: Laplace Transforms and Electrical Engineering; 4 pages created: [[Laplace Transform — Mathematical Foundations]] (definition, ROC, properties, transform pairs, inverse via partial fractions, Fourier connection), [[Laplace Transform in Circuit Analysis]] (s-domain impedances, 3 worked examples, buck converter application), [[Transfer Functions and Poles Zeros]] (s-plane stability, Bode construction, gain/phase margin, Python code), [[Research - Laplace Transforms and Electrical Engineering]] (8-finding synthesis)
+
+## Last Updated (prev-1)
+2026-05-03 — Autoresearch: Drug Harm vs Benefit Ranking; 2 pages created: [[Drug Harm vs Benefit Ranking]] (S–F tier list by net harm-to-benefit ratio using Nutt/ISCD 2010 harm scores + therapeutic evidence), [[Research - Drug Harm vs Benefit Ranking]] (full synthesis with 8 findings and 14+ sources)
+
+## Last Updated (prev-1)
+2026-05-03 — Autoresearch: Sleep Habits Tier List; 2 pages created: [[Sleep Habits Tier List]] (S–F tier list covering all habits, products, actions, supplements), [[Research - Sleep Habits Tier List]] (full synthesis with 8 findings and 20+ sources)
+
+## Key Recent Facts
+
+### Top Learning Podcasts — newest autoresearch
+- **S-Tier:** Huberman Lab (neuroscience/health, Stanford PhD host, actionable protocols, Essentials = 30 min) | Hardcore History (Dan Carlin, 4–6 hr history deep dives, WWI/Mongols/WWII, no close second) | Lex Fridman (3–4 hr broad conversations: AI/physics/philosophy/history) | Dwarkesh Podcast (60–120 min, 5× audience growth 2025, "Lex but tighter and more confrontational")
+- **A-Tier:** Hidden Brain (psychology/behavior, ~45 min, most-listened science show Apple Podcasts) | Philosophize This! (200+ episodes, full Western philosophy canon, beginner-friendly, free) | Freakonomics Radio (economics + behavioral science, Nobel laureate guests) | Mindscape/Sean Carroll (physics + philosophy intersection, best for quantum/consciousness) | The Knowledge Project (mental models, "how to think" > "what to think") | Radiolab (science + culture, distinctive storytelling)
+- **B-Tier:** Planet Money (20–30 min economics, very accessible) | In Our Time BBC (45 min, expert panels, 1,000+ archive) | Revisionist History (Gladwell, historical reinterpretation) | The Rest is History (daily, two professional historians, broad) | We Study Billionaires (investing, 180M+ downloads, value investing focus)
+- **Domain best picks:** History → Hardcore History | Philosophy → Philosophize This! | Health → Huberman Lab | Physics → Mindscape | Economics → Freakonomics | Psychology → Hidden Brain | AI → Lex or Dwarkesh | Investing → We Study Billionaires
+- **Key finding:** Podcast + textbook beats either alone. Long-form (45 min+) creates durable knowledge; short digests create awareness only.
+- **Joe's stack:** Daily exercise → Huberman Essentials; Weekly long → Hardcore History or Lex; Weekly short → Philosophize This!; Economics fill → Freakonomics + Planet Money
+
+### Self-Teaching Topics Tier List — newest autoresearch
+- **S-Tier (start here):** Mathematics (Strang *Linear Algebra* + MIT 18.06 OCW) | Personal Finance (Sethi *I Will Teach You to Be Rich* — Roth IRA at 19 = ~$500k+ vs 35 at retirement) | Programming (Python: *Automate the Boring Stuff* free; C++: K&R → STM32) | Logic & Critical Thinking (Weston *A Rulebook for Arguments* $5 + Kahneman *Thinking Fast and Slow*)
+- **A-Tier:** Writing (Zinsser *On Writing Well*) | Economics (Hazlitt *Economics in One Lesson* — free online | Sowell *Basic Economics*) | Philosophy/Stoicism (Aurelius *Meditations* — free Gutenberg; 2-week read, lifetime dividends) | Statistics (Wheelan *Naked Statistics* → Ross *Intro to Prob & Stats for Engineers*; free: Pishro-Nik probabilitycourse.com)
+- **B-Tier:** Psychology (Cialdini *Influence* + Aronson *The Social Animal*) | History (Harari *Sapiens* → Diamond → Durant) | Physics (Young & Freedman = PHY 131 textbook) | Rhetoric (Heinrichs *Thank You for Arguing* + Voss *Never Split the Difference*)
+- **C-Tier:** Spanish (*Language Transfer* free audio) | Biology/Health | Legal Literacy | CS Theory (CLRS/Sedgewick) | Formal Logic | Music Theory
+- **Joe's 90-day stack:** Week 1–2: Weston logic ($5) + Sethi finance (open Roth IRA); Week 3–4: Aurelius *Meditations*; Week 5–8: Hazlitt economics; Week 9–12: Wheelan statistics; Ongoing: Strang linear algebra + Zinsser writing
+- **Logic is the meta-skill gap:** most educated people never study argumentation explicitly; deliberate fallacy training improves reasoning in every other domain
+- **History as pattern recognition:** Charlie Munger cited history as one of the most important disciplines for decision-makers; 1 Durant volume = 1,000 years of compressed cause/effect
+
+### Laplace Transforms and Electrical Engineering — newest autoresearch
+- **Core power:** $d/dt \to s$ multiplication. Every inductor/capacitor ODE becomes algebra. KVL/KCL still apply — just with $Z_C = 1/sC$ and $Z_L = sL$ instead of derivatives.
+- **S-domain impedances:** $Z_R = R$ (unchanged) | $Z_C = 1/sC$ (high-Z at low freq) | $Z_L = sL$ (low-Z at low freq). Set $s = j\omega$ to recover phasor impedances.
+- **Initial conditions:** Capacitor IC $V_0$ → series voltage source $V_0/s$. Inductor IC $I_0$ → series voltage source $LI_0$. No separate homogeneous solution needed.
+- **Transfer function:** $H(s) = Y(s)/X(s)$ at zero ICs. Contains all behavior. Frequency response = $H(j\omega)$.
+- **Poles = natural frequencies:** LHP pole $s = -a$ → decaying exponential $e^{-at}$ (stable). RHP pole → growing (unstable). Complex pair $-\sigma \pm j\omega_d$ → damped oscillation.
+- **Stability rule:** All poles must be in LHP. One RHP pole = unstable system.
+- **Bode plot:** Set $s = j\omega$ → plot $|H(j\omega)|$ in dB and $\angle H(j\omega)$ vs log freq. Each pole: $-20$ dB/dec slope, $-90°$ phase. Each zero: $+20$ dB/dec, $+90°$ phase.
+- **Phase margin:** Measure $180° + \angle H$ at 0 dB crossing. Target: 45–70°. Controls overshoot/stability of feedback loops.
+- **Buck converter Gvd(s):** $V_g/(LC) \times 1/(s^2 + s/RC + 1/LC)$ — second-order; $\omega_n = 1/\sqrt{LC}$; WBG (SiC/GaN) enables smaller LC → higher ωn → faster transient response.
+- **Partial fractions = inverse Laplace:** Factor denominator into poles → expand → look up each term in transform table. Complex pairs → damped sinusoidal terms.
+- **Fourier is Laplace at σ=0:** Set $s = j\omega$ (real part = 0) in the Laplace integral → Fourier transform. Laplace handles transients; Fourier handles steady-state frequency content only.
+- **Key pairs to memorize:** $e^{-at} \leftrightarrow 1/(s+a)$ | $u(t) \leftrightarrow 1/s$ | $\delta(t) \leftrightarrow 1$ | $\sin(\omega_0 t) \leftrightarrow \omega_0/(s^2+\omega_0^2)$
+
+### Drug Harm vs Benefit Ranking — newest autoresearch
+- **Nutt/ISCD 2010 harm scores (out of 100, combined self + others):** Alcohol 72 | Heroin 55 | Crack 54 | Meth 33 | Cocaine 27 | Tobacco 26 | Amphetamine 23 | Cannabis 20 | GHB 19 | Benzos 15 | Ketamine 15 | Methadone 14 | Ecstasy 7 | LSD 7 | Buprenorphine 6 | Psilocybin 5
+- **S-Tier (best harm-to-benefit ratio):** Psilocybin (harm 5, >50% depression remission at 6mo, FDA Breakthrough, non-addictive, no known lethal dose) | Buprenorphine (harm 6, reduces opioid mortality 50%+, gold standard OUD treatment)
+- **A-Tier:** MDMA (harm 7, 71% PTSD relief in Phase 3) | LSD (harm 7, cluster headaches) | Ketamine/Esketamine (harm 15, only rapid-acting antidepressant, FDA-approved for TRD) | Amphetamines (moderate harm, transformative for ADHD) | Methadone (harm 14, OUD harm reduction)
+- **F-Tier (highest harm, lowest benefit):** Alcohol (harm 72, highest of all 20 drugs; WHO: no safe level; Group 1 carcinogen) | Tobacco (harm 26, 8M deaths/year, zero therapeutic benefit) | Crack cocaine (harm 54, no medical use)
+- **The inversion:** Legal status systematically inverts pharmacological evidence. The 3 lowest-harm drugs (psilocybin, MDMA, LSD) are Schedule I. The 2 most harmful (alcohol, tobacco) are fully legal.
+- **Cannabis evidence reality check:** Strong evidence only for epilepsy (CBD/Epidiolex) and chemo nausea. Evidence for pain, anxiety, insomnia = weak/conflicting per 2025 review of 2,500+ studies. Daily use doubles CHD risk.
+- **Key axis:** Harm to self ≠ harm to others. Heroin/crack/meth → most harmful to the individual. Alcohol → most harmful to others (violence, accidents, family destruction).
+
+## Last Updated (prev-2)
+2026-05-02 — Autoresearch: Online Income Ways for 19 Year Old; 4 pages created: [[Online Income Methods Tier List]] (S–C tier list of all methods), [[Freelancing Online]] (platforms, AI freelancing breakout, income ladder), [[UGC Content Creation]] (brand deals, equipment, income tiers), [[Research - Online Income Ways for 19 Year Old]] (full synthesis with 8 findings and sources)
+
+## Last Updated (prev-3)
+2026-05-02 — Autoresearch: Daily Caloric Intake and Tracking Apps; 2 pages created: [[Daily Caloric Intake Calculator]] (concept with formulas, activity multipliers, goal targets, protein floors, macro splits), [[Research - Daily Caloric Intake and Tracking Apps]] (full synthesis with 8 findings, app tier list S–C, open questions, sources)
+
+## Last Updated (prev-4)
+2026-05-02 — Autoresearch: Cardio Training Zones; 2 pages created: [[Cardio Training Zones]] (concept with BPM tables for age 19), [[Research - Cardio Training Zones]] (full synthesis with physiology, Karvonen formula, system comparisons, citations)
+
+## Last Updated (prev-5)
+2026-05-01 — Autoresearch: Testosterone Habits Tier List; 2 pages created: [[Testosterone Habits Tier List]] (S–F tier list concept), [[Research - Testosterone Habits Tier List]] (synthesis + 17-source citations)
+
+### Power Electronics Faculty Scan — newest ingest
+- **Yuji Zhao is at Rice, not ASU**: his ASU pages are stale; not a FURI option — only Ranjram and Ayyanar are ASU-based
+- **Mike Ranjram = top FURI priority**: ML-CEMS paper (ECCE 2024) is the best entry-point read; key result = peak flux 231 mT → 66 mT at fixed frequency via multi-level transformer voltage injection; HPPC (2025) = single-stage ac/dc; MAPEL GitHub has MHzCoreLossAggregateDataset
+- **Raja Ayyanar = second FURI option**: recent visible papers are feeder/DER control (hosting capacity 3× improvement, volt-PF); hardware thread (EV high-frequency converters) exists in EVSTS but is less documented
+- **FURI → grad school chain**: FURI under Ranjram → named WBG research letter → NC State MS-WBGS (PowerAmerica connection) → LLNL/Sandia pipeline
+- **4-year roadmap created**: [[FURI to Grad School Roadmap — Joe]] — Year 1 = skills + office hours + LLNL Oct apply; Year 2 = FURI application Spring 2027; Year 3 = second research term + conference target; Year 4 = grad applications
+
+## Last Updated (prev)
+2026-05-01 — Autoresearch: Chess Improvement Guide; created 3 pages (Research - Chess Improvement Guide, Chess Improvement Complete Guide, Chess Rating Roadmap); key results: tactics are the fastest lever; daily puzzles + game analysis + long time controls is the winning formula; don't study openings deeply before 1500; Silman/Seirawan/Yusupov/Dvoretsky are the book ladder; Chess.com + Lichess are the essential free platforms
+
+## Key Recent Facts
+
+### Sleep Habits Tier List — newest autoresearch
+- **S-Tier anchors:** Consistent wake time every day (no exceptions) | Morning sunlight 5–20 min within 30 min of waking (no sunglasses) | Bedroom 60–67°F (core body temp must drop ~1°C to initiate sleep) | Complete darkness (blackout curtains or eye mask) | CBT-I for chronic insomnia (70–80% response rate; beats medication long-term)
+- **A-Tier behavioral:** No caffeine within 8–10 hrs of bed (400 mg at 6 hrs before = −60+ min sleep) | No alcohol within 3 hrs of bed (destroys REM) | No nicotine (most sleep-disruptive substance; −43 min sleep in insomniacs) | Wind-down routine 30–60 min before bed | Exercise (but not within 2–3 hrs of bed)
+- **B-Tier supplements:** Magnesium glycinate 200–400 mg (GABA activation, cortisol↓) | Melatonin 0.1–0.5 mg (NOT 5–10 mg pharmacy dose — that's an overdose) | White/brown noise machine | Weighted blanket 15–25 lb (DTP → serotonin↑, melatonin↑) | Warm-lit room in evenings
+- **C-Tier:** L-theanine 200–400 mg (better combined with Mg) | Blue-light blocking glasses | Tart cherry juice (240 mL x2/day) | Hot shower 60–90 min before bed (induces temp drop)
+- **D-Tier (weak evidence):** Ashwagandha | CBD | Chamomile | Oura/WHOOP (awareness only, no direct improvement) | Diphenhydramine/Benadryl (sedates but degrades sleep quality — avoid)
+- **F-Tier destroyers:** Irregular schedule | Bright lights after dark | Blue light within 1 hr of bed (23% melatonin suppression) | Caffeine within 6 hrs | Alcohol before bed | Nicotine | Hot bedroom (>70°F) | Large late meals | Naps >30 min after 4 PM
+- **CBT-I key fact:** Gold standard per APA; more durable than benzodiazepines/Z-drugs; digital apps (Sleepio) comparable to in-person
+- **Diet-sleep link (2025):** Fruits, vegetables, and carbohydrates at dinner associated with lower sleep fragmentation (NSF 2025 study)
+
+### Online Income Ways for 19 Year Old — newest autoresearch
+- **S-Tier fastest paths:** Online tutoring ($20–$80/hr, no degree, 1–2 week start) and Freelancing (writing/design/video, 2–8 weeks to first client, $5k–$20k+/month ceiling)
+- **AI Freelancing is the 2026 breakout category:** Upwork demand up 109% YoY; AI video work up 329%; prompt engineering $75–$200/hr; no CS degree needed
+- **UGC creation = no audience needed:** Brands pay $50–$150/video for authentic product clips; smartphone + $30 ring light is enough; $5k–$15k+/month ceiling for established creators
+- **Content creation (YT/TikTok) has high ceiling but slow ramp:** 6–18 months before meaningful income; real money from brand deals ($2k–$10k/post at 100K followers), not platform payouts ($0.02–$0.04/view)
+- **Dropshipping is C-tier for a 19-year-old with no capital:** needs $5k–$10k startup, competitive market, rising ad costs; realistic year-1 = $500–$2,500/month
+- **Digital products (Etsy/Gumroad):** Printables, Notion templates, AI prompt packs sell well; $1k–$2,500/month realistic; Etsy best for no-audience start
+- **Universal pattern:** Build 3–5 proof-of-concept samples → get first clients at low rates → collect testimonials → raise rates → scale
+
+### Daily Caloric Intake and Tracking Apps — newest autoresearch
+- **TDEE = BMR × Activity Multiplier.** Mifflin-St Jeor is the gold-standard BMR formula; Katch-McArdle is better for lean/athletic individuals who know their body fat %.
+- **Weight loss:** TDEE − 500 kcal/day → ~1 lb/week. Hard floor: 1,200 kcal women, 1,500 kcal men. Safe rate: ≤0.5–1% body weight/week.
+- **Muscle gain:** TDEE + 250–500 kcal/day (clean bulk). Dirty bulk (>+500 kcal/day) produces same muscle, much more fat — not evidence-based.
+- **Maintenance:** Start at TDEE estimate, track weight 2–4 weeks, adjust ±100–150 kcal/day based on trend.
+- **Protein floor (all goals):** 1.6–2.2 g/kg body weight. ~0.7–1.0 g/lb is the US-convenient equivalent. Goes beyond 2.2 g/kg provides no additional benefit.
+- **Diet breaks:** 1–2 weeks at maintenance every 8–12 weeks of restriction → better fat loss and less muscle loss (MATADOR study).
+- **Self-reported intake underreported by 12–54%;** portion size = ~49% of total logging error. Weigh food when precision matters.
+- **Static TDEE formulas can be off by 200–400 kcal/day individually** — adaptive apps correct from real weight data over 2–4 weeks.
+- **App Tier List:**
+  - **S-Tier:** MacroFactor (~$72/yr) — adaptive TDEE back-calculation, verified database, clean UI; best overall
+  - **S-Tier:** Carbon Diet Coach (~$100/yr) — Dr. Layne Norton; coaching-oriented; structured phases; weaker micronutrients
+  - **A-Tier:** Cronometer (free tier) — 80+ nutrients, USDA-verified database; best free micronutrient tracker
+  - **A-Tier:** MyFitnessPal (free, limited; Premium ~$80/yr) — largest database (14M+ foods) but crowdsourced with frequent errors; best ecosystem integrations
+  - **B-Tier:** Lose It! (free; Premium ~$40/yr) — simplest UI; macro/nutrient depth shallow
+  - **C-Tier:** Noom (~$70+/mo) — behavioral coaching, color-coded system; not for precision tracking; worst value
+
+### Cardio Training Zones — newest autoresearch
+- **Age 19 max HR:** 201 bpm (220−19) or ~195 bpm (Tanaka formula: 208 − 0.7×age)
+- **Zone 1 (Recovery):** 50–60% max HR → **101–121 bpm** — active recovery, fat metabolism baseline
+- **Zone 2 (Aerobic Base):** 60–70% → **121–141 bpm** — mitochondrial biogenesis (PGC-1α), peak fat oxidation rate; most important zone for long-term aerobic development; minimum 45–60 min/session for full stimulus
+- **Zone 3 (Aerobic Threshold):** 70–80% → **141–161 bpm** — lactate buffering, tempo conditioning; Seiler's "grey zone" — elite athletes largely avoid it in favor of polarized training
+- **Zone 4 (Lactate Threshold):** 80–90% → **161–181 bpm** — raises LT2, the primary predictor of endurance race performance
+- **Zone 5 (VO2 Max):** 90–100% → **181–201 bpm** — expands VO2 max ceiling; EPOC calorie burn; 2×/week max; requires Zone 2 base first
+- **Karvonen zones (RHR 60 bpm):** ~10–18 bpm higher than simple % max HR — Zone 2 becomes 145–159 bpm rather than 121–141
+- **Naming collision:** Seiler's "Zone 2" = the grey zone to AVOID; popular "Zone 2 training" = Seiler's Zone 1 (easy aerobic base work)
+- **San Millán finding:** Zone 2 (at LT1, ~1.5–2 mmol/L lactate) improves insulin sensitivity comparably to metformin; therapeutic for metabolic syndrome, T2D, long COVID fatigue
+
+### Testosterone Habits Tier List — newest autoresearch
+- **S-Tier:** Sleep (7.5–9 hrs; -24% T from single night deprivation) | Maintain lean body fat (<18% BF; adipose aromatase destroys T) | Resistance training compound lifts (squats/deadlifts/bench)
+- **A-Tier:** Chronic stress reduction (cortisol competes with T for pregnenolone substrate) | Vitamin D + sunlight (17-RCT meta: WMD +0.38 ng/mL total T) | Zinc sufficiency (Leydig cell RCTs) | Zone 2 cardio (fat loss → less aromatase) | Limit/eliminate alcohol (Leydig cell toxicity)
+- **B-Tier:** Adequate dietary fat ≥20% of calories (steroid hormones are cholesterol-derived) | Magnesium glycinate (reduces SHBG → more free T) | Competition & winning (bidirectional T feedback loop) | Protein 1.6–2.2 g/kg (preserves lean mass during deficits)
+- **C-Tier:** Ashwagandha KSM-66 (small industry-funded RCTs, ~14% increase) | Creatine (DHT increase only, not total T) | Morning sunlight (circadian → sleep → T, indirect only)
+- **D-Tier:** NoFap (masturbation has NO long-term T effect; the "7-day spike" was unreplicated) | Porn abstinence (porn causes temp T spike, not long-term decrease) | Tribulus/fenugreek/T-booster supps (no evidence in healthy men)
+- **F-Tier:** Chronic sleep deprivation | High body fat (aromatase cycle) | Chronic alcohol | Overtraining without recovery | Exogenous anabolic steroids (HPTA shutdown)
+- **Key nuance:** Intermittent fasting LOWERS T in lean men (~35% reduction from 3-day fast) — only raises T in overweight men via fat loss
+- **Cold exposure myth:** Cold showers do NOT raise T; cold water immersion post-workout BLUNTS the T spike
+
+### Destructive Habits at 19 — newest autoresearch
+- **S-Tier (catastrophic, self-reinforcing):** Doom scrolling / short-form content addiction, pornography use, heavy/regular alcohol consumption
+- **A-Tier (compounds over years):** Chronic sleep deprivation, consumer debt / not investing early, chronic procrastination
+- **B-Tier (correctable but ignored):** Social isolation, fixed/victim mindset, sedentary lifestyle
+- **Doom scrolling:** "Brain rot" (Oxford WotY 2024) — 68% of youth report difficulty focusing; reduced theta brainwave activity in prefrontal cortex; makes engineering study, reading, and deep work neurologically harder
+- **Porn:** Dopamine to 250%+ of baseline sustained for hours; fMRI studies (Nature, 2017) confirm addiction-like patterns; sexual dysfunction, depression, prefrontal cortex structural changes
+- **Alcohol at 19:** 2× more cognitively impaired per dose than at 25+; brain develops until 25; gray matter abnormality confirmed; earlier start = higher lifetime addiction risk
+- **Sleep:** Young adults underestimate it most; 15% of Alzheimer's risk attributed to chronic poor sleep; 7.5–9 hrs is non-negotiable
+- **Roth IRA:** $6k at 19 = ~$200k at 65 (10% avg); this window is permanently irreversible — missing it is a compounding loss
+- **Social isolation:** Equivalent health risk to smoking 15 cigarettes/day; 2× worse than obesity; MORE psychologically damaging in young adults than older adults
+- **Fixed mindset:** Dweck's decades of research: lower achievement, higher burnout, worse coping — the invisible ceiling on all other goals
+
+### GLP Medications — newest autoresearch
+- **Three-generation progression:** Semaglutide (GLP-1 only) → Tirzepatide (GLP-1+GIP) → Retatrutide (GLP-1+GIP+Glucagon); each generation adds receptor targets and meaningfully greater weight loss
+- **Weight loss outcomes:** Semaglutide ~14–20% | Tirzepatide ~20–22% | Retatrutide ~26–28.7% (Phase 3, not FDA-approved)
+- **Tirzepatide beats semaglutide by 47%** in direct SURMOUNT-5 head-to-head trial (NEJM, 2025); tirzepatide is the current best FDA-approved agent
+- **Retatrutide status:** Phase 3 TRIUMPH program ongoing; NDA filing expected Q4 2026; FDA approval ~mid-to-late 2027; NOT currently legally available by prescription; dysesthesia safety signal (20.9% at 12 mg) under review
+- **Oral semaglutide (Wegovy pill 25 mg/day) approved December 2025** — first GLP-1 pill for obesity; ~13.6% weight loss at 64 weeks
+- **Semaglutide dosing (Wegovy):** 0.25 → 0.5 → 1.0 → 1.7 → 2.4 mg/week; 4 weeks per step; 16–20 weeks to max dose
+- **Tirzepatide dosing (Zepbound):** 2.5 → 5 → 7.5 → 10 → 12.5 → 15 mg/week; 4 weeks per step; 20+ weeks to max dose
+- **Retatrutide dosing (Phase 3):** 2 → 4 → 6 → 9 → 12 mg/week; 4 weeks per step
+- **Exit strategy reality:** Stopping = weight regain; >40–50% of lost weight returns within 28–52 weeks (STEP-10, SURMOUNT-4 trials); best approach is maintenance dose reduction, not full cessation
+- **Best exit approach if stopping:** 9-week gradual taper + diet/exercise coaching + protein 1.6g/kg/day + Zone 2 cardio (increases endogenous GLP-1 by 25%) + metformin bridge if needed + 5-lb trigger rule for re-intervention
+
+### Fall 2026 Course Prep — newest autoresearch
+- **Schedule**: EEE 202 Circuits I (Vasileska/Myhajlenko), MAT 343 Applied Linear Algebra (Espanol), PHY 131/132 University Physics II E&M (Qing/Reaves)
+- **Biggest cross-course insight**: EEE 202 Units 1–3, 4–5, and 6 overlap ~100% with PHY 131 Chs 25–26, 30, and 31 respectively — studying them together is the highest-efficiency move in the schedule
+- **Eigenvalue bridge**: MAT 343 eigenvalues = EEE 202 transfer function poles = PHY 131 natural frequencies of RLC circuits; when this clicks, all three courses unite
+- **EEE 202 prep priority**: KVL/KCL → nodal/mesh analysis → Thevenin/Norton → phasors → Laplace; Units 1–3 are front-loaded in first 4 weeks
+- **PHY 131 hardest topic**: Gauss's Law — master 3 symmetric geometries (sphere, cylinder, infinite plane) before class; drill 10 problems on each
+- **MAT 343 must-dos before Day 1**: Watch all 16 3Blue1Brown "Essence of Linear Algebra" episodes (~4 hrs); learn MATLAB basics (`eig()`, `inv()`, `null()`, `A*b`)
+- **Summer plan**: 3 phases over 16 weeks (May 5 – Aug 23); 15–20 hrs/week; Phase 1 = circuit fundamentals + electrostatics + LA orientation; Phase 2 = phasors + magnetism + LA depth; Phase 3 = Laplace + eigenvalues + integration
+- **Textbooks**: EEE 202 = Irwin *Basic Engineering Circuit Analysis* 10th ed; PHY 131 = Young & Freedman *University Physics with Modern Physics* 15th ed (Canvas)
+- **Quan Qing office hours**: Tue 1:30–2:30 PM, PSB 147
+- **Best free resource stack**: Khan Academy E&M (PHY 131) + Khan Academy DC Circuits (EEE 202) + 3Blue1Brown Essence of LA + MIT 18.06SC + Paul's Online Notes (Laplace) + LTSpice + MATLAB Onramp
+
+### Chess Improvement Guide — newest autoresearch
+- **Tactics are the single fastest improvement lever**: 20–30 min/day of quality puzzles (10–20 puzzles, not rushed), spaced repetition via Chess.com or Lichess. Pattern recognition + thought process are the two trainable muscles. Review every wrong answer — the pattern matters more than the solution.
+- **Study distribution shifts by rating**: Beginners (400–800): ~70% tactics; Club players (1200–1600): ~50% tactics, ~25% openings, ~15% strategy, ~10% endgames; Intermediate (1600–2000): ~40% tactics, ~25% endgames weight rising; Advanced (2000+): ~25% endgames.
+- **Game analysis without engine first is the highest-ROI habit**: After every long game, analyze on your own, then run the engine. Ask "why did I choose the wrong move?" not just "what was right?" Extract one specific lesson per game and act on it that week.
+- **Openings: ideas, not lines**: Choose one White system + two Black defenses; learn 4–5 moves + the ideas/pawn structures. Don't memorize deep lines before ~1500 Elo — every hour of opening memorization below 1400 gives far worse returns than an hour of tactics.
+- **Endgames are the most neglected decisive factor**: Must-know positions in order — K+P vs K (opposition, square rule, key squares) → Lucena position (winning K+R+P) → Philidor position (drawing K+R) → rook behind passed pawn. *Silman's Complete Endgame Course* teaches by rating level — start exactly at your level.
+- **Platform tier list**: Chess.com (best lessons, puzzle trainer, analysis tools, clean app) + Lichess (100% free, no ads, excellent puzzles + engine analysis) = both essential and free. Chessable uses spaced repetition for opening memorization — best for learning repertoires.
+- **Book ladder**: Capablanca *Chess Fundamentals* (beginner, free online) → Seirawan *Winning Chess Tactics* + *Openings* (novice-club, ~$15 each) → Silman *How to Reassess Your Chess* (1200–2000, imbalance framework) → Yusupov 9-book series (systematic) → Dvoretsky *Endgame Manual* (advanced).
+- **Blitz kills improvement**: Players who only play blitz plateau early; long time controls (15+5 or 30 min) + game analysis is what builds real pattern depth. Magnus Carlsen recommends analyzing slow games for improvement, not grinding blitz.
+- **Joe's integration**: Daily 15 min Chess.com puzzles (already in Joe's game stack) → add 1–2 weekly long games (30 min) + analyze each game without engine first → this turns casual play into systematic improvement.
+
+### EQ and IQ Enhancement Guide — newest autoresearch
+- **EQ is far more trainable than IQ**: Therapy, journaling, mindfulness, and empathy practice produce large sustained EQ gains. IQ fluid intelligence (Gf) gains are small (~2–4 points) and contested; crystallized intelligence (Gc) grows indefinitely through deliberate learning.
+- **Sleep = S-tier for both**: 24h sleep deprivation → −10–15 IQ points (working memory impaired). Sleep deprivation → amygdala 60% more reactive; emotion regulation collapses. Sleep is the prerequisite, not an option.
+- **Aerobic exercise = S-tier for both**: BDNF spike 200–300% during exercise → hippocampal neurogenesis → learning rate improvement. Exercise simultaneously reduces anxiety and cortisol → EQ resilience. Joe already does this at elite volume (6×/week).
+- **Dual n-back**: Real but modest Gf gains (~2–4 IQ points in meta-analyses). Use dual-nback.com, 20–25 sessions over 4–8 weeks. Effect partly confounded by motivation/placebo in passive-control studies.
+- **Therapy (CBT/DBT/ACT) = S-tier EQ**: Gains persist 12+ months. Indirect IQ benefit: anxiety consumes working memory; treating anxiety frees cognitive bandwidth.
+- **Affect labeling is the atomic EQ skill**: Naming emotions precisely activates vlPFC and down-regulates amygdala (Torre & Lieberman 2018). "I notice I feel disappointed" → measurable reduction in distress. Emotion granularity (distinguishing types of negative emotion) predicts regulation quality.
+- **Mindfulness has dual IQ+EQ pathway**: Medium effect on working memory (d≈0.5 across 29 studies) AND large effect on emotion regulation. Same 10–20 min/day practice captures both benefits. 8-week commitment minimum.
+- **Literary fiction EQ benefit only when transported**: Reading literary fiction (Dostoevsky, McCarthy, Morrison) improves Theory of Mind — but only when emotionally engaged. Genre fiction shows no effect. Kidd & Castano (Science 2013) replicated 5 times.
+- **Education is highest-impact IQ lever**: Flynn Effect (3 IQ pts/decade) driven by formal schooling and abstract problem-solving exposure. Each year of schooling → ~1–5 IQ points. Challenge yourself at the edge of ability, always.
+- **Formal education tier list (IQ)**: S = deliberate challenging study, sleep, aerobic exercise, dual n-back | A = new skill learning, challenging reading, chess, mindfulness | B = nutrition optimization, spaced repetition | C = brain training apps | D = nootropics (standalone)
+- **EQ tier list**: S = therapy, journaling, mindfulness, empathy practice | A = social skills training, affect labeling, emotion regulation practice | B = literary fiction, volunteering, perspective-taking | C = EQ apps | D = passive consumption without reflection
+- **Joe's highest-ROI additions**: Structured journaling 10 min/day (EQ+IQ) + mindfulness 10 min/day (EQ+IQ) + protect sleep 7.5h+ fixed wake (EQ+IQ) — all three address identified gaps without adding burden to existing schedule
+
+### FURI Program at ASU — newest autoresearch
+- **FURI = Fulton Undergraduate Research Initiative**: flagship undergrad research program; $1,500 stipend + $400 supplies per semester; available from 2nd semester through senior year; good academic standing required (2.0+ GPA minimum)
+- **Deadline pattern**: 3rd Wednesday of March (for Fall) and 3rd Wednesday of October (for Spring); Spring 2027 deadline is ~October 2026 — Joe's target application window
+- **Application = 6 components**: resume + 2-page research proposal + bibliography + timeline + 1-page personal statement + transcript + **faculty mentor approval** (must have mentor first — this is the gate)
+- **No AI tools permitted**: ChatGPT, Claude, etc. are explicitly banned for any application component — write everything yourself
+- **7 research themes**: Data | Education | Energy | Health | Security | **Semiconductor Manufacturing** | Sustainability → Joe's primary themes are **Energy** (power electronics/WBG) and **Semiconductor Manufacturing** (SiC/GaN)
+- **Faculty mentor priority for Joe**: Prof. Mike Ranjram (MAPEL, mike.ranjram@asu.edu) = highest priority — WBG devices + miniaturized converters, FURI-friendly; Prof. Raja Ayyanar (rayyanar@asu.edu) = second option — EV/PV/WBG/motor drives
+- **Mentor acquisition strategy**: read 1–2 MAPEL papers → visit Ranjram office hours 2–3 times → express research interest → ask for FURI mentorship; cold email as fallback (7–12 sentences, one at a time, 7 business days before follow-up)
+- **End-of-semester deliverable**: 23" × 35" poster presented at Fulton Forge Student Research Expo; required sections: Introduction | Methods | Results | Conclusions | References; less text, more charts
+- **Why FURI matters for grad school**: NC State MS-WBGS and VT CPES both weight research experience heavily; FURI under Ranjram → named WBG letter + research abstract = strongest differentiator in SOP; chain = FURI Year 2 → MS EE admission → LLNL/Sandia/WBG career
+- **Joe's action plan**: Year 1 now = visit Ranjram/Ayyanar office hours + build LTspice + Python portfolio + join IEEE + Solar Devils; October 2026 = Spring 2027 FURI application; research topic ideas = SiC gate driver optimization, GaN OBC thermal characterization, WBG double-pulse test analysis
+- **Scale**: 117 students participated Fall 2025; can apply multiple semesters; GCSP Research Stipend is similar alternative for GCSP scholars; MORE = grad-student equivalent
+
+### MS EE Programs — Acceptance Rates — newest autoresearch
+- **No university officially publishes MS ECE acceptance rates.** All data is estimated from enrollment reports, GradCafe aggregations, and institutional comparisons.
+- **Rate table (estimates)**: MIT PhD-only ~6–9% | Stanford MS EE ~15% | UC Berkeley MEng ~20–25% (avg GPA 3.7) | UIUC MS ECE ~15–25% | Georgia Tech MS ECE ~20–30% | U Michigan ~27% (most reliable — official grad engineering figure, Fall 2024) | UT Austin ~15–25% | Virginia Tech ~30–40% | NC State ~25–35% | Purdue ~37% (avg GPA 3.6)
+- **MIT = PhD track only**: No standalone terminal MS for external applicants; SM is earned en route to PhD.
+- **NC State MS-WBGS (Fall 2026) and UT Austin SSE (Fall 2025) have NO historical acceptance rate data** — brand-new programs; first cohort may be most accessible due to early-mover effect.
+- **Purdue is the most accessible high-prestige option** (~37%, avg GPA 3.6, online available within top-10 engineering school).
+- **Joe's best-odds targets**: NC State (new program + Joe's WBG alignment) → VT CPES (moderate selectivity, GPA 3.3+ recommended) → Purdue (accessible backup).
+- **What moves the needle**: GPA ≥3.5 + FURI/lab research experience + named faculty in SOP + LTSpice/WBG skills. GRE mostly waived.
+- **Stanford ~15% applicant pool caveat**: Even at 15% the pool is top undergraduate research students; needs FURI publication to be competitive.
+
+## Key Recent Facts
+
+### Rome & Vatican Family Trip — newest autoresearch
+- **Pre-book these NOW (critical)**: Vatican Museums + Sistine Chapel (4–6 weeks ahead for May peak season; buy via Vatican official site or Viator/GetYourGuide); Colosseum; Borghese Gallery (legally capacity-capped, sells out weeks ahead)
+- **Vatican day tips**: Guided skip-the-line tour (€50–80/person) is the right call — saves 3+ hour queue; Sistine Chapel dress code enforced (shoulders + knees covered); newly restored Last Judgment wall (March 2026 restoration complete, colours now vibrant); dome climb requires 300+ steps after lift — doable for fit 60yo
+- **Best base**: Prati neighbourhood (walking distance to Vatican; flat; excellent restaurants; less touristy than historic centre)
+- **May weather**: 20–25°C days, 14°C evenings, 10–12h sunshine, ~11 rainy days (brief showers); pack layers + compact umbrella + SPF
+- **Senior-friendly strategy**: Max 2–3 major sights per day; morning sightseeing + afternoon rest; alternate heavy-walking days with easier days; Metro Line A (Ottaviano for Vatican), Line B (Colosseo); Free Now app for taxis
+- **Day trip recommendation**: Tivoli (Day 5) = 2 UNESCO World Heritage Sites (Villa d'Este + Hadrian's Villa); 40-min regional train; flat manageable gardens; best day trip for parents aged 60+52
+- **Ostia Antica** (Day 7) = Rome's most underrated day trip; Pompeii-scale ancient city 30km from Rome; flat site; tiny fraction of Pompeii's crowd; highly recommended
+- **Food essentials**: Cacio e pepe + carbonara + supplì + pizza al taglio + artichokes; stand at bar for breakfast (€2–3 vs €6+ sitting); avoid restaurants on tourist squares; tap water safe; no cream in carbonara (ever)
+- **Day-by-day**: Day 1 orientation; Day 2 Colosseum+Forum+Capitoline; Day 3 Vatican full day; Day 4 Historic Centre (Pantheon+Trevi+Spanish Steps); Day 5 Tivoli day trip; Day 6 Borghese Gallery+Trastevere; Day 7 Ostia Antica; Day 8 Castel Sant'Angelo+leisure; Day 9 departure
+
+---
+
+### ASU EE Clubs — previous autoresearch
+- **S-Tier (join Week 1)**: IEEE ASU Student Branch (600+ members; "Dinner With Engineers" speed-networking with Boeing/TI/Honeywell/Intel; free entry) + Solar Devils electrical sub-team (battery pack + BMS + MPPT = real power electronics; WBG/EV-adjacent) + Sun Devil Satellite Laboratory (Altium PCB design; Northrop Grumman/Lockheed Martin industry ties; weather balloon sub-team = Year 1 deliverables)
+- **A-Tier (join when eligible/time permits)**: IEEE Power and Energy Society (PES) Chapter (power/energy networking; WBG career-aligned; join alongside main IEEE) + HKN Eta Kappa Nu (invitation-based; sends resumes directly to industry partners; "Lunch With Professors"; FURI pathway; target Year 2–3) + Sun Devil Rocketry (avionics sub-team; first successful liquid engine test April 3, 2025; 300 lb thrust) + ASU Drone Club (design/build/program/fly; embedded systems)
+- **B-Tier (supporting)**: Tau Beta Pi (top 1/8 junior GPA required; 32 fellowships of $10k for grad study + 250 scholarships of $2k; grad school recruiting fair; target Year 3) + Combat Ready Robotics (rapid prototyping; workshops + Sun Devil Smackdown) + Sun Devil Motorsports FSAE (electrical sub-team; high time commitment)
+- **Key rules**: Depth > breadth (2 deep clubs > 8 surface memberships); Week 1 = join IEEE + one project club; join project *sub-teams* not just general membership; social/professional groups stabilize by Week 6–8
+- **ASU has 58 engineering student orgs total** (Fulton Schools); Solar Devils competed at American Solar Challenge + World Solar Challenge (Australian Outback 1,800 miles); SDSL Coconut CubeSat expected launch April 2026
+- **Joe's recommended timeline**: Week 1 = IEEE ASU (free) + Solar Devils electrical sub-team → Month 1 = SDSL weather balloon + IEEE PES Chapter → Year 2 = target HKN (high GPA) + IEEE PES active involvement → Year 3 = Tau Beta Pi if top 1/8 junior
 
 ### Caffeine Complete Research — newest autoresearch
 - **Matcha = S-tier caffeine drink**: 24–39 mg L-theanine per serving (no other common drink has clinically meaningful L-theanine), 137× more antioxidants than steeped green tea, ~70 mg caffeine → "calm energy" 4–6 hours without jitter or crash; whole-leaf ingestion maximizes EGCG catechin bioavailability
@@ -449,6 +1031,9 @@ tags:
 - Polarized model (Seiler): 80% Zone 1 / ~20% Zone 3; 6-day/week training plan
 
 ## Recent Changes
+- Created: [[Research - Chess Improvement Guide]] + [[Chess Improvement Complete Guide]] + [[Chess Rating Roadmap]] — complete chess improvement system: four pillars, rating-phase breakdown with study distributions, book ladder (Capablanca→Seirawan→Silman→Yusupov→Dvoretsky), platform guide (Chess.com + Lichess + Chessable), endgame must-know list, Joe-specific daily integration (15 min puzzles + 1-2 weekly long games + game analysis)
+- Created: [[EQ-IQ-Enhancement-Guide]] + [[IQ-Enhancement-Tier-List]] + [[EQ-Enhancement-Tier-List]] + [[Combined-EQ-IQ-Tier-List]] — complete EQ and IQ enhancement reference with S–D tier lists grounded in RCT/meta-analysis evidence; dual-benefit activities ranked; Joe-specific priority stack included
+- Created: [[Research - FURI Program ASU Full Guide]] + [[FURI Program Complete Guide]] — complete FURI guide: eligibility, 6 application components, 7 research themes, faculty mentor strategy (Ranjram/Ayyanar), poster specs, Joe's Year 2 action timeline; key insight: securing faculty mentor approval is the prerequisite gate before any other application step
 - Created: [[Research - Hobbies for Young Men]], [[Hobbies for Young Men — Life Domain Framework]], [[Martial Arts for Young Men]], [[Music as a Life Skill]] — 5-domain hobby framework; BJJ + guitar + investing as Joe's priority gap-filling stack; domain audit showing creative + financial as primary gaps
 - Created: [[Research - Programming in the AI Era]], [[AI-Assisted Programming Learning Roadmap]], [[Programming Skills AI Cannot Replace]] — AI-era programming guide; 5-phase learning roadmap; irreplaceable human skills
 - Created: [[Research - Bulking vs Cutting Body Composition Guide]] + [[Bulk and Cut Decision Framework]] + [[FFMI Natural Muscle Potential]] — full body composition guide for 5'9" / 156 lb male; FFMI reference table; lean bulk/cut/recomp protocols; Joe-specific calorie math
