@@ -93,6 +93,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Stackable EE Scholarships - ASU Second Year]] — second-year scholarship stack for EE at ASU (already have NAU + FAFSA): DoD SMART (full tuition + $30–46k stipend), Goldwater ($7,500/yr via ONSA), IEEE AESS ($10k/2 awarded), AFCEA ($2.5–5k, sophomore-eligible), Fulton Scholarship Universe (continuing students eligible), Bold.org; stacking ceiling ~$62k+/yr (complete)
 - [[Research - Stackable EE Scholarships ASU Second Year]] — 8-finding synthesis: DoD SMART is highest-value by a large margin, Fulton Universe open to continuing students, Goldwater needs FURI pipeline → ONSA → nomination, AFCEA perfectly timed for sophomore entry, IEEE AESS is $10k low-competition, Bold.org profile is lowest effort per dollar, NAU renewal is downside protection first, ONSA is the unlock for all prestige programs (complete)
 
+### Fitness / Body Composition
+- [[Research - Cutting vs Maintenance for Lower Abs]] — full protocol: why 4-month cuts stall, MATADOR study evidence, 4–8 wk maintenance break → 8–10 wk mini-cut sequence; lower abs require 10–12% BF (complete)
+- [[Stubborn Lower Abdominal Fat]] — alpha-2 receptor dominance (3–4× density vs. upper body), reduced blood flow, cortisol-specific fat retention; why lower abs are biologically last to reveal (complete)
+- [[Metabolic Adaptation and Diet Breaks]] — adaptive thermogenesis mechanisms (REE/NEAT/T3/leptin/testosterone suppression), MATADOR RCT (intermittent beats continuous cutting), diet break protocol, refeed vs. break comparison (complete)
+- [[Body Fat Percentage and Visible Abs]] — BF% threshold table (upper abs ~14–15%, lower abs ~10–12%), genetic variability factors, estimation methods, muscle thickness role (complete)
+
 ### Personal Growth / Habits / Products
 - [[Apartment Health Products Tier List]] — S–B tier list of top apartment health products + coffee machines with Amazon links; S-tier: Levoit Core 300 air purifier + Brita water filter + Manduka PRO mat + Breville Bambino Plus espresso machine (complete)
 - [[Research - Top Apartment Health Products]] — 8-finding synthesis: air quality highest-leverage passive investment, water filter near-infinite ROI, yoga mat as minimal viable fitness surface, foam rolling dose-dependent recovery, Bambino Plus for real espresso, Nespresso Vertuo for zero-technique, Keurig K-Mini for space efficiency, robot vacuum as air purifier multiplier; full product table with Amazon links (complete)
