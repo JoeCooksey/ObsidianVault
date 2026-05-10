@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Book Reading for Maximum Retention",
+      "path": "wiki/concepts/Book Reading for Maximum Retention.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "AI ML for Engineers Roadmap",
+      "path": "wiki/concepts/AI ML for Engineers Roadmap.md"
+    },
+    {
+      "basename": "Top Topics to Research — Master Guide",
+      "path": "wiki/concepts/Top Topics to Research — Master Guide.md"
     },
     {
       "basename": "Roblox Game Concepts for AI-Assisted Dev",
@@ -19,14 +31,6 @@
     {
       "basename": "Roblox Game Development with AI",
       "path": "wiki/concepts/Roblox Game Development with AI.md"
-    },
-    {
-      "basename": "AI ML for Engineers Roadmap",
-      "path": "wiki/concepts/AI ML for Engineers Roadmap.md"
-    },
-    {
-      "basename": "Top Topics to Research — Master Guide",
-      "path": "wiki/concepts/Top Topics to Research — Master Guide.md"
     },
     {
       "basename": "Power Electronics Deep Study Roadmap",
@@ -195,10 +199,6 @@
     {
       "basename": "Muscle Building Complete Guide",
       "path": "wiki/concepts/Muscle Building Complete Guide.md"
-    },
-    {
-      "basename": "Muscle Building Nutrition Guide",
-      "path": "wiki/concepts/Muscle Building Nutrition Guide.md"
     }
   ],
   "omittedPaths": [],
