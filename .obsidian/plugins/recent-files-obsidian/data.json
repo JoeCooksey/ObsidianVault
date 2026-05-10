@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Metabolic Adaptation and Diet Breaks",
+      "path": "wiki/concepts/Metabolic Adaptation and Diet Breaks.md"
+    },
+    {
+      "basename": "Stubborn Lower Abdominal Fat",
+      "path": "wiki/concepts/Stubborn Lower Abdominal Fat.md"
+    },
+    {
       "basename": "Research - Book Recommendations Master List",
       "path": "wiki/sources/Research - Book Recommendations Master List.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Book Knowledge Management System",
       "path": "wiki/concepts/Book Knowledge Management System.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Book Reading for Maximum Retention",
@@ -191,14 +199,6 @@
     {
       "basename": "FURI to Grad School Roadmap — Joe",
       "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
-    },
-    {
-      "basename": "Wiki Index",
-      "path": "Wiki Index.md"
-    },
-    {
-      "basename": "2026-05-05",
-      "path": "Journal/Daily/2026-05-05.md"
     }
   ],
   "omittedPaths": [],
