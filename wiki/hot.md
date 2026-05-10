@@ -8,9 +8,25 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-09 — Autoresearch complete: AI Roblox Game Development; 6 pages created: [[Roblox Game Development with AI]] (Studio Assistant agentic workflow, AI tools stack, 7-step vibe-coding guide), [[Roblox Viral Game Design Patterns]] (5 viral principles, genre trends, 90-day post-viral lifecycle), [[Roblox Monetization Strategies]] (all 5 revenue streams, real DevEx numbers, per-genre strategy), [[Roblox Game Concepts for AI-Assisted Dev]] (10 buildable concepts with difficulty/monetization/AI tools), [[Research - AI Roblox Game Development]] (8-finding synthesis), [[Roblox AI Development Guide 2025]] (source record); key findings: Studio went fully agentic April 2026, tycoon/garden genre is hottest in 2026, top 10 devs avg $33.9M/year, Joe's best starting concept = Clicker Idle Empire or Garden Tycoon
+2026-05-09 — Autoresearch complete: Book Reading for Maximum Retention; 4 pages created: [[Book Reading for Maximum Retention]] (5-phase master guide: pre-reading → active reading → notes → spaced repetition → implementation), [[Adler Four Levels of Reading]] (elementary/inspectional/analytical/syntopical framework), [[Active Reading Techniques]] (SQ3R, annotation rules, Feynman technique, 50-page rule), [[Book Knowledge Management System]] (Zettelkasten pipeline, Anki + Readwise stack, post-book template); key findings: passive reading loses 90% within a week; retrieval practice beats re-reading by 50–100%; Feynman technique distinguishes familiarity from understanding; one implemented book > 20 read and forgotten
 
 ## Key Recent Facts
+
+### Book Reading for Maximum Retention — autoresearch complete (2026-05-09)
+- **The Ebbinghaus problem**: ~50% forgotten within 1 hour, ~70% within 24 hours, ~90% within 1 week — every reading technique is a weapon against this curve
+- **Adler's 4 levels**: Inspectional (10–30 min skim: TOC + intro + conclusion + headings, builds scaffold) → Analytical (structural → interpretive → critical; full engagement) → Syntopical (multiple books, construct your own analysis); most people never leave Level 2
+- **SQ3R method**: Survey → Question (convert headings to questions before reading) → Read → Recite (close book, answer in own words) → Review; Recite step is the critical differentiator — outperforms note-taking and re-reading in free recall
+- **Annotation rules**: highlight ≤ 1 sentence per paragraph; always write a marginal note explaining WHY — annotation is where learning happens, not the highlight
+- **Feynman technique**: close book → explain simply (to a smart 12-year-old) → stumbling reveals gaps → return to fill them; distinguishes familiarity (feels like understanding) from actual understanding
+- **Zettelkasten pipeline**: Fleeting notes (while reading) → Literature notes (1 per book, in your own words) → Permanent notes (atomic, one idea, linked); paraphrase, never copy — translation = processing
+- **Spaced repetition stack**: Anki (3–5 cards per chapter, SM-2 algorithm, 10 min/day review) + Readwise (resurfaces Kindle highlights on a schedule); reviewing at intervals (1→3→7→14→30 days) defeats the forgetting curve
+- **Implementation is where most readers fail**: reading activates similar brain patterns to doing — creates false sense of progress; fix = one concrete action per book, Implementation Intention formula ("When X, I will Y"), 2-week lock before next book
+- **Top performer habits**: Munger (latticework across disciplines, re-reads, selective), Naval (read what excites you, depth > breadth, re-read fundamentals), Buffett (80% of day to reading)
+
+## Last Updated (prev)
+2026-05-09 — Autoresearch complete: AI Roblox Game Development; 6 pages created: [[Roblox Game Development with AI]] (Studio Assistant agentic workflow, AI tools stack, 7-step vibe-coding guide), [[Roblox Viral Game Design Patterns]] (5 viral principles, genre trends, 90-day post-viral lifecycle), [[Roblox Monetization Strategies]] (all 5 revenue streams, real DevEx numbers, per-genre strategy), [[Roblox Game Concepts for AI-Assisted Dev]] (10 buildable concepts with difficulty/monetization/AI tools), [[Research - AI Roblox Game Development]] (8-finding synthesis), [[Roblox AI Development Guide 2025]] (source record); key findings: Studio went fully agentic April 2026, tycoon/garden genre is hottest in 2026, top 10 devs avg $33.9M/year, Joe's best starting concept = Clicker Idle Empire or Garden Tycoon
+
+## Key Recent Facts (prev)
 
 ### AI Roblox Game Development — autoresearch complete (2026-05-09)
 - **Roblox Studio went agentic April 2026**: built-in Assistant now handles planning, building, and testing in autonomous loops; 44% of top 1,000 creators use it; use RoCode, LuauGPT, or Nilo instead of generic LLMs (ChatGPT fails on deprecated Roblox APIs)
