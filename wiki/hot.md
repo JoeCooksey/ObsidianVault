@@ -8,10 +8,15 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-20 — Book summaries filed: [[Leonardo da Vinci - Walter Isaacson]] (2017) + [[Elon Musk - Walter Isaacson]] (2023); 4 pages created (2 source summaries + 2 entity pages); Isaacson's core thesis across all 3 tech biographies: transformative innovation lives at the intersection of humanities and sciences; genius is self-cultivated through curiosity, not innate
+2026-05-20 — NotebookLM setup filed for Fall 2026 (3 courses): 1 page created ([[Fall 2026 NotebookLM Setup — Textbooks and Master Prompts]]); textbook confirmed for EEE 202 (Irwin 12th), PHY 131 (Young & Freedman 15th, Ch 21–32 only); MAT 343 textbook (Lay 6th ed.) unconfirmed — verify Day 1; four NotebookLM notebooks; master prompts enforce section-by-section with intuition-first teaching, cross-course flags, and MATLAB commands; integration notebook targets eigenvalue unity: MAT 343 eigenvalues = EEE 202 poles = PHY 131 natural frequencies
 
-## Key Recent Facts
+### Fall 2026 NotebookLM Setup (2026-05-20)
+- **EEE 202**: Irwin *Basic Engineering Circuit Analysis* 12th ed. → upload Ch 1–8; section-by-section with ⚡ PHY 131 overlap flags + LTSpice command prompts
+- **MAT 343**: Lay *Linear Algebra and Its Applications* 6th ed. + Strang supplement (math.mit.edu free); geometric intuition first; MATLAB commands required per section; confirm textbook Day 1
+- **PHY 131**: Young & Freedman 15th ed. Ch 21–32 ONLY + Feynman Lectures Vol. II (feynmanlectures.caltech.edu free); physical picture first; canonical geometries for Gauss/Ampere; ⚡ EEE 202 overlap flags
+- **Integration notebook**: all three textbooks; targets the master connection: eigenvalues = poles = natural frequencies
 
+## Key Recent Facts (prev)
 ### Isaacson Trilogy Synthesis — Leonardo / Jobs / Musk (2026-05-20)
 - **Shared thesis**: all three Isaacson tech biographies converge — the greatest innovators cross domain lines; curiosity and observation beat convention and authority; the intersection of art/technology is where transformative work happens
 - **Leonardo da Vinci (2017)**: genius was not innate — cultivated through insatiable curiosity and direct observation; refused to defer to Aristotle/Galen; dissected 30+ corpses; described aortic valve function 150 yrs before Harvey; ~7,200 notebook pages survive; sfumato (comfort with ambiguity) is both artistic technique and cognitive virtue; left ~10 major works unfinished — the cost of unlimited curiosity
