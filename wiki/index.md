@@ -36,7 +36,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[IEEE PES ASU Chapter]] — Power and Energy Society sub-chapter; WBG/power electronics networking; A-tier
 - [[Sun Devil Semiconductor Club]] — semiconductor-focused student org (Sun Devil Central ID 36278); directly WBG/IC design-aligned; details pending; A-tier provisionally
 - [[Steve Jobs]] — Apple co-founder; Pixar founder; iPhone, iPod, Mac; Reality Distortion Field; died 2011; *Steve Jobs* biography by Isaacson (2011)
-- [[Walter Isaacson]] — biographer; *Steve Jobs* (2011), *Einstein* (2007), *Benjamin Franklin* (2003); former CNN/Time executive
+- [[Leonardo da Vinci]] — Renaissance polymath; painter, anatomist, engineer; ~7,200 notebook pages; Mona Lisa, Last Supper, Vitruvian Man; *Leonardo da Vinci* biography by Isaacson (2017)
+- [[Elon Musk]] — CEO SpaceX/Tesla/X; 12+ companies; first-principles thinking; The Algorithm; Demon Mode; *Elon Musk* biography by Isaacson (2023)
+- [[Walter Isaacson]] — biographer; *Steve Jobs* (2011), *Einstein* (2007), *Benjamin Franklin* (2003), *Leonardo da Vinci* (2017), *Elon Musk* (2023); former CNN/Time executive
 - [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
 - [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
 - [[NVIDIA]] — coined "GPU" (1999); CUDA (2007); NVLink 5 at 1.8 TB/s (2024); electrons→tokens; 5-layer cake
