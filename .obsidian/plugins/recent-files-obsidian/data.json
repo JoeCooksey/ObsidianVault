@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Elon Musk - Walter Isaacson",
+      "path": "Books/Elon Musk - Walter Isaacson.md"
+    },
+    {
+      "basename": "Leonardo da Vinci - Walter Isaacson",
+      "path": "Books/Leonardo da Vinci - Walter Isaacson.md"
+    },
+    {
+      "basename": "Book View",
+      "path": "Book View.base"
+    },
+    {
       "basename": "FURI to Grad School Roadmap — Joe",
       "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "2026-05-20",
       "path": "Journal/Daily/2026-05-20.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Metabolic Adaptation and Diet Breaks",
@@ -187,18 +199,6 @@
     {
       "basename": "index",
       "path": "wiki/index.md"
-    },
-    {
-      "basename": "Sleep Habits Tier List",
-      "path": "wiki/concepts/Sleep Habits Tier List.md"
-    },
-    {
-      "basename": "AI-Assisted Programming Learning Roadmap",
-      "path": "wiki/concepts/AI-Assisted Programming Learning Roadmap.md"
-    },
-    {
-      "basename": "Comfort Zone Habits Tier List",
-      "path": "wiki/concepts/Comfort Zone Habits Tier List.md"
     }
   ],
   "omittedPaths": [],
