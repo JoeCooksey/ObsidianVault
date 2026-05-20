@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-20] autoresearch | Fall 2026 NotebookLM Setup — Textbooks and Master Prompts
+- Pages created: 1 | Pages updated: 3 (index, log, hot)
+- Page: [[Fall 2026 NotebookLM Setup — Textbooks and Master Prompts]]
+- Key findings: (1) EEE 202 → use Irwin *Basic Engineering Circuit Analysis* 12th ed. (course-assigned); free backup: Alexander & Sadiku; (2) MAT 343 → use Lay *Linear Algebra and Its Applications* 6th ed. (almost certainly course-assigned, confirm Day 1); free companion: Strang (math.mit.edu); (3) PHY 131 → use Young & Freedman *University Physics* 15th ed. Ch 21–32 only (course-assigned via Canvas); free supplement: Feynman Lectures Vol. II (feynmanlectures.caltech.edu); (4) Four NotebookLM notebooks: one per course + one integration notebook with all three textbooks loaded; (5) Master prompts enforce section-by-section teaching with physical intuition first, step-by-step examples, practice problems, cross-course flags (⚡ EEE 202 overlap), and MATLAB commands; (6) Integration notebook has a dedicated cross-course prompt targeting the master connection: MAT 343 eigenvalues = EEE 202 poles = PHY 131 natural frequencies
+
 ## [2026-05-20] book-summary | Leonardo da Vinci + Elon Musk — Walter Isaacson Biographies
 - Pages created: 4 | Pages updated: 3 (index ×2, log, hot)
 - Pages: [[Leonardo da Vinci - Walter Isaacson]], [[Elon Musk - Walter Isaacson]], [[Leonardo da Vinci]] (entity), [[Elon Musk]] (entity)
