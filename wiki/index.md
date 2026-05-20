@@ -143,6 +143,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[PHY 131 University Physics II EM — Topics and Prep]] — 16-unit E&M topic map; Qing/Reaves; Young & Freedman 15th ed; 40% topic overlap with EEE 202 (developing)
 - [[Fall 2026 Summer Study Plan — Joe]] — 3-phase 16-week schedule (May–Aug); weekly deliverables; resource quick-reference; synergy table (developing)
 - [[Research - Fall 2026 Course Prep Plan]] — synthesis: full prep strategy, cross-course synergy table, open questions (complete)
+- [[Fall 2026 NotebookLM Setup — Textbooks and Master Prompts]] — textbook per course (Irwin 12th / Lay 6th / Y&F 15th Ch 21–32); 4 NotebookLM notebooks; master prompt per course + integration prompt targeting eigenvalue unity (complete)
 
 ### Math and Physics Foundations for EE
 - [[Calculus in Electrical Engineering]] — Calc 1-3 mapped to EE: derivatives for V-I relations, integrals for energy/RMS/Fourier, vector calc for Maxwell (developing)
