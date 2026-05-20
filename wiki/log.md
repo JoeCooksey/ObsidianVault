@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-20] book-summary | Leonardo da Vinci + Elon Musk — Walter Isaacson Biographies
+- Pages created: 4 | Pages updated: 3 (index ×2, log, hot)
+- Pages: [[Leonardo da Vinci - Walter Isaacson]], [[Elon Musk - Walter Isaacson]], [[Leonardo da Vinci]] (entity), [[Elon Musk]] (entity)
+- Key findings: (1) Both biographies follow Isaacson's trilogy thesis — genius lives at the intersection of art/technology and is self-cultivated, not innate; (2) Leonardo's defining lesson: insatiable cross-disciplinary curiosity + observation over authority + sfumato comfort with ambiguity; ~7,200 notebook pages survive; he described aortic valve function 150 yrs before Harvey; (3) Musk's defining framework: The Algorithm (question → delete → simplify → accelerate → automate, in that order); Idiot Index; "the factory is the product"; Demon Mode explains why his brilliance and his brutality are inseparable; (4) Isaacson views Twitter acquisition as Musk's first major bet that failed — it's a social problem, not an engineering problem, and The Algorithm doesn't apply; (5) All three Isaacson tech biographies (Jobs/Leonardo/Musk) converge on the same theme: the intersection of humanities and sciences is where transformative innovation originates
+
 ## [2026-05-10] autoresearch | Cutting vs Maintenance for Lower Abs — Body Composition Protocol
 - Searches: 8 | Pages created: 4 | Pages updated: 2 (index, hot)
 - Pages: [[Research - Cutting vs Maintenance for Lower Abs]], [[Stubborn Lower Abdominal Fat]], [[Metabolic Adaptation and Diet Breaks]], [[Body Fat Percentage and Visible Abs]]
