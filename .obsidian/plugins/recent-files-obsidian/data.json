@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Zero to AI Engineer Roadmap - seelffff 2026",
-      "path": "wiki/sources/Zero to AI Engineer Roadmap - seelffff 2026.md"
+      "basename": "Research - Full Guide to Becoming a Polymath",
+      "path": "wiki/questions/Research - Full Guide to Becoming a Polymath.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Zero to AI Engineer Roadmap - seelffff 2026",
+      "path": "wiki/sources/Zero to AI Engineer Roadmap - seelffff 2026.md"
     },
     {
       "basename": "Deep Work Task Taxonomy",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-06",
       "path": "Daily News Debrief/2026-05-06.md"
-    },
-    {
-      "basename": "Research - Buck Converter Build Guide",
-      "path": "wiki/questions/Research - Buck Converter Build Guide.md"
     }
   ],
   "omittedPaths": [],

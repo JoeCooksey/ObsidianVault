@@ -70,7 +70,14 @@
       "WebFetch(domain:www.kitsblox.com)",
       "WebFetch(domain:generalistprogrammer.com)",
       "WebFetch(domain:www.obby.fun)",
-      "WebFetch(domain:game-ace.com)"
+      "WebFetch(domain:game-ace.com)",
+      "WebFetch(domain:www.studyingmachine.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:iamautodidact.com)",
+      "WebFetch(domain:stevenmilanese.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:sciences.ncsu.edu)",
+      "WebFetch(domain:www.deployyourself.com)"
     ]
   },
   "enabledPlugins": {}
