@@ -129,7 +129,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Metabolic Adaptation and Diet Breaks]] — adaptive thermogenesis mechanisms (REE/NEAT/T3/leptin/testosterone suppression), MATADOR RCT (intermittent beats continuous cutting), diet break protocol, refeed vs. break comparison (complete)
 - [[Body Fat Percentage and Visible Abs]] — BF% threshold table (upper abs ~14–15%, lower abs ~10–12%), genetic variability factors, estimation methods, muscle thickness role (complete)
 
-### Personal Growth / Habits / Products
+### Personal Growth / Habits / Products / Purchasing
+- [[Life-Changing Purchases by Price Range]] — master tier list: budget (<$50) through premium ($500+) and experiences; decision framework; daily-use compounding principle; foundation hierarchy; what NOT to buy (complete)
+- [[Psychology of Spending and Happiness]] — research on experiences vs. things (Gilovich/Cornell), hedonic adaptation, buying time (PNAS 2017), prosocial spending, frequency vs. magnitude, buy-it-for-life principle; decision heuristics (complete)
+- [[Research - Purchases That Genuinely Benefit Your Life]] — 8-finding synthesis: daily-use compounding, foundation hierarchy, experiences > things, buying time = highest ROI, budget tier has highest ROI/dollar, PFAS cookware upgrade, BIFL principle, prosocial + skill spending compounds indefinitely (complete)
 - [[Apartment Health Products Tier List]] — S–B tier list of top apartment health products + coffee machines with Amazon links; S-tier: Levoit Core 300 air purifier + Brita water filter + Manduka PRO mat + Breville Bambino Plus espresso machine (complete)
 - [[Research - Top Apartment Health Products]] — 8-finding synthesis: air quality highest-leverage passive investment, water filter near-infinite ROI, yoga mat as minimal viable fitness surface, foam rolling dose-dependent recovery, Bambino Plus for real espresso, Nespresso Vertuo for zero-technique, Keurig K-Mini for space efficiency, robot vacuum as air purifier multiplier; full product table with Amazon links (complete)
 - [[90 Day Project Tier List]] — S–F tier list of 90-day projects ranked by ROI for Joe's specific situation: S-tier = FURI outreach + buck converter build + MIT 18.06; A-tier = Python EE Ladder + progressive overload + Roth IRA + cold email 30 engineers; includes Joe's recommended execution stack (complete)
