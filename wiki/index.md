@@ -455,6 +455,10 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Polymathy
+- [[The Polymath - Waqas Ahmed 2019]] — Ahmed (2019, Wiley); six mind skills; against hyper-specialization; portfolio/sequential/polymathic career models
+- [[Sparks of Genius - Root-Bernstein 2001]] — Root-Bernstein (2001); 13 universal thinking tools; Nobel laureate avocation data; arts-STEM connection; Y-shaped curriculum
+
 ### AI Engineering
 - [[Zero to AI Engineer Roadmap - seelffff 2026]] — 14-week $0 roadmap; 7 steps from setup to deployed AI agent; complete resource list; MCP as 2026 agent standard; career tracks $80k→$250k
 
