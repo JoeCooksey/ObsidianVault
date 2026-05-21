@@ -1,15 +1,26 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-10T00:00:00
+updated: 2026-05-21T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-05-20 — NotebookLM setup filed for Fall 2026 (3 courses): 1 page created ([[Fall 2026 NotebookLM Setup — Textbooks and Master Prompts]]); textbook confirmed for EEE 202 (Irwin 12th), PHY 131 (Young & Freedman 15th, Ch 21–32 only); MAT 343 textbook (Lay 6th ed.) unconfirmed — verify Day 1; four NotebookLM notebooks; master prompts enforce section-by-section with intuition-first teaching, cross-course flags, and MATLAB commands; integration notebook targets eigenvalue unity: MAT 343 eigenvalues = EEE 202 poles = PHY 131 natural frequencies
+2026-05-21 — Autoresearch complete: Best Tasks for Deep Work; 8 pages created: [[Deep Work]], [[Shallow Work]], [[Deep Work Task Taxonomy]], [[Deep Work Scheduling Philosophies]], [[Deliberate Practice]], [[Flow State]], [[Cal Newport]] (entity), [[Anders Ericsson]] (entity); synthesis: [[Research - Best Tasks for Deep Work]]; 6 web searches run.
 
+### Deep Work Research — Key Facts (2026-05-21)
+- **S-tier deep work tasks**: hard problem sets (math/physics/circuits), original writing, software architecture, first-encounter learning, formal proofs, complex design (PCB/LTSpice) — output quality scales directly with concentration; interruption requires restarting from scratch
+- **The 4-hour ceiling**: Ericsson (deliberate practice) and Newport (deep work) independently found ~4 hrs/day is the elite maximum; goal = protect and intensify, not extend
+- **Rhythmic philosophy = best for students**: same daily block (e.g., 6–9 AM) removes decision overhead, trains focus trigger, aligns with morning PFC/norepinephrine peak
+- **Flow state neuroscience**: transient hypofrontality = PFC self-monitoring quiets → automatic expert performance; key chemicals = norepinephrine + rhythmic dopamine + anandamide; deep work dopamine ≠ distraction dopamine
+- **Environment = Pavlovian focus trigger**: consistent location + pre-session ritual reduces warm-up time; phone off, single tab, intent statement, shutdown ritual
+- **Deliberate practice**: predict before verifying; attempt without solutions first; the gap between attempt and feedback is where skill acquisition happens
+- **Joe's priority stack**: (1) MAT 343 problem sets/MATLAB, (2) EEE 202 circuits, (3) PHY 131 E&M derivations, (4) Python EE Project Ladder, (5) LTSpice design, (6) Research synthesis, (7) Active textbook reading
+- **Deep Work Audit**: track 15–30 min blocks for 1 week; most people find only 10–20% is genuinely deep
+
+## Key Recent Facts (prev)
 ### Fall 2026 NotebookLM Setup (2026-05-20)
 - **EEE 202**: Irwin *Basic Engineering Circuit Analysis* 12th ed. → upload Ch 1–8; section-by-section with ⚡ PHY 131 overlap flags + LTSpice command prompts
 - **MAT 343**: Lay *Linear Algebra and Its Applications* 6th ed. + Strang supplement (math.mit.edu free); geometric intuition first; MATLAB commands required per section; confirm textbook Day 1
