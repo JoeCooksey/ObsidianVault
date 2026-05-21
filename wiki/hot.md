@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-21 — Autoresearch complete: Full Guide to Becoming a Polymath; 15 pages created: [[Polymathy]], [[Talent Stack]], [[T-Shaped Knowledge]], [[The 5-Hour Rule]], [[Sparks of Genius Thinking Tools]], [[Polymath Learning System]], [[Waqas Ahmed]], [[Robert Root-Bernstein]], [[Michael Simmons]], [[Scott Adams]], [[The Polymath - Waqas Ahmed 2019]], [[Sparks of Genius - Root-Bernstein 2001]]; synthesis: [[Research - Full Guide to Becoming a Polymath]]; 9 web searches run.
+
+### Polymath Guide — Key Facts (2026-05-21)
+- **Polymathy is learnable**: [[Waqas Ahmed]], [[Michael Simmons]], and [[Robert Root-Bernstein]] all converge — polymathic capacity is available to everyone; the barrier is structure, not innate talent
+- **The 3-domain model**: [[Michael Simmons]] defines a modern polymath as competent in **at least 3 diverse domains** integrated into a top-1% skill set — three top-25% competencies combine into a unique package almost no one else holds
+- **The Talent Stack** ([[Scott Adams]]): "You make yourself rare by combining two or more 'pretty goods' until no one else has your mix." Average drawing + average joke-writing = $75M Dilbert career; EE + ML + communication = rare research profile
+- **The 5-Hour Rule**: 1 hr/day deliberate learning × 5 days = 260 hrs/yr; every documented high-performer (Gates, Buffett, Musk) follows this pattern; three types: read + reflect + experiment (all required)
+- **Nobel laureate data**: Nobel laureates average 3× the avocations of average adults; eminent scientists are **15–25× more likely** to maintain arts/crafts avocations — empirical proof that breadth enhances depth
+- **13 Thinking Tools** ([[Robert Root-Bernstein]]): observing, imaging, abstracting, recognizing patterns, forming patterns, analogizing, body thinking, empathizing, dimensional thinking, modeling, playing, transforming, synthesizing — the same tools drive creativity in all domains
+- **T-Shaped Knowledge**: one deep vertical bar (anchor domain) + broad horizontal awareness; π-shaped (two deep domains) is the polymath target; comb-shaped is the advanced endpoint
+- **Joe's polymath stack**: EE (anchor, vertical bar) + Mathematics/ML (complement 1) + Communication/Writing (complement 2) = the rarest combination in power electronics research
+- **Universal complement domains** (transfer into everything): Mathematics, Philosophy/Logic, History, Writing/Rhetoric, Statistics/Probability
+- **Key mistake to avoid**: pursuing 8 subjects simultaneously = dilettante in all; cap at 3–5 disciplines; reach top-25% threshold in each before moving on
+
+## Last Updated (prev)
 2026-05-21 — Ingest: "Zero to AI Engineer" article (@seelffff); 4 pages created: [[Zero to AI Engineer Roadmap - seelffff 2026]] (14-week $0 roadmap), [[Free AI Engineer Resources 2026]] (platform rankings, GitHub repos, tools, MCP, salaries), [[Andrej Karpathy]] (entity), [[Model Context Protocol]] (concept)
 
 ### AI Engineer Roadmap — Key Facts (2026-05-21)
