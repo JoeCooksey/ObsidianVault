@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Zero to AI Engineer Roadmap - seelffff 2026",
+      "path": "wiki/sources/Zero to AI Engineer Roadmap - seelffff 2026.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research - Buck Converter Build Guide",
       "path": "wiki/questions/Research - Buck Converter Build Guide.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
     }
   ],
   "omittedPaths": [],
