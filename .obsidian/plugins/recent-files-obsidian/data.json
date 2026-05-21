@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
-      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
-    },
-    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Deep Work Task Taxonomy",
+      "path": "wiki/concepts/Deep Work Task Taxonomy.md"
+    },
+    {
+      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
+      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
     },
     {
       "basename": "Research - Fall 2026 Course Prep Plan",
@@ -195,10 +199,6 @@
     {
       "basename": "overview",
       "path": "wiki/overview.md"
-    },
-    {
-      "basename": "ASU EE Mentorship Pathways",
-      "path": "wiki/concepts/ASU EE Mentorship Pathways.md"
     }
   ],
   "omittedPaths": [],
