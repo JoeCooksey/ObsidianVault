@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-21] ingest | Zero to AI Engineer Roadmap — seelffff (article)
+- Pages created: 4 | Pages updated: 3 (index, log, hot)
+- Pages: [[Zero to AI Engineer Roadmap - seelffff 2026]] (source), [[Free AI Engineer Resources 2026]] (concept: platform rankings, GitHub repos, free tools, MCP, career salaries, Joe integration map), [[Andrej Karpathy]] (entity), [[Model Context Protocol]] (concept)
+- Key findings: (1) Anthropic Academy = 16 free courses with certs — the most underrated AI learning platform in 2026; (2) Karpathy/nn-zero-to-hero is S-tier for deep learning — micrograd → makemore → nanoGPT; (3) MCP (Model Context Protocol) is Anthropic's open standard for agents — described as the 2026 standard for agent tool-use; (4) Architecture pattern: LangGraph for orchestration + MCP for tool connections; (5) Career tracks: Junior AI ($80–120K) → Prompt/Agent Engineer ($120–180K) → AI Product Engineer ($150–250K); (6) Coursera audit mode = full access free, no cert — irrelevant when you get certs directly from Anthropic/OpenAI/Google; (7) Maintenance mode: 1 hr/week keeps you in top 10%
+
 ## [2026-05-21] autoresearch | Best Tasks for Deep Work
 - Searches: 6 | Pages created: 8 | Pages updated: 3 (index, log, hot)
 - Pages: [[Deep Work]] (master concept), [[Shallow Work]] (contrast), [[Deep Work Task Taxonomy]] (S–C tier list), [[Deep Work Scheduling Philosophies]] (4 philosophies + session structure + environment design), [[Deliberate Practice]] (Ericsson's concept + EE application), [[Flow State]] (neuroscience: transient hypofrontality + neurochemicals), [[Cal Newport]] (entity), [[Anders Ericsson]] (entity), [[Research - Best Tasks for Deep Work]] (8-finding synthesis)
