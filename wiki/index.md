@@ -17,6 +17,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (1 research synthesis, 5 concept pages)
 
 ## Entities
+- [[Cal Newport]] — Georgetown CS professor; coined "deep work" and "shallow work"; author of *Deep Work* (2016), *So Good They Can't Ignore You*, *Digital Minimalism*
+- [[Anders Ericsson]] — psychologist (1947–2020); coined "deliberate practice"; 4-hour ceiling; expertise research across chess, music, medicine, sports
 - [[Mike Ranjram]] — ASU MAPEL; converter architecture + MHz magnetics; ML-CEMS (flux 231→66 mT) + HPPC; Joe's #1 FURI target
 - [[Raja Ayyanar]] — ASU EVSTS; EV/PV/WBG/grid control; senior faculty; Joe's #2 FURI target
 - [[Yuji Zhao]] — Rice WIDE Lab (formerly ASU); GaN/β-Ga₂O₃ device physics; BN interface engineering; not FURI-eligible
