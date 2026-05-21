@@ -8,6 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-21 — Autoresearch complete: Purchases That Genuinely Benefit Your Life; 3 pages created: [[Life-Changing Purchases by Price Range]] (5-tier list from <$50 to $1,500+, decision framework), [[Psychology of Spending and Happiness]] (Gilovich/Cornell research, hedonic adaptation, buying time), [[Research - Purchases That Genuinely Benefit Your Life]] (8-finding synthesis); 6 web searches run.
+
+### Life-Changing Purchases — Key Facts (2026-05-21)
+- **Daily-use compounding = dominant variable**: cost-per-use, not sticker price, is the right metric; a $100 air purifier running 24/7 outperforms a $1,000 novelty in cumulative wellbeing impact
+- **Foundation hierarchy** (fix these first, in order): sleep quality (mattress/pillow/blackout curtains) → air/water quality (HEPA/Brita) → ergonomics (chair/desk height) → nutrition enablement (knife/non-toxic cookware)
+- **Experiences > things**: Thomas Gilovich (Cornell) — the most replicated finding in happiness economics; experiences resist social comparison, become part of identity, memories distill positively; hedonic adaptation hits possessions faster
+- **Buying time = highest ROI**: PNAS 2017 (Whillans et al.) — adults spending on time-saving services reported greater life satisfaction than equivalent material purchases; eliminating "time famine" is undervalued
+- **Budget tier (<$50) has near-infinite ROI**: Brita filter $35 (removes 99% lead/chlorine), blackout curtains $25 (melatonin protection), cast iron pan $25 (PFAS-free, lasts 50 yrs), mouth tape $10 (nasal breathing + better sleep)
+- **PFAS/cookware upgrade is underrated**: conventional Teflon releases microplastics when scratched; Caraway/GreenPan (ceramic nonstick) or Lodge cast iron are the safe replacements
+- **Premium picks with evidence**: quality mattress ($800–1500) — 1/3 of life spent sleeping, highest ROI per daily hour; Herman Miller Aeron ($1,000–1,400) — 8 hrs/day × 12-yr warranty; LASIK ($2–4k one-time) — eliminates glasses/contacts permanently
+- **Prosocial + skill spending compounds indefinitely**: the two categories that resist hedonic adaptation entirely — spending on others reliably produces happiness; spending on skills returns compound with no ceiling
+- **What NOT to buy**: status goods (fastest adaptation), supplements beyond creatine/D3/omega-3, expensive gear before the habit is formed, luxury versions of things you rarely use
+
+## Last Updated (prev)
 2026-05-21 — Autoresearch complete: Full Guide to Becoming a Polymath; 15 pages created: [[Polymathy]], [[Talent Stack]], [[T-Shaped Knowledge]], [[The 5-Hour Rule]], [[Sparks of Genius Thinking Tools]], [[Polymath Learning System]], [[Waqas Ahmed]], [[Robert Root-Bernstein]], [[Michael Simmons]], [[Scott Adams]], [[The Polymath - Waqas Ahmed 2019]], [[Sparks of Genius - Root-Bernstein 2001]]; synthesis: [[Research - Full Guide to Becoming a Polymath]]; 9 web searches run.
 
 ### Polymath Guide — Key Facts (2026-05-21)
