@@ -48,6 +48,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Jensen Huang]] — NVIDIA CEO/co-founder; "electrons→tokens"; five-layer cake; "do as much as needed, as little as possible"
 - [[Dwarkesh Patel]] — podcaster; long-form interviews on AI, tech, science
 - [[BitNet]] — Microsoft ternary LLM architecture and CPU inference framework
+- [[Waqas Ahmed]] — author of *The Polymath* (2019); six mind skills framework; argues hyper-specialization stifles human potential
+- [[Robert Root-Bernstein]] — physiologist (Michigan State); MacArthur Fellow; *Sparks of Genius* (2001); 13 Thinking Tools; Nobel laureate avocation research
+- [[Michael Simmons]] — entrepreneur; coined the 5-Hour Rule; Modern Polymath framework (three-domain competence → top 1% skill set)
+- [[Scott Adams]] — creator of *Dilbert*; coined the Talent Stack concept; *How to Fail at Almost Everything and Still Win Big* (2013)
 - [[llama.cpp]] — dominant C/C++ edge LLM inference engine (Georgi Gerganov)
 - [[MLC-LLM]] — TVM-based universal LLM deployment engine
 - [[Wolfspeed]] — largest SiC wafer manufacturer; 62% market share (2025)
