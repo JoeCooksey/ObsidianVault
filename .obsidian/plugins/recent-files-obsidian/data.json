@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Research - Full Guide to Becoming a Polymath",
-      "path": "wiki/questions/Research - Full Guide to Becoming a Polymath.md"
+      "basename": "Life-Changing Purchases by Price Range",
+      "path": "wiki/concepts/Life-Changing Purchases by Price Range.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Full Guide to Becoming a Polymath",
+      "path": "wiki/questions/Research - Full Guide to Becoming a Polymath.md"
     },
     {
       "basename": "Zero to AI Engineer Roadmap - seelffff 2026",
@@ -195,10 +199,6 @@
     {
       "basename": "Buck Converter Theory and Design",
       "path": "wiki/concepts/Buck Converter Theory and Design.md"
-    },
-    {
-      "basename": "2026-05-06",
-      "path": "Daily News Debrief/2026-05-06.md"
     }
   ],
   "omittedPaths": [],
