@@ -442,6 +442,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### AI Engineering
+- [[Zero to AI Engineer Roadmap - seelffff 2026]] — 14-week $0 roadmap; 7 steps from setup to deployed AI agent; complete resource list; MCP as 2026 agent standard; career tracks $80k→$250k
+
 ### Books
 - [[The 7 Habits of Highly Effective People - Stephen Covey]] — Covey (1989); Maturity Continuum, P/PC Balance, Time Management Matrix, Empathic Listening, Synergy; ⭐⭐⭐⭐⭐
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
