@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-21] autoresearch | Purchases That Genuinely Benefit Your Life
+- Rounds: 2 | Searches: 6 | Pages created: 3 | Pages updated: 3 (index, log, hot)
+- Concepts: [[Life-Changing Purchases by Price Range]], [[Psychology of Spending and Happiness]]
+- Synthesis: [[Research - Purchases That Genuinely Benefit Your Life]]
+- Key finding: Daily-use compounding is the dominant variable; the foundation hierarchy (sleep/air/water/ergonomics) has the highest ROI per dollar; experiences > material things for lasting happiness (Gilovich/Cornell); buying time beats buying things (PNAS 2017); under-$50 tier has near-infinite ROI; PFAS-free cookware is an underrated health upgrade
+
+---
+
 ## [2026-05-21] autoresearch | Full Guide to Becoming a Polymath
 - Rounds: 3 | Searches: 9 | Pages created: 15 | Pages updated: 3 (index, log, hot)
 - Sources: [[The Polymath - Waqas Ahmed 2019]], [[Sparks of Genius - Root-Bernstein 2001]]
