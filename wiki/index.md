@@ -76,6 +76,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Immersion Method Language Learning]] — Refold/Krashen input hypothesis; 4-stage roadmap; Anki SRS mechanics (10–15 cards/day max); full 2025 tools stack (Language Reactor, italki, Dreaming Spanish, AI partners); comprehensible input density principle (developing)
 - [[Research - Language Learning Roadmap and ROI]] — synthesis: Spanish = #1 ROI for Joe (600 hrs, AZ market, immersion available), German = #2 (750 hrs, power electronics/automotive/EU STEM), Mandarin = 3.6× harder than Spanish (only for China specialization track); full roadmap + sources (complete)
 
+### AI Engineering — Free Resources
+- [[Free AI Engineer Resources 2026]] — platform priority rankings (Anthropic Academy S-tier), GitHub repo table by use case, free tools stack, MCP as 2026 agent standard, career salary benchmarks, Joe-specific integration map (complete)
+- [[Model Context Protocol]] — Anthropic's open standard for connecting agents to external tools; LangGraph for orchestration + MCP for tool connections is the 2026 pattern (developing)
+
 ### Deep Work / Focus / Productivity
 - [[Deep Work]] — Newport's framework: distraction-free, cognitively demanding, value-creating work; 4-hour ceiling; deep work audit; neuroscience of PFC focus (complete)
 - [[Shallow Work]] — logistical tasks that create little value; why it dominates; minimization strategies (complete)
