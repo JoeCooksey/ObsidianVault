@@ -483,6 +483,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Questions / Synthesis
 
+### Deep Work / Productivity
+- [[Research - Best Tasks for Deep Work]] — 8-finding synthesis: S-tier task list, 4-hour ceiling, rhythmic scheduling, flow state neuroscience, environment design, deliberate practice overlap, Joe-specific priority stack (complete)
+
 ### EE Curriculum
 - [[Research - ASU EE Major Map Semiconductor Connection]] — 8-finding synthesis: EEE 352 as the entire first-half's destination; PHY 241 as the underestimated quantum foundation; EEE 334's deliberate pedagogical inversion; 7 pathways = 7 semiconductor domains; noise physics in EEE 350; WBG extremes in power track; MOSFET→processor chain; senior design as forced integration; complete course-by-course semiconductor role map (complete)
 
