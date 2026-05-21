@@ -75,6 +75,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Immersion Method Language Learning]] — Refold/Krashen input hypothesis; 4-stage roadmap; Anki SRS mechanics (10–15 cards/day max); full 2025 tools stack (Language Reactor, italki, Dreaming Spanish, AI partners); comprehensible input density principle (developing)
 - [[Research - Language Learning Roadmap and ROI]] — synthesis: Spanish = #1 ROI for Joe (600 hrs, AZ market, immersion available), German = #2 (750 hrs, power electronics/automotive/EU STEM), Mandarin = 3.6× harder than Spanish (only for China specialization track); full roadmap + sources (complete)
 
+### Deep Work / Focus / Productivity
+- [[Deep Work]] — Newport's framework: distraction-free, cognitively demanding, value-creating work; 4-hour ceiling; deep work audit; neuroscience of PFC focus (complete)
+- [[Shallow Work]] — logistical tasks that create little value; why it dominates; minimization strategies (complete)
+- [[Deep Work Task Taxonomy]] — S–C tier list of tasks by deep work ROI; "Deep Work Test" decision framework; Joe-specific priority stack (complete)
+- [[Deep Work Scheduling Philosophies]] — rhythmic/bimodal/journalistic/monastic; session structure; pre/post rituals; environment design table; stage time targets (complete)
+- [[Deliberate Practice]] — Ericsson's framework; predict-before-verifying as the mechanism; deliberate vs. deep work comparison; EE-specific application (complete)
+- [[Flow State]] — transient hypofrontality; 5 neurochemicals (norepinephrine/dopamine/anandamide); conditions for flow; flow vs. deep work distinction (complete)
+
 ### Self-Teaching / Lifelong Learning
 - [[Book Reading for Maximum Retention]] — master guide: 5-phase system (pre-reading → active → note-taking → spaced repetition → implementation), SQ3R + Feynman + Zettelkasten + Anki stack, checklist, book-type table, top performer habits (complete)
 - [[Adler Four Levels of Reading]] — four-level framework: elementary, inspectional (10–30 min skim), analytical (structural → interpretive → critical), syntopical (multiple books, your own analysis); when to use each (complete)
