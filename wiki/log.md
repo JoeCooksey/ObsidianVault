@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-21] autoresearch | Best Tasks for Deep Work
+- Searches: 6 | Pages created: 8 | Pages updated: 3 (index, log, hot)
+- Pages: [[Deep Work]] (master concept), [[Shallow Work]] (contrast), [[Deep Work Task Taxonomy]] (S–C tier list), [[Deep Work Scheduling Philosophies]] (4 philosophies + session structure + environment design), [[Deliberate Practice]] (Ericsson's concept + EE application), [[Flow State]] (neuroscience: transient hypofrontality + neurochemicals), [[Cal Newport]] (entity), [[Anders Ericsson]] (entity), [[Research - Best Tasks for Deep Work]] (8-finding synthesis)
+- Key findings: (1) S-tier deep work tasks = hard problem sets / original writing / software architecture / first-encounter learning / formal proofs / complex design; (2) 4-hour daily ceiling is both Ericsson's and Newport's finding — protect and intensify, don't extend; (3) Rhythmic philosophy (same daily block) is optimal for students; (4) Deep work → flow state via transient hypofrontality; PFC quieting enables automatic expert performance; neurochemicals = norepinephrine + dopamine rhythm + anandamide; (5) Environment design is first-order: consistent location + ritual = Pavlovian focus trigger that reduces warm-up time; (6) Deliberate practice overlaps deep work on S-tier tasks — predict before verifying is the mechanism; (7) Joe's priority stack: MAT 343 → EEE 202 → PHY 131 → Python EE projects → LTSpice sessions → research synthesis
+
 ## [2026-05-20] autoresearch | Fall 2026 NotebookLM Setup — Textbooks and Master Prompts
 - Pages created: 1 | Pages updated: 3 (index, log, hot)
 - Page: [[Fall 2026 NotebookLM Setup — Textbooks and Master Prompts]]
