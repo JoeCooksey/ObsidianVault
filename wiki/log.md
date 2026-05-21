@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-21] autoresearch | Full Guide to Becoming a Polymath
+- Rounds: 3 | Searches: 9 | Pages created: 15 | Pages updated: 3 (index, log, hot)
+- Sources: [[The Polymath - Waqas Ahmed 2019]], [[Sparks of Genius - Root-Bernstein 2001]]
+- Entities: [[Waqas Ahmed]], [[Robert Root-Bernstein]], [[Michael Simmons]], [[Scott Adams]]
+- Concepts: [[Polymathy]], [[Talent Stack]], [[T-Shaped Knowledge]], [[The 5-Hour Rule]], [[Sparks of Genius Thinking Tools]], [[Polymath Learning System]]
+- Synthesis: [[Research - Full Guide to Becoming a Polymath]]
+- Key finding: Polymathy is learnable, not innate — three top-25% competencies integrated into a unique talent stack produce a market-of-one career position; the 5-Hour Rule (1 hr/day) is the engine; arts training directly boosts STEM performance via the 13 universal thinking tools
+
 ## [2026-05-21] ingest | Zero to AI Engineer Roadmap — seelffff (article)
 - Pages created: 4 | Pages updated: 3 (index, log, hot)
 - Pages: [[Zero to AI Engineer Roadmap - seelffff 2026]] (source), [[Free AI Engineer Resources 2026]] (concept: platform rankings, GitHub repos, free tools, MCP, career salaries, Joe integration map), [[Andrej Karpathy]] (entity), [[Model Context Protocol]] (concept)
