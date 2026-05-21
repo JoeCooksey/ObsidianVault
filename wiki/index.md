@@ -92,6 +92,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Deliberate Practice]] — Ericsson's framework; predict-before-verifying as the mechanism; deliberate vs. deep work comparison; EE-specific application (complete)
 - [[Flow State]] — transient hypofrontality; 5 neurochemicals (norepinephrine/dopamine/anandamide); conditions for flow; flow vs. deep work distinction (complete)
 
+### Polymathy / Lifelong Learning
+- [[Polymathy]] — core concept; polymath defined; specialist vs dilettante vs polymath; why polymaths outperform; historical and modern exemplars; 5-step path (complete)
+- [[Polymath Learning System]] — full practical framework: 5-phase implementation guide; discipline selection; weekly architecture; core methods (Feynman, spaced repetition, cross-domain journaling); long-term sequencing (complete)
+- [[Talent Stack]] — Scott Adams's model: combining top-25% skills into a unique, rare, valuable package; career strategy mechanism for polymaths (complete)
+- [[T-Shaped Knowledge]] — knowledge structure model: one deep domain (vertical) + broad awareness (horizontal); T vs π vs comb-shaped variants; how to build the T (complete)
+- [[The 5-Hour Rule]] — Michael Simmons's framework: 1 hr/day deliberate learning × 5 days; Gates/Buffett/Musk pattern; three types of learning hours (read/reflect/experiment) (complete)
+- [[Sparks of Genius Thinking Tools]] — 13 cognitive tools from Root-Bernstein research; cross-domain creative thinking; arts-science connection; Nobel laureate avocation data (complete)
+- [[Research - Full Guide to Becoming a Polymath]] — 8-finding synthesis: polymaths are made not born; 3-domain model; combinatorial impact; 5-hour rule; arts boosts STEM; talent stack; synthesis required; automation favors polymaths (complete)
+
 ### Self-Teaching / Lifelong Learning
 - [[Book Reading for Maximum Retention]] — master guide: 5-phase system (pre-reading → active → note-taking → spaced repetition → implementation), SQ3R + Feynman + Zettelkasten + Anki stack, checklist, book-type table, top performer habits (complete)
 - [[Adler Four Levels of Reading]] — four-level framework: elementary, inspectional (10–30 min skim), analytical (structural → interpretive → critical), syntopical (multiple books, your own analysis); when to use each (complete)
