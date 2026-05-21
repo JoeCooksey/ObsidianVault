@@ -8,6 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-21 — Ingest: "Zero to AI Engineer" article (@seelffff); 4 pages created: [[Zero to AI Engineer Roadmap - seelffff 2026]] (14-week $0 roadmap), [[Free AI Engineer Resources 2026]] (platform rankings, GitHub repos, tools, MCP, salaries), [[Andrej Karpathy]] (entity), [[Model Context Protocol]] (concept)
+
+### AI Engineer Roadmap — Key Facts (2026-05-21)
+- **Anthropic Academy** (anthropic.skilljar.com) = 16 free courses with real certificates; author calls it "most underrated AI platform in 2026"; start with "AI Fluency: Framework & Foundations" (2–3 hrs, certificate)
+- **Karpathy/nn-zero-to-hero** = S-tier deep learning curriculum; micrograd → makemore → nanoGPT; pure Python, no frameworks; most respected free DL series
+- **mlabonne/llm-course** (40K★) = complete LLM roadmap; math foundations → LLM Scientist (fine-tuning/quantization/eval) → LLM Engineer (RAG/deployment/agents); Colab notebooks throughout
+- **MCP (Model Context Protocol)** = Anthropic's open standard for connecting agents to external tools; described as the "2026 standard for agent tool-use"; Anthropic Academy has 2 free MCP courses
+- **Architecture pattern**: LangGraph (orchestration: manages stateful multi-step workflows) + MCP (tool connections: file systems, APIs, databases)
+- **Coursera audit mode**: look for "Audit this course" link at enrollment; full video access free; no Coursera cert but you get certs from Anthropic/OpenAI/Google directly
+- **Career tracks**: Junior AI Engineer ($80–120K) → Prompt/Agent Engineer ($120–180K) → AI Product Engineer ($150–250K); WEF 2025: AI-literate workers = 15–22% salary premium
+- **Maintenance mode (1 hr/week)**: Mon = release notes (10 min) / Wed = arxiv-sanity-lite 1 abstract (15 min) / Fri = Yannic Kilcher or 1littlecoder video (20 min) / Monthly = build + push
+- **Joe action tonight**: Sign up Anthropic Academy → complete "AI Fluency" (2–3 hrs) → fork microsoft/generative-ai-for-beginners → open Lesson 1
+
+## Last Updated (prev)
 2026-05-21 — Autoresearch complete: Best Tasks for Deep Work; 8 pages created: [[Deep Work]], [[Shallow Work]], [[Deep Work Task Taxonomy]], [[Deep Work Scheduling Philosophies]], [[Deliberate Practice]], [[Flow State]], [[Cal Newport]] (entity), [[Anders Ericsson]] (entity); synthesis: [[Research - Best Tasks for Deep Work]]; 6 web searches run.
 
 ### Deep Work Research — Key Facts (2026-05-21)
