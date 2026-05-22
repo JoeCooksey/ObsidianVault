@@ -8,18 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-21 — Autoresearch complete: Purchases That Genuinely Benefit Your Life; 3 pages created: [[Life-Changing Purchases by Price Range]] (5-tier list from <$50 to $1,500+, decision framework), [[Psychology of Spending and Happiness]] (Gilovich/Cornell research, hedonic adaptation, buying time), [[Research - Purchases That Genuinely Benefit Your Life]] (8-finding synthesis); 6 web searches run.
+2026-05-22 — Autoresearch complete: Spanish Fluency Complete Masterclass; 5 pages created: [[Spanish Fluency Complete Masterclass]] (5-phase system, CEFR milestones, tool stack, Joe's 12-month plan), [[Spanish Resources Tier List 2026]] (all apps/podcasts/YouTube ranked S–F), [[Spanish Grammar Progression]] (A1→B2 ordered curriculum), [[Spanish Pronunciation Guide]] (phonetics, 4 English-speaker killers, drill routine), [[Research - Spanish Fluency Masterclass]] (11-search synthesis); 11 web searches run.
 
-### Life-Changing Purchases — Key Facts (2026-05-21)
-- **Daily-use compounding = dominant variable**: cost-per-use, not sticker price, is the right metric; a $100 air purifier running 24/7 outperforms a $1,000 novelty in cumulative wellbeing impact
-- **Foundation hierarchy** (fix these first, in order): sleep quality (mattress/pillow/blackout curtains) → air/water quality (HEPA/Brita) → ergonomics (chair/desk height) → nutrition enablement (knife/non-toxic cookware)
-- **Experiences > things**: Thomas Gilovich (Cornell) — the most replicated finding in happiness economics; experiences resist social comparison, become part of identity, memories distill positively; hedonic adaptation hits possessions faster
-- **Buying time = highest ROI**: PNAS 2017 (Whillans et al.) — adults spending on time-saving services reported greater life satisfaction than equivalent material purchases; eliminating "time famine" is undervalued
-- **Budget tier (<$50) has near-infinite ROI**: Brita filter $35 (removes 99% lead/chlorine), blackout curtains $25 (melatonin protection), cast iron pan $25 (PFAS-free, lasts 50 yrs), mouth tape $10 (nasal breathing + better sleep)
-- **PFAS/cookware upgrade is underrated**: conventional Teflon releases microplastics when scratched; Caraway/GreenPan (ceramic nonstick) or Lodge cast iron are the safe replacements
-- **Premium picks with evidence**: quality mattress ($800–1500) — 1/3 of life spent sleeping, highest ROI per daily hour; Herman Miller Aeron ($1,000–1,400) — 8 hrs/day × 12-yr warranty; LASIK ($2–4k one-time) — eliminates glasses/contacts permanently
-- **Prosocial + skill spending compounds indefinitely**: the two categories that resist hedonic adaptation entirely — spending on others reliably produces happiness; spending on skills returns compound with no ceiling
-- **What NOT to buy**: status goods (fastest adaptation), supplements beyond creatine/D3/omega-3, expensive gear before the habit is formed, luxury versions of things you rarely use
+### Spanish Fluency Masterclass — Key Facts (2026-05-22)
+- **Core formula**: Comprehensible Input (80%) + Output/Speaking (20%); acquisition happens through input, output forces you to notice gaps; Krashen's input hypothesis (1985) is the most evidence-backed model
+- **Zero-cost S-tier stack**: Language Transfer Complete Spanish (free, 40 episodes, 7.5 hrs — derives grammar intuitively) + Anki Core 1000 deck (free, 10 cards/day max) + Dreaming Spanish (free tier, comprehensible input library)
+- **CEFR hour targets**: A1 = 75–100 hrs | A2 = 150–200 hrs | B1 = 350–400 hrs | B2 = 600–700 hrs | C1 = 800–1,000 hrs
+- **Joe's 12-month target**: 45 min/day = ~274 hrs by May 2027 → solid B1, approaching B2 in listening comprehension
+- **Four English pronunciation killers**: (1) Schwa trap — Spanish vowels always pure (ah/eh/ee/oh/oo); (2) English R — Spanish tap [ɾ] and trill [r] are completely different from /ɹ/; (3) D softening — D between vowels → [ð] like "the"; (4) B/V identity — same sound, no teeth-on-lip /v/
+- **Hardest grammar walls**: Ser vs. Estar (permanent vs. temporary); Preterite vs. Imperfect (completed event vs. ongoing state) — both require real input exposure to internalize
+- **App tier verdict**: Language Transfer (S, free) > Pimsleur (B, audio) > Babbel (B, grammar) > Duolingo (C, habit only) > Rosetta Stone (D)
+- **Speaking**: Start italki community tutor at Month 3 (~$10–15/hr); 50 min Spanish conversation + 10 min error review = ideal session
+- **B1→C1 strategy**: Switch phone to Spanish, native podcasts (Radio Ambulante), novels (El Túnel → García Márquez), 2–3 tutors/week
+- **Week 1 action**: Anki → Spanish Core 1000 deck (AnkiWeb) → 10 cards/day → Language Transfer Episode 1 (walk-friendly)
+
+## Last Updated (prev)
+2026-05-21 — Autoresearch complete: Purchases That Genuinely Benefit Your Life; 3 pages created: [[Life-Changing Purchases by Price Range]], [[Psychology of Spending and Happiness]], [[Research - Purchases That Genuinely Benefit Your Life]]; 6 web searches run. Key findings: daily-use compounding = dominant variable; foundation hierarchy (sleep/air/water/ergonomics); experiences > things (Gilovich); buying time = highest ROI (PNAS 2017).
 
 ## Last Updated (prev)
 2026-05-21 — Autoresearch complete: Full Guide to Becoming a Polymath; 15 pages created: [[Polymathy]], [[Talent Stack]], [[T-Shaped Knowledge]], [[The 5-Hour Rule]], [[Sparks of Genius Thinking Tools]], [[Polymath Learning System]], [[Waqas Ahmed]], [[Robert Root-Bernstein]], [[Michael Simmons]], [[Scott Adams]], [[The Polymath - Waqas Ahmed 2019]], [[Sparks of Genius - Root-Bernstein 2001]]; synthesis: [[Research - Full Guide to Becoming a Polymath]]; 9 web searches run.
