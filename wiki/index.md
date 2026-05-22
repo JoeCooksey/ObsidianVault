@@ -16,6 +16,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
 - [[Theology]] — Bible study, theology, apologetics (1 research synthesis, 5 concept pages)
 
+### Quantitative Finance / Quant Careers
+- [[Quantitative Finance Career Guide]] — master hub: 3 quant roles (Researcher/Developer/Trader), full skill dependency map, 6-phase self-study plan, firm tier list (Jane Street/Citadel/Two Sigma), salary benchmarks, education paths including free WorldQuant University MSc (complete)
+- [[Quant Math Foundations]] — 5-layer math curriculum: Calculus → Linear Algebra → Probability → Statistics → Stochastic Calculus; dependency graph, time estimates, resources (MIT OCW, Shreve, Ross), quant application for every concept (complete)
+- [[Quant Programming Stack]] — Python library stack (NumPy/Pandas/scipy/QuantLib/VectorBT), C++ requirements, SQL, 8 portfolio projects, backtest engine build guide (complete)
+- [[Derivatives Pricing and Financial Theory]] — markets vocabulary, Markowitz/CAPM/factor models, Black-Scholes derivation + full formula, all 5 Greeks with P&L decomposition, VaR/CVaR/stress testing (complete)
+- [[Systematic Trading Strategies]] — momentum, mean reversion, pairs trading (with Python code), factor investing (6 classic Fama-French factors), market making (Avellaneda-Stoikov), 7 backtesting deadly sins, Sharpe/Sortino/Calmar formulas (complete)
+- [[Machine Learning in Quantitative Finance]] — classical ML table, feature engineering (price/fundamental/alt data), factor zoo, time series ML (LSTM/Transformers), RL for execution, overfitting problem + PurgedKFold, learning path (complete)
+- [[Quant Interview Prep Guide]] — firm-specific formats (Optiver 80-in-8, Jane Street trading games, SIG poker), mental math tricks, probability distributions + classic problems (coupon collector, gambler's ruin, Monty Hall), 5-step brainteasers approach, market-making game mechanics, 12-week schedule (complete)
+- [[Research - Quant Finance Complete Guide]] — 8-finding synthesis: 3 roles explained, math is the barrier, Python/C++/SQL stack, strict dependency graph, top firms value math creativity, interview prep is separate skill, ML overfitting is catastrophic, free learning paths exist (complete)
+
 ## Entities
 - [[Cal Newport]] — Georgetown CS professor; coined "deep work" and "shallow work"; author of *Deep Work* (2016), *So Good They Can't Ignore You*, *Digital Minimalism*
 - [[Anders Ericsson]] — psychologist (1947–2020); coined "deliberate practice"; 4-hour ceiling; expertise research across chess, music, medicine, sports
