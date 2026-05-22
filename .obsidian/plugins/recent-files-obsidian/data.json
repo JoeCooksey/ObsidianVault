@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Probiotic Creation Guides",
+      "path": "wiki/concepts/Probiotic Creation Guides.md"
+    },
+    {
+      "basename": "Probiotic Foods Tier List",
+      "path": "wiki/concepts/Probiotic Foods Tier List.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Python EE Project Ladder",
       "path": "wiki/concepts/Python EE Project Ladder.md"
     },
     {
       "basename": "Spanish Fluency Complete Masterclass",
       "path": "wiki/concepts/Spanish Fluency Complete Masterclass.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Cycling Training Periodization and Annual Plan",
@@ -191,14 +199,6 @@
     {
       "basename": "Food Guilt and Diet Psychology",
       "path": "wiki/concepts/Food Guilt and Diet Psychology.md"
-    },
-    {
-      "basename": "Diet Cheat Day Recovery Guide",
-      "path": "wiki/concepts/Diet Cheat Day Recovery Guide.md"
-    },
-    {
-      "basename": "2026-05-06",
-      "path": "Journal/Daily/2026-05-06.md"
     }
   ],
   "omittedPaths": [],
