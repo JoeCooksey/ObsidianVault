@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-22] autoresearch | Quant Finance Complete Guide
+- Rounds: 1 | Searches: 8 | Pages created: 7 | Pages updated: 3 (index, log, hot)
+- Concepts: [[Quantitative Finance Career Guide]], [[Quant Math Foundations]], [[Quant Programming Stack]], [[Derivatives Pricing and Financial Theory]], [[Systematic Trading Strategies]], [[Machine Learning in Quantitative Finance]], [[Quant Interview Prep Guide]]
+- Synthesis: [[Research - Quant Finance Complete Guide]]
+- Key finding: 3 distinct quant roles (Researcher/Developer/Trader); stochastic calculus is the unreducible math summit (18–30 months from scratch); Python/C++/SQL stack; top firms (Jane Street/Optiver) hire math/physics/CS with no finance background; Optiver pre-screen = 80 mental math problems in 8 min; Green Book (Xinfeng Zhou) + tradermath.org = interview bible; ML overfitting is #1 failure mode → PurgedKFold mandatory; WorldQuant University MSc is 100% free and accredited
+
+---
+
 ## [2026-05-22] autoresearch | Probiotic Foods Complete Guide
 - Rounds: 1 | Searches: 9 | Pages created: 4 | Pages updated: 3 (index, log, hot)
 - Concepts: [[Probiotic Foods Tier List]], [[Probiotic Creation Guides]], [[Probiotic Strains Reference]]
