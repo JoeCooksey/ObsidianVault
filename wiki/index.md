@@ -124,6 +124,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Top Learning Podcasts]] — 8-finding synthesis: long-form beats short-form, Philosophize This! as best philosophy audio resource, Dwarkesh rise, Hardcore History as S-tier history, economics podcast taxonomy, AI podcast split; full tier table + sources (complete)
 - [[Research - Top Topics to Research]] — 9-search synthesis: EE+ML rarity, Hart→Erickson sequence, negotiation ROI, Stoicism reading order, glymphatic system, missing negotiation gap, MIT 18.06 as top math investment; 7 pages created (complete)
 
+### Planning / Summer 2026
+- [[Summer 2026 Tier List]] — personalized S/A/B/C/D/F tier list for Joe's summer; S-tier = FURI outreach + buck converter + MIT 18.06 + Roth IRA; includes daily stack schedule and priority order (complete)
+- [[FURI Outreach Campaign Guide]] — 12-week step-by-step cold email campaign; Phase 1 paper research → Phase 2 cold emails (template included) → Phase 3 follow-up protocol → Phase 4 FURI application; primary target = Ranjram/MAPEL (complete)
+- [[Roth IRA Setup Guide]] — Fidelity step-by-step guide; 2026 limit $7,500; FZROX (0% expense ratio) recommended fund; 2-hour setup action; $100/mo at 19 → ~$525k at 65 (complete)
+- [[Summer 2026 Strength Program]] — Upper/Lower 4-day split (Mon/Tue/Thu/Fri); 3-5 rep strength range; full exercise prescription; progressive overload rules; Joe-specific posterior chain priority; Zone 2 cycling Wed/Sat (complete)
+- [[MIT 18.06 Summer Schedule]] — 12-week Strang lecture plan (3 lectures/week); 3B1B pre-course first; MAT 343 connection map; ML/AI connection map; minimum viable 12-lecture list (complete)
+- [[Research - Summer 2026 Activities Tier List]] — 9-search synthesis; 5 pages created; key findings: FURI cold email quality is the variable, hardware artifact is the differentiator, Roth IRA is highest ROI/hr, summer = strength phase, execution is the constraint (complete)
+
 ### Finance / Scholarships
 - [[ASU Scholarships for California EE Students]] — complete scholarship guide for CA student at ASU EE: NAU Scholarship ($5,500–$17,500/yr auto) + Commitment Scholarship ($5,500–$7,500/yr auto) + Fulton Schools portal (Feb. 1 deadline) + IEEE PES ($10k external); WUE discontinued Fall 2026; Cal Grants not portable; stacking potential up to $47k/yr (complete)
 - [[Research - ASU Scholarships for California EE Students]] — 8-finding synthesis: WUE dead for Fall 2026, NAU+Commitment stack to $25k auto, Cal Grants not portable, Fulton $1.7M pool, IEEE PES is top external EE scholarship, Pell Grant is only portable CA-sourced aid, ACEC CA requires in-state enrollment, optimal application sequence (complete)
