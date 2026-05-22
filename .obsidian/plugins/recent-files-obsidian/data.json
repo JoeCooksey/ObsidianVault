@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Summer 2026 Tier List",
-      "path": "wiki/concepts/Summer 2026 Tier List.md"
+      "basename": "Research - Cycling Training Periodization and Annual Plan",
+      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
     },
     {
-      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
-      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
+      "basename": "Summer 2026 Tier List",
+      "path": "wiki/concepts/Summer 2026 Tier List.md"
     },
     {
-      "basename": "index",
-      "path": "wiki/index.md"
+      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
+      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
     },
     {
       "basename": "Spanish Fluency Complete Masterclass",
@@ -195,10 +199,6 @@
     {
       "basename": "Language Learning Roadmap",
       "path": "wiki/concepts/Language Learning Roadmap.md"
-    },
-    {
-      "basename": "Immersion Method Language Learning",
-      "path": "wiki/concepts/Immersion Method Language Learning.md"
     }
   ],
   "omittedPaths": [],
