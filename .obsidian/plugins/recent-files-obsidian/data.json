@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Life-Changing Purchases by Price Range",
-      "path": "wiki/concepts/Life-Changing Purchases by Price Range.md"
+      "basename": "First Job Roadmap — Livermore Tri-Valley",
+      "path": "wiki/concepts/First Job Roadmap — Livermore Tri-Valley.md"
+    },
+    {
+      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
+      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Life-Changing Purchases by Price Range",
+      "path": "wiki/concepts/Life-Changing Purchases by Price Range.md"
     },
     {
       "basename": "Research - Full Guide to Becoming a Polymath",
@@ -19,10 +27,6 @@
     {
       "basename": "Deep Work Task Taxonomy",
       "path": "wiki/concepts/Deep Work Task Taxonomy.md"
-    },
-    {
-      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
-      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
     },
     {
       "basename": "Research - Fall 2026 Course Prep Plan",
@@ -195,10 +199,6 @@
     {
       "basename": "STM32 Digital Control for Buck Converter",
       "path": "wiki/concepts/STM32 Digital Control for Buck Converter.md"
-    },
-    {
-      "basename": "Buck Converter Theory and Design",
-      "path": "wiki/concepts/Buck Converter Theory and Design.md"
     }
   ],
   "omittedPaths": [],
