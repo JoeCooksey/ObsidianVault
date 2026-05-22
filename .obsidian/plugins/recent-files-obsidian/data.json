@@ -5,12 +5,20 @@
       "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
     },
     {
-      "basename": "First Job Roadmap — Livermore Tri-Valley",
-      "path": "wiki/concepts/First Job Roadmap — Livermore Tri-Valley.md"
-    },
-    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "Spanish Fluency Complete Masterclass",
+      "path": "wiki/concepts/Spanish Fluency Complete Masterclass.md"
+    },
+    {
+      "basename": "First Job Roadmap — Livermore Tri-Valley",
+      "path": "wiki/concepts/First Job Roadmap — Livermore Tri-Valley.md"
     },
     {
       "basename": "Life-Changing Purchases by Price Range",
@@ -191,14 +199,6 @@
     {
       "basename": "Language ROI Rankings",
       "path": "wiki/concepts/Language ROI Rankings.md"
-    },
-    {
-      "basename": "Benefits of Language Learning",
-      "path": "wiki/concepts/Benefits of Language Learning.md"
-    },
-    {
-      "basename": "STM32 Digital Control for Buck Converter",
-      "path": "wiki/concepts/STM32 Digital Control for Buck Converter.md"
     }
   ],
   "omittedPaths": [],
