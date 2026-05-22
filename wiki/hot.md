@@ -8,6 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-22 — Autoresearch complete: Quant Finance Complete Guide; 7 pages created: [[Quantitative Finance Career Guide]] (master hub, skill dependency map, firm tier list, salary data), [[Quant Math Foundations]] (5-layer curriculum), [[Quant Programming Stack]] (Python/C++/SQL, 8 projects), [[Derivatives Pricing and Financial Theory]] (Black-Scholes, Greeks, VaR), [[Systematic Trading Strategies]] (momentum/pairs/factor/market-making + 7 backtesting sins), [[Machine Learning in Quantitative Finance]] (feature engineering, PurgedKFold, RL for execution), [[Quant Interview Prep Guide]] (mental math, probability, brainteasers, 12-week schedule); 8 web searches run.
+
+### Quant Finance — Key Facts (2026-05-22)
+- **3 distinct roles**: Quant Researcher (math+ML, PhD common) | Quant Developer (C++, strong CS) | Quant Trader (probability intuition, market structure) — choose one as primary, understand all three
+- **Math is the barrier**: 5-layer curriculum in strict order: Calculus → Linear Algebra → Probability → Statistics → **Stochastic Calculus** (the summit; 18–30 months from scratch); Black-Scholes is derived from Ito's Lemma; cannot be skipped
+- **Key resources**: Calculus = MIT OCW 18.01/02 | LA = MIT 18.06 (Strang, free) + 3B1B | Probability = Ross *A First Course in Probability* | Stats = ISLR (free PDF) | Stochastic calc = Shreve Vol I + Vol II (the bible) | Finance = Hull *Options, Futures and Other Derivatives* (the industry standard textbook)
+- **Programming stack**: Python (NumPy + Pandas + scipy + statsmodels + QuantLib) = universal research language; C++ = production/HFT (Developers + HFT traders); SQL = universal requirement everywhere
+- **Firm tier list**: Renaissance (legendary; never recruits openly) | Jane Street + D.E. Shaw + Two Sigma (S-elite; math creativity > finance background) | Citadel + Optiver + IMC + Virtu + HRT + SIG (A; market-making + quant research) | AQR + Winton + Man AHL (B; systematic factor)
+- **Salary**: junior quant $69–147k base | Quant Researcher (HF) $200–500k+ | first-year Jane Street / Optiver = $250–400k total reported
+- **Interview prep is a distinct skill**: Optiver pre-screen = 80 mental math in 8 min; Jane Street = trading games; SIG = GTO poker EV theory; Green Book (Xinfeng Zhou) = the bible; tradermath.org = daily mental math; 12-week schedule in [[Quant Interview Prep Guide]]
+- **Classic probability**: Coupon collector E[see all N faces] = N×H(N) ≈ 14.7 for N=6; Gambler's ruin P(win) = k/N; Monty Hall always switch (P=2/3); order statistics E[max of n Uniform] = n/(n+1)
+- **ML overfitting = #1 failure mode**: 1000 tested strategies → ~50 appear significant by chance; PurgedKFold (López de Prado) prevents time-series leakage; *Advances in Financial Machine Learning* = required reading before any ML deployment
+- **Strategies**: Momentum (12-month cross-sectional rank, skip 1-month reversal) | Pairs trading (cointegration → z-score ±2 entry, ±0.5 exit) | Factor investing (Fama-French 6 factors, long-short quintiles) | Market making (bid-ask spread capture; Avellaneda-Stoikov optimal quoting)
+- **7 backtesting sins**: look-ahead bias, survivorship bias, ignoring transaction costs, overfitting, multiple testing without correction, regime ignorance, capacity blindness
+- **Free path**: WorldQuant University MSc in Financial Engineering = 100% tuition-free, accredited, online; MIT OCW + ISLR = full math/stats/ML curriculum at $0
+- **Black-Scholes**: C = S·N(d₁) − K·e^{-rT}·N(d₂); d₁ = [ln(S/K) + (r+σ²/2)T] / σ√T; only unobservable = σ (quants spend careers modeling vol better)
+
+## Last Updated (prev)
 2026-05-22 — Autoresearch complete: Probiotic Foods Complete Guide; 4 pages created: [[Probiotic Foods Tier List]] (S/A/B/C rankings + synbiotic pairing strategy), [[Probiotic Creation Guides]] (step-by-step recipes for 9 fermented foods), [[Probiotic Strains Reference]] (strains mapped to conditions + supplement tier list), [[Research - Probiotic Foods Complete Guide]] (9-search synthesis); 9 web searches run.
 
 ### Probiotic Foods — Key Facts (2026-05-22)
