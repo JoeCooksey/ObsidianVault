@@ -8,6 +8,19 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-22 — Autoresearch complete: Summer 2026 Activities Tier List; 5 pages created: [[Summer 2026 Tier List]] (full S/A/B/C/D/F rankings + daily stack), [[FURI Outreach Campaign Guide]] (12-week cold email campaign, template, tracking sheet), [[Roth IRA Setup Guide]] (Fidelity step-by-step, FZROX, 2026 limits), [[Summer 2026 Strength Program]] (Upper/Lower 4-day, full exercise prescription), [[MIT 18.06 Summer Schedule]] (12-week lecture plan, MAT 343 + ML connection maps); 9 web searches run.
+
+### Summer 2026 Tier List — Key Facts (2026-05-22)
+- **S-tier #1 — FURI Faculty Outreach Campaign**: October deadline = cold email campaign starts NOW; read 3-5 Ranjram/MAPEL papers → cold email with specific paper reference + specific question → follow-up → FURI application October; cold emails with paper reference get 3-5× response rate; [[FURI Outreach Campaign Guide]] has 12-week timeline + template
+- **S-tier #2 — Buck Converter Build (STM32 + PCB)**: working PCB with efficiency curve + Bode plot + step response = unique FURI differentiator; no other freshman has this; [[Buck Converter Build Guide]] has 12-week schedule; total cost ~$55-70
+- **S-tier #3 — MIT 18.06 Linear Algebra**: 3B1B Essence first (3 hrs visual) → Strang OCW 35 lectures → 3/week = 12 weeks; done before Fall MAT 343; eigenvalues = circuit poles = ML math; [[MIT 18.06 Summer Schedule]] has week-by-week plan
+- **S-tier #4 — Open Roth IRA**: 2-hour action; 2026 limit $7,500; fidelity.com → FZROX (0.00% ER); $100/mo at 19 = ~$525k at 65; every month delayed = $5-10k lost; [[Roth IRA Setup Guide]] step-by-step
+- **A-tier**: Python EE Ladder (12 projects/13 wks) | Upper/Lower 4-day strength [[Summer 2026 Strength Program]] | Spanish Language Transfer + Anki 10/day | Cold shower + daily social challenge | Morning mobility 7 min
+- **B-tier**: Roblox Clicker Idle (4-6 wk ship) | Catholic spiritual practice | Technical blog (document buck build) | DoD SMART prep (opens Aug 1) | Podcast stack (no extra time)
+- **Daily stack**: 6AM cold shower + mobility → MIT 18.06 OR buck build → Anki + Language Transfer walk → gym or Zone 2 cycling (Huberman/Hardcore History) → FURI outreach (30 min) → Python Ladder → PM mobility + Examen → Sunday Mass
+- **Key rule**: Joe's constraint is execution, not research. Vault is comprehensive. Start building Day 1.
+
+## Last Updated (prev)
 2026-05-22 — Autoresearch complete: Spanish Fluency Complete Masterclass; 5 pages created: [[Spanish Fluency Complete Masterclass]] (5-phase system, CEFR milestones, tool stack, Joe's 12-month plan), [[Spanish Resources Tier List 2026]] (all apps/podcasts/YouTube ranked S–F), [[Spanish Grammar Progression]] (A1→B2 ordered curriculum), [[Spanish Pronunciation Guide]] (phonetics, 4 English-speaker killers, drill routine), [[Research - Spanish Fluency Masterclass]] (11-search synthesis); 11 web searches run.
 
 ### Spanish Fluency Masterclass — Key Facts (2026-05-22)
