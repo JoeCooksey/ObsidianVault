@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-22] autoresearch | Spanish Fluency Complete Masterclass
+- Rounds: 3 | Searches: 11 | Pages created: 5 | Pages updated: 3 (index, log, hot)
+- Concepts: [[Spanish Fluency Complete Masterclass]], [[Spanish Resources Tier List 2026]], [[Spanish Grammar Progression]], [[Spanish Pronunciation Guide]]
+- Synthesis: [[Research - Spanish Fluency Masterclass]]
+- Key finding: Comprehensible input (Dreaming Spanish) + Anki SRS + Language Transfer (free) = the core zero-cost stack; CEFR A2 at ~175 hrs, B1 at ~375 hrs, C1 at ~900 hrs; the four English pronunciation killers are schwa vowels/English R/hard D/V-as-v; Preterite vs. Imperfect is the hardest grammar wall at B1; Duolingo is C-tier — habit only; at 45 min/day Joe reaches solid B1 by May 2027
+
+---
+
 ## [2026-05-21] autoresearch | Purchases That Genuinely Benefit Your Life
 - Rounds: 2 | Searches: 6 | Pages created: 3 | Pages updated: 3 (index, log, hot)
 - Concepts: [[Life-Changing Purchases by Price Range]], [[Psychology of Spending and Happiness]]
