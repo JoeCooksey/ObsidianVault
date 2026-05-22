@@ -85,6 +85,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Language Learning Roadmap]] — complete self-study guide: Phase 0 setup → Phase 1 foundation (Anki + passive immersion, months 1–3) → Phase 2 intermediate (sentence mining + italki, months 3–12) → Phase 3 advanced (native media only, 12–36 months); weekly template; common mistakes; CEFR hour estimates (developing)
 - [[Immersion Method Language Learning]] — Refold/Krashen input hypothesis; 4-stage roadmap; Anki SRS mechanics (10–15 cards/day max); full 2025 tools stack (Language Reactor, italki, Dreaming Spanish, AI partners); comprehensible input density principle (developing)
 - [[Research - Language Learning Roadmap and ROI]] — synthesis: Spanish = #1 ROI for Joe (600 hrs, AZ market, immersion available), German = #2 (750 hrs, power electronics/automotive/EU STEM), Mandarin = 3.6× harder than Spanish (only for China specialization track); full roadmap + sources (complete)
+- [[Research - Spanish Fluency Masterclass]] — 11-search synthesis: comprehensible input is the acquisition engine, 8 key findings on hours/methods/pronunciation/grammar/apps, Joe's week-by-week action plan, 5 pages created (complete)
 
 ### AI Engineering — Free Resources
 - [[Free AI Engineer Resources 2026]] — platform priority rankings (Anthropic Academy S-tier), GitHub repo table by use case, free tools stack, MCP as 2026 agent standard, career salary benchmarks, Joe-specific integration map (complete)
