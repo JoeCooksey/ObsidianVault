@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Python EE Project Ladder",
+      "path": "wiki/concepts/Python EE Project Ladder.md"
+    },
+    {
       "basename": "Spanish Fluency Complete Masterclass",
       "path": "wiki/concepts/Spanish Fluency Complete Masterclass.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-06",
       "path": "Journal/Daily/2026-05-06.md"
-    },
-    {
-      "basename": "Language Learning Roadmap",
-      "path": "wiki/concepts/Language Learning Roadmap.md"
     }
   ],
   "omittedPaths": [],
