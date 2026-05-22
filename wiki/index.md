@@ -72,6 +72,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### Spanish Fluency
+- [[Spanish Fluency Complete Masterclass]] — master hub: 5-phase system (Phase 0 setup → A1 → A2 → B1 → B2 → C1), CEFR milestones with hour targets, tool stack, pronunciation priorities, grammar order, Joe's 12-month plan; 45 min/day → B1 by May 2027 (complete)
+- [[Spanish Resources Tier List 2026]] — all apps ranked S–F: Language Transfer + Dreaming Spanish + Anki = S-tier free core; Babbel/Pimsleur = B-tier paid supplements; Duolingo = C-tier habit-only; full podcasts/YouTube/TV/books/news ranked by level (complete)
+- [[Spanish Grammar Progression]] — ordered grammar curriculum A1→B2: noun gender → ser/estar → present tense → irregular verbs → object pronouns → preterite → imperfect → subjunctive; common false cognates table; reference books (complete)
+- [[Spanish Pronunciation Guide]] — phonetics for English speakers: 5 pure vowels (no schwa), tap R vs trill R, D softening [ð], B/V identity; full consonant table; stress rules; Spain vs. LatAm dialect differences; drill routine; Forvo/SpanishDict resources (complete)
+
 ### Language Learning
 - [[Benefits of Language Learning]] — cognitive (gray matter, delayed dementia, rational decision-making), career (5–20% salary premium), social (empathy, cultural access), health (50% slower biological aging per *Nature Aging* 2025) (developing)
 - [[Language ROI Rankings]] — S-tier: Spanish (600 hrs, #1 for AZ/CA job market) + German (750 hrs, best STEM/engineering fit globally); A-tier: Mandarin (2,200 hrs, highest ceiling); full tier table calibrated for Joe as EE student (developing)
