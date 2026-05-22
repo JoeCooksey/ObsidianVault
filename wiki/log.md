@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-22] autoresearch | Probiotic Foods Complete Guide
+- Rounds: 1 | Searches: 9 | Pages created: 4 | Pages updated: 3 (index, log, hot)
+- Concepts: [[Probiotic Foods Tier List]], [[Probiotic Creation Guides]], [[Probiotic Strains Reference]]
+- Synthesis: [[Research - Probiotic Foods Complete Guide]]
+- Key finding: Milk kefir = S-tier (61 strains, highest diversity); natto = S-tier (unique MK-7 + nattokinase, spore-forming = near-100% stomach acid survival); kimchi = built-in synbiotic (garlic inulin + L. plantarum in same food); strain specificity beats CFU count; pasteurization kills all benefits (most store-bought sauerkraut/kimchi is dead); DIY costs $0.30/cup vs $4 store-bought kefir; gut-brain axis (serotonin 95% gut-produced) is the most promising probiotic frontier
+
+---
+
 ## [2026-05-22] autoresearch | Summer 2026 Activities Tier List
 - Rounds: 1 | Searches: 9 | Pages created: 5 | Pages updated: 3 (index, log, hot)
 - Concepts: [[Summer 2026 Tier List]], [[FURI Outreach Campaign Guide]], [[Roth IRA Setup Guide]], [[Summer 2026 Strength Program]], [[MIT 18.06 Summer Schedule]]
