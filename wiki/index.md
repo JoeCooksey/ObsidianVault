@@ -138,6 +138,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Stackable EE Scholarships - ASU Second Year]] — second-year scholarship stack for EE at ASU (already have NAU + FAFSA): DoD SMART (full tuition + $30–46k stipend), Goldwater ($7,500/yr via ONSA), IEEE AESS ($10k/2 awarded), AFCEA ($2.5–5k, sophomore-eligible), Fulton Scholarship Universe (continuing students eligible), Bold.org; stacking ceiling ~$62k+/yr (complete)
 - [[Research - Stackable EE Scholarships ASU Second Year]] — 8-finding synthesis: DoD SMART is highest-value by a large margin, Fulton Universe open to continuing students, Goldwater needs FURI pipeline → ONSA → nomination, AFCEA perfectly timed for sophomore entry, IEEE AESS is $10k low-competition, Bold.org profile is lowest effort per dollar, NAU renewal is downside protection first, ONSA is the unlock for all prestige programs (complete)
 
+### Nutrition / Gut Health
+- [[Probiotic Foods Tier List]] — S–C ranking of all major probiotic foods by health benefit; synbiotic pairing strategy; key rules for maximizing live cultures (complete)
+- [[Probiotic Creation Guides]] — step-by-step DIY recipes for milk kefir, sauerkraut, kimchi, Greek yogurt, kombucha, miso, natto, tempeh, water kefir; equipment cost table (complete)
+- [[Probiotic Strains Reference]] — top strains mapped to conditions (diarrhea, IBS, immunity, bone, mental health, vaginal health, weight, cardiovascular); supplement tier list; psychobiotic concept (complete)
+- [[Research - Probiotic Foods Complete Guide]] — 9-search synthesis: kefir = most strain-diverse, natto = unique K2+nattokinase, strain specificity beats CFU, kimchi = built-in synbiotic, pasteurization kills benefits, gut-brain axis 2025 status, miso heat caveat, DIY beats supplements on cost+quality (complete)
+
 ### Fitness / Body Composition
 - [[Research - Cutting vs Maintenance for Lower Abs]] — full protocol: why 4-month cuts stall, MATADOR study evidence, 4–8 wk maintenance break → 8–10 wk mini-cut sequence; lower abs require 10–12% BF (complete)
 - [[Stubborn Lower Abdominal Fat]] — alpha-2 receptor dominance (3–4× density vs. upper body), reduced blood flow, cortisol-specific fat retention; why lower abs are biologically last to reveal (complete)
