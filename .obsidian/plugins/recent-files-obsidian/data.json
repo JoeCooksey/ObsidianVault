@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
-      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
+      "basename": "Summer 2026 Tier List",
+      "path": "wiki/concepts/Summer 2026 Tier List.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
+      "path": "wiki/concepts/Fall 2026 NotebookLM Setup — Textbooks and Master Prompts.md"
     },
     {
       "basename": "index",
@@ -195,10 +199,6 @@
     {
       "basename": "Immersion Method Language Learning",
       "path": "wiki/concepts/Immersion Method Language Learning.md"
-    },
-    {
-      "basename": "Language ROI Rankings",
-      "path": "wiki/concepts/Language ROI Rankings.md"
     }
   ],
   "omittedPaths": [],
