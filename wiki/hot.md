@@ -8,6 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-22 — Autoresearch complete: Probiotic Foods Complete Guide; 4 pages created: [[Probiotic Foods Tier List]] (S/A/B/C rankings + synbiotic pairing strategy), [[Probiotic Creation Guides]] (step-by-step recipes for 9 fermented foods), [[Probiotic Strains Reference]] (strains mapped to conditions + supplement tier list), [[Research - Probiotic Foods Complete Guide]] (9-search synthesis); 9 web searches run.
+
+### Probiotic Foods — Key Facts (2026-05-22)
+- **S-tier #1 — Milk Kefir**: Up to 61 distinct bacterial + yeast strains; highest diversity of any probiotic food; costs ~$0.30/cup DIY; make: 1 tbsp grains + 4 cups whole milk → 24 hrs at 65–85°F → strain → repeat; starter grains from CulturesForHealth.com; yeast component (Kluyveromyces) provides antifungal + B vitamins not in capsule supplements
+- **S-tier #2 — Natto**: Only meaningful dietary source of MK-7 (Vitamin K2) and nattokinase (fibrin-dissolving enzyme); Bacillus subtilis spores survive stomach acid near-100%; make: soak soybeans 12–24 hrs → pressure cook 45 min → cool to <95°F → inoculate with natto starter → hold at 100–105°F for 22–24 hrs → white stringy coating = done; serve over rice with soy sauce + karashi mustard
+- **A-tier — Kimchi**: Built-in synbiotic (garlic = inulin prebiotic + L. plantarum probiotic in same food); anti-cancer compounds (sulforaphane + capsaicin); make: salt napa cabbage 1–2 hrs → rinse → mix with garlic + ginger + gochugaru paste → pack into jar → ferment room temp 1–5 days; pairs with rice, eggs, noodles, tofu
+- **A-tier — Greek Yogurt**: Heat milk to 185–200°F → cool to 100–110°F → add 2–3 tbsp live-culture yogurt → ferment 4–8 hrs at ~100°F → strain through cheesecloth for Greek style; pairs with granola + berries + flaxseed (synbiotic)
+- **A-tier — Sauerkraut**: 1 head cabbage + 1 tbsp sea salt → massage → pack into jar → submerge in brine → ferment 3–7 days; must be raw/unpasteurized (most store-bought is pasteurized = dead); pairs with rye bread, avocado, bratwurst
+- **A-tier — Kombucha**: SCOBY + sweet tea → 7–14 day ferment; second ferment sealed bottle 2–4 days for carbonation; B vitamins + tea polyphenols are unique bonuses
+- **B-tier — Miso**: Must be added to cooled food below 115°F (boiling soup kills all probiotics); koji required; white miso = 2–8 weeks; red miso = 6–12 months
+- **Key rules**: Raw/unpasteurized only; strain specificity beats CFU count; take probiotics 2 hrs from antibiotics; consistency daily > occasional large doses
+- **Gut-brain axis (2025 status)**: 95% of serotonin made in the gut by bacteria; vagus nerve = direct gut→brain neural link; SCFAs cross blood-brain barrier; daily kefir + kimchi is the accessible current psychobiotic protocol
+- **Synbiotic pairing**: Kefir + oats/flax/banana; yogurt + granola/berries; sauerkraut + garlic/rye bread; natto + rice/seaweed; kimchi has built-in synbiotic (garlic inulin)
+- **DIY cost**: One-time kit ~$47 → lifetime free probiotic food at 10–50× cheaper than supplements
+
+## Last Updated (prev)
 2026-05-22 — Autoresearch complete: Summer 2026 Activities Tier List; 5 pages created: [[Summer 2026 Tier List]] (full S/A/B/C/D/F rankings + daily stack), [[FURI Outreach Campaign Guide]] (12-week cold email campaign, template, tracking sheet), [[Roth IRA Setup Guide]] (Fidelity step-by-step, FZROX, 2026 limits), [[Summer 2026 Strength Program]] (Upper/Lower 4-day, full exercise prescription), [[MIT 18.06 Summer Schedule]] (12-week lecture plan, MAT 343 + ML connection maps); 9 web searches run.
 
 ### Summer 2026 Tier List — Key Facts (2026-05-22)
