@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-22] autoresearch | Summer 2026 Activities Tier List
+- Rounds: 1 | Searches: 9 | Pages created: 5 | Pages updated: 3 (index, log, hot)
+- Concepts: [[Summer 2026 Tier List]], [[FURI Outreach Campaign Guide]], [[Roth IRA Setup Guide]], [[Summer 2026 Strength Program]], [[MIT 18.06 Summer Schedule]]
+- Synthesis: [[Research - Summer 2026 Activities Tier List]]
+- Key finding: S-tier = FURI outreach campaign (Oct deadline, start NOW) + Buck Converter build (PCB artifact = FURI differentiator) + MIT 18.06 (87 days, direct MAT 343 prep) + Roth IRA (2-hr action, $525k compounding tail at 19); execution is the constraint — vault has the knowledge, summer needs the artifact
+
+---
+
 ## [2026-05-22] autoresearch | Spanish Fluency Complete Masterclass
 - Rounds: 3 | Searches: 11 | Pages created: 5 | Pages updated: 3 (index, log, hot)
 - Concepts: [[Spanish Fluency Complete Masterclass]], [[Spanish Resources Tier List 2026]], [[Spanish Grammar Progression]], [[Spanish Pronunciation Guide]]
