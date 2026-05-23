@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Summer 2026 Tier List",
+      "path": "wiki/concepts/Summer 2026 Tier List.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Quantitative Finance Career Guide",
+      "path": "wiki/concepts/Quantitative Finance Career Guide.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "WIKI",
+      "path": "WIKI.md"
+    },
+    {
       "basename": "Probiotic Creation Guides",
       "path": "wiki/concepts/Probiotic Creation Guides.md"
     },
     {
       "basename": "Probiotic Foods Tier List",
       "path": "wiki/concepts/Probiotic Foods Tier List.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Python EE Project Ladder",
@@ -23,14 +39,6 @@
     {
       "basename": "Research - Cycling Training Periodization and Annual Plan",
       "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
-      "basename": "Summer 2026 Tier List",
-      "path": "wiki/concepts/Summer 2026 Tier List.md"
     },
     {
       "basename": "Fall 2026 NotebookLM Setup — Textbooks and Master Prompts",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-05-09",
       "path": "Daily News Debrief/2026-05-09.md"
-    },
-    {
-      "basename": "Family Road Trip Activities Guide",
-      "path": "wiki/concepts/Family Road Trip Activities Guide.md"
-    },
-    {
-      "basename": "Food Guilt and Diet Psychology",
-      "path": "wiki/concepts/Food Guilt and Diet Psychology.md"
     }
   ],
   "omittedPaths": [],
