@@ -2,7 +2,7 @@
 type: meta
 title: "Dashboard"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-05-24
 tags:
   - meta
 ---
@@ -36,4 +36,9 @@ TABLE domain, complexity, status FROM "wiki/concepts" SORT domain ASC
 ## Papers by Year
 ```dataview
 TABLE year, authors, key_claim FROM "wiki/papers" SORT year DESC
+```
+
+## Open Questions
+```dataview
+LIST FROM "wiki/questions" WHERE contains(tags, "open-question") SORT created DESC
 ```
