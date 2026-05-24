@@ -9,6 +9,9 @@ tags:
 
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
+## [2026-05-24] autoresearch | Staying On Top of News — Impartial Guide
+8 web searches run. 4 pages created: [[Staying On Top of News - Complete Guide]] (6-step daily routine, 30-min threshold, weekly schedule, mental models), [[Impartial News Sources Tier List]] (S/A/B/C ranked sources with MBFC + AllSides ratings, domain-specific picks), [[Media Literacy and Bias Detection]] (6 bias types, SIFT method, fact-checking tools, filter bubble counter-protocol), [[News Tools and Apps Stack]] (Ground News, AllSides, Feedly, Inoreader, Particle, Axios AM tier list). Key insights: wire services (Reuters, AP) are the factual gold standard; Ground News is the best single anti-echo-chamber tool; 30 min/day is the research-backed anxiety threshold; no source is unbiased — triangulation is the only answer.
+
 ## [2026-05-24] autoresearch | Company Investment Due Diligence — Full Guide
 8 web searches run. 8 pages created: [[Company Investment Due Diligence Master Guide]] (5-stage framework, 10-question checklist), [[Financial Statement Analysis for Investors]] (3-statement deep dive + FCF mechanics), [[Stock Valuation Methods]] (DCF + P/E + EV/EBITDA + FCF yield), [[Economic Moat Framework]] (5 moat sources + Porter's Five Forces), [[Key Financial Ratios for Investors]] (15 ratios with benchmarks), [[Where to Find Company Investment Data]] (SEC EDGAR + free tools + research workflow), [[Stock Investing Red Flags]] (red flag tier list + Munger inversion), [[Research - Company Investment Due Diligence]] (synthesis). Key insight: ROIC > WACC is the single most important value-creation test; FCF is the hardest number to fake; the 10-K Risk Factors section is the most underread, most honest part of any public company's disclosure.
 
