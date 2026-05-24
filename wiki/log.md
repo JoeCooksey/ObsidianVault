@@ -9,6 +9,13 @@ tags:
 
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
+## [2026-05-24] autoresearch | Vegetable Soup Meal Prep Guide (Costco)
+- 6 web searches run across: blended vegetable soup meal prep, Costco produce list, best soup seasonings, vegetable nutritional value, container/storage guides, soup reheating
+- 1 page created: [[Vegetable Soup Meal Prep Guide]] (complete week-long guide)
+- Key findings: Costco has 15+ soup-ready vegetables year-round; boil-then-blend method takes 40–50 min for 10 servings; mirepoix base (onion/celery/garlic) is the non-negotiable flavor foundation; 5 seasoning profiles (Classic Herb, Tuscan Sun, Moroccan Spice, French Countryside, Asian-Inspired); cost ~$2.12/serving from Costco bulk pricing; glass containers are optimal for reheating; cool 15–20 min before sealing; soup lasts 4–5 days refrigerated, 3 months frozen
+
+---
+
 ## [2026-05-24] autoresearch | Trending GitHub Repositories May 2026
 - 8 web searches run across: GitHub Trending, Trendshift, AI agents, EE tools, quant finance, Python education, Karpathy
 - 2 pages created: [[Trending GitHub Repositories May 2026]] (S/A/B tier list curated for Joe), [[Research - Trending GitHub Repositories May 2026]] (8-finding synthesis)
