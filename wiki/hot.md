@@ -8,6 +8,19 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-24 — Autoresearch complete: Vegetable Soup Meal Prep Guide (Costco); 1 page created: [[Vegetable Soup Meal Prep Guide]] (complete week-long guide with 15 Costco vegetables, 5 seasoning profiles, batch method, cost breakdown, container guide, weekly rotation plan); 6 web searches run.
+
+### Vegetable Soup Meal Prep — Key Facts (2026-05-24)
+- **The base ratio**: 1 part aromatics (onion + celery + garlic) + 2 parts starchy thickener (potato/squash/cauliflower) + 2 parts flavor vegetables (broccoli/carrot/zucchini) + 1 part finishing greens (spinach/kale, added off-heat)
+- **Costco core shopping list**: Yellow onions (10 lb bag) + Carrots (6 lb organic) + Russet potatoes (10 lb) + Butternut squash (2–3.5 lb pre-cut) + Broccoli (3 lb) + Zucchini (4-pack) + Spinach/Kale (containers) + Bell peppers + Mushrooms + Sweet potatoes + Celery + Garlic (2 lb bag)
+- **Batch yield**: ~10 portions (16–20 oz each) in 25 min active / 50 min total; cost ~$2.12/serving
+- **Method**: sauté aromatics first → add starchy + flavor vegetables → cover with broth + seasoning → simmer 25–35 min → add greens off-heat → blend fully smooth with immersion blender → cool 15–20 min → portion into containers
+- **5 seasoning profiles**: (1) Classic Herb — Italian seasoning + smoked paprika + lemon; (2) Tuscan Sun — thyme + rosemary + red pepper + bay leaf; (3) Moroccan Spice — cumin + turmeric + coriander + cinnamon + ginger + lemon; (4) French Countryside — herbes de Provence + Dijon + nutmeg; (5) Asian-Inspired — ginger + miso (add after blending) + sesame oil + soy + lime
+- **Non-negotiable rules**: sauté aromatics first, add greens off-heat, cool 15–20 min before sealing containers, always finish with lemon juice for brightness
+- **Storage**: glass containers optimal for microwave reheating; 4–5 days refrigerator; 3 months frozen; leave ½ inch headspace; soups thicken in fridge — add splash of water when reheating
+- **Weekly rotation**: cook Sunday (5 servings refrigerator) + Wednesday (5 more); or one double batch Sunday → freeze half immediately
+
+## Last Updated (prev)
 2026-05-24 — Autoresearch complete: Trending GitHub Repositories May 2026; 2 pages created: [[Trending GitHub Repositories May 2026]] (S/A/B tier list curated for Joe), [[Research - Trending GitHub Repositories May 2026]] (8-finding synthesis); 8 web searches run.
 
 ### Trending GitHub Repos — Key Facts (2026-05-24)
