@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "overview",
+      "path": "wiki/overview.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Stubborn Lower Abdominal Fat",
       "path": "wiki/concepts/Stubborn Lower Abdominal Fat.md"
-    },
-    {
-      "basename": "2026-05-10",
-      "path": "Daily News Debrief/2026-05-10.md"
     }
   ],
   "omittedPaths": [],
