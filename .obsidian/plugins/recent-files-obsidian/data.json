@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Vegetable Soup Meal Prep Guide",
+      "path": "wiki/concepts/Vegetable Soup Meal Prep Guide.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Life-Changing Purchases by Price Range",
       "path": "wiki/concepts/Life-Changing Purchases by Price Range.md"
     },
     {
       "basename": "Trending GitHub Repositories May 2026",
       "path": "wiki/concepts/Trending GitHub Repositories May 2026.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Probiotic Creation Guides",
@@ -195,10 +199,6 @@
     {
       "basename": "Alcohol Harm Guide by Consumption Tier",
       "path": "wiki/concepts/Alcohol Harm Guide by Consumption Tier.md"
-    },
-    {
-      "basename": "2026-05-09",
-      "path": "Journal/Daily/2026-05-09.md"
     }
   ],
   "omittedPaths": [],
