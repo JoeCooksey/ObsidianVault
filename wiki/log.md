@@ -9,6 +9,11 @@ tags:
 
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
+## [2026-05-24] autoresearch | Trending GitHub Repositories May 2026
+- 8 web searches run across: GitHub Trending, Trendshift, AI agents, EE tools, quant finance, Python education, Karpathy
+- 2 pages created: [[Trending GitHub Repositories May 2026]] (S/A/B tier list curated for Joe), [[Research - Trending GitHub Repositories May 2026]] (8-finding synthesis)
+- Key findings: build-your-own-x (504K stars) is #1 on all of GitHub; karpathy/microgpt is his newest 200-line GPT; Ollama+OpenWebUI enables free local AI; PyPedia/EE-with-Python matches Joe's Python Ladder; awesome-quant + VectorBT cover quant tooling
+
 ---
 
 ## [2026-05-22] autoresearch | Quant Finance Complete Guide
