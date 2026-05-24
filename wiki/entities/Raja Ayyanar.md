@@ -1,6 +1,7 @@
 ---
 type: entity
 subtype: person
+title: "Raja Ayyanar"
 name: Raja Ayyanar
 role: Professor, ASU ECEE; ASU Site Director, EVSTS
 email: rayyanar@asu.edu

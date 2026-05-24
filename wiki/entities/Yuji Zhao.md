@@ -1,6 +1,7 @@
 ---
 type: entity
 subtype: person
+title: "Yuji Zhao"
 name: Yuji Zhao
 role: Associate Professor, Rice University; Director, WIDE Lab
 affiliation_current: Rice University (Houston, TX)

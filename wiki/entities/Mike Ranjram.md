@@ -1,6 +1,7 @@
 ---
 type: entity
 subtype: person
+title: "Mike Ranjram"
 name: Mike Ranjram
 role: Assistant Professor, ASU ECEE
 lab: MAPEL (Mixed-signal Architectures for Power Electronics Lab)

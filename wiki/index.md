@@ -396,6 +396,20 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Steve Jobs Walter Isaacson]] — 8-finding synthesis: biography as Jobs's legacy move, RDF as the unifying concept, Pixar as his greatest bet, simplicity via subtraction, calligraphy-to-typography dot connection, product before profit, iPhone as category creation, humanities × sciences as lasting thesis (complete)
 - [[Reality Distortion Field]] — Steve Jobs's ability to bend others' perception of possibility through charisma and conviction; coined by Bud Tribble 1981; double-edged: drove extraordinary achievement and enabled willful denial (developing)
 
+### Books — 7 Habits Concepts (Stephen Covey)
+- [[Circle of Concern vs Circle of Influence]] — Covey Habit 1: proactive people focus on Circle of Influence; reactive people drain energy on Circle of Concern; proactive behavior expands influence (seed)
+- [[Maturity Continuum]] — Covey three-stage model: Dependence → Independence → Interdependence; 7 Habits navigate the full arc (seed)
+- [[P/PC Balance]] — Production / Production Capability; invest in the goose (capacity) as much as the golden eggs (output) for sustainable effectiveness (seed)
+- [[Character Ethic vs Personality Ethic]] — Character Ethic (integrity/humility/courage) as durable foundation vs. Personality Ethic (technique/image) as surface-level (seed)
+- [[Time Management Matrix]] — four quadrants (Urgent/Important); Q2 = not urgent but important = the quadrant of effectiveness; live here (seed)
+- [[Emotional Bank Account]] — trust in relationships works like a bank; deposits (promises kept, kindness) vs. withdrawals (broken promises, disrespect) (seed)
+- [[Abundance Mentality]] — belief that enough success exists for everyone; opposite of scarcity mentality; prerequisite for Win-Win (seed)
+- [[Empathic Listening]] — Habit 5: listen with ears, eyes, and heart to understand before being understood; antidote to autobiographical listening (seed)
+- [[Win-Win Paradigm]] — Habit 4: mutually beneficial solutions as the only durable basis for ongoing relationships; built on integrity, maturity, abundance (seed)
+
+### Books — Entrepreneurship Concepts (Isaacson Biographies)
+- [[Entrepreneurship and Innovation]] — synthesis of Jobs/Musk/Leonardo innovation principles: product absolutism, first-principles thinking, sfumato/comfort with ambiguity (seed)
+
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
 

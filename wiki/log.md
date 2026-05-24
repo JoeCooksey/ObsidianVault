@@ -9,6 +9,19 @@ tags:
 
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
+## [2026-05-24] lint+autofix | Wiki Health Check — Full Auto-Fix Run
+- Lint report read: [[Lint Report 2026-05-24]]
+- Fix 1 — Created 9 concept stub pages for 7 Habits concepts: [[Circle of Concern vs Circle of Influence]], [[Maturity Continuum]], [[P/PC Balance]], [[Character Ethic vs Personality Ethic]], [[Time Management Matrix]], [[Emotional Bank Account]], [[Abundance Mentality]], [[Empathic Listening]], [[Win-Win Paradigm]]
+- Fix 1b — Created 1 concept stub page for Isaacson biographies: [[Entrepreneurship and Innovation]]
+- Fix 2 — Created 2 entity pages: [[Stephen Covey]], [[Walter Isaacson]]
+- Fix 3 — Added title: field to wiki/sources/Roblox AI Development Guide 2025.md; added title: field to Mike Ranjram.md, Raja Ayyanar.md, Yuji Zhao.md (kept name: field)
+- Fix 4 — CORRECTION: lint report incorrectly stated 21 Research files were duplicated in questions/; actual check found they existed only in sources/. Files were MOVED (not deleted) to wiki/questions/ to fix misfiling without data loss. Files moved: Research - Math and Physics Foundations for EE, College Dating Guide, Hobbies for Young Men, Peptide Tier List, Zero Cost Computer Skills, Power Electronics UWBG Faculty Scan 2026, Book Recommendations Master List, Sleep Habits Tier List, Top Learning Podcasts, Human Hormones and Optimization, Comfort Zone Daily Habits, 90 Day Project Ideas, ASU Scholarships for California EE Students, Top Apartment Health Products, Stackable EE Scholarships ASU Second Year, Diet Cheat Day Recovery, Top Topics to Research, Purchases That Genuinely Benefit Your Life, Summer 2026 Activities Tier List, Probiotic Foods Complete Guide, Trending GitHub Repositories May 2026
+- Fix 5 — Added 10 new concept entries to wiki/index.md under new sections: Books 7 Habits Concepts and Books Entrepreneurship Concepts
+- Fix 6 — This log entry
+- Total: 12 pages created, 5 pages edited (frontmatter), 21 pages moved sources to questions
+
+---
+
 ## [2026-05-24] autoresearch | Vegetable Soup Meal Prep Guide (Costco)
 - 6 web searches run across: blended vegetable soup meal prep, Costco produce list, best soup seasonings, vegetable nutritional value, container/storage guides, soup reheating
 - 1 page created: [[Vegetable Soup Meal Prep Guide]] (complete week-long guide)

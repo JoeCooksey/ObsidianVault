@@ -1,5 +1,6 @@
 ---
 type: source
+title: "Roblox AI Development Guide 2025"
 status: developing
 created: 2026-05-09
 updated: 2026-05-09
