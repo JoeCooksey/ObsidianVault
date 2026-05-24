@@ -9,6 +9,9 @@ tags:
 
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
+## [2026-05-24] autoresearch | Company Investment Due Diligence — Full Guide
+8 web searches run. 8 pages created: [[Company Investment Due Diligence Master Guide]] (5-stage framework, 10-question checklist), [[Financial Statement Analysis for Investors]] (3-statement deep dive + FCF mechanics), [[Stock Valuation Methods]] (DCF + P/E + EV/EBITDA + FCF yield), [[Economic Moat Framework]] (5 moat sources + Porter's Five Forces), [[Key Financial Ratios for Investors]] (15 ratios with benchmarks), [[Where to Find Company Investment Data]] (SEC EDGAR + free tools + research workflow), [[Stock Investing Red Flags]] (red flag tier list + Munger inversion), [[Research - Company Investment Due Diligence]] (synthesis). Key insight: ROIC > WACC is the single most important value-creation test; FCF is the hardest number to fake; the 10-K Risk Factors section is the most underread, most honest part of any public company's disclosure.
+
 ## [2026-05-24] lint+autofix | Wiki Health Check — Full Auto-Fix Run
 - Lint report read: [[Lint Report 2026-05-24]]
 - Fix 1 — Created 9 concept stub pages for 7 Habits concepts: [[Circle of Concern vs Circle of Influence]], [[Maturity Continuum]], [[P/PC Balance]], [[Character Ethic vs Personality Ethic]], [[Time Management Matrix]], [[Emotional Bank Account]], [[Abundance Mentality]], [[Empathic Listening]], [[Win-Win Paradigm]]
