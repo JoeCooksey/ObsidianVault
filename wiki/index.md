@@ -20,6 +20,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Trending GitHub Repositories May 2026]] — S/A/B tier list of trending repos curated for Joe: build-your-own-x (504K★), karpathy/microgpt, ai-engineering-from-scratch, PyPedia/EE-with-Python, Ollama, Open WebUI, Understand-Anything, awesome-quant, VectorBT, n8n, RAGFlow; 8 searches (complete)
 - [[Research - Trending GitHub Repositories May 2026]] — 8-finding synthesis: #1 GitHub repo is build-your-own-x; Karpathy released microgpt (200-line GPT); local LLMs mainstream via Ollama; Python EE resources found; quant finance tooling mapped (complete)
 
+### Stock Investing / Fundamental Analysis
+- [[Company Investment Due Diligence Master Guide]] — complete 5-stage framework: business understanding → financials → competitive moat → management quality → valuation; 10-question pre-buy checklist (complete)
+- [[Financial Statement Analysis for Investors]] — 3-statement deep dive: income statement line items, balance sheet structure, cash flow statement + FCF; red flags per statement (complete)
+- [[Stock Valuation Methods]] — DCF step-by-step, P/E, EV/EBITDA, P/S, P/B, FCF yield; margin of safety; sector-specific multiples (complete)
+- [[Economic Moat Framework]] — Morningstar's 5 moat sources (network effects, switching costs, cost advantages, intangibles, efficient scale); Porter's Five Forces; moat width classification; financial signals of real moat (complete)
+- [[Key Financial Ratios for Investors]] — 15 ratios: ROIC, ROE, ROA, margins, D/E, current ratio, FCF yield + quick-reference table (complete)
+- [[Where to Find Company Investment Data]] — SEC EDGAR filing types (10-K, 10-Q, 8-K, proxy, Form 4); company IR pages; free tools (Macrotrends, TIKR, GuruFocus, Finviz, Damodaran); research workflow (complete)
+- [[Stock Investing Red Flags]] — S/A/B/C tier red flag list: earnings ≠ cash flow, insider selling, non-GAAP abuse, goodwill impairment, governance failures; Munger inversion test (complete)
+- [[Research - Company Investment Due Diligence]] — 8-finding synthesis: 5 stages, FCF > earnings, ROIC test, moat = durability, 10-K is the Bible, management underweighted, valuation prevents overpaying (complete)
+
 ### Quantitative Finance / Quant Careers
 - [[Quantitative Finance Career Guide]] — master hub: 3 quant roles (Researcher/Developer/Trader), full skill dependency map, 6-phase self-study plan, firm tier list (Jane Street/Citadel/Two Sigma), salary benchmarks, education paths including free WorldQuant University MSc (complete)
 - [[Quant Math Foundations]] — 5-layer math curriculum: Calculus → Linear Algebra → Probability → Statistics → Stochastic Calculus; dependency graph, time estimates, resources (MIT OCW, Shreve, Ross), quant application for every concept (complete)
