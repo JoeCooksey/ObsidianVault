@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Probiotic Creation Guides",
-      "path": "wiki/concepts/Probiotic Creation Guides.md"
+      "basename": "Trending GitHub Repositories May 2026",
+      "path": "wiki/concepts/Trending GitHub Repositories May 2026.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Probiotic Creation Guides",
+      "path": "wiki/concepts/Probiotic Creation Guides.md"
     },
     {
       "basename": "Summer 2026 Tier List",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-09",
       "path": "Journal/Daily/2026-05-09.md"
-    },
-    {
-      "basename": "2026-05-09",
-      "path": "Daily News Debrief/2026-05-09.md"
     }
   ],
   "omittedPaths": [],
