@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Vegetable Soup Meal Prep Guide",
-      "path": "wiki/concepts/Vegetable Soup Meal Prep Guide.md"
+      "basename": "Where to Find Company Investment Data",
+      "path": "wiki/concepts/Where to Find Company Investment Data.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Company Investment Due Diligence Master Guide",
+      "path": "wiki/concepts/Company Investment Due Diligence Master Guide.md"
+    },
+    {
+      "basename": "Vegetable Soup Meal Prep Guide",
+      "path": "wiki/concepts/Vegetable Soup Meal Prep Guide.md"
     },
     {
       "basename": "Life-Changing Purchases by Price Range",
@@ -191,10 +199,6 @@
     {
       "basename": "Power Electronics Deep Study Roadmap",
       "path": "wiki/concepts/Power Electronics Deep Study Roadmap.md"
-    },
-    {
-      "basename": "Alcohol Harm Guide by Consumption Tier",
-      "path": "wiki/concepts/Alcohol Harm Guide by Consumption Tier.md"
     }
   ],
   "omittedPaths": [],
