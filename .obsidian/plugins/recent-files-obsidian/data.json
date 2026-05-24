@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Where to Find Company Investment Data",
-      "path": "wiki/concepts/Where to Find Company Investment Data.md"
+      "basename": "Trending GitHub Repositories May 2026",
+      "path": "wiki/concepts/Trending GitHub Repositories May 2026.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Trending GitHub Repositories May 2026",
+      "path": "wiki/sources/Research - Trending GitHub Repositories May 2026.md"
+    },
+    {
+      "basename": "Research - Company Investment Due Diligence",
+      "path": "wiki/sources/Research - Company Investment Due Diligence.md"
+    },
+    {
+      "basename": "Theology",
+      "path": "wiki/domains/Theology.md"
+    },
+    {
+      "basename": "Books",
+      "path": "wiki/domains/Books.md"
+    },
+    {
+      "basename": "lint-report-2026-05-24",
+      "path": "wiki/meta/lint-report-2026-05-24.md"
+    },
+    {
+      "basename": "Where to Find Company Investment Data",
+      "path": "wiki/concepts/Where to Find Company Investment Data.md"
     },
     {
       "basename": "Company Investment Due Diligence Master Guide",
@@ -19,10 +43,6 @@
     {
       "basename": "Life-Changing Purchases by Price Range",
       "path": "wiki/concepts/Life-Changing Purchases by Price Range.md"
-    },
-    {
-      "basename": "Trending GitHub Repositories May 2026",
-      "path": "wiki/concepts/Trending GitHub Repositories May 2026.md"
     },
     {
       "basename": "Probiotic Creation Guides",
@@ -179,26 +199,6 @@
     {
       "basename": "Top Topics to Research — Master Guide",
       "path": "wiki/concepts/Top Topics to Research — Master Guide.md"
-    },
-    {
-      "basename": "Roblox Game Concepts for AI-Assisted Dev",
-      "path": "wiki/concepts/Roblox Game Concepts for AI-Assisted Dev.md"
-    },
-    {
-      "basename": "Roblox AI Development Guide 2025",
-      "path": "wiki/sources/Roblox AI Development Guide 2025.md"
-    },
-    {
-      "basename": "Roblox Viral Game Design Patterns",
-      "path": "wiki/concepts/Roblox Viral Game Design Patterns.md"
-    },
-    {
-      "basename": "Roblox Game Development with AI",
-      "path": "wiki/concepts/Roblox Game Development with AI.md"
-    },
-    {
-      "basename": "Power Electronics Deep Study Roadmap",
-      "path": "wiki/concepts/Power Electronics Deep Study Roadmap.md"
     }
   ],
   "omittedPaths": [],
