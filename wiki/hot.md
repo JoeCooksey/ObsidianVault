@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-24 — Autoresearch complete: Trending GitHub Repositories May 2026; 2 pages created: [[Trending GitHub Repositories May 2026]] (S/A/B tier list curated for Joe), [[Research - Trending GitHub Repositories May 2026]] (8-finding synthesis); 8 web searches run.
+
+### Trending GitHub Repos — Key Facts (2026-05-24)
+- **#1 repo on all of GitHub**: `codecrafters-io/build-your-own-x` (504K stars) — build a compiler, database, shell, neural net from scratch; aligns with Joe's build-first approach; use as source for Python EE Ladder Projects 7–12
+- **Karpathy's newest project**: `karpathy/microgpt` — 200 lines pure Python, no dependencies, trains a full GPT (tokenizer + autograd + transformer + Adam optimizer); capstone after nn-zero-to-hero
+- **Local AI stack (free)**: Ollama (165K stars, runs LLaMA 3 locally) + Open WebUI (124K stars, self-hosted ChatGPT UI) = private AI assistant with zero API cost; install on Joe's machine
+- **AI engineering curriculum**: `rohitg00/ai-engineering-from-scratch` (15K stars) — structured path from zero to deploying AI solutions; complements [[Zero to AI Engineer Roadmap - seelffff 2026]]
+- **EE Python resource**: `PyPedia/Electrical-Engineering-with-Python` — circuit analysis, simulations, Bode plots in NumPy/SciPy/SymPy; direct reference for Joe's 12-project Python EE Ladder
+- **Quant finance tooling**: `wilsonfreitas/awesome-quant` (definitive curated list) + VectorBT (vectorized backtesting, thousands of strategies in parallel) = practical complement to [[Quant Programming Stack]]
+- **Understanding codebases**: `Lum1104/Understand-Anything` (25K stars) — turns any code/knowledge base into interactive knowledge graph; use on Karpathy repos or WBG papers
+- **Karpathy autoresearch**: `karpathy/autoresearch` — AI agent that experiments on LLM training autonomously overnight; frontier of AI-assisted research
+- **Workflow automation**: `n8n-io/n8n` (180K stars) — self-hosted, AI-native workflow automation; could automate Obsidian vault workflows
+- **May 2026 GitHub meta-trend**: Claude Code skills ecosystem exploding (andrej-karpathy-skills hit 151K stars); AI agents + visual builders + local LLM infra = three dominant categories
+
+## Last Updated (prev)
 2026-05-22 — Autoresearch complete: Quant Finance Complete Guide; 7 pages created: [[Quantitative Finance Career Guide]] (master hub, skill dependency map, firm tier list, salary data), [[Quant Math Foundations]] (5-layer curriculum), [[Quant Programming Stack]] (Python/C++/SQL, 8 projects), [[Derivatives Pricing and Financial Theory]] (Black-Scholes, Greeks, VaR), [[Systematic Trading Strategies]] (momentum/pairs/factor/market-making + 7 backtesting sins), [[Machine Learning in Quantitative Finance]] (feature engineering, PurgedKFold, RL for execution), [[Quant Interview Prep Guide]] (mental math, probability, brainteasers, 12-week schedule); 8 web searches run.
 
 ### Quant Finance — Key Facts (2026-05-22)
