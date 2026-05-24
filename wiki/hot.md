@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-24 — Autoresearch complete: Staying On Top of News — Impartial Guide; 4 pages created: [[Staying On Top of News - Complete Guide]], [[Impartial News Sources Tier List]], [[Media Literacy and Bias Detection]], [[News Tools and Apps Stack]]; 8 web searches run.
+
+### News Literacy — Key Facts (2026-05-24)
+- **The rule**: No source is unbiased — triangulate via at least 3 sources from different points on the spectrum for any story that matters
+- **Wire services = S-tier**: Reuters + AP = "Least Biased / Very High Factuality" (MBFC) — use as factual baseline for any story
+- **Best anti-bias tool**: Ground News (ground.news) — shows you who is NOT covering a story (blindspot detector); tags stories with bias + factuality + ownership; free tier available
+- **Best free balanced aggregator**: AllSides (allsides.com) — 33% Left / 33% Center / 34% Right by design; most other aggregators skew Left per 2026 analysis
+- **30-min/day threshold**: research links >30 min of daily news to measurable anxiety; protocol = two scheduled windows (morning 15–20 min + optional evening 10 min), no passive scrolling
+- **Daily stack (free)**: Axios AM email (5 min) → Feedly RSS from curated 5–8 sources (10–15 min) → weekly Ground News blindspot check (10 min)
+- **SIFT method**: Stop → Investigate source (mediabiasfactcheck.com) → Find better coverage (AllSides/Ground News) → Trace claims to primary source
+- **6 bias types**: Story Selection, Framing, Source Selection, False Balance, Emotional Framing, Confirmation Bias (yours)
+- **Breaking news rule**: Initial reports are frequently wrong — wait 24–48 hrs before accepting a narrative on fast-moving events
+- **Passive consumption = enemy**: 70% of news is consumed passively (social scrolling); passive = lower retention + higher anxiety; intentional RSS + scheduled windows fix this
+
+## Last Updated (prev)
 2026-05-24 — Autoresearch complete: Company Investment Due Diligence Full Guide; 8 pages created: [[Company Investment Due Diligence Master Guide]], [[Financial Statement Analysis for Investors]], [[Stock Valuation Methods]], [[Economic Moat Framework]], [[Key Financial Ratios for Investors]], [[Where to Find Company Investment Data]], [[Stock Investing Red Flags]], [[Research - Company Investment Due Diligence]]; 8 web searches run.
 
 ### Company Investment Due Diligence — Key Facts (2026-05-24)
