@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-24 — Autoresearch complete: Company Investment Due Diligence Full Guide; 8 pages created: [[Company Investment Due Diligence Master Guide]], [[Financial Statement Analysis for Investors]], [[Stock Valuation Methods]], [[Economic Moat Framework]], [[Key Financial Ratios for Investors]], [[Where to Find Company Investment Data]], [[Stock Investing Red Flags]], [[Research - Company Investment Due Diligence]]; 8 web searches run.
+
+### Company Investment Due Diligence — Key Facts (2026-05-24)
+- **5-stage framework**: (1) Business understanding (can you explain it in 2 sentences?) → (2) Financial health (3 statements + FCF) → (3) Competitive moat (why can't competitors copy this?) → (4) Management quality (skin in game + capital allocation) → (5) Valuation (DCF + multiples vs. peers)
+- **Rule**: Form your own view from the 10-K and earnings transcripts — read the investor presentation LAST; management is selling a story, the filings are the facts
+- **FCF is the hardest number to fake**: FCF = OCF − Capex; persistent gap between Net Income and FCF = #1 accounting red flag; "earnings can lie, cash cannot"
+- **ROIC is the best profitability metric**: NOPAT / Invested Capital; ROIC > WACC = value creation; ROIC > 15% sustained for 5+ years = real moat; ROE can be inflated by debt leverage, ROIC cannot
+- **5 moat sources** (Morningstar): Network Effects (Visa, Meta), Switching Costs (Salesforce, Oracle), Cost Advantages (Costco, Amazon), Intangible Assets (Coca-Cola brand, pharma patents), Efficient Scale (utilities, pipelines)
+- **Valuation methods**: DCF (intrinsic, use 3-scenario ranges not a single "precise" number) + P/E (most common) + EV/EBITDA (preferred by professionals; capital-structure neutral) + FCF Yield (>5% = attractive)
+- **Key free data sources**: SEC EDGAR (sec.gov) = every 10-K/10-Q/8-K ever filed; Macrotrends.net = 20-year historical charts; GuruFocus.com = ROIC + Buffett-style metrics; Damodaran Online = industry benchmark multiples; SeekingAlpha = earnings call transcripts
+- **10-K reading order**: Risk Factors (Part I, Item 1A) → Business section (Part I, Item 1) → MD&A (Part II, Item 7) → Financial Statements (Part II, Item 8)
+- **Red flag Tier S (sell immediately)**: going-concern auditor warning | persistent earnings ≠ cash flow | earnings restatements | mass insider selling before bad news
+- **Munger inversion test**: Before buying, list every way this investment could fail — if downside scenarios are catastrophic and multiple red flags exist, the margin of safety is not worth it
+
+## Last Updated (prev)
 2026-05-24 — Autoresearch complete: Vegetable Soup Meal Prep Guide (Costco); 1 page created: [[Vegetable Soup Meal Prep Guide]] (complete week-long guide with 15 Costco vegetables, 5 seasoning profiles, batch method, cost breakdown, container guide, weekly rotation plan); 6 web searches run.
 
 ### Vegetable Soup Meal Prep — Key Facts (2026-05-24)
