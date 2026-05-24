@@ -16,6 +16,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
 - [[Theology]] — Bible study, theology, apologetics (1 research synthesis, 5 concept pages)
 
+### News Literacy / Information Diet
+- [[Staying On Top of News - Complete Guide]] — master hub: 6-step daily routine, curated source stack, 30-min daily limit, weekly cross-check protocol, mental models for impartial consumption (complete)
+- [[Impartial News Sources Tier List]] — S/A/B/C ranked sources by MBFC + AllSides ratings; wire services (Reuters, AP) as S-tier gold standard; domain-specific picks (complete)
+- [[Media Literacy and Bias Detection]] — 6 bias types, SIFT method (Stop/Investigate/Find/Trace), fact-checking tools, filter bubble counter-protocol, red flag checklist (complete)
+- [[News Tools and Apps Stack]] — Ground News, AllSides, Feedly, Inoreader, Particle, Axios AM with tier list; minimal free daily stack (complete)
+- [[Research - Staying On Top of News Impartially]] — 8-finding synthesis: wire services = gold standard, triangulation not single-source, Ground News = best anti-bias tool, 30-min threshold (complete)
+
 ### Tools / GitHub Resources
 - [[Trending GitHub Repositories May 2026]] — S/A/B tier list of trending repos curated for Joe: build-your-own-x (504K★), karpathy/microgpt, ai-engineering-from-scratch, PyPedia/EE-with-Python, Ollama, Open WebUI, Understand-Anything, awesome-quant, VectorBT, n8n, RAGFlow; 8 searches (complete)
 - [[Research - Trending GitHub Repositories May 2026]] — 8-finding synthesis: #1 GitHub repo is build-your-own-x; Karpathy released microgpt (200-line GPT); local LLMs mainstream via Ollama; Python EE resources found; quant finance tooling mapped (complete)
