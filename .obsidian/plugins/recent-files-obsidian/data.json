@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Trending GitHub Repositories May 2026",
-      "path": "wiki/concepts/Trending GitHub Repositories May 2026.md"
-    },
-    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "News Tools and Apps Stack",
+      "path": "wiki/concepts/News Tools and Apps Stack.md"
+    },
+    {
+      "basename": "Impartial News Sources Tier List",
+      "path": "wiki/concepts/Impartial News Sources Tier List.md"
+    },
+    {
+      "basename": "Staying On Top of News - Complete Guide",
+      "path": "wiki/concepts/Staying On Top of News - Complete Guide.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "Trending GitHub Repositories May 2026",
+      "path": "wiki/concepts/Trending GitHub Repositories May 2026.md"
     },
     {
       "basename": "Research - Trending GitHub Repositories May 2026",
@@ -55,10 +71,6 @@
     {
       "basename": "Quantitative Finance Career Guide",
       "path": "wiki/concepts/Quantitative Finance Career Guide.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
     },
     {
       "basename": "WIKI",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-05-10",
       "path": "Daily News Debrief/2026-05-10.md"
-    },
-    {
-      "basename": "Book Reading for Maximum Retention",
-      "path": "wiki/concepts/Book Reading for Maximum Retention.md"
-    },
-    {
-      "basename": "AI ML for Engineers Roadmap",
-      "path": "wiki/concepts/AI ML for Engineers Roadmap.md"
-    },
-    {
-      "basename": "Top Topics to Research — Master Guide",
-      "path": "wiki/concepts/Top Topics to Research — Master Guide.md"
     }
   ],
   "omittedPaths": [],
