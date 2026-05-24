@@ -16,6 +16,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
 - [[Theology]] — Bible study, theology, apologetics (1 research synthesis, 5 concept pages)
 
+### Tools / GitHub Resources
+- [[Trending GitHub Repositories May 2026]] — S/A/B tier list of trending repos curated for Joe: build-your-own-x (504K★), karpathy/microgpt, ai-engineering-from-scratch, PyPedia/EE-with-Python, Ollama, Open WebUI, Understand-Anything, awesome-quant, VectorBT, n8n, RAGFlow; 8 searches (complete)
+- [[Research - Trending GitHub Repositories May 2026]] — 8-finding synthesis: #1 GitHub repo is build-your-own-x; Karpathy released microgpt (200-line GPT); local LLMs mainstream via Ollama; Python EE resources found; quant finance tooling mapped (complete)
+
 ### Quantitative Finance / Quant Careers
 - [[Quantitative Finance Career Guide]] — master hub: 3 quant roles (Researcher/Developer/Trader), full skill dependency map, 6-phase self-study plan, firm tier list (Jane Street/Citadel/Two Sigma), salary benchmarks, education paths including free WorldQuant University MSc (complete)
 - [[Quant Math Foundations]] — 5-layer math curriculum: Calculus → Linear Algebra → Probability → Statistics → Stochastic Calculus; dependency graph, time estimates, resources (MIT OCW, Shreve, Ross), quant application for every concept (complete)
