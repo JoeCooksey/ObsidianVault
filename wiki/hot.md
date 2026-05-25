@@ -8,6 +8,23 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-25 — Autoresearch: Programmer to EE Master Complete Guide; 8-layer mastery stack; 6 specialization tracks with salaries; FPGA learning path; software/lab tools stack
+
+## Key Recent Facts
+
+### Programmer to EE Master — newest autoresearch
+- **The 8-Layer Stack (order is non-negotiable)**: (1) Math Foundations (Calc 1→2→3→DiffEq→LinAlg→Prob) → (2) Physics (Mechanics, E&M, Waves) → (3) Core EE Theory (Circuit Theory → Digital Logic → Semiconductor Devices → Signals & Systems → Control Systems → Electromagnetics) → (4) Programming (Python → C → Verilog) → (5) Software Tools (LTSpice → KiCad → MATLAB → FPGA tools) → (6) Lab/Hardware Skills → (7) Specialization Track → (8) Career Portfolio
+- **Programming priority for EE**: Python first (simulation, automation, AI stack) → Git Day 1 → C (embedded real-time firmware) → C++ (RTOS/HAL) → MATLAB (when coursework requires) → Verilog (FPGA track Year 2); Python and C are complementary, not competing — prototype in Python, implement in C
+- **Core EE theory dependency chain**: Circuit Theory (prerequisite for everything) → Digital Logic (Boolean+FSMs+Verilog) → Semiconductor Devices (p-n junction, MOSFET, SiC/GaN) → Signals & Systems (Fourier+Laplace+transfer functions — most powerful EE math tool) → Control Systems (Bode/PID/state-space) → Electromagnetics (Maxwell, transmission lines, antennas, PCB EM)
+- **Specialization salaries 2026**: Analog IC $191k avg / $349k 90th | FPGA $175k avg / $251k 90th | Semiconductor $189k avg / $326k 90th | Embedded Firmware $168k avg / $245k 90th | Power Electronics (WBG) $132k avg / $210k 90th | Control Systems fastest job growth (+69% YoY LinkedIn)
+- **FPGA learning path**: Phase 0 (digital logic foundation, Neso Academy) → Phase 1 (HDLBits.01xz.net browser exercises, no install) → Phase 2 (testbenches: Icarus Verilog + GTKWave, both free) → Phase 3 (first FPGA board: iCEstick $25 → Basys 3 $150; Quartus Lite or Vivado free) → Phase 4 (cocotb Python testbenches, parameterized modules, AXI4-Lite) → Phase 5 (DSP/image processing/motor control on FPGA); Sandia NL is direct FPGA employer from BS
+- **Software tool introduction timeline**: LTSpice + Git + Python = Day 1 → STM32CubeIDE = Month 2 → KiCad = Month 3 → SciPy/python-control = Month 4–5 → PyLTSpice = Month 5 → MATLAB/Simulink = Year 2 → Quartus or Vivado = Year 2 → Altium = Year 3; all free tools until Year 3
+- **Lab bench progression**: multimeter (Week 1) → breadboard circuits (Week 1–4) → oscilloscope (Month 1–3) → power supply (Month 1+) → signal generator (Month 2–4) → logic analyzer (Year 2) → LCR meter (Year 2) → spectrum analyzer (Year 3 RF track); starter budget ~$100 (UT61E multimeter + Arduino + component kit)
+- **Fastest path to job**: Python + Git + C + STM32 + FreeRTOS = 12–18 months → $114k–$244k Embedded Firmware track; no EE degree required for this path if portfolio is strong
+- **Key free resources**: automatetheboringstuff.com (Python), git-scm.com/book (Git), K&R "The C Programming Language" (C), HDLBits.01xz.net (Verilog), MIT OCW 6.002/6.003/6.012/6.302 (core EE theory), Neso Academy YouTube (digital logic + control), All About Circuits textbook (free circuits text), Khan Academy Circuits
+- **Common mistakes**: skipping math prerequisites (non-negotiable), jumping to specialization too early (dependency chain is real), tutorial hell (build real projects), ignoring Git from Day 1, treating LTSpice as optional, learning MATLAB before Python, only theoretical study (physical intuition requires real hardware), specializing in everything (go deep in one track)
+
+## Last Updated (previous)
 2026-04-28 — Autoresearch: Caffeine Complete Research; matcha = S-tier drink; 90-min morning delay protocol; cycling strategies (weekend off → 5/2 → pre-competition taper); sleep cutoff rules; drink tier list S→F
 
 ## Key Recent Facts
