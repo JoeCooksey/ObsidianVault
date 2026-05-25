@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] autoresearch | EE AI Skills and Applications
+- Rounds: 3 | Searches: 11 | Pages created: 3
+- Created: [[AI Applications in Electrical Engineering]], [[AI Skills Roadmap for Electrical Engineers]], [[Research - EE AI Skills and Applications]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) 56% wage premium for AI skills in EE roles in 2026 (PwC 2025 AI Jobs Barometer) — jumped from 25% just one year prior; average AI engineer compensation $206k (up $50k in one year); (2) 8 EE×AI domains: EDA/chip design (Siemens Aprisa AI: 10× productivity, Synopsys+NVIDIA), power electronics (neural surrogate models, LLMs for converter design, 98% accuracy CNN-RNN fault detection), TinyML/edge AI (TFLM + Edge Impulse + ARM CMSIS-NN, <256KB RAM models), EV/BMS (LSTM beats Kalman for SOC, 40% maintenance cost reduction), signal processing (neural receivers outperforming traditional DSP in 5G channels), digital twins, control/RL, automated verification; (3) EE math IS ML math — Calc 1 (chain rule = backprop), LinAlg (weight matrices), Signals/Fourier (CNNs are learned filters), Control Theory (RL is control with learned dynamics); EE student has 60% of ML prerequisites already; (4) AI skill roadmap: Andrew Ng ML Spec (free audit) → fast.ai (free) → PyTorch → EE-specific track; total 12–14 months; (5) TinyML track: Edge Impulse (free, end-to-end) → STM32Cube.AI → CMSIS-NN → vibration anomaly detection project → $130–180k roles; (6) Most in-demand skills 2026: Python + PyTorch + scikit-learn + Edge deployment (TFLite/ONNX) + domain EE knowledge; do NOT need CS degree
+
 ## [2026-05-25] autoresearch | Programmer to EE Master Complete Guide
 - Rounds: 3 | Searches: 11 | Pages created: 4
 - Created: [[EE Complete Mastery Roadmap]], [[Verilog and FPGA Learning Path]], [[EE Software and Lab Tools Complete Stack]], [[Research - Programmer to EE Master Complete Guide]]
