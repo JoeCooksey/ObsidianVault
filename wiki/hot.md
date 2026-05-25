@@ -8,6 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-25 — Autoresearch: Gut Health Foods — S-tier: kefir (61 strains), kimchi, Jerusalem artichoke, garlic, lentils, wild salmon, berries; 30 plant foods/week = top diversity predictor; butyrate is the key SCFA; fermented foods beat high-fiber alone (Stanford RCT)
+
+## Key Recent Facts
+
+### Gut Health Foods — newest autoresearch
+- **Fermented foods > high-fiber diets alone**: Stanford RCT (Sonnenburg/Gardner, Cell 2021) — 10-week fermented food diet increased microbiome diversity AND decreased 19 inflammatory proteins; high-fiber alone increased diversity but without the immune benefit
+- **Top 5 prebiotic foods** (American Society for Nutrition): dandelion greens, Jerusalem artichokes, garlic, leeks, onions — inulin/FOS at just 5–8 g/day significantly increases fecal Bifidobacterium
+- **Kefir = S-tier probiotic food**: 61 probiotic strains vs. ~7 in yogurt; always buy plain, refrigerated (never shelf-stable — pasteurization kills all bacteria); fermentation hierarchy: kefir > kimchi/sauerkraut > tempeh > plain yogurt
+- **Butyrate is the key SCFA**: prebiotic fiber → fermented by Faecalibacterium prausnitzii + Lachnospiraceae → butyrate → nourishes colonocytes → reduces inflammation + gut barrier integrity. Best butyrate-precursor foods: lentils, oats (beta-glucan), garlic, Jerusalem artichoke, barley
+- **Polyphenol diversity = microbiome diversity**: 3 servings/day polyphenol-rich foods for 8 weeks → significant zonulin decrease (leaky gut biomarker); 4 weeks grape powder → increased alpha diversity + Akkermansia muciniphila. Best polyphenol foods: berries, dark chocolate ≥70%, EVOO, pomegranate, green tea
+- **Omega-3 restores gut dysbiosis**: EPA/DHA from fatty fish promote Bifidobacterium, Lactobacillus, and butyrate-producing Lachnospiraceae; restore Firmicutes/Bacteroidetes ratio; wild salmon + sardines are the most bioavailable sources
+- **Akkermansia muciniphila** = gut lining integrity specialist; specifically increased by berry/pomegranate/grape polyphenols; inversely correlated with obesity, T2D, metabolic syndrome
+- **30 plant foods/week rule**: American Gut Project (n=10,000+) — the single strongest dietary predictor of microbiome alpha diversity; counts any plant: vegetables, fruits, legumes, grains, nuts, seeds, herbs, spices
+- **Dysbiosis causes**: ultra-processed foods (emulsifiers disrupt mucus layer), antibiotics, chronic stress, artificial sweeteners (Saccharin + sucralose confirmed in human trial), low dietary diversity, processed meats
+- **ZOE Microbiome Health Ranking 2025** (Nature, n=34,000+): identified gut species most favorably associated with health markers; high-diversity diets = better metabolic + immune + cardiovascular outcomes
+- **Daily gut health protocol**: kefir AM + garlic/onion in cooking + lentils at meals + berries/dark chocolate as snack + salmon/sardines at dinner + kimchi as side dish
+
+## Last Updated (previous)
 2026-05-25 — Autoresearch: Consumer Purchase Value Guide — 5 price tiers; worth-it/not-worth-it by category; daily-use multiplier rule; capital destroyers list
 
 ## Key Recent Facts
