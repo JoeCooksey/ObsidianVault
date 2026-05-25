@@ -41,6 +41,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### AI / Multi-Agent Systems
+- [[Multi-Agent Development Team]] — 5-role agent team: PM → Architect → Engineer → QA → Reviewer; 3 human-in-the-loop gates; prompt-to-project pipeline (developing)
+- [[Agent Orchestration Frameworks]] — CrewAI vs LangGraph vs Claude Code Agent Teams vs MetaGPT; framework selection guide; 2026 state (developing)
+- [[Agent Roles Software Development]] — detailed role definitions: PM, Architect, PM, Engineer, QA, Reviewer; system prompt patterns; model assignments; isolation rule (developing)
+- [[MCP Tools for Agent Stacks]] — filesystem + GitHub + E2B + Playwright + Context7; `.mcp.json` team config; tool security principle (developing)
+
 ### AI / Edge Computing
 - [[Post-Training Quantization]] — INT4/INT8/FP8 weight and activation quantization (developing)
 - [[GGUF Format]] — llama.cpp quantization file format; Q4_K_M recommended (developing)
