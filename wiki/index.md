@@ -66,6 +66,11 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Grad School / MS EE Programs
 - [[MS EE Programs Power Electronics Semiconductors]] — quick-reference tier list: NC State WBG, VT CPES, UT Austin SSE, Purdue, MIT/Stanford/Berkeley (developing)
 
+### EE × AI (Electrical Engineering + Artificial Intelligence)
+- [[AI Applications in Electrical Engineering]] — domain map of all 8 EE×AI application areas: EDA/chip design, power electronics, TinyML/edge AI, EV/BMS, signal processing, digital twins, control systems, verification; opportunity matrix by EE track (developing)
+- [[AI Skills Roadmap for Electrical Engineers]] — 6-phase path: Python → ML fundamentals → deep learning → EE-specific track (TinyML, power electronics, EDA, grid, RF, battery) → MLOps; free resources ordered; job market demand; 56% salary premium (developing)
+- [[Research - EE AI Skills and Applications]] — source + synthesis: 8 EE×AI domains, all free resources, salary data, domain-by-domain ML tool stacks (complete)
+
 ### EE Complete Mastery Roadmap (Beginner to Master)
 - [[EE Complete Mastery Roadmap]] — **8-layer framework**: Math → Physics → Core EE Theory → Programming → Software Tools → Lab Skills → Specialization → Career Portfolio; 4-year milestones; 6 career tracks with salaries; fastest path to job-ready (developing)
 - [[Verilog and FPGA Learning Path]] — Track C: 5-phase FPGA progression from HDLBits to real-world projects; cocotb; $175k avg salary; Sandia NL direct employer path (developing)
