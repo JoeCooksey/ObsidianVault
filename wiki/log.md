@@ -11,6 +11,9 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] newsletter | EE Daily — May 25, 2026
+Top stories: MIT silicon-photonics optical phased array chip eliminates grating lobes in LiDAR (Nature Comms); TSMC N2 GAA node reaches 50k wpm volume production with 70% yield and orders through 2028; APEC 2026 standouts including STMicro monolithic 700V bidirectional GaN and SemiQ 1 mΩ 1200V SiC module; OpenLight 400G-per-lane III-V/Si photonics at OFC 2026; Microsoft/Quantinuum 12 logical qubits at 0.002 circuit error rate with hybrid quantum chemistry workflow. Daily research topic: Optical Phased Arrays for Solid-State LiDAR — array factor, grating lobe math, evanescent coupling, and thermo-optic phase shifting.
+
 ## [2026-04-28] autoresearch | Caffeine Complete Research
 - Rounds: 3 | Searches: 8 | Fetches: 4 | Pages created: 4
 - Created: [[Caffeine Complete Guide]], [[Caffeine Timing Protocol]], [[Caffeine Cycling Protocol]], [[Caffeinated Drinks Health Tier List]]

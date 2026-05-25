@@ -9,6 +9,9 @@ tags:
 
 Master catalog of all wiki pages. Update on every ingest.
 
+## Newsletters
+- [[EE Daily — May 25, 2026]] — MIT OPA grating-lobe-free LiDAR chip; TSMC N2 GAA volume production; APEC GaN/SiC standouts; OpenLight 400G/lane Si photonics; Microsoft 12-logical-qubit quantum chemistry; daily topic: Optical Phased Arrays
+
 ## Domains
 - [[Engineering]] — software, systems, hardware, power electronics (6 sources, 2 syntheses)
 - [[Mathematics]] — pure math, applied math, statistics (0 sources)
