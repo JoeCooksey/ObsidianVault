@@ -163,6 +163,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Investing / Stock Monitoring
+- [[Weekly Stock Scan 2026-05-25]] — Week of May 25, 2026; 11 tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML; insider trading, analyst activity, short interest, SEC filings (complete)
+
 ### Personal Finance / Financial Literacy
 - [[Financial Literacy Roadmap]] — phase-by-phase guide from zero to FI: foundation → wins → accumulation → tax optimization → independence; compound interest tables; 50/30/20 budget (developing)
 - [[Financial Order of Operations]] — 9-step Money Guy FOO: deductible → employer match → high-interest debt → emergency fund → Roth IRA → 401k → hyper-accumulate → abundance → low-interest debt (developing)

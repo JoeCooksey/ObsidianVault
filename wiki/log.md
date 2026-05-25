@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] weekly-stock-scan | Weekly Stock Deep Scan
+- Tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML
+- Created: [[Weekly Stock Scan 2026-05-25]]
+- Key findings: (1) AAPL CEO succession — Tim Cook → Executive Chair, John Ternus becomes CEO Sept 1, 2026; (2) AMD cluster sell — Lisa Su + exec sold ~$96M in 1-day window (May 12–13); (3) TSMC conviction buys — CEO + 3 other insiders bought shares including open-market purchase; (4) All short interest <3% float, all-clear; (5) Daiwa downgraded AMD despite raising PT to $500; (6) LLY Verzenio liver failure case generating negative press; (7) Strong Q1 earnings across AMD (+38% YoY), AAPL (+17%), TSLA (+16% rev / +50% gross profit)
+
 ## [2026-05-25] newsletter | EE Daily — May 25, 2026
 Top stories: MIT silicon-photonics optical phased array chip eliminates grating lobes in LiDAR (Nature Comms); TSMC N2 GAA node reaches 50k wpm volume production with 70% yield and orders through 2028; APEC 2026 standouts including STMicro monolithic 700V bidirectional GaN and SemiQ 1 mΩ 1200V SiC module; OpenLight 400G-per-lane III-V/Si photonics at OFC 2026; Microsoft/Quantinuum 12 logical qubits at 0.002 circuit error rate with hybrid quantum chemistry workflow. Daily research topic: Optical Phased Arrays for Solid-State LiDAR — array factor, grating lobe math, evanescent coupling, and thermo-optic phase shifting.
 
