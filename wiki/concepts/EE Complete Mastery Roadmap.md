@@ -208,13 +208,13 @@ See [[EE Software and Lab Tools Complete Stack]] for full tool reference.
 10. **PCB bring-up** (Year 2+): power-on sequence, shorts check, oscilloscope-based debug
 
 ### Starter Hardware Budget (~$100 total)
-| Item | Price |
-|------|-------|
-| Breadboard + jumper wires | ~$10 |
-| Digital multimeter (UT61E or similar) | ~$25 |
-| Component kit (resistors/caps/LEDs/transistors) | ~$15 |
-| Arduino Uno | ~$20 |
-| STM32 Nucleo F446RE (for serious embedded) | ~$15 |
+| Item                                            | Price |
+| ----------------------------------------------- | ----- |
+| Breadboard + jumper wires                       | ~$10  |
+| Digital multimeter (UT61E or similar)           | ~$25  |
+| Component kit (resistors/caps/LEDs/transistors) | ~$15  |
+| Arduino Uno                                     | ~$20  |
+| STM32 Nucleo F446RE (for serious embedded)      | ~$15  |
 
 ---
 

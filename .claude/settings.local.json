@@ -45,7 +45,8 @@
       "WebFetch(domain:incompliancemag.com)",
       "WebFetch(domain:examine.com)",
       "WebFetch(domain:medschoolinsiders.com)",
-      "PowerShell(Get-Content \"$env:USERPROFILE\\\\.claude\\\\settings.json\" | Select-String -Pattern \"recent\" -CaseSensitive:$false)"
+      "PowerShell(Get-Content \"$env:USERPROFILE\\\\.claude\\\\settings.json\" | Select-String -Pattern \"recent\" -CaseSensitive:$false)",
+      "Bash(gh repo *)"
     ]
   },
   "enabledPlugins": {}
