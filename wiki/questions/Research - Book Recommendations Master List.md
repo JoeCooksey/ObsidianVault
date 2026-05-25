@@ -3,7 +3,7 @@ type: research
 title: "Research — Book Recommendations Master List"
 status: complete
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-05-01
 tags:
   - books
   - finance
@@ -14,6 +14,12 @@ tags:
   - stoicism
   - psychology
   - business
+  - biography
+  - science
+  - history
+  - writing
+  - economics
+  - health
 ---
 
 # Research — Book Recommendations Master List
@@ -183,3 +189,129 @@ tags:
 10. *Thinking, Fast and Slow* — understand your own cognitive biases
 11. *East of Eden* — the question of who you choose to become
 12. *Man's Search for Meaning* — meaning > comfort; foundational life philosophy
+
+---
+
+## Biographies
+→ See [[Book List — Biographies]]
+
+**S-tier** (transformative; show how the greatest minds actually work):
+- *Leonardo da Vinci* — Walter Isaacson — the ultimate polymath; curiosity as methodology; observation over assumption
+- *Steve Jobs* — Walter Isaacson — obsessive design thinking, reality distortion field, vertical integration as philosophy
+- *Elon Musk* — Ashlee Vance (2015) or Walter Isaacson (2023) — first-principles reasoning, physics-constrained ambition, extreme risk tolerance
+
+**A-tier**:
+- *Benjamin Franklin: An American Life* — Walter Isaacson — America's original entrepreneur; polymath; self-invention; pragmatic virtue
+- *Alexander Hamilton* — Ron Chernow — immigrant striver who built America's financial system; ambition + genius + fatal flaw
+- *Napoleon: A Life* — Andrew Roberts — military genius + administrative brilliance + catastrophic hubris; the most complete Napoleon book
+- *Titan: The Life of John D. Rockefeller* — Ron Chernow — methodical accumulation, Standard Oil monopoly, then unprecedented philanthropy
+- *Einstein: His Life and Universe* — Walter Isaacson — thought experiments over calculation; imagination as the true scientific tool
+- *The Wright Brothers* — David McCullough — two bicycle mechanics who changed the world through disciplined experimentation
+
+**B-tier**:
+- *Team of Rivals* — Doris Kearns Goodwin — Lincoln's genius for managing people who hated him; emotional intelligence under pressure
+- *The Power Broker* — Robert Caro — Robert Moses, urban power, and how one unelected man shaped New York for 50 years
+- *Andrew Carnegie* — David Nasaw — rags to richest man in America to giving it all away; the original tech billionaire arc
+
+---
+
+## Science — Learning the Fundamentals
+→ See [[Book List — Science]]
+
+**S-tier** (build actual scientific intuition):
+- *The Feynman Lectures on Physics* — Richard Feynman — the gold standard physics curriculum; all three volumes; free online
+- *The Selfish Gene* — Richard Dawkins — evolution through the gene's perspective; meme coined here; foundational evolutionary biology
+- *A Short History of Nearly Everything* — Bill Bryson — how science discovered what it knows; narrative form; exceptional breadth
+
+**A-tier**:
+- *Surely You're Joking, Mr. Feynman!* — Richard Feynman — how a physicist thinks; curiousity, play, and intellectual honesty as method
+- *The Gene* — Siddhartha Mukherjee — Mendel to CRISPR; history + science of genetics; most readable genetics book in print
+- *QED: The Strange Theory of Light and Matter* — Feynman — quantum electrodynamics explained without equations; mind-bending
+- *The Emperor of All Maladies* — Siddhartha Mukherjee — biography of cancer; medicine and science as a detective story
+- *Astrophysics for People in a Hurry* — Neil deGrasse Tyson — compressed cosmology; best one-sitting overview of the universe
+- *The Double Helix* — James Watson — how the DNA structure was actually found; the sociology and competition of real science
+
+**B-tier**:
+- *The Structure of Scientific Revolutions* — Thomas Kuhn — paradigm shifts; how science actually changes its mind; essential meta-science
+- *The Elegant Universe* — Brian Greene — string theory and the quest for a unified theory; accessible but rigorous
+- *Gödel, Escher, Bach: An Eternal Golden Braid* — Douglas Hofstadter — self-reference, consciousness, formal systems; one of the most mind-expanding books ever written; non-trivial time investment
+
+---
+
+## History
+→ See [[Book List — History]]
+
+**S-tier** (reshape your understanding of the world):
+- *Sapiens: A Brief History of Humankind* — Yuval Noah Harari — cognitive revolution through modernity; the macro view of the human story
+- *The Guns of August* — Barbara Tuchman — how WWI started; 30-day cascade of decisions; the cost of plans that cannot adapt
+- *The Rise and Fall of the Third Reich* — William L. Shirer — the definitive narrative of Nazi Germany; journalism + history at its best
+
+**A-tier**:
+- *Genghis Khan and the Making of the Modern World* — Jack Weatherford — the Mongol Empire's real contribution to world history; overturns almost everything you think you know
+- *1776* — David McCullough — the most decisive year of the American founding; Washington's army; near-collapse and survival
+- *A People's History of the United States* — Howard Zinn — history from the bottom; read alongside a traditional account for full picture
+- *The Silk Roads* — Peter Frankopan — recenters world history on Central Asia and trade routes; the "Eastern" history Western education ignores
+- *SPQR: A History of Ancient Rome* — Mary Beard — Rome from the ground up; what Roman life actually was vs. the Hollywood version
+
+**B-tier**:
+- *The Warmth of Other Suns* — Isabel Wilkerson — the Great Migration; narrative history at its best; six decades of Black Americans moving north
+- *Lies My Teacher Told Me* — James Loewen — what American history textbooks get wrong; essential critical literacy
+- *The Crusades Through Arab Eyes* — Amin Maalouf — the medieval invasions told from the other side; empathy as historical method
+
+---
+
+## Writing & Communication
+→ See [[Book List — Writing and Communication]]
+
+**S-tier**:
+- *On Writing Well* — William Zinsser — the definitive guide to clear nonfiction; strip every unnecessary word; writing as thinking
+- *The Elements of Style* — Strunk & White — 100 pages that cover 80% of what you need; read once a year
+
+**A-tier**:
+- *Bird by Bird* — Anne Lamott — the creative writing process; shitty first drafts; writing as practice, not performance
+- *Several Short Sentences About Writing* — Verlyn Klinkenborg — sentence-level mastery; teaches you to stop before you think you're done
+
+---
+
+## Economics
+→ See [[Book List — Economics]]
+
+**S-tier**:
+- *Economics in One Lesson* — Henry Hazlitt — Bastiat's broken window systematized; the seen and unseen effects of policy; 150 pages
+- *Freakonomics* — Levitt & Dubner — incentives explain everything; economic thinking applied to unexpected domains
+
+**A-tier**:
+- *The Worldly Philosophers* — Robert Heilbroner — history of economic thought from Smith to Keynes; essential intellectual context
+- *Basic Economics* — Thomas Sowell — the most comprehensive economics primer written for non-economists; no equations
+- *Poor Economics* — Banerjee & Duflo (Nobel 2019) — what actually works in global poverty reduction; evidence-based development economics
+
+**B-tier**:
+- *The Wealth of Nations* — Adam Smith — the foundational text (dense); read Book I and IV minimum; context for everything else
+- *Capital in the Twenty-First Century* — Piketty — r > g; wealth inequality over centuries; read the introduction and conclusions; controversial but important
+
+---
+
+## Health & Longevity
+→ See [[Book List — Health and Longevity]]
+
+**S-tier**:
+- *Outlive: The Science and Art of Longevity* — Peter Attia — evidence-based healthspan extension; Medicine 3.0; the four horsemen of chronic disease
+- *Why We Sleep* — Matthew Walker — the science of sleep; what deprivation does to every system; 8 hours is the minimum
+
+**A-tier**:
+- *Lifespan: Why We Age and Why We Don't Have To* — David Sinclair — information theory of aging; NAD+, sirtuins, epigenetic clock
+- *The Obesity Code* — Jason Fung — insulin as the master fat-storage hormone; fasting as metabolic intervention
+
+---
+
+## Mathematics (Conceptual)
+→ See [[Book List — Mathematics]]
+
+**S-tier**:
+- *How to Prove It* — Daniel Velleman — proof-writing from scratch; the bridge from computation to mathematics
+- *Gödel, Escher, Bach: An Eternal Golden Braid* — Hofstadter — (also in Science) — formal systems, self-reference, the nature of consciousness
+
+**A-tier**:
+- *The Art of Problem Solving* series — Richard Rusczyk — competition math; the best problem-solving training available before college
+- *Calculus* — Michael Spivak — rigorous single-variable calculus with proofs; builds real mathematical maturity
+- *Linear Algebra Done Right* — Sheldon Axler — the conceptually cleanest linear algebra text; essential for ML, signals, control
