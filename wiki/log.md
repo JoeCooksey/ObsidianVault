@@ -11,6 +11,8 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-05-25] weekly-stock-scan | Weekly Stock Deep Scan
 - Tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML
 - Created: [[Weekly Stock Scan 2026-05-25]]
