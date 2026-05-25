@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Applications in Electrical Engineering",
+      "path": "wiki/concepts/AI Applications in Electrical Engineering.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Python EE Project Ladder",
       "path": "wiki/concepts/Python EE Project Ladder.md"
     },
     {
       "basename": "EE Complete Mastery Roadmap",
       "path": "wiki/concepts/EE Complete Mastery Roadmap.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "News Debrief 2026-05-25",
