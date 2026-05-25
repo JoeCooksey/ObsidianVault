@@ -8,6 +8,21 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-25 — Autoresearch: Non-Toxic Air Fryers and Rice Cookers — Typhur Dome 2 (S-tier air fryer, PFAS-free ceramic, ~$400); Buffalo stainless (S-tier rice cooker); "PFOA-free" label trap explained; safe material hierarchy
+
+## Key Recent Facts
+
+### Non-Toxic Kitchen Appliances — newest autoresearch
+- **The critical label trap**: "PFOA-free" does NOT mean PFAS-free. PFOA is one specific PFAS compound; brands can drop it and still use dozens of other PTFE/PFAS chemicals. Require the label to say "PFAS-free" or buy inherently coating-free materials (stainless steel, glass)
+- **Safe material hierarchy**: uncoated stainless steel (inert, zero coatings, nothing to degrade) > tempered glass (visually inspectable, zero ambiguity) > verified sol-gel ceramic (safe when PFAS-free certified, but degrades more unpredictably than metal/glass)
+- **S-tier air fryers**: (1) Typhur Dome 2 (~$400) — verified PFAS-free ceramic basket + interior, dual top/bottom heating (no flipping needed), self-cleaning, <55 dB, ATK + Consumer Reports 2026 pick; (2) Ninja Crispi (~$150–200) — glass cooking vessel, stainless accessories; (3) Fritaire (~$250) — tempered glass bowl, self-cleaning
+- **Air fryers to avoid** (PTFE-coated baskets): Instant Vortex, Cosori, Philips, most standard Ninja models, most budget options unless explicitly PFAS-free certified
+- **S-tier rice cookers**: (1) Buffalo IH Smart Cooker (~$150–250) — uncoated stainless steel inner pot + induction heating, multiple functions, closest non-toxic equivalent to Zojirushi quality; (2) Buffalo Classic (~$80–120) — simplest fully stainless option, proven reliable; (3) Elite Gourmet ERC006SS (~$40–60) — 304 surgical-grade SS, budget pick
+- **Zojirushi dilemma**: makes the best-performing rice cookers on the market but uses PTFE-coated inner pots — incompatible with non-toxic priority. Buffalo IH is the best non-toxic substitute
+- **Budget path**: Elite Gourmet (~$40, stainless) for rice + Ninja Crispi (~$150, glass) for air fryer = full non-toxic kitchen for ~$200
+- **Premium path**: Buffalo IH Smart Cooker (~$200) + Typhur Dome 2 (~$400) = best-in-class non-toxic kitchen at ~$600
+
+## Last Updated (previous)
 2026-05-25 — Autoresearch: Gut Health Foods — S-tier: kefir (61 strains), kimchi, Jerusalem artichoke, garlic, lentils, wild salmon, berries; 30 plant foods/week = top diversity predictor; butyrate is the key SCFA; fermented foods beat high-fiber alone (Stanford RCT)
 
 ## Key Recent Facts
