@@ -5,6 +5,22 @@
       "path": "wiki/log.md"
     },
     {
+      "basename": "Agent Roles Software Development",
+      "path": "wiki/concepts/Agent Roles Software Development.md"
+    },
+    {
+      "basename": "Agent Orchestration Frameworks",
+      "path": "wiki/concepts/Agent Orchestration Frameworks.md"
+    },
+    {
+      "basename": "Multi-Agent Development Team",
+      "path": "wiki/concepts/Multi-Agent Development Team.md"
+    },
+    {
+      "basename": "Research - Full Agent Stack Team Guide",
+      "path": "wiki/questions/Research - Full Agent Stack Team Guide.md"
+    },
+    {
       "basename": "News Debrief 2026-05-25",
       "path": "wiki/news/News Debrief 2026-05-25.md"
     },
