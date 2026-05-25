@@ -8,7 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-25 — Autoresearch: Programmer to EE Master Complete Guide; 8-layer mastery stack; 6 specialization tracks with salaries; FPGA learning path; software/lab tools stack
+2026-05-25 — Autoresearch: EE AI Skills and Applications; 56% salary premium for AI skills; 8 EE×AI domains; TinyML workflow; 6-phase AI skill roadmap for EE students
+
+## Key Recent Facts
+
+### EE × AI — newest autoresearch
+- **56% wage premium for AI skills in EE roles** (PwC 2025 AI Jobs Barometer) — was 25% just one year prior; doubled in 12 months; average AI engineer at $206k in 2025 (up $50k); even without an AI job title: +21% over peers in equivalent roles
+- **8 EE×AI application domains**: (1) EDA/chip design — Siemens Aprisa AI (10× productivity, 3× faster tapeout), Synopsys+NVIDIA partnership, LLMs for RTL scaffolding and testbench generation; (2) Power electronics — neural surrogate models replace SPICE in optimization loops (10–100× faster), CNN-RNN fault detection 98% accuracy in 20ms, LLMs for converter design; (3) TinyML/edge AI — ML on MCUs <256KB RAM, TFLite Micro + Edge Impulse + ARM CMSIS-NN, applications: keyword spotting, vibration anomaly, gesture recognition; (4) EV/BMS — LSTM outperforms Kalman for SOC, AI predictive maintenance 40% cost reduction + 70% downtime reduction; (5) Signal processing — neural receivers replacing traditional DSP in 5G, CNN for radar classification; (6) Digital twins — real-time anomaly detection on physical EE systems; (7) Control/RL — deep RL replacing PID for nonlinear systems; (8) Verification — LLMs generating testbenches and SystemVerilog assertions
+- **EE math IS ML math** — Calc 1 chain rule = backpropagation; LinAlg matrices = weight matrices; Signals/Fourier = CNNs are learned filters; Control Theory = RL is control with learned dynamics; EE student already has 60% of ML prerequisites
+- **6-phase AI skill roadmap**: Phase 1 = Python + NumPy (skip if done) → Phase 2 = ML math review (2–4 weeks for EE) → Phase 3 = ML fundamentals (Andrew Ng ML Spec, free audit, ~50 hrs) → Phase 4 = Deep learning (fast.ai free + PyTorch official tutorials + 3Blue1Brown + Karpathy Zero to Hero) → Phase 5 = EE-specific track → Phase 6 = MLOps (quantization, ONNX, Docker, FastAPI)
+- **TinyML track for embedded EEs**: Edge Impulse (free, drag-and-drop training to MCU deployment) → STM32Cube.AI (converts Keras/TFLite to STM32 C code) → first project: vibration anomaly detection with MPU6050 IMU on STM32; target roles $130–180k
+- **Power electronics AI track**: LTSpice parametric sweep → CSV → scikit-learn Random Forest surrogate model (predict efficiency without simulation); then 1D CNN for waveform fault classification; then RL for neural controller replacing PID
+- **Most in-demand AI skills in EE job postings 2026**: Python (non-negotiable), PyTorch/TensorFlow (PyTorch preferred), scikit-learn (most underrated), Edge deployment (TFLite/ONNX/Edge Impulse), signal processing (FFT features), pandas, Git + DVC, Docker; domain EE knowledge + Python + ML fundamentals = winning combo
+- **Best free resources in order**: Andrew Ng ML Specialization (Coursera free audit) → fast.ai Part 1 (fast.ai) → 3Blue1Brown Neural Networks series (YouTube) → Karpathy Zero to Hero (YouTube) → PyTorch tutorials (pytorch.org) → Edge Impulse (edgeimpulse.com free tier) → Google Colab (free GPU)
+- **Joe's AI action stack**: Month 3 (after Python solid): Andrew Ng ML Spec → Month 4: fast.ai Part 1 → Month 5: 3Blue1Brown + Karpathy → Month 6: first EE ML project (efficiency surrogate from LTSpice data) → Month 7–8: TinyML or power electronics AI track → GitHub: add ML layer to existing EE repos
 
 ## Key Recent Facts
 
