@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-24-ee-daily",
+      "path": "wiki/newsletters/2026-05-24-ee-daily.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "FURI to Grad School Roadmap — Joe",
+      "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
+    },
+    {
+      "basename": "2026-05-10",
+      "path": "Journal/Daily/2026-05-10.md"
+    },
+    {
+      "basename": "EE Daily — May 24, 2026",
+      "path": "EE Daily — May 24, 2026.md"
+    },
+    {
       "basename": "GLP Medication Exit Strategy",
       "path": "wiki/concepts/GLP Medication Exit Strategy.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "overview",
       "path": "wiki/overview.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "News Tools and Apps Stack",
@@ -177,28 +193,12 @@
       "path": "wiki/entities/Leonardo da Vinci.md"
     },
     {
-      "basename": "2026-05-10",
-      "path": "Journal/Daily/2026-05-10.md"
-    },
-    {
       "basename": "Elon Musk - Walter Isaacson",
       "path": "wiki/sources/Elon Musk - Walter Isaacson.md"
     },
     {
       "basename": "Book Knowledge Management System",
       "path": "wiki/concepts/Book Knowledge Management System.md"
-    },
-    {
-      "basename": "Steve Jobs - Walter Isaacson",
-      "path": "Books/Steve Jobs - Walter Isaacson.md"
-    },
-    {
-      "basename": "FURI to Grad School Roadmap — Joe",
-      "path": "wiki/questions/FURI to Grad School Roadmap — Joe.md"
-    },
-    {
-      "basename": "Book List — Biographies",
-      "path": "wiki/concepts/Book List — Biographies.md"
     }
   ],
   "omittedPaths": [],
