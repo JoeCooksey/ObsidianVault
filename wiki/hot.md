@@ -8,6 +8,25 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-25 — Autoresearch: Consumer Purchase Value Guide — 5 price tiers; worth-it/not-worth-it by category; daily-use multiplier rule; capital destroyers list
+
+## Key Recent Facts
+
+### Consumer Purchase Value — newest autoresearch
+- **Daily-use multiplier rule**: divide cost by annual uses — $40 water bottle used 365 days = $0.11/use; $200 jacket worn 5 times = $40/use; this ratio cuts through all marketing
+- **Under $20 MVPs**: microfiber cloths, digital kitchen scale, jump rope ($10 = full cardio), sleep mask, tongue scraper (removes 75% of bacteria toothbrush misses), Microplane zester, generic ibuprofen (identical molecules to name brand at 4× less)
+- **Under $20 skip**: garlic press (knife does it faster), banana/avocado slicers (single-purpose plastic clutter), premium hand sanitizer ($12 vs $2 = same result)
+- **$20–$100 MVPs**: French press ($25, $0.15/cup better coffee than $80 K-cup machine at $1/pod), Fitbit Inspire 3 ($70, 10-day battery, saves $300 over Apple Watch for basic tracking), Keychron mechanical keyboard ($50–80, years of daily typing), insulated water bottle, electric kettle, foam roller, magnesium glycinate
+- **$20–$100 biggest wastes**: K-cup machines (worse coffee, more expensive, plastic waste), WHOOP subscription ($30/month for data available free), extended warranties (often 50% of replacement cost), app-dependent "smart" appliances (apps die in 2–3 years), name-brand groceries (Consumer Reports blind tests show store brands identical)
+- **$100–$500 MVPs**: ergonomic chair (6–8 hrs/day seated = enormous back ROI), Seiko 5 Sports watch ($180–280, automatic, sapphire, decades of wear), refurbished MacBook Air M-series ($400–600, 3–5 yr lifespan), oscilloscope Rigol DS1054Z ($350, essential EE career tool), Victorinox Fibrox 8" chef's knife ($45–60, outperforms $300 knives in Cook's Illustrated blind tests)
+- **$100–$500 skip**: smart home starter kits (70% of features unused after 2 months), DSLR cameras in 2026 (mirrorless replaced them; phone > entry DSLR now), premium protein powders ($80/month = identical macros to $25 generic), robot vacuums under $250 (poor at carpet/edges; only worthwhile at $350+)
+- **$500–$2,000 MVPs**: quality laptop held 5–7 years (single best ROI for knowledge workers), good mattress ($500–1k, 2,500+ hrs/year), used road/gravel bike (health + transport + hobby), noise-canceling headphones (Sony WH-1000XM5) if daily commuter, dental work now vs. implant/bridge 10× cost later
+- **$500–$2,000 capital destroyers**: annual flagship iPhone upgrade ($300/yr saved = $3,600/decade), Peloton at retail ($2,500 new → $200 used 2 years later), Apple Vision Pro ($3,500, majority stop using within 4 weeks), new car off lot (20% value loss day 1 — buy 2–3 yr old used)
+- **$2,000+ worth it**: index fund investing (S&P beats 92% active managers; $200/month at 19 = $1.87M at 65), home gym ($800–1,500 one-time vs $500–1,200/year gym), STEM education, therapy/coaching (prevents derailments costing 100× more)
+- **$2,000+ capital destroyers**: timeshares (notoriously impossible to exit; maintenance fees compound forever), whole life insurance for young healthy person (term + invest the difference wins universally), luxury gym membership ($200–300/month vs. $30 Planet Fitness for identical results), stacking all streaming services simultaneously
+- **Universal rule**: spend more on what you touch every day (chair, mattress, shoes, keyboard, water bottle); spend less on everything else; brand premium rarely matches quality premium in blind tests
+
+## Last Updated (previous)
 2026-05-25 — Autoresearch: Full Agent Stack Team Guide — 5-role prompt-to-project pipeline; CrewAI/LangGraph/Claude Code Agent Teams; MCP tool stack; 3 human-in-the-loop gates; cost $2–10/project
 
 ## Key Recent Facts
