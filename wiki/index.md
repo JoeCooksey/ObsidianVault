@@ -204,6 +204,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Book List — Fiction Must-Reads]] — S/A tier classics and modern; Count of Monte Cristo, East of Eden, 1984, Crime and Punishment, Dune, The Road; phased reading order (developing)
 - [[Research - Book Recommendations Master List]] — master synthesis with Joe's 12-book phased reading order across all categories (complete)
 
+### Gut Health
+- [[Gut Health Foods Tier List]] — S–F ranking of foods by microbiome impact: kefir/kimchi/Jerusalem artichoke S-tier; fermented vs prebiotic vs polyphenol vs omega-3 mechanisms; daily protocol; 30-plant-foods/week rule (developing)
+- [[Gut Microbiome Fundamentals]] — core science: Bifidobacterium/Lactobacillus/Akkermansia roles; SCFA pathway diagram; dysbiosis causes; rebuilding timeline; gut-brain axis; probiotic food vs supplement comparison (developing)
+
 ### Food / Nutrition Tier Lists
 - [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
 - [[Food Health Tier List — Vegetables]] — CDC Powerhouse scores; cruciferous cancer-protection hierarchy; 100/100 watercress (developing)
