@@ -9,6 +9,9 @@ tags:
 
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
+## [2026-05-24] newsletter | EE Daily — May 24, 2026
+7 top stories + daily research topic (UWBG semiconductors). Created [[EE Daily — May 24, 2026]] in wiki/newsletters/. Coverage: semiconductor market ($298.5B Q1), HBM4, co-packaged optics, 8-inch TFLN wafers, 2D material atomic gap limit, UWBG RF materials, nanoporous AI chip dielectrics, Cisco Universal Quantum Switch.
+
 ## [2026-05-24] autoresearch | Staying On Top of News — Impartial Guide
 8 web searches run. 4 pages created: [[Staying On Top of News - Complete Guide]] (6-step daily routine, 30-min threshold, weekly schedule, mental models), [[Impartial News Sources Tier List]] (S/A/B/C ranked sources with MBFC + AllSides ratings, domain-specific picks), [[Media Literacy and Bias Detection]] (6 bias types, SIFT method, fact-checking tools, filter bubble counter-protocol), [[News Tools and Apps Stack]] (Ground News, AllSides, Feedly, Inoreader, Particle, Axios AM tier list). Key insights: wire services (Reuters, AP) are the factual gold standard; Ground News is the best single anti-echo-chamber tool; 30 min/day is the research-backed anxiety threshold; no source is unbiased — triangulation is the only answer.
 
