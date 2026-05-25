@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] autoresearch | Full Agent Stack Team Guide
+- Rounds: 2 | Searches: 8 | Pages created: 5
+- Created: [[Research - Full Agent Stack Team Guide]], [[Multi-Agent Development Team]], [[Agent Orchestration Frameworks]], [[Agent Roles Software Development]], [[MCP Tools for Agent Stacks]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) 5-role agent team mirrors a software company — PM (PRD) → Architect (tech spec) → Engineer (code) → QA (tests) → Reviewer (final review); MetaGPT proved this structure dramatically outperforms single-agent approaches; (2) 3 human-in-the-loop gates are the production pattern: PRD approval, architecture approval, final review — everything between gates is autonomous; (3) CrewAI (fast/role-based), LangGraph (complex/graph-state), Claude Code Agent Teams (native/Claude-only) are the 3 production-ready choices in 2026; AutoGen in maintenance mode; (4) MCP is the universal tool layer — filesystem + GitHub + E2B code execution + Playwright + Context7 are the core 5 tools; commit `.mcp.json` to repo so all agents share it; (5) Each agent should write to a named artifact file (`prd.md`, `architecture.md`, `tasks.md`) not just chat text — creates audit trail and prevents information loss in handoffs; (6) Cost optimization: use Opus 4.7 only for PM, Architect, Reviewer; Sonnet 4.6 for Engineer and QA; a mid-sized project costs $2–10 total; (7) Explicit agent isolation — each agent sees only its required input artifacts, not full conversation history; (8) Claude Code Agent Teams (Feb 2026 with Opus 4.6): 2–16 agents, parallel MCP init (Apr 2026), isolated context per subagent, YAML-defined system prompts
+
 ## [2026-05-25] autoresearch | EE AI Skills and Applications
 - Rounds: 3 | Searches: 11 | Pages created: 3
 - Created: [[AI Applications in Electrical Engineering]], [[AI Skills Roadmap for Electrical Engineers]], [[Research - EE AI Skills and Applications]]
