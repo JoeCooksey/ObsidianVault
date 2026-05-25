@@ -302,6 +302,9 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Math Foundations (Sources)
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
+## Questions / Synthesis (Agent Systems)
+- [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
+
 ## Questions / Synthesis
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
