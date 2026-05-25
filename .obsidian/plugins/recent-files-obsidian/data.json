@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GLP Medication Exit Strategy",
+      "path": "wiki/concepts/GLP Medication Exit Strategy.md"
+    },
+    {
+      "basename": "Tirzepatide",
+      "path": "wiki/concepts/Tirzepatide.md"
+    },
+    {
       "basename": "overview",
       "path": "wiki/overview.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Book List — Biographies",
       "path": "wiki/concepts/Book List — Biographies.md"
-    },
-    {
-      "basename": "Metabolic Adaptation and Diet Breaks",
-      "path": "wiki/concepts/Metabolic Adaptation and Diet Breaks.md"
-    },
-    {
-      "basename": "Stubborn Lower Abdominal Fat",
-      "path": "wiki/concepts/Stubborn Lower Abdominal Fat.md"
     }
   ],
   "omittedPaths": [],
