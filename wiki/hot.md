@@ -8,6 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-25 — Autoresearch: Full Agent Stack Team Guide — 5-role prompt-to-project pipeline; CrewAI/LangGraph/Claude Code Agent Teams; MCP tool stack; 3 human-in-the-loop gates; cost $2–10/project
+
+## Key Recent Facts
+
+### Full Agent Stack Team — newest autoresearch
+- **5-role team mirrors a software company**: Product Manager (PRD) → Architect (tech spec) → Engineer (code) → QA (tests) → Reviewer (final review). MetaGPT proved in research that isolated-role agents dramatically outperform single agents on complex software tasks.
+- **3 human-in-the-loop gates are the production pattern**: Gate 1 = PRD approval (before architecture), Gate 2 = architecture approval (before coding), Gate 3 = final review (before merge/deploy). Skipping Gate 1 risks hallucinated scope; skipping Gate 2 causes structural rewrites.
+- **Framework selection rule (2026)**: CrewAI = fastest to ship (role-based, YAML config, intuitive); LangGraph = maximum control (graph state machine, checkpointed, resumable); Claude Code Agent Teams = best if already in Claude ecosystem (native, 2–16 agents, parallel init Apr 2026).
+- **AutoGen is in maintenance mode** — no new features. Use Microsoft Agent Framework for new multi-agent projects.
+- **MCP is the universal tool layer**: Commit `.mcp.json` to repo so all agents share: filesystem + GitHub + E2B code execution sandbox + Playwright browser testing + Context7 live docs.
+- **Artifact convention prevents information loss**: Each agent writes to a named file (`/artifacts/prd.md`, `/artifacts/architecture.md`, `/artifacts/review.md`) rather than passing text in conversation. Creates audit trail; prevents telephone-game information loss across handoffs.
+- **Agent isolation rule**: Each agent sees only its required input artifacts, not the full conversation history. PM sees only the user prompt; Engineer sees only the arch spec; QA sees only PRD + code. Cross-pollination degrades reasoning quality and inflates cost.
+- **Cost optimization**: Use Opus 4.7 only for PM, Architect, Reviewer (high-judgment roles). Use Sonnet 4.6 for Engineer and QA (structured, iterative roles). Use Haiku 4.5 for boilerplate generation. Mid-sized project (10–20 files, 1–5k lines) costs $2–10 total.
+- **Claude Code Agent Teams specifics**: Released Feb 2026 with Opus 4.6; YAML-defined subagents in `.claude/agents/`; each subagent has isolated context window, model pin, system prompt, and tool permissions; parallel MCP init since April 2026 cut startup time significantly.
+- **CrewAI code pattern**: `Agent(role, goal, backstory, tools, llm)` + `Task(description, expected_output, agent, context=[prior_tasks])` + `Crew(agents, tasks, process=Process.sequential)` → `.kickoff(inputs={"prompt": "..."})`.
+- **LangGraph code pattern**: `TypedDict` state shared across all nodes → graph nodes (agent functions) read/write state → `interrupt_before=["architect", "engineer"]` adds human gates → checkpointing to SQLite/Redis for resumable long-running workflows.
+
+## Last Updated (previous)
 2026-05-25 — Autoresearch: EE AI Skills and Applications; 56% salary premium for AI skills; 8 EE×AI domains; TinyML workflow; 6-phase AI skill roadmap for EE students
 
 ## Key Recent Facts
