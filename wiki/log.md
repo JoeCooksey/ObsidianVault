@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] autoresearch | Gut Health Foods
+- Rounds: 1 | Searches: 5 | Pages created: 3
+- Created: [[Research - Gut Health Foods]], [[Gut Health Foods Tier List]], [[Gut Microbiome Fundamentals]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **Fermented foods > high-fiber alone** — Stanford RCT showed 10-week fermented food diet increased microbiome diversity AND decreased 19 inflammatory proteins vs high-fiber alone; (2) **Top 5 prebiotic foods**: dandelion greens, Jerusalem artichokes, garlic, leeks, onions — 5–8g/day inulin/FOS significantly increases fecal Bifidobacterium; (3) **Polyphenol diversity = microbiome diversity** — 3 servings polyphenol-rich foods/day for 8 weeks decreased zonulin (leaky gut marker); best sources: berries, dark chocolate ≥70%, EVOO; (4) **Butyrate is the key SCFA** — prebiotic fiber → Faecalibacterium/Lachnospiraceae → butyrate → nourishes colonocytes + reduces inflammation + gut barrier integrity; best sources: lentils, oats, garlic, Jerusalem artichoke; (5) **Kefir = S-tier probiotic food** (61 strains) >> plain yogurt (~7 strains); always buy refrigerated, never shelf-stable (pasteurization kills bacteria); (6) **Omega-3 restores gut dysbiosis** — EPA/DHA promote Bifidobacterium + Lactobacillus + Lachnospiraceae; restore Firmicutes/Bacteroidetes ratio; salmon/sardines most bioavailable; (7) **30 plant foods/week** is strongest dietary predictor of alpha diversity (American Gut Project, n=10,000+); (8) **Akkermansia muciniphila** is the gut lining integrity specialist — specifically increased by berries, pomegranate, grape polyphenols; inversely correlated with obesity and T2D
+
 ## [2026-05-25] autoresearch | Consumer Purchase Value Guide
 - Rounds: 2 | Searches: 10 | Pages created: 2
 - Created: [[Research - Consumer Purchase Value Guide]], [[Consumer Purchase Value Tier List]]
