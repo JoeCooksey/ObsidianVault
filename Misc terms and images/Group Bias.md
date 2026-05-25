@@ -1,1 +1,0 @@
-The tendency to follow a groups opinions instead of your own.

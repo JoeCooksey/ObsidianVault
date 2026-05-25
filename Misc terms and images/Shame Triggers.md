@@ -1,1 +1,0 @@
-Specific situations, comments, or contexts that activate deep feelings of shame—the sense of being exposed, humiliated, or fundamentally inadequate. These triggers are often unconscious and highly individual, rooted in past wounds and insecurities. When activated, shame can drive aggressive or destructive behavior as a defense mechanism.

@@ -1,1 +1,0 @@
-These trauma from when you were a kid cause deep irrationality.

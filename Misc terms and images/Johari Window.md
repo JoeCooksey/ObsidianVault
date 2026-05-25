@@ -1,1 +1,0 @@
-How open the other person is decides to be about their personal life

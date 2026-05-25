@@ -1,1 +1,0 @@
-An interest you have that if taken seriously can draw a community together around it.
