@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] autoresearch | Programmer to EE Master Complete Guide
+- Rounds: 3 | Searches: 11 | Pages created: 4
+- Created: [[EE Complete Mastery Roadmap]], [[Verilog and FPGA Learning Path]], [[EE Software and Lab Tools Complete Stack]], [[Research - Programmer to EE Master Complete Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) 8-layer mastery stack — Math Foundations → Physics → Core EE Theory (Circuit Theory→Digital Logic→Semiconductors→Signals→Control→EM) → Programming (Python→C→Verilog) → Software Tools → Lab/Hardware → Specialization → Career Portfolio; order is non-negotiable, dependencies are real; (2) Programming priority: Python first (simulation, automation, AI), then C (embedded real-time), then C++ (RTOS/HAL), then MATLAB (academic), then Verilog (FPGA track); (3) Specialization salary ranges 2026: Analog IC $349k 90th | FPGA $251k 90th | Embedded $245k 90th | Power Electronics $210k 90th | (4) FPGA path: HDLBits.01xz.net (free browser exercises) → Icarus+GTKWave → iCEstick/Basys3 hardware → cocotb Python testbenches → real-world IP cores; Sandia NL is direct FPGA employer; (5) Software tool timeline: LTSpice+Git+Python Day 1 → STM32CubeIDE Month 2 → KiCad Month 3 → MATLAB/Simulink Year 2 → Quartus/Vivado Year 2 → Altium Year 3; (6) Lab bench: multimeter → breadboard → oscilloscope → power supply → signal generator → logic analyzer → LCR meter progression; starter budget ~$100; (7) Fastest path to job-ready: Python+Git+Embedded C+STM32+FreeRTOS = 12–18 months → $114k–$244k
+
 ## [2026-05-25] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 
 ## [2026-05-25] weekly-stock-scan | Weekly Stock Deep Scan
