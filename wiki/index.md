@@ -9,6 +9,9 @@ tags:
 
 Master catalog of all wiki pages. Update on every ingest.
 
+## Newsletters
+- [[EE Daily — May 24, 2026]] — 7 stories: semiconductor market peak, HBM4, co-packaged optics, TFLN 8-inch fab, 2D material gap limit, UWBG RF, nanoporous dielectrics, quantum switch. Daily topic: UWBG semiconductors.
+
 ## Domains
 - [[Engineering]] — software, systems, hardware, power electronics (6 sources, 2 syntheses)
 - [[Mathematics]] — pure math, applied math, statistics (0 sources)
