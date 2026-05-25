@@ -185,6 +185,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Consumer Spending / Purchase Value
 - [[Consumer Purchase Value Tier List]] — worth-it vs. not-worth-it by price tier ($0–$2,000+) and category; daily-use multiplier rule; MVPs and capital destroyers (developing)
+- [[Non-Toxic Air Fryers and Rice Cookers]] — PFAS/PTFE-free buying guide; Typhur Dome 2 S-tier air fryer; Buffalo stainless S-tier rice cooker; label traps ("PFOA-free" ≠ PFAS-free); decision tree by budget (developing)
 
 ### Personal Finance / Financial Literacy
 - [[Financial Literacy Roadmap]] — phase-by-phase guide from zero to FI: foundation → wins → accumulation → tax optimization → independence; compound interest tables; 50/30/20 budget (developing)
