@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] autoresearch | Consumer Purchase Value Guide
+- Rounds: 2 | Searches: 10 | Pages created: 2
+- Created: [[Research - Consumer Purchase Value Guide]], [[Consumer Purchase Value Tier List]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **Daily-use multiplier rule** — divide cost by annual uses; a $40 water bottle used daily costs $0.11/use; a $200 jacket worn 5 times costs $40/use; this single ratio explains most worth-it vs. not-worth-it verdicts; (2) **Under $20 MVPs**: microfiber cloths, kitchen scale, jump rope, sleep mask, tongue scraper, Microplane zester, generic ibuprofen (identical molecules to name brands at 2–4× less); (3) **$20–$100 MVPs**: French press (better coffee than $80+ K-cup machines at $0.15/cup vs $1/pod), Fitbit Inspire 3, electric kettle, Keychron mechanical keyboard, insulated water bottle; (4) **Biggest under-$100 wastes**: K-cup coffee machines, WHOOP subscription ($30/month for data available free), extended warranties on cheap electronics, "smart" appliances with app dependency; (5) **$100–$500 MVPs**: ergonomic chair (6–8 hrs/day seated), standing desk converter, Seiko 5 Sports watch, oscilloscope for EE work, Victorinox chef's knife (outperforms $300 knives in blind tests), refurbished MacBook Air; (6) **$500–$2,000 MVPs**: quality laptop held 5–7 years, good mattress (2,500+ hrs/year), used road bike (health+transport+hobby), noise-canceling headphones if daily commuter; (7) **Biggest wastes at any price**: annual iPhone upgrades ($300/year savings compounds to $3,600 over a decade), Peloton at retail (same units $200–400 used 2 years later), Apple Vision Pro (majority stop using within 4 weeks), new car off lot (20% value loss day 1); (8) **Universal rule**: spend more on what you touch every day (chair, mattress, shoes, keyboard, water bottle), spend less on everything else
+
 ## [2026-05-25] autoresearch | Full Agent Stack Team Guide
 - Rounds: 2 | Searches: 8 | Pages created: 5
 - Created: [[Research - Full Agent Stack Team Guide]], [[Multi-Agent Development Team]], [[Agent Orchestration Frameworks]], [[Agent Roles Software Development]], [[MCP Tools for Agent Stacks]]
