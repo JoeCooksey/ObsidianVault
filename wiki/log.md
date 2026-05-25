@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-25] autoresearch | Non-Toxic Air Fryers and Rice Cookers
+- Rounds: 1 | Searches: 4 | Pages created: 1
+- Created: [[Non-Toxic Air Fryers and Rice Cookers]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **"PFOA-free" ≠ PFAS-free** — the most important label trap; PFOA is one specific PFAS compound, a product can drop PFOA and retain dozens of other PFAS chemicals; require "PFAS-free" explicitly; (2) **Air fryer S-tier**: Typhur Dome 2 (~$400, verified PFAS-free ceramic, dual heating, self-cleaning, ATK + Consumer Reports 2026 pick); Ninja Crispi (~$150–200, glass cooking vessel); Fritaire (~$250, tempered glass bowl); (3) **Rice cooker S-tier**: Buffalo IH Smart Cooker (~$150–250, stainless steel inner pot + IH technology); Buffalo Classic (~$80–120, simplest fully stainless option); Elite Gourmet ERC006SS (~$40, 304 surgical-grade SS); (4) **Safe material hierarchy**: uncoated stainless steel (zero coatings, inert) > tempered glass (visually inspectable) > verified sol-gel ceramic (safe when certified, degrades over time); (5) **Zojirushi makes the best rice** but uses PTFE-coated inner pot — not compatible with non-toxic priority; Buffalo IH is the closest non-toxic performance equivalent; (6) **Most mainstream brands use PTFE**: Instant Vortex, Cosori, Philips, standard Ninja, most Cuckoo/Tiger models — avoid unless explicitly PFAS-free certified
+
 ## [2026-05-25] autoresearch | Gut Health Foods
 - Rounds: 1 | Searches: 5 | Pages created: 3
 - Created: [[Research - Gut Health Foods]], [[Gut Health Foods Tier List]], [[Gut Microbiome Fundamentals]]
