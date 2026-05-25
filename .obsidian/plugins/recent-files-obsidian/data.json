@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "News Debrief 2026-05-25",
       "path": "wiki/news/News Debrief 2026-05-25.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "AI Skills Roadmap for Electrical Engineers",
       "path": "wiki/concepts/AI Skills Roadmap for Electrical Engineers.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "AI Applications in Electrical Engineering",
