@@ -66,6 +66,12 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Grad School / MS EE Programs
 - [[MS EE Programs Power Electronics Semiconductors]] — quick-reference tier list: NC State WBG, VT CPES, UT Austin SSE, Purdue, MIT/Stanford/Berkeley (developing)
 
+### EE Complete Mastery Roadmap (Beginner to Master)
+- [[EE Complete Mastery Roadmap]] — **8-layer framework**: Math → Physics → Core EE Theory → Programming → Software Tools → Lab Skills → Specialization → Career Portfolio; 4-year milestones; 6 career tracks with salaries; fastest path to job-ready (developing)
+- [[Verilog and FPGA Learning Path]] — Track C: 5-phase FPGA progression from HDLBits to real-world projects; cocotb; $175k avg salary; Sandia NL direct employer path (developing)
+- [[EE Software and Lab Tools Complete Stack]] — full reference: SPICE, PCB (KiCad/Altium), FPGA tools, embedded IDEs, lab instruments (oscilloscope/multimeter/power supply), Git for hardware (developing)
+- [[Research - Programmer to EE Master Complete Guide]] — source + synthesis page; 8-layer model; programming language priority; specialization salaries; resources list (complete)
+
 ### Programming Languages for EE
 - [[Python in Electrical Engineering]] — PyVISA (ATE control), python-control (Bode/rlocus/PI design), PyLTSpice, SciPy signal processing, cocotb FPGA verification (developing)
 - [[C++ in Electrical Engineering]] — embedded firmware, TI C2000 PI control at 100 kHz, FreeRTOS, MISRA-C, ARM CMSIS-DSP, FOC motor control (developing)
