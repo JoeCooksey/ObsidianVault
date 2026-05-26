@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] autoresearch | Data Science in Electrical Engineering
+- Rounds: 1 | Searches: 5 | Pages created: 3
+- Created: [[Research - Data Science in Electrical Engineering]], [[Data Science in Electrical Engineering]], [[EE Data Science Skills Roadmap]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **EE students have 70%+ of DS math already** — Fourier → FFT features, LinAlg → ML matrices, control theory → RL framing; the gaps are pandas fluency, SQL, and ML workflow; (2) **8 core domains**: predictive maintenance (largest industrial use case), SCADA/power quality anomaly detection, smart metering + demand forecasting, renewable energy forecasting, BMS/battery analytics (highest salary ceiling $130-220k), signal feature engineering + MCSA, EDA/chip design, EMC test analytics; (3) **pandas + SciPy.signal + scikit-learn = 80% of industrial EE DS work** — these 3 libraries cover most use cases before needing PyTorch; (4) **Motor Current Signature Analysis (MCSA)** = canonical EE+DS technique — FFT of stator current → sideband frequencies → bearing fault ID without physical disassembly; (5) **Kaggle Pandas course (5 hrs, free) is the single highest-leverage first step**; followed by Kaggle ML sequence (7 free courses); (6) **Project 6 on Joe's EE ladder** (LTSpice surrogate model via PyLTSpice → pandas → sklearn) is the natural bridge project combining EE and DS skills; (7) **ASU offers a dedicated MS in Data Science, Analytics and Engineering (EE)** — institutionally validates this career track; (8) **3 specialization tracks for Joe**: Track A = BMS ($130-220k, Tesla/Rivian), Track B = Grid Analytics ($100-145k, utilities/CAISO), Track C = Industrial Predictive Maintenance ($90-135k, Siemens/ABB)
+
 ## [2026-05-26] autoresearch | Summer Part-Time Job Guide — Livermore College Student
 - Rounds: 1 | Searches: 8 | Pages created: 2
 - Created: [[Research - Summer Part-Time Job Guide Livermore College Student]], [[Summer Part-Time Job Search for College Students]]
