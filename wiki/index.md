@@ -201,6 +201,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
+- [[Reading Retention Methods]] — active recall, spaced repetition, Feynman Technique, SQ3R, Mortimer Adler 4 levels, progressive summarization; Readwise integration; protocol for Joe (developing)
+- [[Reading Application Framework]] — ARIA system (Absorb→Reflect→Intentionalize→Act); implementation lists; Zettelkasten/PARA integration; subject-specific application patterns (developing)
+- [[Benefits of Reading]] — 46% cognitive decline reduction (Yale); brain connectivity; theory of mind; stress -68%; vocabulary/earnings link; depth of engagement requirements (developing)
 
 ### Book Lists — Curated Reading by Category
 - [[Book List — Finance and Investing]] — S/A/B tier; The Intelligent Investor, Psychology of Money, Just Keep Buying, index fund thesis, mental models (developing)
