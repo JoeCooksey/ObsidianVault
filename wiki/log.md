@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] autoresearch | Summer Part-Time Job Guide — Livermore College Student
+- Rounds: 1 | Searches: 8 | Pages created: 2
+- Created: [[Research - Summer Part-Time Job Guide Livermore College Student]], [[Summer Part-Time Job Search for College Students]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **LARPD is the best local entry-level employer** — Park Aide $23.42/hr, larpd.org/job-opportunities; (2) **Tri-Valley Career Center** (jobs.trivalleycareercenter.org, free career coaching + local job board, 5860 Owens Dr Pleasanton, 925-416-5100) is the most underused local resource; (3) **Handshake is S-tier** for college students (ASU partners; 750k+ employers; use .edu login); (4) **Apply NOW** — late May is late but still viable; most summer positions fill by mid-June; (5) **Resume with no experience**: lead with Education → Skills → Projects; one page; tailor keywords; include GPA if ≥3.0 and city (Livermore, CA) to signal local; (6) **Tutoring pays $25–60/hr** and requires no employer — Wyzant/Tutor.com; highest $/hr with zero commute for EE/math-skilled students; (7) **In-person walk-in beats online applications** for retail/food service — 20–30% conversion vs. 5–10% cold online; (8) **Major local employers**: Marshalls (~$28/hr avg), Safeway, Trader Joe's, Grocery Outlet (3 Livermore locations), Costco, Amazon fulfillment ($18–22/hr); Joe-specific action: LARPD today → retail walk-ins this week → Handshake + Wyzant tutoring → October = LLNL application
+
 ## [2026-05-26] newsletter | EE Daily — May 26, 2026
 Top stories: Huawei LogicFolding 3D architecture claims 53.5% transistor density boost and Tau Scaling Law replacement for Moore's Law; GlobalFoundries SCALE platform becomes industry's first OCI MSA-compliant CPO solution with 50/100 Gbps micro-ring modulators; Wolfspeed 3.3 kV SiC modules deliver 42% switching loss improvement at 125 °C; Soitec/NTU record GaN PAE for 6G FR3/mmWave handsets; 2D Fe₂Mo₃O₈ ferroelectric hits 230 µC/cm² polarization with 4×10⁹ endurance cycles. Daily research topic: Tau Scaling Law and LogicFolding — 3D gate-delay math, ILV parasitics, and backside power delivery.
 
