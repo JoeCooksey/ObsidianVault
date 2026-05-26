@@ -8,6 +8,23 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-26 — Autoresearch: Summer Part-Time Job Guide for Livermore College Student — LARPD Park Aide $23.42/hr; Tri-Valley Career Center free coaching; Handshake S-tier for ASU students; tutoring $25–60/hr highest $/hr no-experience job; apply NOW before June
+
+## Key Recent Facts
+
+### Summer Part-Time Jobs — Livermore — newest autoresearch
+- **Apply NOW (late May is late but viable)**: Most summer positions fill by mid-June; waiting until June = significantly fewer openings
+- **#1 local employer**: LARPD (Livermore Area Recreation and Park District) — Park Aide **$23.42/hr**, larpd.org/job-opportunities; also Recreation Leader ($16.54–$19.20/hr), Youth Services ($22–26/hr)
+- **Tri-Valley Career Center = best free resource**: 5860 Owens Dr, Pleasanton; 925-416-5100; jobs.trivalleycareercenter.org; free career coaching until you land a job + local job board; most students don't know it exists
+- **Best platform for ASU students**: Handshake (handshake.com with ASU .edu login) — 750k+ employers targeting students; more curated than Indeed
+- **Highest $/hr with no experience**: Tutoring ($25–60/hr) — Wyzant, Tutor.com, Varsity Tutors; set your own rate; leverages EE/math skills; no commute; no employer
+- **In-person walk-in beats cold online** for retail/food service: 20–30% conversion rate vs. 5–10% for cold online applications; show up with printed resume
+- **Key local retail employers**: Marshalls (~$28/hr avg), Safeway, Trader Joe's, Grocery Outlet (3 Livermore locations), Costco, Starbucks; Amazon fulfillment $18–22/hr
+- **Resume with no experience**: Lead with Education → Skills → Projects (one page); tailor keywords from each job posting; include GPA if ≥3.0 and "Livermore, CA" to signal local; results over duties
+- **Joe's action stack**: (1) LARPD online app today → (2) walk into Marshalls/Safeway/Trader Joe's this week → (3) Handshake profile + Wyzant tutoring profile → (4) October 2026 = LLNL engineering internship application
+- **California minimum wage 2026**: $16.50/hr — baseline; most Livermore retail pays $17–22/hr
+
+## Last Updated (previous)
 2026-05-25 — Autoresearch: Non-Toxic Air Fryers and Rice Cookers — Typhur Dome 2 (S-tier air fryer, PFAS-free ceramic, ~$400); Buffalo stainless (S-tier rice cooker); "PFOA-free" label trap explained; safe material hierarchy
 
 ## Key Recent Facts
