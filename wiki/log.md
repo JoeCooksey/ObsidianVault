@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] autoresearch | Reading Complete Guide — Retention, Application, Benefits, Book Recommendations
+- Rounds: 1 | Searches: 7 | Pages created: 7
+- Created: [[Research-Reading-Complete-Guide]], [[Reading-Retention-Methods]], [[Reading-Application-Framework]], [[Benefits-of-Reading]], [[Book-List-Science-and-Technology]], [[Book-List-History-and-Ideas]], [[Book-List-Career-and-Leadership]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **Active recall doubles retention; re-reading doesn't** — closing the book and writing what you remember is 2× more effective than re-reading; Readwise automates spaced repetition for highlights; (2) **Feynman Technique is the best comprehension test** — explain in simple language, gaps reveal knowledge holes, return to source and re-explain; (3) **One specific implementation beats five vague intentions** — Implementation Intention format converts book insight into behavior change; write 1–3 executable actions with time and location after every important book; (4) **Reading cuts cognitive decline risk by 46%** — Yale 14-year longitudinal study (n=3,635 adults 65+); specific to books, not newspapers; mechanism = cognitive reserve buildup; (5) **Literary fiction builds theory of mind** via perspective-taking practice — RCT-confirmed; directly transfers to social intelligence and negotiation; (6) **Mortimer Adler's 4 levels = best reading allocation framework** — most books deserve inspectional skim (30 min), only 3–4/year deserve analytical depth; (7) **Zettelkasten + PARA = best long-term knowledge system** — Luhmann wrote 70 books using linked note cards; this vault is already Zettelkasten-structured; (8) **Key book recommendations by new domain**: Science/Tech = Feynman (*Surely You're Joking*), Hamming (*The Art of Doing Science*), Gertner (*The Idea Factory*); History/Ideas = Harari (*Sapiens*), Diamond (*Guns Germs Steel*), Meadows (*Thinking in Systems*); Career/Leadership = Newport (*So Good They Can't Ignore You*), Zinsser (*On Writing Well*), Hunt & Thomas (*The Pragmatic Programmer*)
+
 ## [2026-05-26] autoresearch | Data Science in Electrical Engineering
 - Rounds: 1 | Searches: 5 | Pages created: 3
 - Created: [[Research - Data Science in Electrical Engineering]], [[Data Science in Electrical Engineering]], [[EE Data Science Skills Roadmap]]
