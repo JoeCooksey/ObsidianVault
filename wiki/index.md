@@ -78,6 +78,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI Skills Roadmap for Electrical Engineers]] — 6-phase path: Python → ML fundamentals → deep learning → EE-specific track (TinyML, power electronics, EDA, grid, RF, battery) → MLOps; free resources ordered; job market demand; 56% salary premium (developing)
 - [[Research - EE AI Skills and Applications]] — source + synthesis: 8 EE×AI domains, all free resources, salary data, domain-by-domain ML tool stacks (complete)
 
+### EE × Data Science
+- [[Data Science in Electrical Engineering]] — 8 application domains: predictive maintenance, SCADA/power quality, smart metering, renewable forecasting, BMS analytics, signal features, EDA, EMC; tool stack; career roles $90-220k (developing)
+- [[EE Data Science Skills Roadmap]] — 6-phase Joe-specific path: pandas → SQL → ML workflow → time-series → deep learning → domain projects; 7-project EE-DS ladder; 3 specialization tracks (BMS/Grid/Industrial) (developing)
+- [[Research - Data Science in Electrical Engineering]] — full synthesis: 8 findings, project ladder, tool table, career roles, ASU MS program, transferable EE skills, skill gaps, open questions (complete)
+
 ### EE Complete Mastery Roadmap (Beginner to Master)
 - [[EE Complete Mastery Roadmap]] — **8-layer framework**: Math → Physics → Core EE Theory → Programming → Software Tools → Lab Skills → Specialization → Career Portfolio; 4-year milestones; 6 career tracks with salaries; fastest path to job-ready (developing)
 - [[Verilog and FPGA Learning Path]] — Track C: 5-phase FPGA progression from HDLBits to real-world projects; cocotb; $175k avg salary; Sandia NL direct employer path (developing)
