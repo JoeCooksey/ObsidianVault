@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — May 26, 2026]] — Huawei LogicFolding/Tau Scaling Law 3D chip architecture; GlobalFoundries SCALE OCI MSA CPO platform; Wolfspeed 3.3 kV SiC 42% switching loss improvement; Soitec/NTU 6G GaN record PAE; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; Google AlphaQubit 30% QEC error reduction; daily topic: Tau Scaling Law and LogicFolding — gate-delay math, ILV parasitics, backside power delivery
 - [[EE Daily — May 25, 2026]] — MIT OPA grating-lobe-free LiDAR chip; TSMC N2 GAA volume production; APEC GaN/SiC standouts; OpenLight 400G/lane Si photonics; Microsoft 12-logical-qubit quantum chemistry; daily topic: Optical Phased Arrays
 
 ## Domains

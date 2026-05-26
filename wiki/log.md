@@ -11,6 +11,9 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] newsletter | EE Daily — May 26, 2026
+Top stories: Huawei LogicFolding 3D architecture claims 53.5% transistor density boost and Tau Scaling Law replacement for Moore's Law; GlobalFoundries SCALE platform becomes industry's first OCI MSA-compliant CPO solution with 50/100 Gbps micro-ring modulators; Wolfspeed 3.3 kV SiC modules deliver 42% switching loss improvement at 125 °C; Soitec/NTU record GaN PAE for 6G FR3/mmWave handsets; 2D Fe₂Mo₃O₈ ferroelectric hits 230 µC/cm² polarization with 4×10⁹ endurance cycles. Daily research topic: Tau Scaling Law and LogicFolding — 3D gate-delay math, ILV parasitics, and backside power delivery.
+
 ## [2026-05-26] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 
 ## [2026-05-25] autoresearch | Non-Toxic Air Fryers and Rice Cookers
