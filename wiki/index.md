@@ -42,6 +42,11 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Operating Systems / Tech Decisions
+- [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
+- [[Linux-Distros-for-Windows-Switchers]] — tier list: Linux Mint (S-tier most switchers), Zorin OS, Ubuntu, Pop!_OS, Fedora; desktop environment comparison; decision matrix (developing)
+- [[Linux-Software-Alternatives]] — app-by-app replacement table: Office → LibreOffice/OnlyOffice; Adobe → GIMP/Darktable/Inkscape/DaVinci Resolve; gaming via Steam Proton; EE tools on Linux (developing)
+
 ### AI / Multi-Agent Systems
 - [[Multi-Agent Development Team]] — 5-role agent team: PM → Architect → Engineer → QA → Reviewer; 3 human-in-the-loop gates; prompt-to-project pipeline (developing)
 - [[Agent Orchestration Frameworks]] — CrewAI vs LangGraph vs Claude Code Agent Teams vs MetaGPT; framework selection guide; 2026 state (developing)
