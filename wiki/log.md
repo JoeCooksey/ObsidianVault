@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] autoresearch | Windows to Linux — Pros/Cons + Complete Migration Guide
+- Rounds: 1 | Searches: 5 | Pages created: 3
+- Created: [[Windows-to-Linux-Complete-Guide]], [[Linux-Distros-for-Windows-Switchers]], [[Linux-Software-Alternatives]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Hot Cache]]
+- Key findings: (1) **Linux Mint is the default distro recommendation** for Windows switchers — Cinnamon desktop is most familiar (taskbar, Start-menu launcher, system tray); (2) **The real blocker is software, not OS difficulty** — audit your Windows apps first; Discord, Spotify, Zoom, VS Code, Teams all have native Linux clients; Adobe and Microsoft Office do not; (3) **Gaming crossed 80% compatibility** — Steam Proton runs 80%+ of top 1,000 Steam games with Gold rating or better; only kernel-level anti-cheat (Valorant's Vanguard) is a hard wall; (4) **Linux uses ~40-50% less RAM** than Windows 11; old hardware that chokes on Win 11 often runs well on Linux; (5) **Dual-boot is the safest entry** — shrink Windows partition in Disk Management, boot Linux installer, choose "Install alongside"; GRUB bootloader handles the dual-boot menu; (6) **For EE work (Joe-specific)**: KiCad, Python/SciPy, GTKWave, Icarus Verilog, STM32CubeIDE all run natively on Linux; only LTSpice needs Wine or a dual-boot Windows partition; (7) **AMD GPU = best Linux choice** (open-source Mesa drivers, zero friction); Nvidia works but requires proprietary driver installation and has Wayland quirks in 2026; (8) **93% of global malware targets Windows** vs <2% Linux — security is Linux's most decisive advantage
+
 ## [2026-05-26] autoresearch | Reading Complete Guide — Retention, Application, Benefits, Book Recommendations
 - Rounds: 1 | Searches: 7 | Pages created: 7
 - Created: [[Research-Reading-Complete-Guide]], [[Reading-Retention-Methods]], [[Reading-Application-Framework]], [[Benefits-of-Reading]], [[Book-List-Science-and-Technology]], [[Book-List-History-and-Ideas]], [[Book-List-Career-and-Leadership]]
