@@ -237,6 +237,7 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Career / Job Search
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 - [[ASU EE Mentorship Pathways]] — tier list of all mentorship channels at ASU: peer mentors, FURI, faculty (Ranjram/Ayyanar), IEEE ASU, IEEE Collabratec, Barrett Alumni; Year 1 action stack (developing)
+- [[Summer Part-Time Job Search for College Students]] — 4-category framework (local in-person, institutional, skilled, remote); platform tier list S→C; LARPD/TVCC/retail local employers; resume guide; timeline for Livermore (developing)
 
 ### Free Time / Lifestyle
 - [[Free Time Tier List]] — S–F ranking of free-time activities by long-term compounding ROI; EE self-study, deep reading, social time S-tier; doom-scrolling F-tier; Joe-specific (complete)
