@@ -8,9 +8,24 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-26 — Autoresearch: Summer Part-Time Job Guide for Livermore College Student — LARPD Park Aide $23.42/hr; Tri-Valley Career Center free coaching; Handshake S-tier for ASU students; tutoring $25–60/hr highest $/hr no-experience job; apply NOW before June
+2026-05-26 — Autoresearch: Data Science in Electrical Engineering — pandas+SciPy.signal+scikit-learn = 80% of industrial EE DS; MCSA for bearing fault detection; BMS analytics $130-220k; Kaggle Pandas course 5 hrs free = highest-leverage first step; LTSpice surrogate model = bridge project
 
 ## Key Recent Facts
+
+### Data Science in Electrical Engineering — newest autoresearch
+- **EE math IS DS math** — Fourier/Laplace → FFT feature extraction (you already know *what* the transform means); LinAlg → ML matrices; control theory → RL framing; EEs have 70%+ of prerequisites; gap is pandas + SQL + ML workflow
+- **The 3-tool core stack**: pandas (data wrangling, time-series resampling) + SciPy.signal (FFT, PSD, spectrogram) + scikit-learn (Random Forest, Isolation Forest, SVM, cross-validation) = covers 80% of industrial EE DS use cases
+- **Motor Current Signature Analysis (MCSA)** = canonical EE+DS technique: FFT of stator current → sideband frequencies → bearing fault identification without physical disassembly; all-Python via SciPy.signal
+- **8 application domains**: (1) Predictive maintenance; (2) Power quality/SCADA — PMU time-series → Isolation Forest/LSTM autoencoder; (3) Smart metering demand forecasting; (4) Renewable energy forecasting; (5) Battery BMS — SOC/SOH via LSTM (outperforms Kalman by 15-30% RMSE); (6) Signal feature engineering; (7) EDA/chip design; (8) EMC test analytics
+- **Highest EE×DS salary ceiling**: BMS Data Scientist $130-170k entry, $170-220k senior; Tesla/Rivian/Lucid/QuantumScape recruiting; requires PyTorch LSTM + electrochemical domain knowledge
+- **Skill gaps to fill** (not in EE curriculum): pandas (most important), SQL (OSIsoft PI / InfluxDB historian DBs), ML workflow (CV, ROC-AUC, leakage prevention), feature engineering (rolling windows, lag features)
+- **Kaggle Pandas course (5 hrs, free)** = single highest-leverage first step; then Kaggle ML sequence (7 free courses); then *Hands-On Machine Learning* (Géron) as reference
+- **Bridge project for Joe**: LTSpice parametric sweep → PyLTSpice → pandas → scikit-learn surrogate model; already has all tools except sklearn and pandas fluency
+- **3 specialization tracks**: Track A = BMS analytics (highest ceiling); Track B = Grid/power quality analytics; Track C = Industrial predictive maintenance (Siemens/ABB/GE)
+- **ASU offers dedicated MS**: MS in Data Science, Analytics and Engineering (Electrical Engineering) — institutionally validates this intersection
+
+## Last Updated (previous)
+2026-05-26 — Autoresearch: Summer Part-Time Job Guide for Livermore College Student — LARPD Park Aide $23.42/hr; Tri-Valley Career Center free coaching; Handshake S-tier for ASU students; tutoring $25–60/hr highest $/hr no-experience job; apply NOW before June
 
 ### Summer Part-Time Jobs — Livermore — newest autoresearch
 - **Apply NOW (late May is late but viable)**: Most summer positions fill by mid-June; waiting until June = significantly fewer openings
