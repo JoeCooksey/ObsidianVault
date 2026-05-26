@@ -11,6 +11,8 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-05-25] autoresearch | Non-Toxic Air Fryers and Rice Cookers
 - Rounds: 1 | Searches: 4 | Pages created: 1
 - Created: [[Non-Toxic Air Fryers and Rice Cookers]]
