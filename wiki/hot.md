@@ -8,9 +8,27 @@ tags:
 # Recent Context
 
 ## Last Updated
-2026-05-26 — Autoresearch: Data Science in Electrical Engineering — pandas+SciPy.signal+scikit-learn = 80% of industrial EE DS; MCSA for bearing fault detection; BMS analytics $130-220k; Kaggle Pandas course 5 hrs free = highest-leverage first step; LTSpice surrogate model = bridge project
+2026-05-26 — Autoresearch: Reading Complete Guide — Active recall 2× retention vs re-reading; 46% cognitive decline reduction (Yale); literary fiction → theory of mind RCT-confirmed; new book domains: Science/Tech (Feynman, Hamming, Bell Labs), History/Ideas (Sapiens, Thinking in Systems), Career/Leadership (Newport, Zinsser, Pragmatic Programmer); ARIA application system; 7 pages created
 
 ## Key Recent Facts
+
+### Reading Complete Guide — newest autoresearch
+- **Active recall beats re-reading**: Close book after each chapter, write everything you remember — **doubles retention** vs. re-reading; Readwise automates spaced repetition for highlights
+- **Feynman Technique = best comprehension test**: explain in simple language; where you stumble = knowledge gap; return to source, fill, re-explain; best for EE theory + finance concepts
+- **SQ3R method**: Survey → Question → Read → Recite → Review; converts reading from passive to interrogative; best for technical non-fiction
+- **Mortimer Adler 4-level rule**: most books deserve inspectional skim (30 min); only 3–4/year deserve analytical deep read; syntopical reading (multiple books, one topic) = domain mastery
+- **ARIA application system**: Absorb → Reflect → Intentionalize → Act; after any book: top 3 ideas + one behavior change + Implementation Intention with time and location
+- **46% cognitive decline reduction**: Yale 14-year longitudinal study; weekly readers; specific to books not newspapers; mechanism = cognitive reserve buildup
+- **Literary fiction → theory of mind** (RCT-confirmed): reading complex characters builds perspective-taking that transfers to negotiation and leadership
+- **New S-tier books for Joe**:
+  - *Surely You're Joking, Mr. Feynman!* — EE problem-solving mindset + curiosity over credentials
+  - *The Art of Doing Science and Engineering* (Hamming) — how to aim your technical career at important problems
+  - *The Idea Factory* (Bell Labs history) — template for LLNL/Sandia culture Joe is targeting
+  - *So Good They Can't Ignore You* (Newport) — career capital theory validates WBG specialization approach
+  - *Sapiens* (Harari) — best macro-mental-model; imagined orders framework
+  - *On Writing Well* (Zinsser) — engineers who write clearly advance 2–3 career levels faster
+- **Phase 4 reading order**: Feynman → Newport (*So Good*) → Sapiens → Hamming
+- **Daily reading protocol**: 20–30 min morning + 15 min before sleep + Zone 2 rides as audiobook = 2 books/month
 
 ### Data Science in Electrical Engineering — newest autoresearch
 - **EE math IS DS math** — Fourier/Laplace → FFT feature extraction (you already know *what* the transform means); LinAlg → ML matrices; control theory → RL framing; EEs have 70%+ of prerequisites; gap is pandas + SQL + ML workflow
