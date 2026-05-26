@@ -8,6 +8,26 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-26 — Autoresearch: Windows to Linux Complete Guide — Linux Mint S-tier recommendation; 80%+ Steam gaming compatibility via Proton; software gap is the real blocker (Adobe/Office have no native clients); dual-boot via Rufus + GRUB; AMD GPU best choice; 50% less RAM needed; 3 pages created
+
+## Key Recent Facts
+
+### Windows to Linux Migration — newest autoresearch
+- **Linux Mint = default recommendation**: Cinnamon desktop has taskbar at bottom, Start-menu launcher bottom-left, system tray — most familiar to Windows users; based on Ubuntu LTS for maximum compatibility and documentation
+- **Distro tier list for switchers**: Linux Mint (most familiar) > Zorin OS (built-in Windows-look appearance tool) > Ubuntu (largest community/ecosystem) > Pop!_OS (Nvidia auto-driver, developer-focused) > Fedora (cutting-edge packages)
+- **The real blocker is software**: Discord, Slack, Spotify, Zoom, Teams, VS Code, Chrome, Firefox, Git, Docker all have native Linux clients; Adobe CC and Microsoft Office do NOT — this is the honest audit to do before switching
+- **Office alternatives**: LibreOffice (free, handles basic .docx/.xlsx); OnlyOffice (better complex-file compatibility); Google Docs (web, zero friction) — none achieve 100% macro/formatting fidelity with Microsoft Office
+- **Adobe alternatives**: GIMP (Photoshop), Darktable (Lightroom), Inkscape (Illustrator), DaVinci Resolve free tier (Premiere/After Effects) — DaVinci Resolve has a native Linux client and covers most video editing needs
+- **Gaming crossed 80%**: Steam Proton runs 80%+ of top 1,000 Steam games Gold rating or better; Valorant (Vanguard kernel anti-cheat) is the hard wall; check ProtonDB.com per game before purchasing
+- **Linux uses ~40-50% less RAM** than Windows 11; Win 11 needs 16 GB to run smoothly, Linux runs well on 8 GB; hardware that fails Win 11 requirements often runs well on Linux
+- **Security**: Windows accounts for 93% of global malware infections (2024); Linux <2%; no antivirus software required; updates are user-controlled with no forced reboots
+- **EE tools on Linux (Joe-specific)**: KiCad (primary dev platform), Python/SciPy/Matplotlib, GTKWave, Icarus Verilog, STM32CubeIDE, GNU Octave all native; **only LTSpice needs Wine or dual-boot Windows partition**
+- **GPU choice matters**: AMD = open-source Mesa drivers, zero friction, best Linux choice; Intel = fully open-source, excellent; Nvidia = functional but proprietary driver required, Wayland quirks in 2026
+- **Dual-boot = safest first step**: Shrink Windows partition in Disk Management → 50-100 GB free → write ISO to USB via Rufus/balenaEtcher → disable Secure Boot in BIOS → boot to "Try" mode first → "Install alongside Windows" → GRUB handles dual-boot menu
+- **Full switch process**: Download ISO → verify SHA256 → Rufus (Windows) or balenaEtcher (cross-platform) → disable Secure Boot → "Try" live session to test hardware → Install → `sudo apt update && sudo apt upgrade` on first boot
+- **Who should NOT switch**: heavy Adobe CC users, kernel-anti-cheat gamers (Valorant/PUBG), complex Excel macro users, corporate Windows-only IT environments
+
+## Last Updated (previous)
 2026-05-26 — Autoresearch: Reading Complete Guide — Active recall 2× retention vs re-reading; 46% cognitive decline reduction (Yale); literary fiction → theory of mind RCT-confirmed; new book domains: Science/Tech (Feynman, Hamming, Bell Labs), History/Ideas (Sapiens, Thinking in Systems), Career/Leadership (Newport, Zinsser, Pragmatic Programmer); ARIA application system; 7 pages created
 
 ## Key Recent Facts
