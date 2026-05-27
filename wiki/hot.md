@@ -8,6 +8,22 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-27 — Autoresearch: Costco Vegetable Soups — 7 recipes; mirepoix base from Costco bulk (carrots 6lb ~$3.50, potatoes 10lb ~$5, onions <$1/lb); Kirkland Stir-Fry Blend = drop-in 15-min soup; Kirkland Organic Chicken Stock 6-pack ~$8.99; Kirkland No-Salt Seasoning (21 spices) covers all seasoning needs; $0.75–1.50/serving; 3 pages created
+
+## Key Recent Facts
+
+### Costco Vegetable Soups — newest autoresearch
+- **7 soups, all from Costco**: Classic Vegetable (40 min) · Roasted Tomato Basil (50 min) · French Onion (75 min) · Minestrone (45 min) · Curried Lentil (40 min) · Quick Frozen-Veg (15 min) · Mushroom Garlic (35 min)
+- **Costco mirepoix base is exceptional value**: organic carrots 6 lb ~$3.50 + potatoes 10 lb ~$5 + onions <$1/lb = base for 10+ pots of soup at under $0.50 of vegetables per serving
+- **Kirkland Stir-Fry Frozen Blend (5.5 lb)**: 9 vegetables (broccoli, snap peas, green beans, carrots, yellow carrots, mushrooms, red bell peppers, water chestnuts, onions); drop into broth for a 15-min complete soup; nutritionally equivalent to fresh
+- **Kirkland Organic Chicken Stock** (6 × 32 oz, ~$8.99) = ~$1.50/carton; no confirmed Kirkland vegetable broth — use water + No-Salt Seasoning for vegan
+- **Two spice purchases cover 80% of soups**: Kirkland No-Salt Seasoning (21 organic spices, 14.5 oz, $9.99) + Kirkland Turmeric (2 × 12 oz, ~$19.99)
+- **Key techniques**: bloom spices in oil before liquid; don't stir mushrooms immediately — let sear; caramelize onions 40–45 min for French onion; roast tomatoes at 450°F before blending
+- **Minestrone pasta rule**: add pasta last 10 min only; freeze pasta separately if making ahead
+- **Cost per bowl**: ~$0.75–$1.50 using Costco ingredients
+- **Pages created**: [[Costco Vegetable Soup Recipes]], [[Costco Pantry for Homemade Soup]], [[Research - Costco Vegetable Soups Guide]]
+
+## Last Updated (previous)
 2026-05-26 — Autoresearch: Paul Saladino Oats & Vegetables — 9 claims evaluated; 2 hold (mycotoxins, glyphosate in conventional oats); 7 overstated/inverted; 786k-person meta-analysis: whole grains = 17% lower all-cause mortality; FDA-backed oat beta-glucan health claim; 3 pages created
 
 ## Key Recent Facts
