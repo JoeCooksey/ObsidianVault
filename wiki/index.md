@@ -235,6 +235,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — 9-claim evidence review: oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) + vegetables (oxalates, isothiocyanates, polyphenols, phytosterols); 2 of 9 claims hold; scorecard included (complete)
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
 
+### Cooking / Practical Food
+- [[Costco Vegetable Soup Recipes]] — 7 soup recipes (Classic Vegetable, Roasted Tomato, French Onion, Minestrone, Curried Lentil, Quick Frozen-Veg, Mushroom Garlic); full instructions + tips; $0.75–1.50/serving (developing)
+- [[Costco Pantry for Homemade Soup]] — master ingredient list with prices: fresh veg, frozen blends, Kirkland broth, spices; minimum viable ~$40–50 pantry setup (developing)
+
 ### Food / Nutrition Tier Lists
 - [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
 - [[Food Health Tier List — Vegetables]] — CDC Powerhouse scores; cruciferous cancer-protection hierarchy; 100/100 watercress (developing)
