@@ -1,1 +1,0 @@
-Grouping yourself with powerful people makes you appear more powerful.

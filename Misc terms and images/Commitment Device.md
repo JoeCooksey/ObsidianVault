@@ -1,1 +1,0 @@
-A choice that you make in the present that controls your future actions. It can be used to lock you into good habits and restrict from bad habits. 

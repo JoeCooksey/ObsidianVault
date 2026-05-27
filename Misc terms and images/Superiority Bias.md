@@ -1,1 +1,0 @@
-Bias that we are better than everyone else therefore our ideas are always correct.

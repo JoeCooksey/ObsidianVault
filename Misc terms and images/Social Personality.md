@@ -1,1 +1,0 @@
-The mask or persona that automatically activates in group settings—a psychological shift where you imitate others, suppress critical thinking, prioritize fitting in, and become prone to irrational behavior. The [[Social Personality]] is not your authentic self but a defense mechanism that emerges under social pressure.

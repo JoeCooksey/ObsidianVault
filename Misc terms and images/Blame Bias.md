@@ -1,1 +1,0 @@
-Putting our mistakes on other people instead of embracing them.

@@ -1,1 +1,0 @@
-The state of heightened awareness or active thinking about death and mortality. When death is made salient (through reminders, near-death experiences, or deliberate reflection), people's true values temporarily become visible, often revealing that what they claim to care about differs sharply from what they actually pursue day-to-day.

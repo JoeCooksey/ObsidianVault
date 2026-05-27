@@ -1,1 +1,0 @@
-The tendency to follow ideas of the mass group.

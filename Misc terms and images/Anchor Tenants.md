@@ -1,1 +1,0 @@
-People who hang around with people who are by nature different then them

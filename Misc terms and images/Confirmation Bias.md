@@ -1,1 +1,0 @@
-Evidence that confirms what we want to believe.

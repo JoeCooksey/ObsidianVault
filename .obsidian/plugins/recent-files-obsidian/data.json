@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "AGENTS.md",
+      "path": "AGENTS.md.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "Source",
+      "path": "_templates/Source.md"
+    },
+    {
+      "basename": "Entity",
+      "path": "_templates/Entity.md"
+    },
+    {
+      "basename": "Concept",
+      "path": "_templates/Concept.md"
+    },
+    {
+      "basename": "Paper",
+      "path": "_templates/Paper.md"
+    },
+    {
+      "basename": "Question",
+      "path": "_templates/Question.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -39,10 +67,6 @@
     {
       "basename": "Data Science in Electrical Engineering",
       "path": "wiki/concepts/Data Science in Electrical Engineering.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
     },
     {
       "basename": "Summer Part-Time Job Search for College Students",

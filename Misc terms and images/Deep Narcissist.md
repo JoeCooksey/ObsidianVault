@@ -1,1 +1,0 @@
-Recognize: If ever insulted or challenged, have no defense towards it, always talk about themselves, display extreme self confident.
