@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-27] manual | Boil-and-Blend Soup Formula — Category-Pick System
+- Pages created: 1
+- Created: [[Boil-and-Blend Soup Formula]]
+- Updated: [[Wiki Index]]
+- Formula: pick BASE (orange/white/green/red) + AROMATICS (onion+garlic always) + SPICE PROFILE (7 options) + optional ENRICHER → boil 25 min → blend smooth. 8 proven combinations. Thickness reference table. Fix-it guide.
+
 ## [2026-05-27] autoresearch | Costco Vegetable Soups Guide — 7 Recipes + Ingredient Master List
 - Pages created: 3
 - Created: [[Costco Vegetable Soup Recipes]], [[Costco Pantry for Homemade Soup]], [[Research - Costco Vegetable Soups Guide]]
