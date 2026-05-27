@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Pop-OS-Dual-Boot-Setup-Guide",
-      "path": "wiki/sources/Pop-OS-Dual-Boot-Setup-Guide.md"
+      "basename": "Linux-Distros-for-Windows-Switchers",
+      "path": "wiki/concepts/Linux-Distros-for-Windows-Switchers.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "News Debrief 2026-05-27",
+      "path": "wiki/news/News Debrief 2026-05-27.md"
+    },
+    {
+      "basename": "2026-05-27-ee-daily",
+      "path": "wiki/newsletters/2026-05-27-ee-daily.md"
+    },
+    {
+      "basename": "Pop-OS-Dual-Boot-Setup-Guide",
+      "path": "wiki/sources/Pop-OS-Dual-Boot-Setup-Guide.md"
     },
     {
       "basename": "AGENTS.md",
@@ -183,14 +195,6 @@
     {
       "basename": "Research - Cycling Training Periodization and Annual Plan",
       "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
-    },
-    {
-      "basename": "First Job Roadmap — Livermore Tri-Valley",
-      "path": "wiki/concepts/First Job Roadmap — Livermore Tri-Valley.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "Book View.base"
     }
   ],
   "omittedPaths": [],
