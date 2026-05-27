@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] manual | Pop!_OS Dual Boot Setup Guide
+- Pages created: 1
+- Created: [[Pop-OS-Dual-Boot-Setup-Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]]
+- Full step-by-step dual-boot guide written for gaming PC + Nvidia GPU setup: Windows prep (Fast Startup, UEFI check, partition shrink), Rufus USB creation, BIOS configuration (Secure Boot off), Pop!_OS Nvidia ISO install, systemd-boot dual-boot menu, first boot verification (nvidia-smi), CS2 via Steam Proton, RuneLite AppImage, troubleshooting table, full checklist
+
 ## [2026-05-26] autoresearch | Windows to Linux — Pros/Cons + Complete Migration Guide
 - Rounds: 1 | Searches: 5 | Pages created: 3
 - Created: [[Windows-to-Linux-Complete-Guide]], [[Linux-Distros-for-Windows-Switchers]], [[Linux-Software-Alternatives]]
