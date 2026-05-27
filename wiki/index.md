@@ -39,6 +39,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[MLC-LLM]] — TVM-based universal LLM deployment engine
 - [[Wolfspeed]] — largest SiC wafer manufacturer; 62% market share (2025)
 - [[STMicroelectronics SiC]] — Tesla Model 3 SiC supplier; automotive SiC leader
+- [[Paul Saladino]] — "Carnivore MD" (MD); *The Carnivore Code* author; animal-based diet advocate; quit strict carnivore after testosterone/sleep problems; 2 of 9 anti-plant claims hold up
 
 ## Concepts
 
