@@ -236,6 +236,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
 
 ### Cooking / Practical Food
+- [[Boil-and-Blend Soup Formula]] — category-pick formula: choose BASE + AROMATICS + SPICE PROFILE + ENRICHER → boil 25 min → blend; 8 quick-reference combinations; thickness guide; fix-it notes (developing)
 - [[Costco Vegetable Soup Recipes]] — 7 soup recipes (Classic Vegetable, Roasted Tomato, French Onion, Minestrone, Curried Lentil, Quick Frozen-Veg, Mushroom Garlic); full instructions + tips; $0.75–1.50/serving (developing)
 - [[Costco Pantry for Homemade Soup]] — master ingredient list with prices: fresh veg, frozen blends, Kirkland broth, spices; minimum viable ~$40–50 pantry setup (developing)
 
