@@ -12,6 +12,8 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 ---
 
 ## [2026-05-27] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+## [2026-05-27] newsletter | EE Daily — May 27, 2026
+Broadcom AI chip revenue surges 106% YoY to $8.4B as custom ASICs displace GPUs; Moore4Power €91M EU project launches heterogeneous Si/SiC/GaN integration; IBM achieves 10× QEC decoding speedup; Google Willow Quantum Echoes runs 13,000× faster than classical supercomputers; FMCW silicon photonics LiDAR enters volume production; 2D ferroelectric semiconductors enable logic-in-memory at atomic thickness; daily topic: Quantum Error Correction from surface codes to QLDPC.
 
 ## [2026-05-26] manual | Pop!_OS Dual Boot Setup Guide
 - Pages created: 1
