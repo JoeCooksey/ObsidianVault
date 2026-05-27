@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Book View",
-      "path": "Book View.base"
+      "basename": "Leonardo da Vinci - Walter Isaacson",
+      "path": "wiki/books/Leonardo da Vinci - Walter Isaacson.md"
     },
     {
-      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
-      "path": "Books/The 7 Habits of Highly Effective People - Stephen Covey.md"
+      "basename": "Book View",
+      "path": "wiki/Book View.base"
+    },
+    {
+      "basename": "Atomic Habits - James Clear",
+      "path": "wiki/books/Atomic Habits - James Clear.md"
     },
     {
       "basename": "Master Chunky Vegetable Soup Recipe",
@@ -191,14 +195,6 @@
     {
       "basename": "Research - Trending GitHub Repositories May 2026",
       "path": "wiki/sources/Research - Trending GitHub Repositories May 2026.md"
-    },
-    {
-      "basename": "Theology",
-      "path": "wiki/domains/Theology.md"
-    },
-    {
-      "basename": "Books",
-      "path": "wiki/domains/Books.md"
     }
   ],
   "omittedPaths": [],
