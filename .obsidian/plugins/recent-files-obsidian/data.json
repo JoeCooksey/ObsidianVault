@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Costco Vegetable Soup Recipes",
+      "path": "wiki/concepts/Costco Vegetable Soup Recipes.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Costco Vegetable Soups Guide",
+      "path": "wiki/questions/Research - Costco Vegetable Soups Guide.md"
     },
     {
       "basename": "Linux-Distros-for-Windows-Switchers",
@@ -191,10 +199,6 @@
     {
       "basename": "Spanish Fluency Complete Masterclass",
       "path": "wiki/concepts/Spanish Fluency Complete Masterclass.md"
-    },
-    {
-      "basename": "Research - Cycling Training Periodization and Annual Plan",
-      "path": "wiki/questions/Research - Cycling Training Periodization and Annual Plan.md"
     }
   ],
   "omittedPaths": [],
