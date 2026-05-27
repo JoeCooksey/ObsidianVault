@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Book View",
+      "path": "Book View.base"
+    },
+    {
+      "basename": "The 7 Habits of Highly Effective People - Stephen Covey",
+      "path": "Books/The 7 Habits of Highly Effective People - Stephen Covey.md"
+    },
+    {
       "basename": "Master Chunky Vegetable Soup Recipe",
       "path": "wiki/concepts/Master Chunky Vegetable Soup Recipe.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Books",
       "path": "wiki/domains/Books.md"
-    },
-    {
-      "basename": "Life-Changing Purchases by Price Range",
-      "path": "wiki/concepts/Life-Changing Purchases by Price Range.md"
-    },
-    {
-      "basename": "Probiotic Creation Guides",
-      "path": "wiki/concepts/Probiotic Creation Guides.md"
     }
   ],
   "omittedPaths": [],
