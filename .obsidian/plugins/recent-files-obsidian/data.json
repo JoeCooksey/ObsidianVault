@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pop-OS-Dual-Boot-Setup-Guide",
+      "path": "wiki/sources/Pop-OS-Dual-Boot-Setup-Guide.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "AGENTS.md",
       "path": "AGENTS.md.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Question",
       "path": "_templates/Question.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Windows-to-Linux-Complete-Guide",
