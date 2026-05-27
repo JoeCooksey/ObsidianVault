@@ -14,7 +14,61 @@ tags:
 ---
 # Boil-and-Blend Soup Formula
 
-**One method, infinite soups.** Pick one item from each category, boil everything together, blend smooth.
+**One method, infinite soups.** Pick one item from each category, boil everything together, blend smooth. Want to use many vegetables at once? See the **Multi-Vegetable Blend** section below.
+
+---
+
+## Multi-Vegetable Blend: Using 4–6 Vegetables at Once
+
+You can throw in as many vegetables as you want — with two rules:
+
+**Rule 1: Always include 1 STARCHY ANCHOR**
+Potato, sweet potato, parsnip, or butternut squash. This is the binder — it gives the blended soup body and makes everything cohesive instead of watery. Without it, a multi-vegetable soup often turns thin and separated.
+
+**Rule 2: Stay within a COLOR FAMILY**
+Blending across color groups (e.g., carrot + broccoli + beet) produces a brown, unappetizing color even if it tastes fine. Pick your vegetables from one group for a soup that looks as good as it tastes.
+
+### Color Families — Pick All Your Vegetables From One
+
+**Orange Family** — warm, sweet, hearty
+Carrot · butternut squash · sweet potato · red lentils · parsnip
+
+*Example combo*: carrot + sweet potato + butternut squash + parsnip → Curry or Ginger+Citrus spice profile
+
+---
+
+**White/Cream Family** — mild, silky, neutral
+Cauliflower · russet potato · parsnip · celeriac · leek · white onion
+
+*Example combo*: cauliflower + potato + leek + parsnip → Garlic Butter or Classic spice profile
+
+---
+
+**Green Family** — fresh, vegetal, bright
+Broccoli · zucchini · frozen peas · spinach · celery · green onion
+
+*Example combo*: broccoli + zucchini + peas + celery → Classic or Garlic Butter; finish with lemon
+
+---
+
+**Red/Tomato Family** — tangy, acidic, rich
+Roma tomatoes · red bell pepper · canned diced tomatoes
+
+*Example combo*: fresh tomatoes + red bell pepper + onion + garlic → Italian/Herb or Smoky/Paprika spice profile
+
+---
+
+### Multi-Veg Ratio Rule
+```
+Total vegetables = ~2–2.5 lbs
+  → 30–40% STARCHY ANCHOR (potato, sweet potato, parsnip, squash)
+  → 60–70% the rest of your color family
+
+Liquid = 5–6 cups broth (slightly more than single-veg — diverse veg absorbs more)
+```
+
+### The "Everything from the Fridge" Approach
+If you have odds and ends — half a zucchini, a few carrots, some cauliflower florets — sort them into which color family dominates, add a potato regardless, and pick the spice profile that fits. This is the French **potage** method: no precise recipe, just whatever's available boiled together with an aromatic base and a flavor direction.
 
 ---
 
