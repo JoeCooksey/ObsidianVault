@@ -8,6 +8,20 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-26 — Autoresearch: Paul Saladino Oats & Vegetables — 9 claims evaluated; 2 hold (mycotoxins, glyphosate in conventional oats); 7 overstated/inverted; 786k-person meta-analysis: whole grains = 17% lower all-cause mortality; FDA-backed oat beta-glucan health claim; 3 pages created
+
+## Key Recent Facts
+
+### Paul Saladino — Oats & Vegetables Claims — newest autoresearch
+- **Saladino's 2 legitimate claims**: (1) Mycotoxins — DON detected in 70–82% of commercial oat samples; ZEN in 52%; aflatoxins in 61% (2024 study, n=615). (2) Glyphosate — detected in ~48% of conventional oat samples. Both are real. Both are mitigated by certified organic oats, not oat elimination.
+- **7 claims that don't hold**: Phytic acid (meal-specific mineral binding; not systemic; clinically irrelevant on varied diet); saponins (no human evidence of gut harm; cholesterol-lowering benefits documented); lectins (cooked oat lectins — zero convincing human evidence of gut damage); oxalates (kale is 57× LESS than spinach — 17 vs 970 mg/100g; Saladino conflates all vegetables with spinach risk); isothiocyanates harm thyroid (two RCTs using high-concentration broccoli sprout extract: zero thyroid effect even in autoimmune thyroid patients; cruciferous veg reduce thyroid cancer risk); polyphenols as hormone disruptors (inverted — polyphenols are PROTECTIVE against endocrine disrupting chemicals per multiple PMC meta-analyses); phytosterols accelerating heart disease (legitimate concern for high-dose fortified supplements; not for whole food vegetables).
+- **What Saladino ignores about oats**: 3g beta-glucan/day → 4–15% LDL reduction (58 RCTs, 3,974 participants); FDA-approved CVD health claim. Prebiotic: feeds Lactobacillus/Bifidobacterium. Butyrate precursor. Blood sugar regulation.
+- **Population data verdict**: Meta-analysis, 786,076 participants — highest whole grain intake vs. lowest: 17% lower all-cause mortality, 25% lower CVD mortality, 6% lower cancer mortality. This is the largest-scale signal and it overwhelmingly favors whole grains.
+- **Saladino's own n=1 self-correction**: After ~5 years strict carnivore: testosterone dropped to ~500 ng/dL, sleep deterioration, heart palpitations. Adding fruit/honey: testosterone rose to ~800 ng/dL. Now eats ~300g/day carbs from fruit. He essentially refuted his own most extreme claims through personal experiment.
+- **Nuanced verdicts**: Spinach oxalates ARE a real concern for kidney stone-prone individuals (moderation, boiling, pair with calcium). Phytosterol-supplement cardiovascular debate IS scientifically live — the German Cardiac Society called for more RCTs. These are legitimate nuances within the broader picture.
+- **Pages created**: [[Paul-Saladino-Oats-Vegetables-Claims]] (complete 9-claim scorecard + evidence), [[Paul Saladino]] (entity profile), [[Antinutrients-Plant-Defense-Compounds]] (reference: 7 compound classes, harms, benefits, mitigation)
+
+## Last Updated (previous)
 2026-05-26 — Autoresearch: Windows to Linux Complete Guide — Linux Mint S-tier recommendation; 80%+ Steam gaming compatibility via Proton; software gap is the real blocker (Adobe/Office have no native clients); dual-boot via Rufus + GRUB; AMD GPU best choice; 50% less RAM needed; 3 pages created
 
 ## Key Recent Facts
