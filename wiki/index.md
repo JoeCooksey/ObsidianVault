@@ -44,6 +44,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Operating Systems / Tech Decisions
 - [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
+- [[Pop-OS-Dual-Boot-Setup-Guide]] — full dual-boot guide for gaming PC + Nvidia GPU: Windows prep, Rufus USB, BIOS setup, partition, install, first boot, CS2 + RuneLite gaming setup, troubleshooting checklist (complete)
 - [[Linux-Distros-for-Windows-Switchers]] — tier list: Linux Mint (S-tier most switchers), Zorin OS, Ubuntu, Pop!_OS, Fedora; desktop environment comparison; decision matrix (developing)
 - [[Linux-Software-Alternatives]] — app-by-app replacement table: Office → LibreOffice/OnlyOffice; Adobe → GIMP/Darktable/Inkscape/DaVinci Resolve; gaming via Steam Proton; EE tools on Linux (developing)
 
