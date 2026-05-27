@@ -229,6 +229,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Gut Health Foods Tier List]] — S–F ranking of foods by microbiome impact: kefir/kimchi/Jerusalem artichoke S-tier; fermented vs prebiotic vs polyphenol vs omega-3 mechanisms; daily protocol; 30-plant-foods/week rule (developing)
 - [[Gut Microbiome Fundamentals]] — core science: Bifidobacterium/Lactobacillus/Akkermansia roles; SCFA pathway diagram; dysbiosis causes; rebuilding timeline; gut-brain axis; probiotic food vs supplement comparison (developing)
 
+### Diet Science / Nutrition Research
+- [[Paul-Saladino-Oats-Vegetables-Claims]] — 9-claim evidence review: oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) + vegetables (oxalates, isothiocyanates, polyphenols, phytosterols); 2 of 9 claims hold; scorecard included (complete)
+- [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
+
 ### Food / Nutrition Tier Lists
 - [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
 - [[Food Health Tier List — Vegetables]] — CDC Powerhouse scores; cruciferous cancer-protection hierarchy; 100/100 watercress (developing)
