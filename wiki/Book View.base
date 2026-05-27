@@ -1,0 +1,14 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "wiki/books"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageAspectRatio: 1.4
+    cardSize: 230
