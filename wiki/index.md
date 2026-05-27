@@ -370,6 +370,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - YouTube Channels and Learning Media]] — 8 key findings; S-tier channel/documentary/film rankings; Joe-specific watch order for EE track; 5 open questions (developing)
 - [[Research - Programming in the AI Era]] — 8 key findings; Python still the dominant AI-era language; 5-phase AI-native learning roadmap; skills AI can't replace; best 2026 tool combo (developing)
 - [[Research - Bulking vs Cutting Body Composition Guide]] — bulk/cut/recomp decision tree; FFMI targets at 5'9"; Joe-specific calorie math; muscle gain timelines (developing)
+- [[Research - Costco Vegetable Soups Guide]] — 8 key findings; 7 recipes, Costco ingredient prices, technique rules, cost-per-serving math; full pantry setup guide (complete)
 - [[Research - Gut Health Foods]] — 8 key findings; ZOE/Nature 2025 (n=34,000+), Stanford fermented-food RCT, prebiotic top-5 ranking, polyphenol zonulin data, omega-3 dysbiosis reversal; 5 open questions (complete)
 - [[Research - Consumer Purchase Value Guide]] — worth-it/not-worth-it across 5 price tiers; 10 category breakdowns; 7 meta-principles; daily-use cost math (complete)
 - [[Research - Financial Literacy Roadmap]] — 8 key findings; 5-phase roadmap; FOO sequence; Roth IRA at 19 math; index fund fee table; credit score 4-step path; Joe-specific action plan; 40-year compound table (developing)
