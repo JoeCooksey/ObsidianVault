@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-26] autoresearch | Paul Saladino: Oats & Vegetables Claims — Evidence Review
+- Pages created: 3
+- Created: [[Paul-Saladino-Oats-Vegetables-Claims]], [[Paul Saladino]], [[Antinutrients-Plant-Defense-Compounds]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Wiki Hot Cache]]
+- Evaluated 9 specific claims across oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) and vegetables (oxalates, isothiocyanates, polyphenols, phytosterols). 2 of 9 hold (mycotoxin and glyphosate contamination — real but mitigated by organic). Meta-analysis of 786k people: whole grains → 17% lower all-cause mortality. Oat beta-glucan has FDA-approved LDL-lowering claim backed by 58 RCTs.
+
 ## [2026-05-26] manual | Pop!_OS Dual Boot Setup Guide
 - Pages created: 1
 - Created: [[Pop-OS-Dual-Boot-Setup-Guide]]
