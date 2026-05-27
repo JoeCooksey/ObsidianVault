@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-27] autoresearch | Costco Vegetable Soups Guide — 7 Recipes + Ingredient Master List
+- Pages created: 3
+- Created: [[Costco Vegetable Soup Recipes]], [[Costco Pantry for Homemade Soup]], [[Research - Costco Vegetable Soups Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]], [[Wiki Hot Cache]]
+- 7 soup recipes buildable from Costco produce + spices only: Classic Vegetable, Roasted Tomato Basil, French Onion, Minestrone, Curried Lentil, Quick Frozen-Veg, Mushroom Garlic. Full ingredient master list with prices. Key techniques: bloom spices in oil, sear mushrooms, caramelize onions 40+ min. Cost ~$0.75–1.50/serving.
+
 ## [2026-05-27] manual | Linux Mint vs Zorin vs Pop!_OS — Comparison and Dual Boot Guide
 - Pages created: 1
 - Created: [[Linux-Mint-vs-Zorin-vs-PopOS-Guide]]
