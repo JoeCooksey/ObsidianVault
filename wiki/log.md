@@ -11,17 +11,22 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
-<<<<<<< HEAD
+## [2026-05-27] manual | Linux Mint vs Zorin vs Pop!_OS — Comparison and Dual Boot Guide
+- Pages created: 1
+- Created: [[Linux-Mint-vs-Zorin-vs-PopOS-Guide]]
+- Updated: [[Wiki Index]], [[Wiki Log]]
+- Detailed pros/cons of all three distros; Linux Mint recommended (free, largest community, most Windows-like, no Snap); full Windows 11 dual-boot guide: BitLocker prep, Fast Startup disable, Disk Management shrink, Rufus USB, BIOS Secure Boot, installer walkthrough, GRUB, post-install checklist
+
+## [2026-05-27] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
+## [2026-05-27] newsletter | EE Daily — May 27, 2026
+Broadcom AI chip revenue surges 106% YoY to $8.4B as custom ASICs displace GPUs; Moore4Power €91M EU project launches heterogeneous Si/SiC/GaN integration; IBM achieves 10× QEC decoding speedup; Google Willow Quantum Echoes runs 13,000× faster than classical supercomputers; FMCW silicon photonics LiDAR enters volume production; 2D ferroelectric semiconductors enable logic-in-memory at atomic thickness; daily topic: Quantum Error Correction from surface codes to QLDPC.
+
 ## [2026-05-26] autoresearch | Paul Saladino: Oats & Vegetables Claims — Evidence Review
 - Pages created: 3
 - Created: [[Paul-Saladino-Oats-Vegetables-Claims]], [[Paul Saladino]], [[Antinutrients-Plant-Defense-Compounds]]
 - Updated: [[Wiki Index]], [[Wiki Log]], [[Wiki Hot Cache]]
 - Evaluated 9 specific claims across oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) and vegetables (oxalates, isothiocyanates, polyphenols, phytosterols). 2 of 9 hold (mycotoxin and glyphosate contamination — real but mitigated by organic). Meta-analysis of 786k people: whole grains → 17% lower all-cause mortality. Oat beta-glucan has FDA-approved LDL-lowering claim backed by 58 RCTs.
-=======
-## [2026-05-27] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
-## [2026-05-27] newsletter | EE Daily — May 27, 2026
-Broadcom AI chip revenue surges 106% YoY to $8.4B as custom ASICs displace GPUs; Moore4Power €91M EU project launches heterogeneous Si/SiC/GaN integration; IBM achieves 10× QEC decoding speedup; Google Willow Quantum Echoes runs 13,000× faster than classical supercomputers; FMCW silicon photonics LiDAR enters volume production; 2D ferroelectric semiconductors enable logic-in-memory at atomic thickness; daily topic: Quantum Error Correction from surface codes to QLDPC.
->>>>>>> origin/main
 
 ## [2026-05-26] manual | Pop!_OS Dual Boot Setup Guide
 - Pages created: 1
