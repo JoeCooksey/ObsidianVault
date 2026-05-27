@@ -11,6 +11,8 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-27] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-05-26] manual | Pop!_OS Dual Boot Setup Guide
 - Pages created: 1
 - Created: [[Pop-OS-Dual-Boot-Setup-Guide]]
