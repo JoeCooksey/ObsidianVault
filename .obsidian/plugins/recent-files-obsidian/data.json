@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "EE-Software-on-Linux-Mint",
-      "path": "wiki/concepts/EE-Software-on-Linux-Mint.md"
+      "basename": "2026-05-28-ee-daily",
+      "path": "wiki/newsletters/2026-05-28-ee-daily.md"
+    },
+    {
+      "basename": "News Debrief 2026-05-28",
+      "path": "wiki/news/News Debrief 2026-05-28.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "EE-Software-on-Linux-Mint",
+      "path": "wiki/concepts/EE-Software-on-Linux-Mint.md"
     },
     {
       "basename": "Cinnamon-Customization-ItsFoss",
@@ -191,14 +199,6 @@
     {
       "basename": "News Debrief 2026-05-25",
       "path": "wiki/news/News Debrief 2026-05-25.md"
-    },
-    {
-      "basename": "2026-05-25-ee-daily",
-      "path": "wiki/newsletters/2026-05-25-ee-daily.md"
-    },
-    {
-      "basename": "AI Skills Roadmap for Electrical Engineers",
-      "path": "wiki/concepts/AI Skills Roadmap for Electrical Engineers.md"
     }
   ],
   "omittedPaths": [],

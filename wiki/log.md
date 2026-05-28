@@ -11,6 +11,19 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-28] autoresearch | Stock Buy/Sell Factors and Quant Finance
+- Rounds: 2 | Searches: 6 | WebFetch: 1
+- Sources found: Renaissance/Wikipedia, Ed Thorp/Wikipedia, 2024 hedge-fund returns (Fortune/P&I/II), S&P SPIVA
+- Pages created (15): [[Research - Stock Buy-Sell Factors and Quant Finance]] (synthesis); concepts [[Fundamental Analysis Valuation Metrics]], [[Technical Analysis Indicators]], [[Position Sizing and Risk Management]], [[Sell Discipline (When to Sell a Stock)]], [[Statistical Arbitrage]], [[Quantitative Trading]]; entities [[Jim Simons]], [[Renaissance Technologies]], [[Ed Thorp]], [[D.E. Shaw]]; sources [[Renaissance Technologies — Wikipedia]], [[Edward O. Thorp — Wikipedia]], [[2024 Hedge Fund Returns Reporting]], [[SPIVA Scorecard — Active vs Index]]
+- Synthesis: [[Research - Stock Buy-Sell Factors and Quant Finance]]
+- Key finding: Stock decisions decompose into 4 factors (fundamentals/timing/sizing/sell-rules); a few quants (Medallion ~39% net since 1988, Thorp ~20% net 2 decades) genuinely win but edges decay and are inaccessible, while ~90% of active managers lose to the index — the discipline transfers, the signals don't.
+
+## [2026-05-28] manual | EE Linux Tools — Usage Guide
+- Pages created: 1 ([[EE-Linux-Tools-Usage-Guide]] in concepts/)
+- Trigger: Joe finished installing the EE Python+system stack on Mint 22.2 and asked for a "how to run each" guide
+- Content: per-tool what-it-does + how-to-run + copy-paste "try this" (control Bode plot, ngspice RC sweep, iverilog+gtkwave blinker, octave, PyVISA, git); venv-activation rule; paste-wrap-trap workaround (use a file); one-screen cheat sheet
+- Cross-linked from [[EE-Software-on-Linux-Mint]] (install ↔ usage pair)
+
 ## [2026-05-28] autoresearch | EE Software on Linux Mint
 - Rounds: 2 | Searches: 3 | Fetches: 1
 - Pages created: [[Research - EE Software on Linux Mint]] (synthesis), [[EE-Software-on-Linux-Mint]] (concept), [[KiCad-Official-Linux-Install]] (source); cross-ref edits into [[EE Software and Lab Tools Complete Stack]] + [[Linux-Software-Alternatives]]

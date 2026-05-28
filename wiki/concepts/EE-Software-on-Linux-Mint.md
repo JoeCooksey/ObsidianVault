@@ -14,6 +14,7 @@ tags:
   - fpga
   - open-source
 related:
+  - "[[EE-Linux-Tools-Usage-Guide]]"
   - "[[EE Software and Lab Tools Complete Stack]]"
   - "[[Linux-Software-Alternatives]]"
   - "[[Linux-Mint-Fresh-Install-Essential-Apps]]"
@@ -24,6 +25,8 @@ related:
 # EE Software on Linux Mint — Install Guide
 
 What to actually install for electrical-engineering work on a fresh **Linux Mint** box, and which tools run natively vs need a workaround. This is the Mint-specific companion to the platform-agnostic [[EE Software and Lab Tools Complete Stack]]. For the broad Windows→Linux mapping, see [[Linux-Software-Alternatives]].
+
+➡️ **Already installed the stack? See [[EE-Linux-Tools-Usage-Guide]]** for how to *run* each tool, with copy-paste "try this" examples.
 
 > [!tip] Headline: Linux is *good* for EE
 > KiCad, the Python/SciPy stack, the FPGA HDL toolchain, and the major vendor IDEs (STM32CubeIDE, Vivado, Quartus) all run natively on Linux. The one real gap is **LTSpice**, which still needs Wine. (Source: [[Research - EE Software on Linux Mint]])

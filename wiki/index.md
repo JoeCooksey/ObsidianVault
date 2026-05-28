@@ -42,6 +42,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Wolfspeed]] — largest SiC wafer manufacturer; 62% market share (2025)
 - [[STMicroelectronics SiC]] — Tesla Model 3 SiC supplier; automotive SiC leader
 - [[Paul Saladino]] — "Carnivore MD" (MD); *The Carnivore Code* author; animal-based diet advocate; quit strict carnivore after testosterone/sleep problems; 2 of 9 anti-plant claims hold up
+- [[Jim Simons]] — mathematician & founder of Renaissance Technologies; "Quant King"; Medallion ~39% net since 1988; best risk-adjusted record in finance; d. 2024
+- [[Renaissance Technologies]] — quant hedge fund (Simons, 1978); Medallion ~39% net, 5/44 fees, closed to outsiders since 1993, capped small; $7B IRS settlement (2021)
+- [[Ed Thorp]] — "godfather of quants"; beat blackjack (*Beat the Dealer*) then markets; invented statistical arbitrage; PNP ~20% net for 2 decades, no down quarter
+- [[D.E. Shaw]] — quant firm (David Shaw, 1988); where Jeff Bezos worked; ~22%/yr 1988–2000; 2024 #1 hedge fund by $ ($11.1B, Oculus +36%)
 
 ## Concepts
 
@@ -54,7 +58,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Linux-Mint-Cinnamon-Customization-Guide]] — make Mint look nice: 4-layer model (Themes/Applets/Desklets/Extensions), Mint-Y + accent, Papirus icons, Orchis/WhiteSur themes, fonts/panel, Plank+ULauncher+Conky ricing (developing)
 - [[Linux-Mint-Fresh-Install-Essential-Apps]] — what FOSS to install on a fresh Mint setup: system (Timeshift/Synaptic), creative (GIMP/Inkscape/Krita/Kdenlive), utilities (Flameshot/qBittorrent/OBS); install-method preference order (developing)
 - [[Research - Linux Mint Customization and Software]] — synthesis: highest-impact = Mint-Y Dark + Papirus; vinceliuice themes; dropped fabricated theme names from one SEO source (developing)
-- [[EE-Software-on-Linux-Mint]] — EE tools on Mint: native-vs-Wine table, KiCad 10 PPA, ngspice/Xyce (LTSpice=Wine, QSPICE=Windows-only), Vivado/Quartus native, STM32CubeIDE, `dialout` serial fix, day-one apt one-liner (developing)
+- [[EE-Software-on-Linux-Mint]] — EE tools on Mint: native-vs-Wine table, KiCad 10 PPA, ngspice/Xyce (LTSpice=Wine, QSPICE=Windows-only), Vivado/Quartus native, STM32CubeIDE, `dialout` serial fix, day-one apt one-liner; PEP 668 venv fix (developing)
+- [[EE-Linux-Tools-Usage-Guide]] — how to RUN each installed EE tool: control/ngspice/iverilog+gtkwave/verilator/octave/PyVISA/cocotb/git with copy-paste "try this" examples; venv rule; paste-wrap-trap fix; one-screen cheat sheet (developing)
 - [[Research - EE Software on Linux Mint]] — synthesis: Linux is a strong EE platform; only LTSpice needs Wine; KiCad 10 current; Vivado+Quartus native; QSPICE dead-end on Linux (developing)
 
 ### AI / Multi-Agent Systems
@@ -215,6 +220,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Index Fund Investing]] — why index funds beat 92% of active managers; fund guide (VTI/FXAIX/VTWAX); expense ratio math; DCA; Roth IRA setup steps; compound interest table by age (developing)
 - [[Credit Score Building]] — FICO breakdown (35% payment history, 30% utilization); 4-step path from 0 to 750+; secured card strategy; authorized user hack; milestones by age (developing)
 
+### Stocks / Investing & Quant Finance
+- [[Fundamental Analysis Valuation Metrics]] — what to own & at what price: P/E (vs history/peers/market), PEG, P/B, P/S, FCF yield; moat/debt/management; value traps; no ratio alone (developing)
+- [[Technical Analysis Indicators]] — when to act: moving averages (50/200), RSI 70/30, MACD, support/resistance, volume; timing tool, weak standalone edge after costs (developing)
+- [[Position Sizing and Risk Management]] — how much to risk: 1–2% per trade, pre-set stops, diversification, risk-based sizing, Kelly criterion; most blow-ups are sizing failures (developing)
+- [[Sell Discipline (When to Sell a Stock)]] — when to exit: thesis break / target hit / rebalance / defensive / cash need; "price dropped" is the worst & most common reason; disposition effect (developing)
+- [[Quantitative Trading]] — math/data/code vs gut; strategy families (stat arb, mean reversion, momentum, factor, HFT); do quants win? a few do, ~90% of active lose to index (developing)
+- [[Statistical Arbitrage]] — Thorp-invented; trade tiny mispricings between related securities market-neutral at scale via law of large numbers; edges decay as discovered (developing)
+
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
 - [[Reading Retention Methods]] — active recall, spaced repetition, Feynman Technique, SQ3R, Mortimer Adler 4 levels, progressive summarization; Readwise integration; protocol for Joe (developing)
@@ -312,6 +325,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Finance / Quant
+- [[Renaissance Technologies — Wikipedia]] — Medallion returns (~71.8% gross / 39% net), 5/44 fees, history, $7B IRS settlement (high confidence)
+- [[Edward O. Thorp — Wikipedia]] — origin of statistical arbitrage; PNP ~20% net no down quarter; Ridgeline wound down 2002 as edge crowded out (high confidence)
+- [[2024 Hedge Fund Returns Reporting]] — Fortune/P&I/Institutional Investor (Jan 2025); D.E. Shaw / Citadel / Millennium 2024 figures (medium — self-reported)
+- [[SPIVA Scorecard — Active vs Index]] — S&P Dow Jones Indices (2025); ~90% of active managers underperform over 15 years (high confidence)
+
 ### Books
 - [[The 7 Habits of Highly Effective People - Stephen Covey]] — Covey (1989); Maturity Continuum, P/PC Balance, Time Management Matrix, Empathic Listening, Synergy; ⭐⭐⭐⭐⭐
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
@@ -384,6 +403,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Gut Health Foods]] — 8 key findings; ZOE/Nature 2025 (n=34,000+), Stanford fermented-food RCT, prebiotic top-5 ranking, polyphenol zonulin data, omega-3 dysbiosis reversal; 5 open questions (complete)
 - [[Research - Consumer Purchase Value Guide]] — worth-it/not-worth-it across 5 price tiers; 10 category breakdowns; 7 meta-principles; daily-use cost math (complete)
 - [[Research - Financial Literacy Roadmap]] — 8 key findings; 5-phase roadmap; FOO sequence; Roth IRA at 19 math; index fund fee table; credit score 4-step path; Joe-specific action plan; 40-year compound table (developing)
+- [[Research - Stock Buy-Sell Factors and Quant Finance]] — 4-factor stock decision model (fundamentals/timing/sizing/sell-rules); quant pioneers (Simons, Thorp, D.E. Shaw) + their algorithms + verified track records; why ~90% of active lose to index and edges decay (developing)
 - [[Research - Zero Cost Computer Skills]] — 8 key findings; S–C tier list; touch typing, Python, Git, LTSpice S-tier; free resource links per skill; Joe start-today action stack (complete)
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
