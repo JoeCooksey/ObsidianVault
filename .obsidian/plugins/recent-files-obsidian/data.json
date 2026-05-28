@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Supplement Timing Rules",
-      "path": "wiki/concepts/Supplement Timing Rules.md"
-    },
-    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Cinnamon-Customization-ItsFoss",
+      "path": "wiki/sources/Cinnamon-Customization-ItsFoss.md"
+    },
+    {
+      "basename": "Linux-Mint-Fresh-Install-Essential-Apps",
+      "path": "wiki/concepts/Linux-Mint-Fresh-Install-Essential-Apps.md"
+    },
+    {
+      "basename": "Costco Vegetable Soup Recipes",
+      "path": "wiki/concepts/Costco Vegetable Soup Recipes.md"
+    },
+    {
+      "basename": "Supplement Timing Rules",
+      "path": "wiki/concepts/Supplement Timing Rules.md"
     },
     {
       "basename": "Research - Joe's Supplement Stack Audit",
@@ -51,10 +63,6 @@
     {
       "basename": "Linux-Mint-vs-Zorin-vs-PopOS-Guide",
       "path": "wiki/concepts/Linux-Mint-vs-Zorin-vs-PopOS-Guide.md"
-    },
-    {
-      "basename": "Costco Vegetable Soup Recipes",
-      "path": "wiki/concepts/Costco Vegetable Soup Recipes.md"
     },
     {
       "basename": "Research - Costco Vegetable Soups Guide",
@@ -191,14 +199,6 @@
     {
       "basename": "AI Applications in Electrical Engineering",
       "path": "wiki/concepts/AI Applications in Electrical Engineering.md"
-    },
-    {
-      "basename": "Python EE Project Ladder",
-      "path": "wiki/concepts/Python EE Project Ladder.md"
-    },
-    {
-      "basename": "EE Complete Mastery Roadmap",
-      "path": "wiki/concepts/EE Complete Mastery Roadmap.md"
     }
   ],
   "omittedPaths": [],

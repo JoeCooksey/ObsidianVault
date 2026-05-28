@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-05-26T00:00:00
+updated: 2026-05-28T00:00:00
 tags:
   - meta
 ---
@@ -51,6 +51,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Linux-Distros-for-Windows-Switchers]] — tier list: Linux Mint (S-tier most switchers), Zorin OS, Ubuntu, Pop!_OS, Fedora; desktop environment comparison; decision matrix (developing)
 - [[Linux-Mint-vs-Zorin-vs-PopOS-Guide]] — detailed pros/cons comparison; Linux Mint recommended; full Windows 11 dual-boot guide: BitLocker prep, partition shrink, Rufus, BIOS, GRUB, post-install (complete)
 - [[Linux-Software-Alternatives]] — app-by-app replacement table: Office → LibreOffice/OnlyOffice; Adobe → GIMP/Darktable/Inkscape/DaVinci Resolve; gaming via Steam Proton; EE tools on Linux (developing)
+- [[Linux-Mint-Cinnamon-Customization-Guide]] — make Mint look nice: 4-layer model (Themes/Applets/Desklets/Extensions), Mint-Y + accent, Papirus icons, Orchis/WhiteSur themes, fonts/panel, Plank+ULauncher+Conky ricing (developing)
+- [[Linux-Mint-Fresh-Install-Essential-Apps]] — what FOSS to install on a fresh Mint setup: system (Timeshift/Synaptic), creative (GIMP/Inkscape/Krita/Kdenlive), utilities (Flameshot/qBittorrent/OBS); install-method preference order (developing)
+- [[Research - Linux Mint Customization and Software]] — synthesis: highest-impact = Mint-Y Dark + Papirus; vinceliuice themes; dropped fabricated theme names from one SEO source (developing)
 
 ### AI / Multi-Agent Systems
 - [[Multi-Agent Development Team]] — 5-role agent team: PM → Architect → Engineer → QA → Reviewer; 3 human-in-the-loop gates; prompt-to-project pipeline (developing)

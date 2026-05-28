@@ -1,16 +1,27 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-04-28T00:00:00
+updated: 2026-05-28T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
-2026-05-28 — Autoresearch: Joe's Supplement Stack Audit — one real timing error (Bacopa fasted → fat-soluble, causes nausea + poor absorption, move to after-breakfast); fat-soluble after-breakfast block and bedtime sleep stack both correctly placed; L-tyrosine/L-theanine fine with black coffee but not protein; alpha-GPC daytime = correct; zinc is the main gap; Lion's Mane/astaxanthin are trim candidates; 2 pages created
+2026-05-28 — Autoresearch: Linux Mint Customization & Software — Joe just installed Mint (Cinnamon). Highest-impact zero-risk move = Mint-Y Dark + accent color, then Papirus icons (PPA). Cinnamon = 4-layer model (Themes/Applets-panel/Desklets-desktop/Extensions), all in System Settings, installable from official Cinnamon Spices repo. Deeper themes: vinceliuice Orchis (Material) & WhiteSur (macOS). Ricing: Plank dock + ULauncher + Conky. Timeshift snapshot before theming. Dropped fabricated theme names from one SEO domain. 5 pages created.
 
 ## Key Recent Facts
+
+### Linux Mint Customization — newest autoresearch
+- Joe is on **Linux Mint Cinnamon** (fresh install). Two how-to pages: [[Linux-Mint-Cinnamon-Customization-Guide]] (looks) + [[Linux-Mint-Fresh-Install-Essential-Apps]] (software); synthesis [[Research - Linux Mint Customization and Software]]
+- **Fastest win**: System Settings → Themes → Mint-Y Dark + pick accent color. Then **Papirus** icons via `ppa:papirus/papirus` (auto-updates)
+- Cinnamon vocabulary: **Applets** = panel widgets, **Desklets** = desktop widgets, **Extensions** = effects, **Themes** = borders/icons/controls/pointer/desktop. Install all from in-app Cinnamon Spices — no terminal needed
+- Top downloadable themes by **vinceliuice**: Orchis (Material Design) + WhiteSur (macOS Big Sur); both gtk2/3/4+Cinnamon. GTK4 apps need `~/.themes/<T>/gtk-4.0/` → `~/.config/gtk-4.0/`. Manual themes → `~/.themes`, icons → `~/.icons`
+- Ricing tools: **Plank** (icon dock, macOS zoom), **ULauncher** (Spotlight-style), **Conky**/Conky Manager (desktop system monitor). Add Plank/ULauncher to Startup Applications
+- App additions (Mint already has LibreOffice/Firefox/Thunderbird/Timeshift): VLC, GIMP, Inkscape, Krita, Kdenlive/Shotcut, Flameshot, qBittorrent, OBS, OnlyOffice, Bottles/Wine. Install order: Software Manager → Flatpak → apt/PPA → AppImage
+- **Open Q**: which Cinnamon version (module labels assume 6.x/Mint 22.x); Nvidia GPU + gaming intentionally scoped out
+
+### Supplement Stack Audit — prior autoresearch
 
 ### Supplement Stack Audit — newest autoresearch
 - **The one real error**: Bacopa monnieri is fat-soluble — taken fasted it absorbs poorly and causes nausea/cramps. Move it to the after-breakfast block with the omega-3/D3/turmeric (matches existing [[Bacopa Monnieri]] page)

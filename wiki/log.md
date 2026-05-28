@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-28] autoresearch | Linux Mint Customization and Recommended Software
+- Rounds: 2 | Searches: 4 | Fetches: 2
+- Pages created: [[Research - Linux Mint Customization and Software]] (synthesis), [[Linux-Mint-Cinnamon-Customization-Guide]] (concept), [[Linux-Mint-Fresh-Install-Essential-Apps]] (concept), [[Cinnamon-Customization-ItsFoss]] (source), [[Best-Icon-Themes-OMG-Ubuntu]] (source)
+- Key finding: Highest-impact zero-risk move is Mint-Y Dark + accent color, then Papirus icons; deeper theming via vinceliuice Orchis/WhiteSur + Plank/ULauncher/Conky. Dropped fabricated theme names ("Kashmir Blue" etc.) from one low-quality SEO domain.
+
 ## [2026-05-28] autoresearch | Joe's Supplement Stack Audit
 - Rounds: 2 | Searches: 9
 - Pages created: [[Research - Joe's Supplement Stack Audit]] (synthesis), [[Supplement Timing Rules]] (concept)
