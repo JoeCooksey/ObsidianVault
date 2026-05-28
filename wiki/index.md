@@ -54,6 +54,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Linux-Mint-Cinnamon-Customization-Guide]] — make Mint look nice: 4-layer model (Themes/Applets/Desklets/Extensions), Mint-Y + accent, Papirus icons, Orchis/WhiteSur themes, fonts/panel, Plank+ULauncher+Conky ricing (developing)
 - [[Linux-Mint-Fresh-Install-Essential-Apps]] — what FOSS to install on a fresh Mint setup: system (Timeshift/Synaptic), creative (GIMP/Inkscape/Krita/Kdenlive), utilities (Flameshot/qBittorrent/OBS); install-method preference order (developing)
 - [[Research - Linux Mint Customization and Software]] — synthesis: highest-impact = Mint-Y Dark + Papirus; vinceliuice themes; dropped fabricated theme names from one SEO source (developing)
+- [[EE-Software-on-Linux-Mint]] — EE tools on Mint: native-vs-Wine table, KiCad 10 PPA, ngspice/Xyce (LTSpice=Wine, QSPICE=Windows-only), Vivado/Quartus native, STM32CubeIDE, `dialout` serial fix, day-one apt one-liner (developing)
+- [[Research - EE Software on Linux Mint]] — synthesis: Linux is a strong EE platform; only LTSpice needs Wine; KiCad 10 current; Vivado+Quartus native; QSPICE dead-end on Linux (developing)
 
 ### AI / Multi-Agent Systems
 - [[Multi-Agent Development Team]] — 5-role agent team: PM → Architect → Engineer → QA → Reviewer; 3 human-in-the-loop gates; prompt-to-project pipeline (developing)

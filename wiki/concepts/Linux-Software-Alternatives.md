@@ -92,7 +92,9 @@ Reference table for Windows software with no native Linux version and their best
 | Wireshark | Native ✅ |
 | Arduino IDE | Native ✅ |
 
-**Key insight for Joe**: Linux is actually *better* for EE development. KiCad, GTKWave, Icarus Verilog, Python simulation stack all work better or equally well. The only EE tool that needs workaround is LTSpice (Wine-based or dual-boot into Windows for simulation-critical work).
+**Key insight for Joe**: Linux is actually *better* for EE development. KiCad, GTKWave, Icarus Verilog, Python simulation stack all work better or equally well. The only EE tool that needs workaround is LTSpice (Wine-based or dual-boot into Windows for simulation-critical work). Note: **QSPICE** (the LTSpice successor) is Windows-only and won't even run under Wine — use **KiCad+ngspice** or **Xyce** for native Linux SPICE.
+
+➡️ Full install guide with exact commands: [[EE-Software-on-Linux-Mint]] (KiCad 10 PPA, native-vs-Wine table, FPGA tools, `dialout` serial fix).
 
 ---
 

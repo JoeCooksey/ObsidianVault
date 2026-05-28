@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-28] autoresearch | EE Software on Linux Mint
+- Rounds: 2 | Searches: 3 | Fetches: 1
+- Pages created: [[Research - EE Software on Linux Mint]] (synthesis), [[EE-Software-on-Linux-Mint]] (concept), [[KiCad-Official-Linux-Install]] (source); cross-ref edits into [[EE Software and Lab Tools Complete Stack]] + [[Linux-Software-Alternatives]]
+- Key finding: Linux is a strong EE platform — KiCad (10, official Mint PPA), Python stack, HDL toolchain, STM32CubeIDE, and Vivado+Quartus all native. Only LTSpice needs Wine; QSPICE is Windows-only and won't run under Wine (use KiCad+ngspice/Xyce native). LMDE breaks KiCad PPA → Flatpak.
+
 ## [2026-05-28] autoresearch | Linux Mint Customization and Recommended Software
 - Rounds: 2 | Searches: 4 | Fetches: 2
 - Pages created: [[Research - Linux Mint Customization and Software]] (synthesis), [[Linux-Mint-Cinnamon-Customization-Guide]] (concept), [[Linux-Mint-Fresh-Install-Essential-Apps]] (concept), [[Cinnamon-Customization-ItsFoss]] (source), [[Best-Icon-Themes-OMG-Ubuntu]] (source)

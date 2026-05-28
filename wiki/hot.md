@@ -8,6 +8,8 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-28 — Autoresearch: EE Software on Linux Mint — Linux is a strong EE platform. KiCad (v10, `ppa:kicad/kicad-10.0-releases`), Python/SciPy, Octave, Icarus Verilog/GTKWave/Verilator, STM32CubeIDE, Arduino, and BOTH Vivado + Quartus = native. Only **LTSpice** needs Wine; **QSPICE** (LTSpice successor) is Windows-only and won't run under Wine → use **KiCad+ngspice** or **Xyce** native. LMDE breaks KiCad PPA → Flatpak. One-time Mint fix: add user to `dialout` group for serial. New pages: [[EE-Software-on-Linux-Mint]] + [[Research - EE Software on Linux Mint]].
+
 2026-05-28 — Autoresearch: Linux Mint Customization & Software — Joe just installed Mint (Cinnamon). Highest-impact zero-risk move = Mint-Y Dark + accent color, then Papirus icons (PPA). Cinnamon = 4-layer model (Themes/Applets-panel/Desklets-desktop/Extensions), all in System Settings, installable from official Cinnamon Spices repo. Deeper themes: vinceliuice Orchis (Material) & WhiteSur (macOS). Ricing: Plank dock + ULauncher + Conky. Timeshift snapshot before theming. Dropped fabricated theme names from one SEO domain. 5 pages created.
 
 ## Key Recent Facts
