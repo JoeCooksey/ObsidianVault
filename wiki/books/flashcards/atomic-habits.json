@@ -7,13 +7,13 @@
       "id": "ah_001",
       "question": "What does 1.01^365 equal, and what does it prove about habits?",
       "answer": "≈37.78. Improving 1% every day for a year makes you 37× better. Conversely, 0.99^365 ≈ 0.03 — you nearly disappear. Tiny daily choices compound dramatically in both directions. This is why systems beat goals: goals end; systems keep compounding.",
-      "box": 1, "interval": 1, "next_review": "2026-05-27", "last_reviewed": null, "repetitions": 0
+      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
     },
     {
       "id": "ah_002",
       "question": "What are the four steps of the Habit Loop, in order?",
       "answer": "Cue → Craving → Response → Reward. All habits follow this neurological cycle. Remove any step and the habit won't form. To build a habit: make the cue obvious, the craving attractive, the response easy, the reward satisfying. To break one: invert each.",
-      "box": 1, "interval": 1, "next_review": "2026-05-27", "last_reviewed": null, "repetitions": 0
+      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
     },
     {
       "id": "ah_003",

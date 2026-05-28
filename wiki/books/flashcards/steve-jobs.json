@@ -7,13 +7,13 @@
       "id": "sv_001",
       "question": "What is the Reality Distortion Field, and what were its costs?",
       "answer": "Jobs's ability to make the impossible seem expected — he could convince any team that 'can't do' was actually achievable. Named after Star Trek by Bud Tribble. It compressed timelines and forced breakthroughs (Mac, iPhone, iPad). Cost: delayed cancer surgery, damaged relationships, created a culture of fear. The RDF was inseparable from his greatness.",
-      "box": 1, "interval": 1, "next_review": "2026-05-27", "last_reviewed": null, "repetitions": 0
+      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
     },
     {
       "id": "sv_002",
       "question": "What is Jobs's principle of Simplicity by Subtraction?",
       "answer": "Simplicity is not removing decoration — it's deeply understanding complexity and eliminating everything extraneous. The iPod had one button. Focus means saying no to a hundred good ideas to say yes to one great one. Radical subtraction often requires more engineering, not less.",
-      "box": 1, "interval": 1, "next_review": "2026-05-27", "last_reviewed": null, "repetitions": 0
+      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
     },
     {
       "id": "sv_003",

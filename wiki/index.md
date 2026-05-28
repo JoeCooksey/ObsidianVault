@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — May 28, 2026]] — AMD EPYC Venice first 2nm HPC CPU in production; Broadcom ASICs 27.8% AI server share; SK Hynix HBM sold out; ferroelectric UWBG Ga₂O₃ MOCVD framework; NVIDIA CPO at 400 Tbps; daily topic: TSMC N2 GAA nanosheet transistors
 - [[EE Daily — May 27, 2026]] — Broadcom AI revenue +106% YoY to $8.4B; Moore4Power €91M heterogeneous Si/SiC/GaN EU project; IBM 10× QEC decoding speedup; Google Willow 13,000× quantum advantage; FMCW silicon photonics LiDAR to volume production; 2D ferroelectric FeFETs for logic-in-memory; daily topic: QEC surface codes vs QLDPC
 - [[EE Daily — May 26, 2026]] — Huawei LogicFolding/Tau Scaling Law 3D chip architecture; GlobalFoundries SCALE OCI MSA CPO platform; Wolfspeed 3.3 kV SiC 42% switching loss improvement; Soitec/NTU 6G GaN record PAE; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; Google AlphaQubit 30% QEC error reduction; daily topic: Tau Scaling Law and LogicFolding — gate-delay math, ILV parasitics, backside power delivery
 - [[EE Daily — May 25, 2026]] — MIT OPA grating-lobe-free LiDAR chip; TSMC N2 GAA volume production; APEC GaN/SiC standouts; OpenLight 400G/lane Si photonics; Microsoft 12-logical-qubit quantum chemistry; daily topic: Optical Phased Arrays

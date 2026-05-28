@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-28] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
+## [2026-05-28] newsletter | EE Daily — May 28, 2026
+AMD EPYC Venice enters 2nm production at TSMC (first 2nm HPC part ever); Broadcom AI ASICs reach 27.8% market share (+106% YoY revenue); SK Hynix HBM fully sold out; ferroelectric κ-Ga₂O₃ MOCVD framework published; NVIDIA CPO hits 400 Tbps; daily topic: TSMC N2 GAA nanosheet transistor technology.
+
 ## [2026-05-27] manual | Boil-and-Blend Soup Formula — Category-Pick System
 - Pages created: 1
 - Created: [[Boil-and-Blend Soup Formula]]

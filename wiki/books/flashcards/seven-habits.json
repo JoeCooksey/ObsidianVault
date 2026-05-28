@@ -7,13 +7,13 @@
       "id": "h7_001",
       "question": "What is the Maturity Continuum, and why does most self-help stop too early?",
       "answer": "Dependence → Independence → Interdependence. Most self-help targets Independence ('I can do it'). But the highest leverage is Interdependence ('we can do it together') — results achievable in collaboration exceed anything an individual can produce alone.",
-      "box": 1, "interval": 1, "next_review": "2026-05-27", "last_reviewed": null, "repetitions": 0
+      "box": 1, "interval": 1, "next_review": "2026-05-28", "last_reviewed": "2026-05-27", "repetitions": 1
     },
     {
       "id": "h7_002",
       "question": "What is the difference between Circle of Concern and Circle of Influence?",
       "answer": "Circle of Concern = everything you worry about. Circle of Influence = what you can actually affect. Proactive people focus energy on their Circle of Influence (which grows as a result). Reactive people drain energy on their Circle of Concern (which stays the same or shrinks).",
-      "box": 1, "interval": 1, "next_review": "2026-05-27", "last_reviewed": null, "repetitions": 0
+      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
     },
     {
       "id": "h7_003",
