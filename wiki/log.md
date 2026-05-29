@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-28] autoresearch | Joe's Supplement Stack Audit
+- Rounds: 2 | Searches: 9
+- Pages created: [[Research - Joe's Supplement Stack Audit]] (synthesis), [[Supplement Timing Rules]] (concept)
+- Key finding: One real timing error — Bacopa is fat-soluble and taken fasted (causes nausea + poor absorption); move to after-breakfast block. Stack otherwise well-built; zinc is the main gap.
+
 ## [2026-05-28] manual | Vegetable Soup Guide — flexible 8-veg one-pot soup
 - Pages created: 1 ([[Vegetable Soup Guide]] in concepts/)
 - Built around Joe's vegetables: celery, broccoli, carrot, onion, bell pepper, spring mix, sweet potato, brussels sprout
