@@ -11,6 +11,19 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] autoresearch | Heterogeneous Integration in Power Electronics
+- Rounds: 1 (gaps low — sources broadly agreed) | Searches: 6 | WebFetch: 6 attempted, 2 succeeded (4× HTTP 403/404 logged below)
+- Sources found: Semiconductor Today (Moore4Power, fetched), Power Electronic Tips (parasitics, fetched); search-synthesis from eenewseurope, New Electronics, Analog Devices/PSMA, Springer JEM 2025, Wolfspeed, eepower, ScienceDirect, MDPI
+- Pages created (11): synthesis [[Research - Heterogeneous Integration in Power Electronics]]; concepts [[Heterogeneous Integration (Power Electronics)]], [[Multi-Chip Power Module Packaging]], [[Common-Source Inductance]], [[Silver Sintering Die-Attach]], [[Power Module Ceramic Substrates]], [[Gate Driver Timing Coordination]]; entities [[Moore4Power]], [[Infineon Technologies]]; sources [[Moore4Power Launch — Semiconductor Today]], [[Parasitic Inductance and Switching — Power Electronic Tips]]
+- Cross-linked into [[Silicon Carbide Power Electronics]], [[Gallium Nitride Power Electronics]], [[Wide Bandgap Semiconductors]], [[WBG Thermal Management]] (See-also back-refs)
+- Fetch failures (logged per egress policy): IEEE HIR 2023 power chapter (404), eepower silver-sintering (403), eepower Si₃N₄ substrates (403), MDPI Electronics WBG thermal (403) — claims rest on search synthesis + 2 fetched primaries; re-ingest flagged in Open Questions
+- Key finding: HI co-packages Si+SiC+GaN so each runs at its sweet spot, but the payoff is bought entirely in interface engineering — CTE-matched die-attach (Ag/Cu sinter), sub-1 nH common-source inductance, ns-matched gate timing, and substrate choice (AlN heat-spread vs Si₃N₄ fatigue-life). Worked calc: 30 A/50 ns through 3 nH L_CS → 1.8 V gate bump; flip-chip 0.8 nH → 0.48 V; −3 V off-bias gives comfortable margin below V_th 2.5 V either way. Moore4Power (€91M, Infineon, 62 partners) is the institutional bet.
+
+## [2026-05-29] newsletter | EE Daily — May 29, 2026
+Moore4Power launches €91M heterogeneous Si/SiC/GaN power integration project (62 partners, 15 EU countries); AMD EPYC Venice enters production on TSMC 2nm (first 2nm HPC part ever); Soitec/NTU Singapore demonstrate >50% GaN PAE at 6G FR3 frequencies; daily topic: Heterogeneous Integration of Si, SiC, and GaN in power modules — CTE mismatch, L_CS, gate drive timing, AlN substrates.
+
+## [2026-05-29] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-05-28] autoresearch | Stock Buy/Sell Factors and Quant Finance
 - Rounds: 2 | Searches: 6 | WebFetch: 1
 - Sources found: Renaissance/Wikipedia, Ed Thorp/Wikipedia, 2024 hedge-fund returns (Fortune/P&I/II), S&P SPIVA
