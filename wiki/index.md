@@ -237,6 +237,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
 
 ### Cooking / Practical Food
+- [[Vegetable Soup Guide]] — flexible one-pot soup built on celery/broccoli/carrot/onion/bell pepper/spring mix/sweet potato/brussels sprout; layer-by-cook-time staging table; 4 spice blends (herb, minestrone, curry, southwest); legume + grain + veg add-ins; ~50 min (stable)
 - [[Master Chunky Vegetable Soup Recipe]] — 11-vegetable one-pot soup (sweet potato, broccoli, brussels sprout, carrot, mushroom, spinach, celery, chickpeas, pepper, onion, garlic); full step-by-step guide; 35 min; covers 8 plant families; meal-prep ready (stable)
 - [[Boil-and-Blend Soup Formula]] — category-pick formula: choose BASE + AROMATICS + SPICE PROFILE + ENRICHER → boil 25 min → blend; 8 quick-reference combinations; thickness guide; fix-it notes (developing)
 - [[Costco Vegetable Soup Recipes]] — 7 soup recipes (Classic Vegetable, Roasted Tomato, French Onion, Minestrone, Curried Lentil, Quick Frozen-Veg, Mushroom Garlic); full instructions + tips; $0.75–1.50/serving (developing)
