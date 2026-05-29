@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] save | Buck Converter — detailed per-phase playbooks
+- Joe asked for more detail per phase ("idk what to do"). Expanded the 7-phase plan into beginner week-by-week walkthroughs.
+- Pages created: [[Buck Project — Phases 0-1 Playbook (Theory and Simulation)]], [[Buck Project — Phases 2-3 Playbook (Power Stage and PCB)]], [[Buck Project — Phases 4-6 Playbook (Bring-up, Firmware, Validation)]]. Linked from [[Project - Digitally Controlled Synchronous Buck Converter]].
+- Each playbook: weekly tasks + exact actions + "deliverable" + "done-when" gate + common beginner mistakes. Key worked numbers: D=0.417, L≈33µH (30% ripple), C≈44µF (<50mV ripple), I_peak=3.45A, LC double-pole f₀≈4.2kHz, crossover≈10kHz, PM≥45°, sample f_s≈f_sw/3, control via Type-III → Tustin discretization → ISR difference equation; SFRA for loop-gain without a Bode 100.
+
 ## [2026-05-29] autoresearch | Buck Converter Build Plan (project spec)
 - Rounds: 1 | Searches: 4 | WebFetch: 0 (search-synthesis + engineering specs sufficient)
 - Joe picked the S-tier deep project (build a power converter end-to-end) and asked for the full plan.

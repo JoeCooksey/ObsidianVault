@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
+      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
+    },
+    {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
       "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "EE Data Science Skills Roadmap",
       "path": "wiki/concepts/EE Data Science Skills Roadmap.md"
-    },
-    {
-      "basename": "Data Science in Electrical Engineering",
-      "path": "wiki/concepts/Data Science in Electrical Engineering.md"
     }
   ],
   "omittedPaths": [],
