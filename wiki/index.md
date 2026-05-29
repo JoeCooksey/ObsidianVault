@@ -384,4 +384,5 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions
 - [[Research - WBG Semiconductors in EV Fast Charging]] — 8 key findings, 5 open questions
 - [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
+- [[Research - Joe's Supplement Stack Audit]] — audit of Joe's ~25-supplement stack: S/A/B/C ranking, timing verdict by block, one real error (Bacopa fasted → move to after-breakfast), zinc gap, low-priority trims (Lion's Mane/astaxanthin) (developing)
 - [[Research - Data Science in Electrical Engineering]] — 8 findings; 8 application domains (predictive maintenance, SCADA/PMU, BMS, renewable forecasting, MCSA, EMC); tool table; 7-project EE-DS ladder; career roles; ASU MS program; 5 open questions (complete)
