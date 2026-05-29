@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] newsletter | EE Daily — May 29, 2026
+Moore4Power launches €91M heterogeneous Si/SiC/GaN power integration project (62 partners, 15 EU countries); AMD EPYC Venice enters production on TSMC 2nm (first 2nm HPC part ever); Soitec/NTU Singapore demonstrate >50% GaN PAE at 6G FR3 frequencies; daily topic: Heterogeneous Integration of Si, SiC, and GaN in power modules — CTE mismatch, L_CS, gate drive timing, AlN substrates.
+
+## [2026-05-29] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-05-28] autoresearch | EE Software on Linux Mint
 - Rounds: 2 | Searches: 3 | Fetches: 1
 - Pages created: [[Research - EE Software on Linux Mint]] (synthesis), [[EE-Software-on-Linux-Mint]] (concept), [[KiCad-Official-Linux-Install]] (source); cross-ref edits into [[EE Software and Lab Tools Complete Stack]] + [[Linux-Software-Alternatives]]
