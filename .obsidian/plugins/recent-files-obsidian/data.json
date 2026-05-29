@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "AI Training Data Work (Online Income)",
-      "path": "wiki/concepts/AI Training Data Work (Online Income).md"
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Compounding Daily Projects Tier List",
+      "path": "wiki/concepts/Compounding Daily Projects Tier List.md"
     },
     {
       "basename": "Online Income Methods Tier List",
       "path": "wiki/concepts/Online Income Methods Tier List.md"
     },
     {
-      "basename": "AI Training Platforms for Coders 2026 — aitrainer.work",
-      "path": "wiki/sources/AI Training Platforms for Coders 2026 — aitrainer.work.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
-    },
-    {
       "basename": "Research - Heterogeneous Integration in Power Electronics",
       "path": "wiki/questions/Research - Heterogeneous Integration in Power Electronics.md"
+    },
+    {
+      "basename": "Side Hustles for College Students 2026 — Upwork",
+      "path": "wiki/sources/Side Hustles for College Students 2026 — Upwork.md"
+    },
+    {
+      "basename": "AI Training Data Work (Online Income)",
+      "path": "wiki/concepts/AI Training Data Work (Online Income).md"
+    },
+    {
+      "basename": "AI Training Platforms for Coders 2026 — aitrainer.work",
+      "path": "wiki/sources/AI Training Platforms for Coders 2026 — aitrainer.work.md"
     },
     {
       "basename": "News Debrief 2026-05-29",
@@ -191,10 +199,6 @@
     {
       "basename": "2026-05-26-ee-daily",
       "path": "wiki/newsletters/2026-05-26-ee-daily.md"
-    },
-    {
-      "basename": "News Debrief 2026-05-26",
-      "path": "wiki/news/News Debrief 2026-05-26.md"
     }
   ],
   "omittedPaths": [],

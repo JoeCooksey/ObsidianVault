@@ -47,6 +47,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Renaissance Technologies]] — quant hedge fund (Simons, 1978); Medallion ~39% net, 5/44 fees, closed to outsiders since 1993, capped small; $7B IRS settlement (2021)
 - [[Ed Thorp]] — "godfather of quants"; beat blackjack (*Beat the Dealer*) then markets; invented statistical arbitrage; PNP ~20% net for 2 decades, no down quarter
 - [[D.E. Shaw]] — quant firm (David Shaw, 1988); where Jeff Bezos worked; ~22%/yr 1988–2000; 2024 #1 hedge fund by $ ($11.1B, Oculus +36%)
+- [[Naval Ravikant]] — AngelList co-founder; *Almanack* (2020); four-leverage framework, permissionless code/media, specific knowledge, "earn with your mind not your time"
 
 ## Concepts
 
@@ -298,6 +299,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
+### Compounding / Long-Term Daily Projects
+- [[Deep-Work Compounding Projects Tier List]] — full-focus companion list (difficulty is the point); S-tier = build a power converter end-to-end, RISC-V CPU on FPGA, reproduce-a-paper/FURI research; ranking = focus intensity × hard-skill × trajectory fit × terminal artifact; sustain via 60–120 min daily deep block (developing)
+- [[Deep Work]] — Newport: distraction-free concentration at cognitive limit; High-Quality Work = Time × Intensity of Focus; two core abilities; rare-and-valuable; trainable/compounding; 4 scheduling philosophies (developing)
+- [[Compounding Daily Projects Tier List]] — S–C ranked menu of long-term projects to work on daily for Joe (WBG→LLNL/Sandia); S-tier = GitHub build-in-public log, second-brain vault, automated index DCA; ranking lens = durability × leverage type × trajectory fit × low activation energy (developing)
+- [[Compound Time (5-Hour Rule)]] — compound vs linear time; 1 hr/day; 15 min/day = 312 hr over 5 yr; six compounding activities; deliberate practice (developing)
+- [[Permissionless Leverage]] — Naval's four leverages (labor/capital/code/media); code+media need no gatekeeper; specific knowledge; productize yourself; long-term games (developing)
+- [[Building in Public]] — daily work = career reputation; 1 merged PR > 5 solo clones; visible portfolio; quality over quantity; README rule (developing)
+- [[Sustainable Daily Practice (Streak Design)]] — keep a daily project alive for years: 5–15 min floor, flexible output, identity over perfection, kill start-up friction, recovery (developing)
+
 ### Income / Career Tier Lists
 - [[High Income Skills Tier List]] — S–C ranking of all learnable skills by 2026 salary ceiling; AI/ML S-tier, power electronics A-tier, freelance ceilings (developing)
 - [[EE Specialization Salary Tier List]] — EE-specific tier list: analog/mixed-signal S-tier ($222k median), FPGA S-tier ($175k avg), WBG power electronics A-tier ($112k–$230k); Joe income ladder (developing)
@@ -348,6 +358,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[2024 Hedge Fund Returns Reporting]] — Fortune/P&I/Institutional Investor (Jan 2025); D.E. Shaw / Citadel / Millennium 2024 figures (medium — self-reported)
 - [[SPIVA Scorecard — Active vs Index]] — S&P Dow Jones Indices (2025); ~90% of active managers underperform over 15 years (high confidence)
 
+### Productivity / Career Philosophy
+- [[Deep Work — Cal Newport]] — Newport (2016); deep vs shallow work, Time × Intensity formula, two core abilities, Principle of Least Resistance, 4 scheduling philosophies (high — as framework)
+- [[The Almanack of Naval Ravikant]] — Jorgenson/Ravikant (2020); four kinds of leverage, permissionless code/media, specific knowledge, productize yourself, long-term games (high — as framework)
+- [[Compound Time — Michael Simmons]] — Medium (2018); compound vs linear time, the 5-hour rule, six compounding activities, 15 min/day = 312 hr/5yr (medium)
+
 ### Books
 - [[The 7 Habits of Highly Effective People - Stephen Covey]] — Covey (1989); Maturity Continuum, P/PC Balance, Time Management Matrix, Empathic Listening, Synergy; ⭐⭐⭐⭐⭐
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
@@ -391,6 +406,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Long-Term Compounding Daily Projects]] — 8 findings; leverage type decides what compounds; best daily project = skill + public artifact + career evidence; one merged PR > 5 clones; investing is the literal compounder; recommended stack = GitHub log + learn-in-public blog + automated DCA; tier list deliverable (developing)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Hobbies for Young Men]] — 8 key findings; 5 life domain framework; S–D tier list; BJJ + guitar + investing as Joe's priority stack; Roth IRA + martial arts + rock climbing action moves (developing)

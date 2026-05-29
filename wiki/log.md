@@ -11,6 +11,19 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] autoresearch | Deep-Work Full-Focus Projects (follow-up)
+- Rounds: 1 | Searches: 4 | WebFetch: 1
+- Follow-up to below: Joe said the first list's projects don't require deep work — wants full-focus long-term projects.
+- Pages created: [[Deep-Work Compounding Projects Tier List]], [[Deep Work]], [[Deep Work — Cal Newport]]; updated synthesis [[Research - Long-Term Compounding Daily Projects]] with a Deep-Work variant section.
+- Key finding: Rank on the opposite axis — difficulty is the point (Newport: High-Quality Work = Time × Intensity of Focus; concentration is a trainable, compounding skill). Deep S-tier for Joe = build a power converter end-to-end, a RISC-V CPU on FPGA, or reproduce-a-paper/FURI research. Sustain with a protected 60–120 min daily deep block, not a 5-min floor. The repo/blog are the container; deep projects fill it.
+
+## [2026-05-29] autoresearch | Long-Term Compounding Daily Projects
+- Rounds: 2 | Searches: 8 | WebFetch: 3 (1 failed — Visualize Value HTTP 500, leverage framework sourced from Almanack instead)
+- Topic: "things I can work on daily that compound and be worth something in the future — options of long-term projects"
+- Pages created: [[Compounding Daily Projects Tier List]], [[Compound Time (5-Hour Rule)]], [[Permissionless Leverage]], [[Building in Public]], [[Sustainable Daily Practice (Streak Design)]], [[Naval Ravikant]], [[The Almanack of Naval Ravikant]], [[Compound Time — Michael Simmons]]
+- Synthesis: [[Research - Long-Term Compounding Daily Projects]]
+- Key finding: Leverage type decides what compounds — code & media are permissionless; the best daily project is simultaneously skill practice + public artifact + career evidence (a build-in-public GitHub log). Recommended Joe stack = GitHub engineering log + learn-in-public blog (fed by this vault) + automated index DCA, ~30–45 min/day, all surviving a 5-min floor.
+
 ## [2026-05-29] autoresearch | Ways to Make Money Online (Tier List)
 - Rounds: 2 | Searches: 8 | WebFetch: 0 (search-synthesis sufficient; ranking is personalization, not fact-extraction)
 - Ranking lens (user-chosen): career-capital fit for Joe — pay × skill-leverage × résumé toward LLNL/Sandia × time-fit
