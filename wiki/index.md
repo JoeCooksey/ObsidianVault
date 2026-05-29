@@ -245,6 +245,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sell Discipline (When to Sell a Stock)]] — when to exit: thesis break / target hit / rebalance / defensive / cash need; "price dropped" is the worst & most common reason; disposition effect (developing)
 - [[Quantitative Trading]] — math/data/code vs gut; strategy families (stat arb, mean reversion, momentum, factor, HFT); do quants win? a few do, ~90% of active lose to index (developing)
 - [[Statistical Arbitrage]] — Thorp-invented; trade tiny mispricings between related securities market-neutral at scale via law of large numbers; edges decay as discovered (developing)
+- [[Efficient Market Hypothesis]] — weak/semi-strong/strong; markets are adaptively efficient (not perfect); signals get priced away; ML wins are mostly overfitting; rational response = index funds (developing)
+- [[Agentic Trading (Robinhood)]] — connect your own AI agent (Claude/ChatGPT) via Robinhood Trading MCP to a dedicated pre-funded account; how-to + safe-use; execution ≠ edge (developing)
+- [[Robinhood Cortex]] — Robinhood's in-house AI assistant (Mar 2025): Stock/Portfolio Digests, Trade Builder, AI chat; insights/assist vs Agentic Trading's execution (developing)
+- [[Robinhood]] — entity: fintech broker (HOOD, ~27M users); AI timeline Cortex→Agentic Trading; first BYO-agent trading surface via MCP (developing)
+- [[Research - Robinhood Agentic Trading and Beating the Market]] — synthesis: how to use Agentic Trading + the honest answer that no retail market-beating algo exists; the one +EV "algorithm" is automated index DCA (developing)
 
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)

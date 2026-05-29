@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] autoresearch | Robinhood Agentic Trading & Beating the Market
+- Rounds: 2 | Searches: 8 | Pages created: 7
+- Created: [[Agentic Trading (Robinhood)]], [[Robinhood Cortex]], [[Robinhood]], [[Efficient Market Hypothesis]], [[Robinhood — Agentic Trading Overview]], [[TechCrunch — Robinhood Lets AI Agents Trade Stocks]], [[ML vs Efficient Markets — Academic Reassessment]]
+- Synthesis: [[Research - Robinhood Agentic Trading and Beating the Market]]
+- Key finding: Agentic Trading (launched 2026-05-27, beta, stocks only) connects a user's own AI agent to a dedicated pre-funded account via the Robinhood Trading MCP — real execution/automation but ZERO predictive edge. No retail market-beating algorithm exists (EMH adaptive efficiency; ML wins = overfitting; ~80%+ of pros trail the index over 10yr; ~90% of retail algo traders lose to buy-and-hold). The only +EV "algorithm" is automated index-fund DCA + risk rails. Declined to fabricate an alpha bot — consistent with Joe's existing [[Research - Stock Buy-Sell Factors and Quant Finance]] and [[Online Income Methods Tier List]].
+
 ## [2026-05-29] save | Buck Converter — detailed per-phase playbooks
 - Joe asked for more detail per phase ("idk what to do"). Expanded the 7-phase plan into beginner week-by-week walkthroughs.
 - Pages created: [[Buck Project — Phases 0-1 Playbook (Theory and Simulation)]], [[Buck Project — Phases 2-3 Playbook (Power Stage and PCB)]], [[Buck Project — Phases 4-6 Playbook (Bring-up, Firmware, Validation)]]. Linked from [[Project - Digitally Controlled Synchronous Buck Converter]].

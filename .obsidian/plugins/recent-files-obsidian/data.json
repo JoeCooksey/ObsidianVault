@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Agentic Trading (Robinhood)",
+      "path": "wiki/concepts/Agentic Trading (Robinhood).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
     {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
       "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Deep-Work Compounding Projects Tier List",
@@ -195,10 +199,6 @@
     {
       "basename": "Reading-Retention-Methods",
       "path": "wiki/concepts/Reading-Retention-Methods.md"
-    },
-    {
-      "basename": "EE Data Science Skills Roadmap",
-      "path": "wiki/concepts/EE Data Science Skills Roadmap.md"
     }
   ],
   "omittedPaths": [],
