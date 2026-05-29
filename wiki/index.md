@@ -183,6 +183,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
 
 ### Health / Personal
+- [[Supplement Timing Rules]] — when to take supplements for absorption: fat-soluble (with meal), free amino acids (empty stomach), night vs evening-avoid, mineral competition; two rules that matter most (developing)
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
 - [[Creatine for Cognitive Performance]] — memory SMD 0.31; moderate certainty; 3–5 g/day (developing)
 - [[Caffeine and L-Theanine Stack]] — best acute study stack; 2:1 ratio; high evidence (developing)
