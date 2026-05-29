@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Training Data Work (Online Income)",
+      "path": "wiki/concepts/AI Training Data Work (Online Income).md"
+    },
+    {
+      "basename": "Online Income Methods Tier List",
+      "path": "wiki/concepts/Online Income Methods Tier List.md"
+    },
+    {
+      "basename": "AI Training Platforms for Coders 2026 — aitrainer.work",
+      "path": "wiki/sources/AI Training Platforms for Coders 2026 — aitrainer.work.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Heterogeneous Integration in Power Electronics",
+      "path": "wiki/questions/Research - Heterogeneous Integration in Power Electronics.md"
+    },
+    {
+      "basename": "News Debrief 2026-05-29",
+      "path": "wiki/news/News Debrief 2026-05-29.md"
+    },
+    {
+      "basename": "2026-05-29-ee-daily",
+      "path": "wiki/newsletters/2026-05-29-ee-daily.md"
+    },
+    {
       "basename": "2026-05-28-ee-daily",
       "path": "wiki/newsletters/2026-05-28-ee-daily.md"
     },
     {
       "basename": "News Debrief 2026-05-28",
       "path": "wiki/news/News Debrief 2026-05-28.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "EE-Software-on-Linux-Mint",
@@ -171,34 +195,6 @@
     {
       "basename": "News Debrief 2026-05-26",
       "path": "wiki/news/News Debrief 2026-05-26.md"
-    },
-    {
-      "basename": "Gut Health Foods Tier List",
-      "path": "wiki/concepts/Gut Health Foods Tier List.md"
-    },
-    {
-      "basename": "Consumer Purchase Value Tier List",
-      "path": "wiki/concepts/Consumer Purchase Value Tier List.md"
-    },
-    {
-      "basename": "Agent Roles Software Development",
-      "path": "wiki/concepts/Agent Roles Software Development.md"
-    },
-    {
-      "basename": "Agent Orchestration Frameworks",
-      "path": "wiki/concepts/Agent Orchestration Frameworks.md"
-    },
-    {
-      "basename": "Multi-Agent Development Team",
-      "path": "wiki/concepts/Multi-Agent Development Team.md"
-    },
-    {
-      "basename": "Research - Full Agent Stack Team Guide",
-      "path": "wiki/questions/Research - Full Agent Stack Team Guide.md"
-    },
-    {
-      "basename": "News Debrief 2026-05-25",
-      "path": "wiki/news/News Debrief 2026-05-25.md"
     }
   ],
   "omittedPaths": [],

@@ -58,3 +58,7 @@ GaN's lower thermal conductivity (1.3 W/mK vs SiC's 4.9 W/mK) concentrates heat 
 ## Ga₂O₃ Thermal Barrier
 
 Ga₂O₃'s 0.1–0.27 W/mK thermal conductivity is the primary obstacle to commercialization. No adequate packaging solution for production deployment exists as of 2025.
+
+## See also
+
+[[Heterogeneous Integration (Power Electronics)]] — co-packaging dissimilar dice adds **thermal crosstalk** and a mixed junction-temp ceiling (SiC ~200 °C vs GaN-on-Si ~150–175 °C). Substrate/die-attach heat path: [[Power Module Ceramic Substrates]], [[Silver Sintering Die-Attach]].

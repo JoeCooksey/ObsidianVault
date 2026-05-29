@@ -69,3 +69,7 @@ GaN substrate costs are lower than SiC. Market projection: 1200V GaN devices wil
 
 ## Key Acquisition
 Infineon acquired GaN Systems to expand automotive GaN portfolio, signaling major industry bet on GaN for future EV power electronics.
+
+## See also
+
+[[Heterogeneous Integration (Power Electronics)]] — GaN as the high-frequency leg co-packaged with SiC/Si; timing match matters: [[Gate Driver Timing Coordination]]. Infineon (GaN Systems) leads [[Moore4Power]].

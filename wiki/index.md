@@ -141,6 +141,17 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[V2G Bidirectional Charging]] — WBG enables bidirectional OBCs; grid integration (seed)
 - [[WBG Thermal Management]] — junction temperature, failure modes, cooling strategies (developing)
 
+### Heterogeneous Integration / Power Module Packaging
+- [[Heterogeneous Integration (Power Electronics)]] — co-package Si+SiC+GaN, each at its sweet spot; 5 interface tensions; "More than Moore" (developing)
+- [[Multi-Chip Power Module Packaging]] — the stack; wire-bond→wire-bondless; double-sided cooling; new failure modes (developing)
+- [[Common-Source Inductance]] — L_CS feeds di/dt back onto the gate; target <1 nH; worked V=L·di/dt calc (developing)
+- [[Silver Sintering Die-Attach]] — CTE-mismatch fix; sinter 250–300 °C, remelt >900 °C; Cu-sinter challenger (developing)
+- [[Power Module Ceramic Substrates]] — DBC vs AMB; AlN heat-spread vs Si₃N₄ fatigue-life (developing)
+- [[Gate Driver Timing Coordination]] — dead-time, prop-delay skew; GaN 1–5 ns vs SiC 20–50 ns (developing)
+- [[Moore4Power]] — €91M EU flagship HI project; Infineon-led, 62 partners (project)
+- [[Infineon Technologies]] — Moore4Power lead; Si/SiC/GaN supplier (seed)
+- [[Research - Heterogeneous Integration in Power Electronics]] — synthesis (developing)
+
 ### Computer Architecture / CPU+GPU
 - [[CPU Architecture Evolution]] — scalar → superscalar → multi-core → heterogeneous SoC (developing)
 - [[GPU Architecture Evolution]] — fixed-function → programmable shaders → GPGPU → AI accelerator (developing)
@@ -220,6 +231,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Financial Order of Operations]] — 9-step Money Guy FOO: deductible → employer match → high-interest debt → emergency fund → Roth IRA → 401k → hyper-accumulate → abundance → low-interest debt (developing)
 - [[Index Fund Investing]] — why index funds beat 92% of active managers; fund guide (VTI/FXAIX/VTWAX); expense ratio math; DCA; Roth IRA setup steps; compound interest table by age (developing)
 - [[Credit Score Building]] — FICO breakdown (35% payment history, 30% utilization); 4-step path from 0 to 750+; secured card strategy; authorized user hack; milestones by age (developing)
+
+### Online Income / Side Hustles
+- [[Online Income Methods Tier List]] — ~17 ways to make money online ranked S–D by **career-capital fit for Joe**; S-tier = STEM tutoring, AI-training data work, freelance Python; D-tier = dropshipping, crypto bots, day trading, MLM (developing)
+- [[AI Training Data Work (Online Income)]] — Outlier/DataAnnotation/Mercor; STEM+coding experts $40–100+/hr async; best new-money fit + AI literacy (developing)
+- [[Research - Ways to Make Money Online (Tier List)]] — synthesis: ranking lens, key findings, contradictions, sources (developing)
 
 ### Stocks / Investing & Quant Finance
 - [[Fundamental Analysis Valuation Metrics]] — what to own & at what price: P/E (vs history/peers/market), PEG, P/B, P/S, FCF yield; moat/debt/management; value traps; no ratio alone (developing)

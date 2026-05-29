@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] autoresearch | Ways to Make Money Online (Tier List)
+- Rounds: 2 | Searches: 8 | WebFetch: 0 (search-synthesis sufficient; ranking is personalization, not fact-extraction)
+- Ranking lens (user-chosen): career-capital fit for Joe — pay × skill-leverage × résumé toward LLNL/Sandia × time-fit
+- Pages created (7): tier-list concept [[Online Income Methods Tier List]]; concept [[AI Training Data Work (Online Income)]]; synthesis [[Research - Ways to Make Money Online (Tier List)]]; sources [[AI Training Platforms for Coders 2026 — aitrainer.work]], [[Side Hustles for College Students 2026 — Upwork]], [[Online Tutoring Rates 2026 — Brighterly-Glassdoor]], [[Why Most Make-Money-Online Advice Fails 2026 — NSF Tech]]
+- Key finding: ranking flips the generic order — S-tier = STEM/math tutoring ($25–60/hr), AI-training/data work for coders ($40–100+/hr), freelance Python automation; these pay AND build the EE résumé. D-tier = dropshipping, crypto trading bots/HYIP, day trading, MLM funnels (negative-EV/scams, consistent with Joe's own [[Index Fund Investing]] findings). "Passive income" is mostly active income with the failures edited out.
+
 ## [2026-05-29] autoresearch | Heterogeneous Integration in Power Electronics
 - Rounds: 1 (gaps low — sources broadly agreed) | Searches: 6 | WebFetch: 6 attempted, 2 succeeded (4× HTTP 403/404 logged below)
 - Sources found: Semiconductor Today (Moore4Power, fetched), Power Electronic Tips (parasitics, fetched); search-synthesis from eenewseurope, New Electronics, Analog Devices/PSMA, Springer JEM 2025, Wolfspeed, eepower, ScienceDirect, MDPI
