@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Vegetable Soup Guide",
-      "path": "wiki/concepts/Vegetable Soup Guide.md"
+      "basename": "Supplement Timing Rules",
+      "path": "wiki/concepts/Supplement Timing Rules.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Joe's Supplement Stack Audit",
+      "path": "wiki/questions/Research - Joe's Supplement Stack Audit.md"
+    },
+    {
+      "basename": "Vegetable Soup Guide",
+      "path": "wiki/concepts/Vegetable Soup Guide.md"
     },
     {
       "basename": "Costco Pantry for Homemade Soup",
@@ -191,14 +199,6 @@
     {
       "basename": "EE Complete Mastery Roadmap",
       "path": "wiki/concepts/EE Complete Mastery Roadmap.md"
-    },
-    {
-      "basename": "overview",
-      "path": "wiki/overview.md"
-    },
-    {
-      "basename": "News Tools and Apps Stack",
-      "path": "wiki/concepts/News Tools and Apps Stack.md"
     }
   ],
   "omittedPaths": [],
