@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] autoresearch | Buck Converter Build Plan (project spec)
+- Rounds: 1 | Searches: 4 | WebFetch: 0 (search-synthesis + engineering specs sufficient)
+- Joe picked the S-tier deep project (build a power converter end-to-end) and asked for the full plan.
+- Pages created: [[Project - Digitally Controlled Synchronous Buck Converter]] (7-phase, ~6-month build plan), [[STM32G4 Digital Power Buck Reference]] (source bundle).
+- Key finding: 12V→5V@3A synchronous buck, digital voltage-mode→current-mode. Recommend STM32G4 (Nucleo-G474RE, HRTIM 184ps, FMAC, AN4539) for budget/self-designed power stage; TI C2000 (F280049C + BOOSTXL-BUCKCONV, CLA, powerSUITE/SFRA) as industry-toolchain alternative with proven board. Control = design-by-emulation (analog Type-II/III → discretize), ADC synced to PWM (f_s≈f_sw/3), BW≈f_sw/10, PM≥45°. Budget win: implement SFRA so the controller measures its own loop gain → no Bode 100 needed. Real gap = an oscilloscope. Daily structure = one protected 60–90 min deep block, one phase at a time, log every experiment to the repo.
+
 ## [2026-05-29] autoresearch | Deep-Work Full-Focus Projects (follow-up)
 - Rounds: 1 | Searches: 4 | WebFetch: 1
 - Follow-up to below: Joe said the first list's projects don't require deep work — wants full-focus long-term projects.

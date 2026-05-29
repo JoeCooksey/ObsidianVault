@@ -300,6 +300,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
 ### Compounding / Long-Term Daily Projects
+- [[Project - Digitally Controlled Synchronous Buck Converter]] — **full 7-phase build plan** (≈6 mo @ 1–1.5 hr/day): 12V→5V@3A sync buck; theory→LTSpice→KiCad PCB→bring-up→digital compensator (STM32G4 HRTIM, design-by-emulation)→closed-loop validation (loop-gain Bode/SFRA, transient, efficiency, DPT)→publish; STM32G4 vs TI C2000 platform decision; BOM + budget + safety + daily-work structure (developing)
 - [[Deep-Work Compounding Projects Tier List]] — full-focus companion list (difficulty is the point); S-tier = build a power converter end-to-end, RISC-V CPU on FPGA, reproduce-a-paper/FURI research; ranking = focus intensity × hard-skill × trajectory fit × terminal artifact; sustain via 60–120 min daily deep block (developing)
 - [[Deep Work]] — Newport: distraction-free concentration at cognitive limit; High-Quality Work = Time × Intensity of Focus; two core abilities; rare-and-valuable; trainable/compounding; 4 scheduling philosophies (developing)
 - [[Compounding Daily Projects Tier List]] — S–C ranked menu of long-term projects to work on daily for Joe (WBG→LLNL/Sandia); S-tier = GitHub build-in-public log, second-brain vault, automated index DCA; ranking lens = durability × leverage type × trajectory fit × low activation energy (developing)
@@ -357,6 +358,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Edward O. Thorp — Wikipedia]] — origin of statistical arbitrage; PNP ~20% net no down quarter; Ridgeline wound down 2002 as edge crowded out (high confidence)
 - [[2024 Hedge Fund Returns Reporting]] — Fortune/P&I/Institutional Investor (Jan 2025); D.E. Shaw / Citadel / Millennium 2024 figures (medium — self-reported)
 - [[SPIVA Scorecard — Active vs Index]] — S&P Dow Jones Indices (2025); ~90% of active managers underperform over 15 years (high confidence)
+
+### Power Electronics (Project References)
+- [[STM32G4 Digital Power Buck Reference]] — STM32G4 HRTIM/FMAC 3p3z + TI C2000 TIDM-DC-DC-BUCK/CLA/SFRA; design-by-emulation, ADC-PWM sync, loop-gain injection, DPT (high — vendor docs)
 
 ### Productivity / Career Philosophy
 - [[Deep Work — Cal Newport]] — Newport (2016); deep vs shallow work, Time × Intensity formula, two core abilities, Principle of Least Resistance, 4 scheduling philosophies (high — as framework)
