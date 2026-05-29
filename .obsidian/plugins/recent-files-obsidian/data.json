@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Vegetable Soup Guide",
+      "path": "wiki/concepts/Vegetable Soup Guide.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Costco Pantry for Homemade Soup",
+      "path": "wiki/concepts/Costco Pantry for Homemade Soup.md"
+    },
+    {
+      "basename": "Boil-and-Blend Soup Formula",
+      "path": "wiki/concepts/Boil-and-Blend Soup Formula.md"
+    },
+    {
+      "basename": "2026-05-28",
+      "path": "wiki/reviews/2026-05-28.md"
+    },
+    {
       "basename": "2026-05-27",
       "path": "wiki/reviews/2026-05-27.md"
     },
@@ -21,20 +41,8 @@
       "path": "wiki/concepts/Master Chunky Vegetable Soup Recipe.md"
     },
     {
-      "basename": "log",
-      "path": "wiki/log.md"
-    },
-    {
-      "basename": "Boil-and-Blend Soup Formula",
-      "path": "wiki/concepts/Boil-and-Blend Soup Formula.md"
-    },
-    {
       "basename": "Linux-Mint-vs-Zorin-vs-PopOS-Guide",
       "path": "wiki/concepts/Linux-Mint-vs-Zorin-vs-PopOS-Guide.md"
-    },
-    {
-      "basename": "Costco Pantry for Homemade Soup",
-      "path": "wiki/concepts/Costco Pantry for Homemade Soup.md"
     },
     {
       "basename": "Costco Vegetable Soup Recipes",
@@ -191,14 +199,6 @@
     {
       "basename": "News Tools and Apps Stack",
       "path": "wiki/concepts/News Tools and Apps Stack.md"
-    },
-    {
-      "basename": "index",
-      "path": "wiki/index.md"
-    },
-    {
-      "basename": "Research - Trending GitHub Repositories May 2026",
-      "path": "wiki/sources/Research - Trending GitHub Repositories May 2026.md"
     }
   ],
   "omittedPaths": [],
