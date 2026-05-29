@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-28] manual | Vegetable Soup Guide — flexible 8-veg one-pot soup
+- Pages created: 1 ([[Vegetable Soup Guide]] in concepts/)
+- Built around Joe's vegetables: celery, broccoli, carrot, onion, bell pepper, spring mix, sweet potato, brussels sprout
+- Includes layer-by-cook-time staging table, 4 spice blends, legume/grain/veg add-ins, ~50 min total
+
 ## [2026-05-28] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 
 ## [2026-05-28] newsletter | EE Daily — May 28, 2026
