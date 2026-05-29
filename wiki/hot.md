@@ -8,6 +8,23 @@ tags:
 # Recent Context
 
 ## Last Updated
+2026-05-28 — Autoresearch: Joe's Supplement Stack Audit — one real timing error (Bacopa fasted → fat-soluble, causes nausea + poor absorption, move to after-breakfast); fat-soluble after-breakfast block and bedtime sleep stack both correctly placed; L-tyrosine/L-theanine fine with black coffee but not protein; alpha-GPC daytime = correct; zinc is the main gap; Lion's Mane/astaxanthin are trim candidates; 2 pages created
+
+## Key Recent Facts
+
+### Supplement Stack Audit — newest autoresearch
+- **The one real error**: Bacopa monnieri is fat-soluble — taken fasted it absorbs poorly and causes nausea/cramps. Move it to the after-breakfast block with the omega-3/D3/turmeric (matches existing [[Bacopa Monnieri]] page)
+- **After-breakfast block is correct**: D3+K2, omega-3, turmeric, astaxanthin are all fat-soluble and need the meal's fat (up to ~32% better D absorption with fat); add black pepper/piperine with turmeric (~20× curcumin uptake)
+- **Bedtime sleep stack is excellent**: magnesium glycinate + glycine + apigenin + L-theanine = four independent mechanisms, synergistic, no tolerance risk
+- **With-coffee block**: L-tyrosine and L-theanine compete with protein for absorption — fine with *black* coffee, but move tyrosine to fasted slot if coffee has milk/protein. Alpha-GPC daytime/pre-study is correct (avoid evening — disrupts sleep); good 2025 RCT in healthy young men
+- **Free amino acids fasted** (glycine, taurine, NAC, vit C) is fine; **creatine** timing is flexible (slightly better with carbs, fasted ok)
+- **GlyNAC (glycine+NAC)**: legitimate glutathione strategy but strongest RCT evidence is in older adults with low baseline glutathione — modest expected upside for a healthy 19-y-o
+- **Main gap = zinc** (testosterone/immune for young males); take with food, away from night magnesium (mineral competition); bloodwork first
+- **Trim candidates** (clutter, not harm): Lion's Mane (thin human evidence), astaxanthin (low marginal value), aged garlic (modest CVD benefit at 19)
+- **Meta-point**: foundational 5–6 (sleep, D3, magnesium, creatine, omega-3, caffeine+theanine) do ~90% of the work; the other ~20 are 5% gains
+- **Pages created**: [[Research - Joe's Supplement Stack Audit]] (synthesis: S/A/B/C ranking + timing verdict by block + add/remove), [[Supplement Timing Rules]] (reusable concept)
+
+## Last Updated (previous)
 2026-05-27 — Autoresearch: Costco Vegetable Soups — 7 recipes; mirepoix base from Costco bulk (carrots 6lb ~$3.50, potatoes 10lb ~$5, onions <$1/lb); Kirkland Stir-Fry Blend = drop-in 15-min soup; Kirkland Organic Chicken Stock 6-pack ~$8.99; Kirkland No-Salt Seasoning (21 spices) covers all seasoning needs; $0.75–1.50/serving; 3 pages created
 
 ## Key Recent Facts
