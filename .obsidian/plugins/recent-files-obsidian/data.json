@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Portfolio Dashboard",
+      "path": "Finance/Portfolio Dashboard.md"
+    },
+    {
       "basename": "Research - Heterogeneous Integration in Power Electronics",
       "path": "wiki/questions/Research - Heterogeneous Integration in Power Electronics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reading-Retention-Methods",
       "path": "wiki/concepts/Reading-Retention-Methods.md"
-    },
-    {
-      "basename": "EE Data Science Skills Roadmap",
-      "path": "wiki/concepts/EE Data Science Skills Roadmap.md"
     }
   ],
   "omittedPaths": [],
