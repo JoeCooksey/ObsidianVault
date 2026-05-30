@@ -130,6 +130,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
 - [[Programming Skills AI Cannot Replace]] — architecture, domain knowledge, debugging instinct, code review taste, security mindset, communication (developing)
 
+### Vibe Coding & Building Profitable Projects
+- [[Vibe Coding]] — describe in English, LLM writes code; coined by Karpathy (Feb 2025); the SPECTRUM model: pure vibing (no review) → AI-assisted engineering (reviewed); "vibe to validate, spec to ship" (developing)
+- [[Spec-Driven Development]] — the disciplined production end: *what → plan → code* with review between each; Claude Code native support (CLAUDE.md, subagents, Tasks) (developing)
+- [[Vibe Coding Tool Landscape 2026]] — app builders (Lovable/v0/Replit/Bolt) vs assistants (Cursor ~$2B ARR/Claude Code/Windsurf/Copilot); the graduate workflow (developing)
+- [[Vibe Coding Best Practices and Workflow]] — the doom loop + the cure: plan in markdown, Plan-Review-Fix → Implement-Review-Fix loops with a separate reviewer agent (developing)
+- [[Vibe Coding Security Risks]] — ~45% of AI code has vulns; ~1.7× more major issues; package hallucination; Replit prod-DB deletion; mandatory security pass (developing)
+- [[Profitable Micro-SaaS Playbook]] — solo path to $1K–$10K MRR for <$200/mo; 3-phase/10-stop (Supabase+Stripe/Lemon Squeezy → Vercel); ship ugly, charge now, niche hard (Levels doctrine) (developing)
+- [[Micro-SaaS Idea Validation Framework]] — validate before building (~85% fail from skipping); Walling 5-criteria; 4-week landing-page→interview→pre-sell test; 3+ of 10 pay = go (developing)
+- [[Research - Mastering Vibe Coding and Building Profitable Projects]] — synthesis: vibe-to-validate-spec-to-ship + validate→build→ship-ugly profit path (developing)
+
 ### Power Electronics / EV / Career
 - [[EE Physical Side — Actionable Skill Plan]] — 18-month roadmap: device physics → converter design → WBG specialization → digital control (developing)
 - [[ASU EE Year 1-2 Curriculum Map]] — term-by-term course sequence; no EE courses until Term 3A; Year 1 = math+physics gap to exploit (developing)
