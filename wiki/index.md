@@ -412,6 +412,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[IEEE Spectrum SiC vs GaN 2024]] — authoritative SiC vs GaN competitive landscape
 - [[MDPI WBG Comparative Review 2024]] — material properties, reliability, EV applications
 
+### Health / Gut Optimization
+- [[Stanford Fermented Foods RCT 2021]] — Wastyk/Sonnenburg/Gardner, *Cell* 2021; fermented foods ↑diversity + ↓19 inflammatory markers (IL-6) in 10 wks; fiber alone didn't ↑diversity short-term (high)
+- [[Human Gut Emulsifiers Study 2021]] — Naimi/Chassaing, *Microbiome* 2021; CMC + polysorbate 80 non-reversibly alter human microbiota at 0.1%; lecithin an exception (high)
+- [[Zonulin Biomarker Critique 2021]] — *Gut* (BMJ) letter; commercial zonulin ELISAs measure "unknown proteins," correlate R≈0.03–0.17 with real permeability — don't buy them (high)
+- [[Lactulose-Mannitol Meta-analysis 2022]] — *BMC Gastroenterology*; LMR = validated functional permeability test; healthy ~0.014 vs untreated coeliac ~0.133, AUC 0.88 (high)
+- [[Microbiota-Gut-Brain Axis Review]] — Frontiers/Nature reviews; bidirectional vagus/HPA/tryptophan signaling; SCFAs modulate BBB + microglia; vitamin K/B synthesis (high)
+- [[Artificial Sweeteners Gut Review]] — PMC 2024; sucralose/saccharin ↓butyrate-producers + barrier disruption; aspartame data weaker; dose/person-dependent (medium)
+
 ### Health / Fermentation (Kefir)
 - [[Frontiers-PMC — Microbiota of Kefir]] — Bourrie et al. 2016, peer-reviewed review; kefir species, kefiran, animal vs human evidence (high confidence)
 - [[Cultures for Health — Milk Kefir Grains]] — vendor + how-to; method, second ferment, sourness fixes; $16.99 grains (medium)
