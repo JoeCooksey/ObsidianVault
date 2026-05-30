@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-30] autoresearch | Habits That Impact Testosterone
+- Rounds: 2 | Searches: 9 | Pages created: 14 (3 concepts, 10 sources, 1 synthesis)
+- Concepts: [[Testosterone-Boosting Habits to Include]], [[Testosterone-Lowering Habits to Avoid]], [[Testosterone Physiology Fundamentals]]
+- Sources: [[Leproult Van Cauter Sleep Restriction RCT 2011]], [[Low-Fat Diet Testosterone Meta-analysis 2021]], [[Weight Loss and Testosterone Review 2024]], [[Alcohol and Testosterone Review 2023]], [[Endocrine Disruptors and Testosterone]], [[Cortisol and Testosterone Suppression]], [[Exercise and Testosterone Meta-analyses]], [[Micronutrients and Testosterone]], [[Smoking Cannabis and Testosterone]], [[Harvard Health Testosterone Lifestyle]]
+- Synthesis: [[Research - Habits That Impact Testosterone]]
+- Key finding: For a healthy young man, the biggest moves are **subtractive** — lose excess fat (BMI 30→25 ≈ +13–15%), sleep 7–9h (short sleep = −10–15%), keep alcohol low (heavy = up to −50%), manage stress, and limit plastics/phthalates. Two myth-corrections: (1) resistance training gives an acute spike but **negligible chronic resting-T change** in active adults — the benefit is indirect via body composition; (2) zinc/vitamin-D/magnesium only help if you're **deficient** (vit-D RCT was null in non-deficient men). Connects to [[Supplement Priority Stack for Young Males]], [[Foundational Health Supplements]], [[Strength Training for Cyclists]].
+
 ## [2026-05-30] autoresearch | Mastering Vibe Coding & Building Profitable Projects
 - Rounds: 2 | Searches: 7 | Pages created: 14 (7 concepts, 3 entities, 3 sources, 1 synthesis)
 - Concepts: [[Vibe Coding]], [[Vibe Coding Tool Landscape 2026]], [[Vibe Coding Best Practices and Workflow]], [[Spec-Driven Development]], [[Vibe Coding Security Risks]], [[Profitable Micro-SaaS Playbook]], [[Micro-SaaS Idea Validation Framework]]
