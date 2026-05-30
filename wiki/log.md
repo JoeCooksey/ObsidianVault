@@ -11,6 +11,16 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-30] autoresearch | Masturbation and Pornography (Benefits and Harms)
+- Rounds: 2 | Searches: 8 | Sources fetched: 6 | Pages created: 12 (6 sources, 4 concepts, 1 entity, 1 synthesis)
+- Sources: [[Masturbation Facts and Benefits — Cleveland Clinic]], [[Pornography Use and Psychological Science — Grubbs Kraus 2021]], [[CSBD and Problematic Pornography Use Treatments — Systematic Review 2023]], [[Pornography and Sexual Dysfunction — Integrative Review 2019]], [[Sexual Activity and Prostate Cancer — Dose-Response Meta-analysis 2025]], [[Adolescent Pornography Exposure and Sexual Behavior — Systematic Review 2023]]
+- Concepts: [[Masturbation Health Benefits]], [[Compulsive Sexual Behavior Disorder (CSBD)]], [[Problematic Pornography Use (PPU)]], [[Moral Incongruence (Pornography)]], [[Ejaculation Frequency and Prostate Cancer]]
+- Entity: [[Joshua Grubbs]]
+- Synthesis: [[Research - Masturbation and Pornography (Benefits and Harms)]]
+- Key finding: Masturbation is benign-to-beneficial (harm only via compulsivity/shame); pornography effects are context-dependent and contested — "porn-induced ED" is not causally established, frequency ≠ problem, and moral incongruence predicts self-reported "addiction" better than actual use.
+
+---
+
 ## [2026-05-30] autoresearch | Habits That Impact Testosterone
 - Rounds: 2 | Searches: 9 | Pages created: 14 (3 concepts, 10 sources, 1 synthesis)
 - Concepts: [[Testosterone-Boosting Habits to Include]], [[Testosterone-Lowering Habits to Avoid]], [[Testosterone Physiology Fundamentals]]
