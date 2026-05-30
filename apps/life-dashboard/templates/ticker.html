@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}{{ symbol }} — Life Dashboard{% endblock %}
+{% block content %}
+<header class="page-head">
+  <a href="/" class="back">← Portfolio</a>
+  <h1 id="dd-title">{{ symbol }}</h1>
+</header>
+<div id="report" data-symbol="{{ symbol }}">Loading {{ symbol }}…</div>
+<script>
+async function load() {
+  const sym = document.getElementById('report').dataset.symbol;
+  const r = await fetch(`/api/stock/${sym}`);
+  const d = await r.json();
+  const el = document.getElementById('report');
+  if (d.error) { el.innerHTML = `<div class="banner">${d.error}</div>`; return; }
+  const h = d.header;
+  el.innerHTML = `
+    <div class="price-head">
+      <span class="px">$${h.price?.toFixed(2) ?? '—'}</span>
+      <span class="sub">${h.name} · ${h.sector ?? ''}</span>
+    </div>
+    <div class="dd-flags">${renderFlags(d.fundamentals)}${renderFlags(d.technicals)}${renderFlags(d.margin_of_safety)}</div>
+    <p class="summary">${h.summary ?? ''}</p>`;
+}
+function renderFlags(section) {
+  if (!section || !section.flags) return '';
+  return section.flags.map(f => `<div class="flag ${f.level}">${f.text}</div>`).join('');
+}
+load();
+</script>
+{% endblock %}

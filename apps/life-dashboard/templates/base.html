@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}Life Dashboard{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">◆ Life</div>
+    <nav>
+      <a href="/" class="{{ 'active' if active == 'portfolio' else '' }}">📈 Portfolio</a>
+      <span class="navstub">❤️ Health <em>soon</em></span>
+      <span class="navstub">🧪 Labs <em>soon</em></span>
+    </nav>
+  </aside>
+  <main class="content">
+    {% block content %}{% endblock %}
+  </main>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

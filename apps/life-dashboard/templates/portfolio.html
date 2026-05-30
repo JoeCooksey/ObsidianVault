@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Portfolio — Life Dashboard{% endblock %}
+{% block content %}
+<header class="page-head">
+  <h1>Portfolio</h1>
+  <div class="updated" id="updated"></div>
+</header>
+
+<div id="stale-banner" class="banner hidden">⚠️ Showing cached prices — live fetch failed.</div>
+<div id="empty-state" class="empty hidden">
+  No accounts yet. Create notes in <code>Finance/Accounts/</code> with
+  <code>type: investment-account</code> frontmatter and a holdings table.
+</div>
+
+<section class="totals" id="totals"></section>
+
+<section class="alloc-grid">
+  <div class="panel"><h3>By Stock</h3><canvas id="chart-ticker"></canvas></div>
+  <div class="panel"><h3>By Sector</h3><canvas id="chart-sector"></canvas></div>
+  <div class="panel"><h3>By Account</h3><canvas id="chart-account"></canvas></div>
+</section>
+
+<section id="accounts"></section>
+
+<script src="{{ url_for('static', filename='js/portfolio.js') }}"></script>
+{% endblock %}
