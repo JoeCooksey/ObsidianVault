@@ -519,3 +519,4 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Supplements for Young Male Health and Learning]] — 8 key findings, 5 open questions
 - [[Research - Joe's Supplement Stack Audit]] — audit of Joe's ~25-supplement stack: S/A/B/C ranking, timing verdict by block, one real error (Bacopa fasted → move to after-breakfast), zinc gap, low-priority trims (Lion's Mane/astaxanthin) (developing)
 - [[Research - Data Science in Electrical Engineering]] — 8 findings; 8 application domains (predictive maintenance, SCADA/PMU, BMS, renewable forecasting, MCSA, EMC); tool table; 7-project EE-DS ladder; career roles; ASU MS program; 5 open questions (complete)
+- [[Research - Habits That Impact Testosterone]] — beneficial (include) vs damaging (avoid) habit lists ranked by effect×evidence; "remove suppressors > chase boosters"; fat loss + sleep + low alcohol are the big levers; exercise/vit-D myths flagged; 10 sources (developing)
