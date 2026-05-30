@@ -375,6 +375,14 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Dating / Relationships
 - [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
 
+### Sexual Health (Masturbation & Pornography)
+- [[Masturbation Health Benefits]] — net-positive, myth-debunking summary; stress/sleep/mood + ejaculation–prostate link; harm only via compulsivity or shame (developing)
+- [[Compulsive Sexual Behavior Disorder (CSBD)]] — ICD-11 impulse-control disorder (NOT an addiction); 6+ months loss of control + impairment; moral-only distress excluded (developing)
+- [[Problematic Pornography Use (PPU)]] — distressing use; **frequency ≠ problem**; two pathways: genuine dysregulation vs moral incongruence (developing)
+- [[Moral Incongruence (Pornography)]] — value conflict (esp. religiosity) predicts self-reported "porn addiction" better than actual use; Grubbs PPMI model (developing)
+- [[Ejaculation Frequency and Prostate Cancer]] — total ejaculation protective (OR 0.83); masturbation frequency alone NOT significant (OR 1.12); Harvard cohort ~20% lower (developing)
+- [[Research - Masturbation and Pornography (Benefits and Harms)]] — synthesis: masturbation benign-to-beneficial; porn effects context-dependent; "porn-induced ED" not causally established; addiction model contested (developing)
+
 ### Social Connection / Friendships
 - [[ASU Social Connection Methods Ranked]] — S–D tier list of all ASU friendship-building methods; IEEE/Solar Devils S-tier; study groups S-tier; proximity science; Joe's action stack (developing)
 
