@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-30] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+Israel-Lebanon ground offensive crosses Litani River; U.S.-Iran 60-day nuclear MOU "largely negotiated," awaiting Trump approval; Blue Origin New Glenn explodes on launch pad; FDA/EPA/NIH/CDC workforce cuts producing measurable regulatory delays; CIA official arrested with 303 gold bars worth $40M in Virginia home.
+
+## [2026-05-30] newsletter | EE Daily — May 30, 2026
+Top 3 stories: imec/Ghent first TFLN transfer-printed on silicon photonics (70 GHz, 320 Gb/s); Broadcom custom AI ASICs $8.4B Q1 revenue (+106% YoY, $100B by 2027 guidance); China's Tiancheng 14-inch SiC crystal commercialization begins. Daily research topic: Thin-Film Lithium Niobate (TFLN) electro-optic modulators — Pockels effect, Vπ·L, μTP integration.
+
 ## [2026-05-29] autoresearch | Robinhood Agentic Trading & Beating the Market
 - Rounds: 2 | Searches: 8 | Pages created: 7
 - Created: [[Agentic Trading (Robinhood)]], [[Robinhood Cortex]], [[Robinhood]], [[Efficient Market Hypothesis]], [[Robinhood — Agentic Trading Overview]], [[TechCrunch — Robinhood Lets AI Agents Trade Stocks]], [[ML vs Efficient Markets — Academic Reassessment]]

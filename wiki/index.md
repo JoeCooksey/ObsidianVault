@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — May 30, 2026]] — imec/Ghent TFLN on silicon photonics (70 GHz, 320 Gb/s world-first); Broadcom AI ASICs $8.4B Q1 (+106% YoY); 14-inch SiC crystal commercialization (Tiancheng); 2D molecular ferroelectric at 9 nm; HBM spike + ADI acquires AI power delivery firm; daily topic: Thin-Film LiNbO₃ Electro-Optic Modulators
 - [[EE Daily — May 29, 2026]] — Moore4Power €91M Si/SiC/GaN heterogeneous integration EU project; AMD EPYC Venice first 2nm HPC CPU in production; Soitec/NTU GaN >50% PAE at 6G FR3; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; custom AI ASICs at 27.8% AI server market share; daily topic: Heterogeneous Power Module Integration (CTE, L_CS, AlN substrates)
 - [[EE Daily — May 28, 2026]] — AMD EPYC Venice first 2nm HPC CPU in production; Broadcom ASICs 27.8% AI server share; SK Hynix HBM sold out; ferroelectric UWBG Ga₂O₃ MOCVD framework; NVIDIA CPO at 400 Tbps; daily topic: TSMC N2 GAA nanosheet transistors
 - [[EE Daily — May 27, 2026]] — Broadcom AI revenue +106% YoY to $8.4B; Moore4Power €91M heterogeneous Si/SiC/GaN EU project; IBM 10× QEC decoding speedup; Google Willow 13,000× quantum advantage; FMCW silicon photonics LiDAR to volume production; 2D ferroelectric FeFETs for logic-in-memory; daily topic: QEC surface codes vs QLDPC
