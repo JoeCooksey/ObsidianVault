@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-30] autoresearch | How to Make Kefir
+- Rounds: 2 | Searches: 7 | Pages created: 8
+- Created: [[Milk Kefir Making — Step-by-Step Guide]], [[Kefir Grain Sourcing and Care]], [[Kefir Microbiology and Health Benefits]], [[Frontiers-PMC — Microbiota of Kefir]], [[Cultures for Health — Milk Kefir Grains]], [[Yemoos — Milk Kefir FAQ]], [[Cultured.guru — How to Make Fermented Milk Kefir]], [[Etsy — Milk Kefir Grains Marketplace]]
+- Synthesis: [[Research - How to Make Kefir]]
+- Key finding: Kefir is easy — 1 Tbsp live grains per 1–2 cups whole milk in a glass jar at room temp ~24h, strain, repeat; ratio is the master dial for sourness, second ferment mellows + flavors. Grains are a living SCOBY that multiplies, so one purchase = lifetime supply. **Quality buy: Yemoos live heirloom grains ~$10+$5 ship (best FAQ in hobby); budget: Etsy $8–11 live; best of all = free spare grains from a local fermenter (FB groups/r/Kefir).** Microbiology (peer-reviewed): L. kefiranofaciens/kefiri + yeasts, ~300 species, unique exopolysaccharide kefiran; benefits strong in animal/in-vitro but human clinical evidence still limited; lower lactose than milk is well-founded. (cultured.guru URL 404'd on fetch — captured via search snapshot.)
+
 ## [2026-05-30] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 Israel-Lebanon ground offensive crosses Litani River; U.S.-Iran 60-day nuclear MOU "largely negotiated," awaiting Trump approval; Blue Origin New Glenn explodes on launch pad; FDA/EPA/NIH/CDC workforce cuts producing measurable regulatory delays; CIA official arrested with 303 gold bars worth $40M in Virginia home.
 

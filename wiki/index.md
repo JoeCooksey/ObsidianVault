@@ -275,6 +275,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Gut Health Foods Tier List]] — S–F ranking of foods by microbiome impact: kefir/kimchi/Jerusalem artichoke S-tier; fermented vs prebiotic vs polyphenol vs omega-3 mechanisms; daily protocol; 30-plant-foods/week rule (developing)
 - [[Gut Microbiome Fundamentals]] — core science: Bifidobacterium/Lactobacillus/Akkermansia roles; SCFA pathway diagram; dysbiosis causes; rebuilding timeline; gut-brain axis; probiotic food vs supplement comparison (developing)
 
+### Fermentation / Kefir
+- [[Milk Kefir Making — Step-by-Step Guide]] — full method: 1 Tbsp grains per 1–2 cups whole milk, 65–75°F, 12–36h, glass-only, strain + restart; second fermentation for flavor; controlling sourness; milk choice (developing)
+- [[Kefir Grain Sourcing and Care]] — where to buy (Yemoos ~$10 top pick, Cultures for Health $16.99, Etsy $8–11 budget, free from local fermenters); live vs dried; fridge/dry/freeze storage; reviving; growth troubleshooting (developing)
+- [[Kefir Microbiology and Health Benefits]] — what's in grains (L. kefiranofaciens/kefiri, yeasts, ~300 species, kefiran); animal/in-vitro benefits strong, human evidence limited; lower lactose than milk (developing)
+
 ### Diet Science / Nutrition Research
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — 9-claim evidence review: oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) + vegetables (oxalates, isothiocyanates, polyphenols, phytosterols); 2 of 9 claims hold; scorecard included (complete)
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
@@ -402,6 +407,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[IEEE Spectrum SiC vs GaN 2024]] — authoritative SiC vs GaN competitive landscape
 - [[MDPI WBG Comparative Review 2024]] — material properties, reliability, EV applications
 
+### Health / Fermentation (Kefir)
+- [[Frontiers-PMC — Microbiota of Kefir]] — Bourrie et al. 2016, peer-reviewed review; kefir species, kefiran, animal vs human evidence (high confidence)
+- [[Cultures for Health — Milk Kefir Grains]] — vendor + how-to; method, second ferment, sourness fixes; $16.99 grains (medium)
+- [[Yemoos — Milk Kefir FAQ]] — vendor + best grain-care reference; ~$10 live grains; storage/reviving (medium)
+- [[Cultured.guru — How to Make Fermented Milk Kefir]] — microbiologist how-to blog; ratios/temp/timing (medium)
+- [[Etsy — Milk Kefir Grains Marketplace]] — budget sourcing $8–17 live grains (medium)
+
 ## Areas (Personal)
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
@@ -419,6 +431,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - How to Make Kefir]] — in-depth kefir-making guide: 60-sec recipe, 1:10–1:15 grain ratio, sourness control, second ferment; where to buy (Yemoos ~$10 top pick / Etsy $8–11 budget / free from local fermenters); microbiology + evidence levels (developing)
 - [[Research - Long-Term Compounding Daily Projects]] — 8 findings; leverage type decides what compounds; best daily project = skill + public artifact + career evidence; one merged PR > 5 clones; investing is the literal compounder; recommended stack = GitHub log + learn-in-public blog + automated DCA; tier list deliverable (developing)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
