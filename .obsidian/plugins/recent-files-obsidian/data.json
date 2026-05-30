@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Vibe Coding Tool Landscape 2026",
+      "path": "wiki/concepts/Vibe Coding Tool Landscape 2026.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Vibe Coding",
+      "path": "wiki/concepts/Vibe Coding.md"
+    },
+    {
+      "basename": "Profitable Micro-SaaS Playbook",
+      "path": "wiki/concepts/Profitable Micro-SaaS Playbook.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
       "basename": "Portfolio Dashboard",
       "path": "Finance/Portfolio Dashboard.md"
     },
@@ -35,10 +59,6 @@
     {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Why Optimize Your Gut",
@@ -179,26 +199,6 @@
     {
       "basename": "Reading-Application-Framework",
       "path": "wiki/concepts/Reading-Application-Framework.md"
-    },
-    {
-      "basename": "Book-List-Career-and-Leadership",
-      "path": "wiki/concepts/Book-List-Career-and-Leadership.md"
-    },
-    {
-      "basename": "Book-List-History-and-Ideas",
-      "path": "wiki/concepts/Book-List-History-and-Ideas.md"
-    },
-    {
-      "basename": "Book-List-Science-and-Technology",
-      "path": "wiki/concepts/Book-List-Science-and-Technology.md"
-    },
-    {
-      "basename": "Benefits-of-Reading",
-      "path": "wiki/concepts/Benefits-of-Reading.md"
-    },
-    {
-      "basename": "Reading-Retention-Methods",
-      "path": "wiki/concepts/Reading-Retention-Methods.md"
     }
   ],
   "omittedPaths": [],
