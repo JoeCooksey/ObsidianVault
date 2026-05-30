@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Heterogeneous Integration in Power Electronics",
+      "path": "wiki/questions/Research - Heterogeneous Integration in Power Electronics.md"
+    },
+    {
+      "basename": "Research - Stock Buy-Sell Factors and Quant Finance",
+      "path": "wiki/questions/Research - Stock Buy-Sell Factors and Quant Finance.md"
+    },
+    {
+      "basename": "dashboard",
+      "path": "wiki/meta/dashboard.md"
+    },
+    {
+      "basename": "Fundamental Analysis Valuation Metrics",
+      "path": "wiki/concepts/Fundamental Analysis Valuation Metrics.md"
+    },
+    {
+      "basename": "Sell Discipline (When to Sell a Stock)",
+      "path": "wiki/concepts/Sell Discipline (When to Sell a Stock).md"
+    },
+    {
+      "basename": "News Debrief 2026-05-30",
+      "path": "wiki/news/News Debrief 2026-05-30.md"
+    },
+    {
+      "basename": "2026-05-30-ee-daily",
+      "path": "wiki/newsletters/2026-05-30-ee-daily.md"
+    },
+    {
+      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
+      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Why Optimize Your Gut",
+      "path": "wiki/concepts/Why Optimize Your Gut.md"
+    },
+    {
+      "basename": "Leaky Gut and Intestinal Permeability",
+      "path": "wiki/concepts/Leaky Gut and Intestinal Permeability.md"
+    },
+    {
+      "basename": "Gut Optimization Actions Tier List",
+      "path": "wiki/concepts/Gut Optimization Actions Tier List.md"
+    },
+    {
+      "basename": "Gut-Harmful Foods and Actions Tier List",
+      "path": "wiki/concepts/Gut-Harmful Foods and Actions Tier List.md"
     },
     {
       "basename": "Kefir Grain Sourcing and Care",
@@ -11,10 +59,6 @@
     {
       "basename": "Milk Kefir Making — Step-by-Step Guide",
       "path": "wiki/concepts/Milk Kefir Making — Step-by-Step Guide.md"
-    },
-    {
-      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
-      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
     {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
@@ -155,50 +199,6 @@
     {
       "basename": "EE Data Science Skills Roadmap",
       "path": "wiki/concepts/EE Data Science Skills Roadmap.md"
-    },
-    {
-      "basename": "Data Science in Electrical Engineering",
-      "path": "wiki/concepts/Data Science in Electrical Engineering.md"
-    },
-    {
-      "basename": "Summer Part-Time Job Search for College Students",
-      "path": "wiki/concepts/Summer Part-Time Job Search for College Students.md"
-    },
-    {
-      "basename": "2026-05-26-ee-daily",
-      "path": "wiki/newsletters/2026-05-26-ee-daily.md"
-    },
-    {
-      "basename": "News Debrief 2026-05-26",
-      "path": "wiki/news/News Debrief 2026-05-26.md"
-    },
-    {
-      "basename": "Gut Health Foods Tier List",
-      "path": "wiki/concepts/Gut Health Foods Tier List.md"
-    },
-    {
-      "basename": "Consumer Purchase Value Tier List",
-      "path": "wiki/concepts/Consumer Purchase Value Tier List.md"
-    },
-    {
-      "basename": "Agent Roles Software Development",
-      "path": "wiki/concepts/Agent Roles Software Development.md"
-    },
-    {
-      "basename": "Agent Orchestration Frameworks",
-      "path": "wiki/concepts/Agent Orchestration Frameworks.md"
-    },
-    {
-      "basename": "Multi-Agent Development Team",
-      "path": "wiki/concepts/Multi-Agent Development Team.md"
-    },
-    {
-      "basename": "Research - Full Agent Stack Team Guide",
-      "path": "wiki/questions/Research - Full Agent Stack Team Guide.md"
-    },
-    {
-      "basename": "News Debrief 2026-05-25",
-      "path": "wiki/news/News Debrief 2026-05-25.md"
     }
   ],
   "omittedPaths": [],
