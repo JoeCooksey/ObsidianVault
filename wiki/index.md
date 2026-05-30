@@ -49,6 +49,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Ed Thorp]] — "godfather of quants"; beat blackjack (*Beat the Dealer*) then markets; invented statistical arbitrage; PNP ~20% net for 2 decades, no down quarter
 - [[D.E. Shaw]] — quant firm (David Shaw, 1988); where Jeff Bezos worked; ~22%/yr 1988–2000; 2024 #1 hedge fund by $ ($11.1B, Oculus +36%)
 - [[Naval Ravikant]] — AngelList co-founder; *Almanack* (2020); four-leverage framework, permissionless code/media, specific knowledge, "earn with your mind not your time"
+- [[Andrej Karpathy]] — OpenAI co-founder, ex-Tesla AI; coined "vibe coding" (Feb 2025); "the hottest new programming language is English"; also originated the autoresearch loop pattern
+- [[Pieter Levels]] — "@levelsio" solo founder; ~$3M/yr ARR, zero employees (Nomad List, RemoteOK, PhotoAI); vanilla PHP/jQuery/SQLite; ship-before-ready; vibe-coding indie-hacker archetype
+- [[Simon Willison]] — Django co-creator; drew the vibe-coding-vs-engineering line; "don't commit code you can't explain to someone else"
 
 ## Concepts
 
