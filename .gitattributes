@@ -1,0 +1,4 @@
+# Auto-resolve Obsidian plugin state files that change on every session
+.obsidian/plugins/recent-files-obsidian/data.json merge=ours
+.obsidian/plugins/notebook-navigator/data.json merge=ours
+.obsidian/plugins/readwise-official/data.json merge=ours
