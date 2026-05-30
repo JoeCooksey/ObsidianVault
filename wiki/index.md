@@ -234,6 +234,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Health / Testosterone
+- [[Testosterone-Boosting Habits to Include]] — beneficial habits ranked S→B by effect×evidence: fat loss (BMI 30→25 ≈ +13–15%), sleep 7–9h, resistance training, adequate dietary fat, protein/calories, fix zinc/vit-D/Mg deficiency, manage stress; "remove suppressors > chase boosters" (developing)
+- [[Testosterone-Lowering Habits to Avoid]] — damaging habits worst-first: obesity/sedentary, chronic short sleep/apnea (−10–15%), heavy alcohol (−7% to −50%), chronic stress, plastics/phthalates/BPA, very-low-fat dieting, endurance overtraining, smoking, cannabis (developing)
+- [[Testosterone Physiology Fundamentals]] — HPG axis, aromatase (fat→estradiol), cholesterol precursor, free vs total T + SHBG, morning/REM circadian rhythm, normal-ceiling principle, secular decline (developing)
+
 ### Investing / Stock Monitoring
 - [[Weekly Stock Scan 2026-05-25]] — Week of May 25, 2026; 11 tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML; insider trading, analyst activity, short interest, SEC filings (complete)
 
