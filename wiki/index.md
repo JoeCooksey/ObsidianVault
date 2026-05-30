@@ -394,6 +394,11 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Power Electronics (Project References)
 - [[STM32G4 Digital Power Buck Reference]] — STM32G4 HRTIM/FMAC 3p3z + TI C2000 TIDM-DC-DC-BUCK/CLA/SFRA; design-by-emulation, ADC-PWM sync, loop-gain injection, DPT (high — vendor docs)
 
+### Vibe Coding / AI-Assisted Building
+- [[Vibe Coding — Wikipedia]] — definition, Karpathy origin (Feb 2025), Collins Word of the Year 2025, criticism + statistics (CodeRabbit 1.7×, METR 19% slower, Replit/Lovable incidents) (high)
+- [[Not All AI-Assisted Programming Is Vibe Coding]] — Simon Willison (2025-03-19); the narrow definition + "don't commit code you can't explain"; when it's appropriate vs not (high)
+- [[Pieter Levels — How He Builds (Case Study)]] — multiple profiles (2025); ~$3M/yr solo, simple stack, ship-before-ready doctrine (medium — self-reported revenue)
+
 ### Productivity / Career Philosophy
 - [[Deep Work — Cal Newport]] — Newport (2016); deep vs shallow work, Time × Intensity formula, two core abilities, Principle of Least Resistance, 4 scheduling philosophies (high — as framework)
 - [[The Almanack of Naval Ravikant]] — Jorgenson/Ravikant (2020); four kinds of leverage, permissionless code/media, specific knowledge, productize yourself, long-term games (high — as framework)
