@@ -50,7 +50,10 @@
       "Bash(git add *)",
       "Bash(git commit *)",
       "Bash(git rm *)",
-      "Bash(del conflict-files-obsidian-git.md)"
+      "Bash(del conflict-files-obsidian-git.md)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)"
     ]
   },
   "enabledPlugins": {}
