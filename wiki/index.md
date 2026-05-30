@@ -399,6 +399,14 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Sexual Health
+- [[Masturbation Facts and Benefits — Cleveland Clinic]] — clinical baseline; benefits + debunked myths + limited downsides (high confidence)
+- [[Pornography Use and Psychological Science — Grubbs Kraus 2021]] — effects range positive→neutral→negative; frequency ≠ problem; moral incongruence predicts perceived addiction (high)
+- [[CSBD and Problematic Pornography Use Treatments — Systematic Review 2023]] — 24 studies; CBT best-supported; only 4 RCTs, quality low (high for synthesis)
+- [[Pornography and Sexual Dysfunction — Integrative Review 2019]] — no causal evidence for porn-induced ED; lower sexual satisfaction is strongest signal (high)
+- [[Sexual Activity and Prostate Cancer — Dose-Response Meta-analysis 2025]] — 29 studies/315k men; ejaculation OR 0.83 protective; masturbation OR 1.12 n.s. (high)
+- [[Adolescent Pornography Exposure and Sexual Behavior — Systematic Review 2023]] — earlier debut + permissive attitudes; mostly cross-sectional, no causality (medium)
+
 ### Finance / Quant
 - [[Renaissance Technologies — Wikipedia]] — Medallion returns (~71.8% gross / 39% net), 5/44 fees, history, $7B IRS settlement (high confidence)
 - [[Edward O. Thorp — Wikipedia]] — origin of statistical arbitrage; PNP ~20% net no down quarter; Ridgeline wound down 2002 as edge crowded out (high confidence)
