@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Vibe Coding Tool Landscape 2026",
-      "path": "wiki/concepts/Vibe Coding Tool Landscape 2026.md"
-    },
-    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Testosterone-Lowering Habits to Avoid",
+      "path": "wiki/concepts/Testosterone-Lowering Habits to Avoid.md"
+    },
+    {
+      "basename": "Testosterone-Boosting Habits to Include",
+      "path": "wiki/concepts/Testosterone-Boosting Habits to Include.md"
+    },
+    {
+      "basename": "Vibe Coding Tool Landscape 2026",
+      "path": "wiki/concepts/Vibe Coding Tool Landscape 2026.md"
     },
     {
       "basename": "Vibe Coding",
@@ -191,14 +199,6 @@
     {
       "basename": "Question",
       "path": "_templates/Question.md"
-    },
-    {
-      "basename": "Windows-to-Linux-Complete-Guide",
-      "path": "wiki/sources/Windows-to-Linux-Complete-Guide.md"
-    },
-    {
-      "basename": "Reading-Application-Framework",
-      "path": "wiki/concepts/Reading-Application-Framework.md"
     }
   ],
   "omittedPaths": [],
