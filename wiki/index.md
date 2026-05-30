@@ -52,6 +52,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Andrej Karpathy]] — OpenAI co-founder, ex-Tesla AI; coined "vibe coding" (Feb 2025); "the hottest new programming language is English"; also originated the autoresearch loop pattern
 - [[Pieter Levels]] — "@levelsio" solo founder; ~$3M/yr ARR, zero employees (Nomad List, RemoteOK, PhotoAI); vanilla PHP/jQuery/SQLite; ship-before-ready; vibe-coding indie-hacker archetype
 - [[Simon Willison]] — Django co-creator; drew the vibe-coding-vs-engineering line; "don't commit code you can't explain to someone else"
+- [[Joshua Grubbs]] — clinical psychologist; moral incongruence / PPMI model; showed religiosity (not use level) predicts self-reported "porn addiction"
 
 ## Concepts
 
