@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Stock Dashboard — Vault Framework</title>
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --panel2: #1c2230; --border: #2a3140;
+    --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff;
+    --good: #3fb950; --warn: #d29922; --bad: #f85149; --info: #58a6ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+  }
+  header.top {
+    padding: 22px 28px; border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, #11161f, #0d1117);
+  }
+  header.top h1 { margin: 0; font-size: 19px; letter-spacing: .3px; }
+  header.top p { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px 28px 80px; }
+
+  .search { display: flex; gap: 10px; margin: 22px 0 6px; }
+  .search input {
+    flex: 1; padding: 14px 16px; font-size: 17px; background: var(--panel);
+    border: 1px solid var(--border); border-radius: 10px; color: var(--text);
+    text-transform: uppercase; letter-spacing: 1px;
+  }
+  .search input::placeholder { letter-spacing: normal; text-transform: none; }
+  .search button {
+    padding: 0 26px; font-size: 16px; font-weight: 600; background: var(--accent);
+    color: #04101f; border: none; border-radius: 10px; cursor: pointer;
+  }
+  .search button:disabled { opacity: .5; cursor: wait; }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+  .chip {
+    font-size: 12px; padding: 5px 11px; background: var(--panel2);
+    border: 1px solid var(--border); border-radius: 20px; color: var(--muted);
+    cursor: pointer;
+  }
+  .chip:hover { color: var(--text); border-color: var(--accent); }
+
+  .err { color: var(--bad); padding: 14px; background: rgba(248,81,73,.1);
+         border: 1px solid var(--bad); border-radius: 10px; margin-top: 18px; }
+
+  .price-head { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-top: 8px; }
+  .price-head .px { font-size: 38px; font-weight: 700; }
+  .price-head .chg { font-size: 18px; font-weight: 600; }
+  .up { color: var(--good); } .down { color: var(--bad); }
+  .sub { color: var(--muted); font-size: 13px; margin-top: 2px; }
+
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 22px; }
+  @media (max-width: 820px) { .grid { grid-template-columns: 1fr; } }
+  .panel {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 14px; padding: 18px 20px;
+  }
+  .panel h2 { margin: 0 0 4px; font-size: 15px; }
+  .panel .layer { color: var(--muted); font-size: 12px; margin-bottom: 14px; }
+
+  table.metrics { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  table.metrics td { padding: 7px 4px; border-bottom: 1px solid var(--border); }
+  table.metrics td.k { color: var(--muted); }
+  table.metrics td.v { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
+  .na { color: #4d5563; }
+
+  .flags { list-style: none; padding: 0; margin: 14px 0 0; }
+  .flags li {
+    font-size: 13px; padding: 8px 12px; border-radius: 8px; margin-bottom: 7px;
+    border-left: 3px solid var(--info); background: var(--panel2);
+  }
+  .flags li.good { border-color: var(--good); }
+  .flags li.warn { border-color: var(--warn); }
+  .flags li.bad  { border-color: var(--bad); }
+  .flags li.info { border-color: var(--info); }
+
+  .tline { display: flex; justify-content: space-between; font-size: 13.5px;
+           padding: 6px 0; border-bottom: 1px solid var(--border); }
+  .tline b { font-variant-numeric: tabular-nums; }
+
+  svg.spark { width: 100%; height: 64px; margin-top: 12px; }
+
+  /* Position sizing calculator */
+  .calc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 10px; }
+  .calc-row label { font-size: 12px; color: var(--muted); display: block; margin-bottom: 4px; }
+  .calc-row input {
+    width: 100%; padding: 9px 10px; background: var(--panel2);
+    border: 1px solid var(--border); border-radius: 8px; color: var(--text); font-size: 14px;
+  }
+  .calc-out { margin-top: 6px; font-size: 14px; }
+  .calc-out .big { font-size: 26px; font-weight: 700; color: var(--accent); }
+  .muted-note { color: var(--muted); font-size: 12px; margin-top: 10px; }
+  .summary { color: var(--muted); font-size: 13px; margin-top: 6px; max-height: 110px; overflow: auto; }
+  .footer-note { color: #4d5563; font-size: 12px; margin-top: 30px; text-align: center; }
+  .loading { color: var(--muted); margin-top: 20px; }
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>📈 Stock Dashboard</h1>
+  <p>Real-time report organized by the vault's four decision layers — Fundamentals · Technicals · Position Sizing · Sell Discipline</p>
+</header>
+
+<div class="wrap">
+  <div class="search">
+    <input id="ticker" placeholder="Enter a ticker (e.g. AAPL, MSFT, NVDA)" autocomplete="off" />
+    <button id="go">Analyze</button>
+  </div>
+  <div class="chips" id="chips"></div>
+
+  <div id="out"></div>
+
+  <p class="footer-note">
+    Data via yfinance (Yahoo, ~15-min delayed, scraped — directional not audited).
+    No single ratio is reliable alone; valuation is judgment, not arithmetic.
+  </p>
+</div>
+
+<script>
+const QUICK = ["AAPL","MSFT","NVDA","GOOGL","AMZN","TSLA","SPY","BRK-B"];
+const $ = (s) => document.querySelector(s);
+const out = $("#out");
+
+const chips = $("#chips");
+QUICK.forEach(t => {
+  const c = document.createElement("span");
+  c.className = "chip"; c.textContent = t;
+  c.onclick = () => { $("#ticker").value = t; run(); };
+  chips.appendChild(c);
+});
+
+function fmt(v, kind) {
+  if (v === null || v === undefined) return '<span class="na">—</span>';
+  if (kind === "%") return v.toFixed(2) + "%";
+  if (kind === "x") return v.toFixed(2) + "×";
+  if (kind === "raw") return (+v).toLocaleString(undefined,{maximumFractionDigits:2});
+  return v;
+}
+function money(v, cur) {
+  if (v === null || v === undefined) return "—";
+  return (cur && cur !== "USD" ? cur + " " : "$") + (+v).toLocaleString(undefined,{maximumFractionDigits:2});
+}
+function bigCap(v) {
+  if (!v) return "—";
+  const a = Math.abs(v);
+  if (a >= 1e12) return "$" + (v/1e12).toFixed(2) + "T";
+  if (a >= 1e9)  return "$" + (v/1e9).toFixed(2) + "B";
+  if (a >= 1e6)  return "$" + (v/1e6).toFixed(2) + "M";
+  return "$" + v.toLocaleString();
+}
+function flagsHTML(flags) {
+  if (!flags || !flags.length) return "";
+  return '<ul class="flags">' + flags.map(f =>
+    `<li class="${f.level}">${f.text}</li>`).join("") + "</ul>";
+}
+function sparkSVG(data) {
+  if (!data || data.length < 2) return "";
+  const w = 100, h = 30, min = Math.min(...data), max = Math.max(...data);
+  const rng = (max - min) || 1;
+  const pts = data.map((d,i) =>
+    `${(i/(data.length-1)*w).toFixed(2)},${(h-(d-min)/rng*h).toFixed(2)}`).join(" ");
+  const up = data[data.length-1] >= data[0];
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none">
+    <polyline fill="none" stroke="${up?'#3fb950':'#f85149'}" stroke-width="1" points="${pts}"/></svg>`;
+}
+
+async function run() {
+  const t = $("#ticker").value.trim();
+  if (!t) return;
+  $("#go").disabled = true;
+  out.innerHTML = '<p class="loading">Loading ' + t.toUpperCase() + ' …</p>';
+  try {
+    const r = await fetch("/api/stock/" + encodeURIComponent(t));
+    const d = await r.json();
+    if (d.error) { out.innerHTML = `<div class="err">${d.error}</div>`; return; }
+    render(d);
+  } catch (e) {
+    out.innerHTML = `<div class="err">Request failed: ${e}</div>`;
+  } finally {
+    $("#go").disabled = false;
+  }
+}
+
+function render(d) {
+  const h = d.header;
+  const up = (h.change ?? 0) >= 0;
+  const cur = h.currency;
+
+  // Header
+  let html = `
+  <div class="panel" style="margin-top:18px;">
+    <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;">
+      <div>
+        <div style="font-size:13px;color:var(--muted)">${h.ticker} · ${h.exchange||""}</div>
+        <div style="font-size:20px;font-weight:700">${h.name}</div>
+        <div class="sub">${[h.sector,h.industry].filter(Boolean).join(" · ")}</div>
+      </div>
+      <div style="text-align:right">
+        <div class="price-head" style="justify-content:flex-end">
+          <span class="px">${money(h.price,cur)}</span>
+          <span class="chg ${up?'up':'down'}">${up?'▲':'▼'} ${h.change??'—'} (${h.change_pct??'—'}%)</span>
+        </div>
+        <div class="sub">as of ${h.as_of}</div>
+      </div>
+    </div>
+    <div style="display:flex;gap:22px;flex-wrap:wrap;margin-top:14px;font-size:13px;color:var(--muted)">
+      <span>Mkt cap <b style="color:var(--text)">${bigCap(h.market_cap)}</b></span>
+      <span>52w <b style="color:var(--text)">${money(h.fifty_two_low,cur)} – ${money(h.fifty_two_high,cur)}</b></span>
+      <span>Beta <b style="color:var(--text)">${h.beta??'—'}</b></span>
+      <span>Div yield <b style="color:var(--text)">${h.dividend_yield!=null?h.dividend_yield+'%':'—'}</b></span>
+    </div>
+    ${h.summary?`<div class="summary">${h.summary}</div>`:""}
+  </div>`;
+
+  html += '<div class="grid">';
+
+  // Fundamentals
+  const f = d.fundamentals;
+  html += `<div class="panel">
+    <h2>① Fundamentals</h2><div class="layer">WHAT to own — is the business worth the price?</div>
+    <table class="metrics"><tbody>`;
+  f.metrics.forEach(m => {
+    html += `<tr><td class="k" title="${m.hint||''}">${m.label}</td>
+      <td class="v">${fmt(m.value, m.fmt)}</td></tr>`;
+  });
+  html += `</tbody></table>${flagsHTML(f.flags)}</div>`;
+
+  // Technicals
+  const tc = d.technicals;
+  html += `<div class="panel"><h2>② Technicals</h2>
+    <div class="layer">WHEN to act — what is the price doing? (timing tool, weak standalone edge)</div>`;
+  if (tc) {
+    html += `
+    <div class="tline"><span>50-day SMA</span><b>${money(tc.sma50,cur)}</b></div>
+    <div class="tline"><span>200-day SMA</span><b>${money(tc.sma200,cur)}</b></div>
+    <div class="tline"><span>RSI (14)</span><b>${tc.rsi??'—'}</b></div>
+    <div class="tline"><span>MACD / signal</span><b>${tc.macd??'—'} / ${tc.macd_signal??'—'}</b></div>
+    <div class="tline"><span>Support (60d low)</span><b>${money(tc.support,cur)}</b></div>
+    <div class="tline"><span>Resistance (60d high)</span><b>${money(tc.resistance,cur)}</b></div>
+    <div class="tline"><span>Volume vs 20d avg</span><b>${tc.vol_ratio?tc.vol_ratio+'×':'—'}</b></div>
+    ${sparkSVG(tc.spark)}
+    ${flagsHTML(tc.flags)}`;
+  } else {
+    html += `<p class="na">Not enough price history.</p>`;
+  }
+  html += `</div>`;
+
+  // Margin of safety / Sell discipline
+  const m = d.margin_of_safety;
+  html += `<div class="panel"><h2>④ Margin of Safety & Sell Discipline</h2>
+    <div class="layer">WHEN to exit — fair value vs price, and your sell plan</div>`;
+  if (m) {
+    html += `
+    <div class="tline"><span>Analyst target (low / mean / high)</span>
+      <b>${money(m.target_low,cur)} / ${money(m.target_mean,cur)} / ${money(m.target_high,cur)}</b></div>
+    <div class="tline"><span>Consensus</span><b>${(m.recommendation||'—').toUpperCase()} ${m.n_analysts?'('+m.n_analysts+')':''}</b></div>
+    <div class="tline"><span>Margin of safety vs mean target</span>
+      <b class="${(m.margin_of_safety_pct??0)>=0?'up':'down'}">${m.margin_of_safety_pct!=null?m.margin_of_safety_pct+'%':'—'}</b></div>
+    ${flagsHTML(m.flags)}`;
+  } else {
+    html += `<p class="na">No analyst data.</p>`;
+  }
+  // Sell-rule checklist (from the vault)
+  html += `
+    <div class="muted-note" style="margin-top:14px">
+      <b style="color:var(--text)">Sell when (write the rule before you buy):</b><br>
+      1. Thesis broke · 2. Target price hit · 3. Rebalancing an oversized winner ·
+      4. Defensive weakening · 5. Personal cash/risk need.<br>
+      <span style="color:var(--bad)">Worst reason: "the price dropped."</span>
+      Missing the 10 best S&amp;P days (2000–2020) cut returns ~6%→2.4%.
+    </div>`;
+  html += `</div>`;
+
+  // Position sizing calculator
+  html += `<div class="panel"><h2>③ Position Sizing</h2>
+    <div class="layer">HOW MUCH to risk — most blow-ups are sizing failures, not bad picks</div>
+    <div class="calc-row">
+      <div><label>Account capital ($)</label><input id="cap" type="number" value="10000"></div>
+      <div><label>Risk per trade (%)</label><input id="risk" type="number" value="1" step="0.5"></div>
+    </div>
+    <div class="calc-row">
+      <div><label>Entry price ($)</label><input id="entry" type="number" value="${h.price??0}"></div>
+      <div><label>Stop-loss price ($)</label><input id="stop" type="number" value="${(h.price?(h.price*0.92).toFixed(2):0)}"></div>
+    </div>
+    <div class="calc-out" id="calcOut"></div>
+    <div class="muted-note">Vault rule: risk only 1–2% of capital per trade; set the stop <i>before</i> entry.
+    A 50% loss needs a 100% gain to recover.</div>
+  </div>`;
+
+  html += '</div>'; // grid
+  out.innerHTML = html;
+
+  ["cap","risk","entry","stop"].forEach(id => $("#"+id).addEventListener("input", calc));
+  calc();
+}
+
+function calc() {
+  const cap = +$("#cap").value, risk = +$("#risk").value;
+  const entry = +$("#entry").value, stop = +$("#stop").value;
+  const o = $("#calcOut");
+  if (!cap || !entry || !stop || entry <= stop) {
+    o.innerHTML = '<span class="na">Enter capital, entry, and a stop below entry.</span>';
+    return;
+  }
+  const riskBudget = cap * (risk/100);
+  const perShare = entry - stop;
+  const shares = Math.floor(riskBudget / perShare);
+  const position = shares * entry;
+  const pctOfAcct = (position/cap*100);
+  o.innerHTML = `
+    <div class="big">${shares.toLocaleString()} shares</div>
+    <div>Risk budget: <b>$${riskBudget.toLocaleString(undefined,{maximumFractionDigits:2})}</b>
+      · Risk/share: <b>$${perShare.toFixed(2)}</b></div>
+    <div>Position size: <b>$${position.toLocaleString(undefined,{maximumFractionDigits:2})}</b>
+      (${pctOfAcct.toFixed(1)}% of account)</div>
+    ${pctOfAcct>40?'<div style="color:var(--warn);font-size:12px;margin-top:4px">⚠ Position is a large share of the account — concentration risk.</div>':''}`;
+}
+
+$("#go").onclick = run;
+$("#ticker").addEventListener("keydown", e => { if (e.key === "Enter") run(); });
+</script>
+</body>
+</html>
