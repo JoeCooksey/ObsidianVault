@@ -253,6 +253,7 @@ Year 3+  → Cadence Virtuoso (IC design track only)
 ---
 
 ## Cross-References
+- [[EE-Software-on-Linux-Mint]] — which of these tools run natively on Linux Mint vs need Wine; exact install commands (KiCad 10 PPA, apt one-liner, FPGA caveats)
 - [[LTSpice Complete Skills Guide]] — deep SPICE simulation reference
 - [[Python EE Project Ladder]] — 20-project Python progression with tool integration
 - [[Verilog and FPGA Learning Path]] — FPGA tools deep dive

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-05-26T00:00:00
+updated: 2026-05-28T00:00:00
 tags:
   - meta
 ---
@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — May 29, 2026]] — Moore4Power €91M Si/SiC/GaN heterogeneous integration EU project; AMD EPYC Venice first 2nm HPC CPU in production; Soitec/NTU GaN >50% PAE at 6G FR3; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; custom AI ASICs at 27.8% AI server market share; daily topic: Heterogeneous Power Module Integration (CTE, L_CS, AlN substrates)
 - [[EE Daily — May 28, 2026]] — AMD EPYC Venice first 2nm HPC CPU in production; Broadcom ASICs 27.8% AI server share; SK Hynix HBM sold out; ferroelectric UWBG Ga₂O₃ MOCVD framework; NVIDIA CPO at 400 Tbps; daily topic: TSMC N2 GAA nanosheet transistors
 - [[EE Daily — May 27, 2026]] — Broadcom AI revenue +106% YoY to $8.4B; Moore4Power €91M heterogeneous Si/SiC/GaN EU project; IBM 10× QEC decoding speedup; Google Willow 13,000× quantum advantage; FMCW silicon photonics LiDAR to volume production; 2D ferroelectric FeFETs for logic-in-memory; daily topic: QEC surface codes vs QLDPC
 - [[EE Daily — May 26, 2026]] — Huawei LogicFolding/Tau Scaling Law 3D chip architecture; GlobalFoundries SCALE OCI MSA CPO platform; Wolfspeed 3.3 kV SiC 42% switching loss improvement; Soitec/NTU 6G GaN record PAE; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; Google AlphaQubit 30% QEC error reduction; daily topic: Tau Scaling Law and LogicFolding — gate-delay math, ILV parasitics, backside power delivery
@@ -42,6 +43,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Wolfspeed]] — largest SiC wafer manufacturer; 62% market share (2025)
 - [[STMicroelectronics SiC]] — Tesla Model 3 SiC supplier; automotive SiC leader
 - [[Paul Saladino]] — "Carnivore MD" (MD); *The Carnivore Code* author; animal-based diet advocate; quit strict carnivore after testosterone/sleep problems; 2 of 9 anti-plant claims hold up
+- [[Jim Simons]] — mathematician & founder of Renaissance Technologies; "Quant King"; Medallion ~39% net since 1988; best risk-adjusted record in finance; d. 2024
+- [[Renaissance Technologies]] — quant hedge fund (Simons, 1978); Medallion ~39% net, 5/44 fees, closed to outsiders since 1993, capped small; $7B IRS settlement (2021)
+- [[Ed Thorp]] — "godfather of quants"; beat blackjack (*Beat the Dealer*) then markets; invented statistical arbitrage; PNP ~20% net for 2 decades, no down quarter
+- [[D.E. Shaw]] — quant firm (David Shaw, 1988); where Jeff Bezos worked; ~22%/yr 1988–2000; 2024 #1 hedge fund by $ ($11.1B, Oculus +36%)
+- [[Naval Ravikant]] — AngelList co-founder; *Almanack* (2020); four-leverage framework, permissionless code/media, specific knowledge, "earn with your mind not your time"
 
 ## Concepts
 
@@ -51,6 +57,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Linux-Distros-for-Windows-Switchers]] — tier list: Linux Mint (S-tier most switchers), Zorin OS, Ubuntu, Pop!_OS, Fedora; desktop environment comparison; decision matrix (developing)
 - [[Linux-Mint-vs-Zorin-vs-PopOS-Guide]] — detailed pros/cons comparison; Linux Mint recommended; full Windows 11 dual-boot guide: BitLocker prep, partition shrink, Rufus, BIOS, GRUB, post-install (complete)
 - [[Linux-Software-Alternatives]] — app-by-app replacement table: Office → LibreOffice/OnlyOffice; Adobe → GIMP/Darktable/Inkscape/DaVinci Resolve; gaming via Steam Proton; EE tools on Linux (developing)
+- [[Linux-Mint-Cinnamon-Customization-Guide]] — make Mint look nice: 4-layer model (Themes/Applets/Desklets/Extensions), Mint-Y + accent, Papirus icons, Orchis/WhiteSur themes, fonts/panel, Plank+ULauncher+Conky ricing (developing)
+- [[Linux-Mint-Fresh-Install-Essential-Apps]] — what FOSS to install on a fresh Mint setup: system (Timeshift/Synaptic), creative (GIMP/Inkscape/Krita/Kdenlive), utilities (Flameshot/qBittorrent/OBS); install-method preference order (developing)
+- [[Research - Linux Mint Customization and Software]] — synthesis: highest-impact = Mint-Y Dark + Papirus; vinceliuice themes; dropped fabricated theme names from one SEO source (developing)
+- [[EE-Software-on-Linux-Mint]] — EE tools on Mint: native-vs-Wine table, KiCad 10 PPA, ngspice/Xyce (LTSpice=Wine, QSPICE=Windows-only), Vivado/Quartus native, STM32CubeIDE, `dialout` serial fix, day-one apt one-liner; PEP 668 venv fix (developing)
+- [[EE-Linux-Tools-Usage-Guide]] — how to RUN each installed EE tool: control/ngspice/iverilog+gtkwave/verilator/octave/PyVISA/cocotb/git with copy-paste "try this" examples; venv rule; paste-wrap-trap fix; one-screen cheat sheet (developing)
+- [[Research - EE Software on Linux Mint]] — synthesis: Linux is a strong EE platform; only LTSpice needs Wine; KiCad 10 current; Vivado+Quartus native; QSPICE dead-end on Linux (developing)
 
 ### AI / Multi-Agent Systems
 - [[Multi-Agent Development Team]] — 5-role agent team: PM → Architect → Engineer → QA → Reviewer; 3 human-in-the-loop gates; prompt-to-project pipeline (developing)
@@ -129,6 +141,17 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[EV Fast Charging Topologies]] — totem pole PFC, CLLC, DAB; efficiency numbers (developing)
 - [[V2G Bidirectional Charging]] — WBG enables bidirectional OBCs; grid integration (seed)
 - [[WBG Thermal Management]] — junction temperature, failure modes, cooling strategies (developing)
+
+### Heterogeneous Integration / Power Module Packaging
+- [[Heterogeneous Integration (Power Electronics)]] — co-package Si+SiC+GaN, each at its sweet spot; 5 interface tensions; "More than Moore" (developing)
+- [[Multi-Chip Power Module Packaging]] — the stack; wire-bond→wire-bondless; double-sided cooling; new failure modes (developing)
+- [[Common-Source Inductance]] — L_CS feeds di/dt back onto the gate; target <1 nH; worked V=L·di/dt calc (developing)
+- [[Silver Sintering Die-Attach]] — CTE-mismatch fix; sinter 250–300 °C, remelt >900 °C; Cu-sinter challenger (developing)
+- [[Power Module Ceramic Substrates]] — DBC vs AMB; AlN heat-spread vs Si₃N₄ fatigue-life (developing)
+- [[Gate Driver Timing Coordination]] — dead-time, prop-delay skew; GaN 1–5 ns vs SiC 20–50 ns (developing)
+- [[Moore4Power]] — €91M EU flagship HI project; Infineon-led, 62 partners (project)
+- [[Infineon Technologies]] — Moore4Power lead; Si/SiC/GaN supplier (seed)
+- [[Research - Heterogeneous Integration in Power Electronics]] — synthesis (developing)
 
 ### Computer Architecture / CPU+GPU
 - [[CPU Architecture Evolution]] — scalar → superscalar → multi-core → heterogeneous SoC (developing)
@@ -210,6 +233,24 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Index Fund Investing]] — why index funds beat 92% of active managers; fund guide (VTI/FXAIX/VTWAX); expense ratio math; DCA; Roth IRA setup steps; compound interest table by age (developing)
 - [[Credit Score Building]] — FICO breakdown (35% payment history, 30% utilization); 4-step path from 0 to 750+; secured card strategy; authorized user hack; milestones by age (developing)
 
+### Online Income / Side Hustles
+- [[Online Income Methods Tier List]] — ~17 ways to make money online ranked S–D by **career-capital fit for Joe**; S-tier = STEM tutoring, AI-training data work, freelance Python; D-tier = dropshipping, crypto bots, day trading, MLM (developing)
+- [[AI Training Data Work (Online Income)]] — Outlier/DataAnnotation/Mercor; STEM+coding experts $40–100+/hr async; best new-money fit + AI literacy (developing)
+- [[Research - Ways to Make Money Online (Tier List)]] — synthesis: ranking lens, key findings, contradictions, sources (developing)
+
+### Stocks / Investing & Quant Finance
+- [[Fundamental Analysis Valuation Metrics]] — what to own & at what price: P/E (vs history/peers/market), PEG, P/B, P/S, FCF yield; moat/debt/management; value traps; no ratio alone (developing)
+- [[Technical Analysis Indicators]] — when to act: moving averages (50/200), RSI 70/30, MACD, support/resistance, volume; timing tool, weak standalone edge after costs (developing)
+- [[Position Sizing and Risk Management]] — how much to risk: 1–2% per trade, pre-set stops, diversification, risk-based sizing, Kelly criterion; most blow-ups are sizing failures (developing)
+- [[Sell Discipline (When to Sell a Stock)]] — when to exit: thesis break / target hit / rebalance / defensive / cash need; "price dropped" is the worst & most common reason; disposition effect (developing)
+- [[Quantitative Trading]] — math/data/code vs gut; strategy families (stat arb, mean reversion, momentum, factor, HFT); do quants win? a few do, ~90% of active lose to index (developing)
+- [[Statistical Arbitrage]] — Thorp-invented; trade tiny mispricings between related securities market-neutral at scale via law of large numbers; edges decay as discovered (developing)
+- [[Efficient Market Hypothesis]] — weak/semi-strong/strong; markets are adaptively efficient (not perfect); signals get priced away; ML wins are mostly overfitting; rational response = index funds (developing)
+- [[Agentic Trading (Robinhood)]] — connect your own AI agent (Claude/ChatGPT) via Robinhood Trading MCP to a dedicated pre-funded account; how-to + safe-use; execution ≠ edge (developing)
+- [[Robinhood Cortex]] — Robinhood's in-house AI assistant (Mar 2025): Stock/Portfolio Digests, Trade Builder, AI chat; insights/assist vs Agentic Trading's execution (developing)
+- [[Robinhood]] — entity: fintech broker (HOOD, ~27M users); AI timeline Cortex→Agentic Trading; first BYO-agent trading surface via MCP (developing)
+- [[Research - Robinhood Agentic Trading and Beating the Market]] — synthesis: how to use Agentic Trading + the honest answer that no retail market-beating algo exists; the one +EV "algorithm" is automated index DCA (developing)
+
 ### Books / Reading Strategy
 - [[Book Sourcing Strategy]] — decision tree + tier list for acquiring books free or cheap; Libby, BookBub, ThriftBooks, BookFinder; pricing norms (complete)
 - [[Reading Retention Methods]] — active recall, spaced repetition, Feynman Technique, SQ3R, Mortimer Adler 4 levels, progressive summarization; Readwise integration; protocol for Joe (developing)
@@ -263,6 +304,19 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
+### Compounding / Long-Term Daily Projects
+- [[Project - Digitally Controlled Synchronous Buck Converter]] — **full 7-phase build plan** (≈6 mo @ 1–1.5 hr/day): 12V→5V@3A sync buck; theory→LTSpice→KiCad PCB→bring-up→digital compensator (STM32G4 HRTIM, design-by-emulation)→closed-loop validation (loop-gain Bode/SFRA, transient, efficiency, DPT)→publish; STM32G4 vs TI C2000 platform decision; BOM + budget + safety + daily-work structure (developing)
+- [[Buck Project — Phases 0-1 Playbook (Theory and Simulation)]] — beginner week-by-week: derive D & ripple, plot the plant Bode in Python, build+sweep the buck in LTSpice; done-when gates + common mistakes (developing)
+- [[Buck Project — Phases 2-3 Playbook (Power Stage and PCB)]] — beginner week-by-week: component-by-component BOM with the calc justifying each, then KiCad schematic + the 5 power-layout rules (tiny hot loop, small SW node, short gate loops, split grounds, thermal) → Gerbers to JLCPCB (developing)
+- [[Buck Project — Phases 4-6 Playbook (Bring-up, Firmware, Validation)]] — beginner week-by-week: safe current-limited bring-up, HRTIM PWM + synced ADC, Type-III compensator → Tustin discretize → ISR difference eq, soft-start/anti-windup, then loop-gain Bode/SFRA + transient + efficiency plots (developing)
+- [[Deep-Work Compounding Projects Tier List]] — full-focus companion list (difficulty is the point); S-tier = build a power converter end-to-end, RISC-V CPU on FPGA, reproduce-a-paper/FURI research; ranking = focus intensity × hard-skill × trajectory fit × terminal artifact; sustain via 60–120 min daily deep block (developing)
+- [[Deep Work]] — Newport: distraction-free concentration at cognitive limit; High-Quality Work = Time × Intensity of Focus; two core abilities; rare-and-valuable; trainable/compounding; 4 scheduling philosophies (developing)
+- [[Compounding Daily Projects Tier List]] — S–C ranked menu of long-term projects to work on daily for Joe (WBG→LLNL/Sandia); S-tier = GitHub build-in-public log, second-brain vault, automated index DCA; ranking lens = durability × leverage type × trajectory fit × low activation energy (developing)
+- [[Compound Time (5-Hour Rule)]] — compound vs linear time; 1 hr/day; 15 min/day = 312 hr over 5 yr; six compounding activities; deliberate practice (developing)
+- [[Permissionless Leverage]] — Naval's four leverages (labor/capital/code/media); code+media need no gatekeeper; specific knowledge; productize yourself; long-term games (developing)
+- [[Building in Public]] — daily work = career reputation; 1 merged PR > 5 solo clones; visible portfolio; quality over quantity; README rule (developing)
+- [[Sustainable Daily Practice (Streak Design)]] — keep a daily project alive for years: 5–15 min floor, flexible output, identity over perfection, kill start-up friction, recovery (developing)
+
 ### Income / Career Tier Lists
 - [[High Income Skills Tier List]] — S–C ranking of all learnable skills by 2026 salary ceiling; AI/ML S-tier, power electronics A-tier, freelance ceilings (developing)
 - [[EE Specialization Salary Tier List]] — EE-specific tier list: analog/mixed-signal S-tier ($222k median), FPGA S-tier ($175k avg), WBG power electronics A-tier ($112k–$230k); Joe income ladder (developing)
@@ -307,6 +361,20 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Finance / Quant
+- [[Renaissance Technologies — Wikipedia]] — Medallion returns (~71.8% gross / 39% net), 5/44 fees, history, $7B IRS settlement (high confidence)
+- [[Edward O. Thorp — Wikipedia]] — origin of statistical arbitrage; PNP ~20% net no down quarter; Ridgeline wound down 2002 as edge crowded out (high confidence)
+- [[2024 Hedge Fund Returns Reporting]] — Fortune/P&I/Institutional Investor (Jan 2025); D.E. Shaw / Citadel / Millennium 2024 figures (medium — self-reported)
+- [[SPIVA Scorecard — Active vs Index]] — S&P Dow Jones Indices (2025); ~90% of active managers underperform over 15 years (high confidence)
+
+### Power Electronics (Project References)
+- [[STM32G4 Digital Power Buck Reference]] — STM32G4 HRTIM/FMAC 3p3z + TI C2000 TIDM-DC-DC-BUCK/CLA/SFRA; design-by-emulation, ADC-PWM sync, loop-gain injection, DPT (high — vendor docs)
+
+### Productivity / Career Philosophy
+- [[Deep Work — Cal Newport]] — Newport (2016); deep vs shallow work, Time × Intensity formula, two core abilities, Principle of Least Resistance, 4 scheduling philosophies (high — as framework)
+- [[The Almanack of Naval Ravikant]] — Jorgenson/Ravikant (2020); four kinds of leverage, permissionless code/media, specific knowledge, productize yourself, long-term games (high — as framework)
+- [[Compound Time — Michael Simmons]] — Medium (2018); compound vs linear time, the 5-hour rule, six compounding activities, 15 min/day = 312 hr/5yr (medium)
+
 ### Books
 - [[The 7 Habits of Highly Effective People - Stephen Covey]] — Covey (1989); Maturity Continuum, P/PC Balance, Time Management Matrix, Empathic Listening, Synergy; ⭐⭐⭐⭐⭐
 - [[Atomic Habits - James Clear]] — Clear (2018); 4-step Habit Loop, Four Laws of Behavior Change, 1% compounding; ⭐⭐⭐⭐⭐ (Joe)
@@ -350,6 +418,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Long-Term Compounding Daily Projects]] — 8 findings; leverage type decides what compounds; best daily project = skill + public artifact + career evidence; one merged PR > 5 clones; investing is the literal compounder; recommended stack = GitHub log + learn-in-public blog + automated DCA; tier list deliverable (developing)
 - [[Research - Python EE Project Roadmap]] — 20-project ladder synthesis; library progression, cocotb FPGA track, double pulse test power track; full code for each project (developing)
 - [[Research - Free Time Tier List]] — 8 key findings; Harvard happiness study, flow research, attention degradation from social media; S–F tier ranking for 19yo EE student (complete)
 - [[Research - Hobbies for Young Men]] — 8 key findings; 5 life domain framework; S–D tier list; BJJ + guitar + investing as Joe's priority stack; Roth IRA + martial arts + rock climbing action moves (developing)
@@ -379,6 +448,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Gut Health Foods]] — 8 key findings; ZOE/Nature 2025 (n=34,000+), Stanford fermented-food RCT, prebiotic top-5 ranking, polyphenol zonulin data, omega-3 dysbiosis reversal; 5 open questions (complete)
 - [[Research - Consumer Purchase Value Guide]] — worth-it/not-worth-it across 5 price tiers; 10 category breakdowns; 7 meta-principles; daily-use cost math (complete)
 - [[Research - Financial Literacy Roadmap]] — 8 key findings; 5-phase roadmap; FOO sequence; Roth IRA at 19 math; index fund fee table; credit score 4-step path; Joe-specific action plan; 40-year compound table (developing)
+- [[Research - Stock Buy-Sell Factors and Quant Finance]] — 4-factor stock decision model (fundamentals/timing/sizing/sell-rules); quant pioneers (Simons, Thorp, D.E. Shaw) + their algorithms + verified track records; why ~90% of active lose to index and edges decay (developing)
 - [[Research - Zero Cost Computer Skills]] — 8 key findings; S–C tier list; touch typing, Python, Git, LTSpice S-tier; free resource links per skill; Joe start-today action stack (complete)
 - [[Research - Evolution of CPUs and GPUs]] — 8 key findings, 5 open questions
 - [[Research - LLM Quantization and Edge Hardware]] — 8 key findings, 5 open questions

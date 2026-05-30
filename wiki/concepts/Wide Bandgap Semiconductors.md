@@ -56,3 +56,7 @@ The IGBT (insulated-gate bipolar transistor) is the incumbent silicon device in 
 ## Cross-Domain Connection
 
 The physics of wide bandgap materials connects directly to [[Post-Training Quantization]] logic in ML: both fields are about doing more with less — trading device/model cost for system-level efficiency gains.
+
+## See also
+
+[[Heterogeneous Integration (Power Electronics)]] — instead of choosing one WBG material, co-package Si + SiC + GaN so each does what it does best ([[Moore4Power]]). Packaging detail: [[Multi-Chip Power Module Packaging]].

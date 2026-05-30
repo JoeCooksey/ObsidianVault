@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Vegetable Soup Guide",
-      "path": "wiki/concepts/Vegetable Soup Guide.md"
+      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
+      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Book Recommendations Master List",
+      "path": "wiki/sources/Research - Book Recommendations Master List.md"
+    },
+    {
+      "basename": "Master Chunky Vegetable Soup Recipe",
+      "path": "wiki/concepts/Master Chunky Vegetable Soup Recipe.md"
+    },
+    {
+      "basename": "Vegetable Soup Guide",
+      "path": "wiki/concepts/Vegetable Soup Guide.md"
     },
     {
       "basename": "Supplement Timing Rules",
@@ -43,10 +59,6 @@
     {
       "basename": "Atomic Habits - James Clear",
       "path": "wiki/books/Atomic Habits - James Clear.md"
-    },
-    {
-      "basename": "Master Chunky Vegetable Soup Recipe",
-      "path": "wiki/concepts/Master Chunky Vegetable Soup Recipe.md"
     },
     {
       "basename": "Linux-Mint-vs-Zorin-vs-PopOS-Guide",
@@ -187,18 +199,6 @@
     {
       "basename": "AI Skills Roadmap for Electrical Engineers",
       "path": "wiki/concepts/AI Skills Roadmap for Electrical Engineers.md"
-    },
-    {
-      "basename": "AI Applications in Electrical Engineering",
-      "path": "wiki/concepts/AI Applications in Electrical Engineering.md"
-    },
-    {
-      "basename": "Python EE Project Ladder",
-      "path": "wiki/concepts/Python EE Project Ladder.md"
-    },
-    {
-      "basename": "EE Complete Mastery Roadmap",
-      "path": "wiki/concepts/EE Complete Mastery Roadmap.md"
     }
   ],
   "omittedPaths": [],

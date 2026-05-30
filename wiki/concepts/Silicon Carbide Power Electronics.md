@@ -69,3 +69,7 @@ See [[Wolfspeed]], [[STMicroelectronics SiC]], Infineon (CoolSiC), onsemi, ROHM 
 ## Reliability Challenges
 
 Gate oxide degradation under high electric field stress is SiC's primary long-term reliability concern. Power cycling causes thermomechanical fatigue in packaging. Junction temperature monitoring via temperature-sensitive electrical parameters (TSEPs) is an active research area. See [[WBG Thermal Management]].
+
+## See also
+
+[[Heterogeneous Integration (Power Electronics)]] — SiC as the high-voltage switch co-packaged with Si drivers and GaN; see also [[Silver Sintering Die-Attach]], [[Power Module Ceramic Substrates]], [[Common-Source Inductance]], and the [[Moore4Power]] project.

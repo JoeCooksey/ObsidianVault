@@ -11,6 +11,78 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-29] autoresearch | Robinhood Agentic Trading & Beating the Market
+- Rounds: 2 | Searches: 8 | Pages created: 7
+- Created: [[Agentic Trading (Robinhood)]], [[Robinhood Cortex]], [[Robinhood]], [[Efficient Market Hypothesis]], [[Robinhood — Agentic Trading Overview]], [[TechCrunch — Robinhood Lets AI Agents Trade Stocks]], [[ML vs Efficient Markets — Academic Reassessment]]
+- Synthesis: [[Research - Robinhood Agentic Trading and Beating the Market]]
+- Key finding: Agentic Trading (launched 2026-05-27, beta, stocks only) connects a user's own AI agent to a dedicated pre-funded account via the Robinhood Trading MCP — real execution/automation but ZERO predictive edge. No retail market-beating algorithm exists (EMH adaptive efficiency; ML wins = overfitting; ~80%+ of pros trail the index over 10yr; ~90% of retail algo traders lose to buy-and-hold). The only +EV "algorithm" is automated index-fund DCA + risk rails. Declined to fabricate an alpha bot — consistent with Joe's existing [[Research - Stock Buy-Sell Factors and Quant Finance]] and [[Online Income Methods Tier List]].
+
+## [2026-05-29] save | Buck Converter — detailed per-phase playbooks
+- Joe asked for more detail per phase ("idk what to do"). Expanded the 7-phase plan into beginner week-by-week walkthroughs.
+- Pages created: [[Buck Project — Phases 0-1 Playbook (Theory and Simulation)]], [[Buck Project — Phases 2-3 Playbook (Power Stage and PCB)]], [[Buck Project — Phases 4-6 Playbook (Bring-up, Firmware, Validation)]]. Linked from [[Project - Digitally Controlled Synchronous Buck Converter]].
+- Each playbook: weekly tasks + exact actions + "deliverable" + "done-when" gate + common beginner mistakes. Key worked numbers: D=0.417, L≈33µH (30% ripple), C≈44µF (<50mV ripple), I_peak=3.45A, LC double-pole f₀≈4.2kHz, crossover≈10kHz, PM≥45°, sample f_s≈f_sw/3, control via Type-III → Tustin discretization → ISR difference equation; SFRA for loop-gain without a Bode 100.
+
+## [2026-05-29] autoresearch | Buck Converter Build Plan (project spec)
+- Rounds: 1 | Searches: 4 | WebFetch: 0 (search-synthesis + engineering specs sufficient)
+- Joe picked the S-tier deep project (build a power converter end-to-end) and asked for the full plan.
+- Pages created: [[Project - Digitally Controlled Synchronous Buck Converter]] (7-phase, ~6-month build plan), [[STM32G4 Digital Power Buck Reference]] (source bundle).
+- Key finding: 12V→5V@3A synchronous buck, digital voltage-mode→current-mode. Recommend STM32G4 (Nucleo-G474RE, HRTIM 184ps, FMAC, AN4539) for budget/self-designed power stage; TI C2000 (F280049C + BOOSTXL-BUCKCONV, CLA, powerSUITE/SFRA) as industry-toolchain alternative with proven board. Control = design-by-emulation (analog Type-II/III → discretize), ADC synced to PWM (f_s≈f_sw/3), BW≈f_sw/10, PM≥45°. Budget win: implement SFRA so the controller measures its own loop gain → no Bode 100 needed. Real gap = an oscilloscope. Daily structure = one protected 60–90 min deep block, one phase at a time, log every experiment to the repo.
+
+## [2026-05-29] autoresearch | Deep-Work Full-Focus Projects (follow-up)
+- Rounds: 1 | Searches: 4 | WebFetch: 1
+- Follow-up to below: Joe said the first list's projects don't require deep work — wants full-focus long-term projects.
+- Pages created: [[Deep-Work Compounding Projects Tier List]], [[Deep Work]], [[Deep Work — Cal Newport]]; updated synthesis [[Research - Long-Term Compounding Daily Projects]] with a Deep-Work variant section.
+- Key finding: Rank on the opposite axis — difficulty is the point (Newport: High-Quality Work = Time × Intensity of Focus; concentration is a trainable, compounding skill). Deep S-tier for Joe = build a power converter end-to-end, a RISC-V CPU on FPGA, or reproduce-a-paper/FURI research. Sustain with a protected 60–120 min daily deep block, not a 5-min floor. The repo/blog are the container; deep projects fill it.
+
+## [2026-05-29] autoresearch | Long-Term Compounding Daily Projects
+- Rounds: 2 | Searches: 8 | WebFetch: 3 (1 failed — Visualize Value HTTP 500, leverage framework sourced from Almanack instead)
+- Topic: "things I can work on daily that compound and be worth something in the future — options of long-term projects"
+- Pages created: [[Compounding Daily Projects Tier List]], [[Compound Time (5-Hour Rule)]], [[Permissionless Leverage]], [[Building in Public]], [[Sustainable Daily Practice (Streak Design)]], [[Naval Ravikant]], [[The Almanack of Naval Ravikant]], [[Compound Time — Michael Simmons]]
+- Synthesis: [[Research - Long-Term Compounding Daily Projects]]
+- Key finding: Leverage type decides what compounds — code & media are permissionless; the best daily project is simultaneously skill practice + public artifact + career evidence (a build-in-public GitHub log). Recommended Joe stack = GitHub engineering log + learn-in-public blog (fed by this vault) + automated index DCA, ~30–45 min/day, all surviving a 5-min floor.
+
+## [2026-05-29] autoresearch | Ways to Make Money Online (Tier List)
+- Rounds: 2 | Searches: 8 | WebFetch: 0 (search-synthesis sufficient; ranking is personalization, not fact-extraction)
+- Ranking lens (user-chosen): career-capital fit for Joe — pay × skill-leverage × résumé toward LLNL/Sandia × time-fit
+- Pages created (7): tier-list concept [[Online Income Methods Tier List]]; concept [[AI Training Data Work (Online Income)]]; synthesis [[Research - Ways to Make Money Online (Tier List)]]; sources [[AI Training Platforms for Coders 2026 — aitrainer.work]], [[Side Hustles for College Students 2026 — Upwork]], [[Online Tutoring Rates 2026 — Brighterly-Glassdoor]], [[Why Most Make-Money-Online Advice Fails 2026 — NSF Tech]]
+- Key finding: ranking flips the generic order — S-tier = STEM/math tutoring ($25–60/hr), AI-training/data work for coders ($40–100+/hr), freelance Python automation; these pay AND build the EE résumé. D-tier = dropshipping, crypto trading bots/HYIP, day trading, MLM funnels (negative-EV/scams, consistent with Joe's own [[Index Fund Investing]] findings). "Passive income" is mostly active income with the failures edited out.
+
+## [2026-05-29] autoresearch | Heterogeneous Integration in Power Electronics
+- Rounds: 1 (gaps low — sources broadly agreed) | Searches: 6 | WebFetch: 6 attempted, 2 succeeded (4× HTTP 403/404 logged below)
+- Sources found: Semiconductor Today (Moore4Power, fetched), Power Electronic Tips (parasitics, fetched); search-synthesis from eenewseurope, New Electronics, Analog Devices/PSMA, Springer JEM 2025, Wolfspeed, eepower, ScienceDirect, MDPI
+- Pages created (11): synthesis [[Research - Heterogeneous Integration in Power Electronics]]; concepts [[Heterogeneous Integration (Power Electronics)]], [[Multi-Chip Power Module Packaging]], [[Common-Source Inductance]], [[Silver Sintering Die-Attach]], [[Power Module Ceramic Substrates]], [[Gate Driver Timing Coordination]]; entities [[Moore4Power]], [[Infineon Technologies]]; sources [[Moore4Power Launch — Semiconductor Today]], [[Parasitic Inductance and Switching — Power Electronic Tips]]
+- Cross-linked into [[Silicon Carbide Power Electronics]], [[Gallium Nitride Power Electronics]], [[Wide Bandgap Semiconductors]], [[WBG Thermal Management]] (See-also back-refs)
+- Fetch failures (logged per egress policy): IEEE HIR 2023 power chapter (404), eepower silver-sintering (403), eepower Si₃N₄ substrates (403), MDPI Electronics WBG thermal (403) — claims rest on search synthesis + 2 fetched primaries; re-ingest flagged in Open Questions
+- Key finding: HI co-packages Si+SiC+GaN so each runs at its sweet spot, but the payoff is bought entirely in interface engineering — CTE-matched die-attach (Ag/Cu sinter), sub-1 nH common-source inductance, ns-matched gate timing, and substrate choice (AlN heat-spread vs Si₃N₄ fatigue-life). Worked calc: 30 A/50 ns through 3 nH L_CS → 1.8 V gate bump; flip-chip 0.8 nH → 0.48 V; −3 V off-bias gives comfortable margin below V_th 2.5 V either way. Moore4Power (€91M, Infineon, 62 partners) is the institutional bet.
+
+## [2026-05-29] newsletter | EE Daily — May 29, 2026
+Moore4Power launches €91M heterogeneous Si/SiC/GaN power integration project (62 partners, 15 EU countries); AMD EPYC Venice enters production on TSMC 2nm (first 2nm HPC part ever); Soitec/NTU Singapore demonstrate >50% GaN PAE at 6G FR3 frequencies; daily topic: Heterogeneous Integration of Si, SiC, and GaN in power modules — CTE mismatch, L_CS, gate drive timing, AlN substrates.
+
+## [2026-05-29] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
+## [2026-05-28] autoresearch | Stock Buy/Sell Factors and Quant Finance
+- Rounds: 2 | Searches: 6 | WebFetch: 1
+- Sources found: Renaissance/Wikipedia, Ed Thorp/Wikipedia, 2024 hedge-fund returns (Fortune/P&I/II), S&P SPIVA
+- Pages created (15): [[Research - Stock Buy-Sell Factors and Quant Finance]] (synthesis); concepts [[Fundamental Analysis Valuation Metrics]], [[Technical Analysis Indicators]], [[Position Sizing and Risk Management]], [[Sell Discipline (When to Sell a Stock)]], [[Statistical Arbitrage]], [[Quantitative Trading]]; entities [[Jim Simons]], [[Renaissance Technologies]], [[Ed Thorp]], [[D.E. Shaw]]; sources [[Renaissance Technologies — Wikipedia]], [[Edward O. Thorp — Wikipedia]], [[2024 Hedge Fund Returns Reporting]], [[SPIVA Scorecard — Active vs Index]]
+- Synthesis: [[Research - Stock Buy-Sell Factors and Quant Finance]]
+- Key finding: Stock decisions decompose into 4 factors (fundamentals/timing/sizing/sell-rules); a few quants (Medallion ~39% net since 1988, Thorp ~20% net 2 decades) genuinely win but edges decay and are inaccessible, while ~90% of active managers lose to the index — the discipline transfers, the signals don't.
+
+## [2026-05-28] manual | EE Linux Tools — Usage Guide
+- Pages created: 1 ([[EE-Linux-Tools-Usage-Guide]] in concepts/)
+- Trigger: Joe finished installing the EE Python+system stack on Mint 22.2 and asked for a "how to run each" guide
+- Content: per-tool what-it-does + how-to-run + copy-paste "try this" (control Bode plot, ngspice RC sweep, iverilog+gtkwave blinker, octave, PyVISA, git); venv-activation rule; paste-wrap-trap workaround (use a file); one-screen cheat sheet
+- Cross-linked from [[EE-Software-on-Linux-Mint]] (install ↔ usage pair)
+
+## [2026-05-28] autoresearch | EE Software on Linux Mint
+- Rounds: 2 | Searches: 3 | Fetches: 1
+- Pages created: [[Research - EE Software on Linux Mint]] (synthesis), [[EE-Software-on-Linux-Mint]] (concept), [[KiCad-Official-Linux-Install]] (source); cross-ref edits into [[EE Software and Lab Tools Complete Stack]] + [[Linux-Software-Alternatives]]
+- Key finding: Linux is a strong EE platform — KiCad (10, official Mint PPA), Python stack, HDL toolchain, STM32CubeIDE, and Vivado+Quartus all native. Only LTSpice needs Wine; QSPICE is Windows-only and won't run under Wine (use KiCad+ngspice/Xyce native). LMDE breaks KiCad PPA → Flatpak.
+
+## [2026-05-28] autoresearch | Linux Mint Customization and Recommended Software
+- Rounds: 2 | Searches: 4 | Fetches: 2
+- Pages created: [[Research - Linux Mint Customization and Software]] (synthesis), [[Linux-Mint-Cinnamon-Customization-Guide]] (concept), [[Linux-Mint-Fresh-Install-Essential-Apps]] (concept), [[Cinnamon-Customization-ItsFoss]] (source), [[Best-Icon-Themes-OMG-Ubuntu]] (source)
+- Key finding: Highest-impact zero-risk move is Mint-Y Dark + accent color, then Papirus icons; deeper theming via vinceliuice Orchis/WhiteSur + Plank/ULauncher/Conky. Dropped fabricated theme names ("Kashmir Blue" etc.) from one low-quality SEO domain.
+
 ## [2026-05-28] autoresearch | Joe's Supplement Stack Audit
 - Rounds: 2 | Searches: 9
 - Pages created: [[Research - Joe's Supplement Stack Audit]] (synthesis), [[Supplement Timing Rules]] (concept)
