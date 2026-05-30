@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-30] autoresearch | Mastering Vibe Coding & Building Profitable Projects
+- Rounds: 2 | Searches: 7 | Pages created: 14 (7 concepts, 3 entities, 3 sources, 1 synthesis)
+- Concepts: [[Vibe Coding]], [[Vibe Coding Tool Landscape 2026]], [[Vibe Coding Best Practices and Workflow]], [[Spec-Driven Development]], [[Vibe Coding Security Risks]], [[Profitable Micro-SaaS Playbook]], [[Micro-SaaS Idea Validation Framework]]
+- Entities: [[Andrej Karpathy]], [[Pieter Levels]], [[Simon Willison]]
+- Sources: [[Vibe Coding — Wikipedia]], [[Not All AI-Assisted Programming Is Vibe Coding]], [[Pieter Levels — How He Builds (Case Study)]]
+- Synthesis: [[Research - Mastering Vibe Coding and Building Profitable Projects]]
+- Key finding: Vibe coding is a *spectrum* — pure vibing (no code review, coined by [[Andrej Karpathy]] Feb 2025) is great for cheap prototypes/learning but unsafe for production (~45% of AI code has vulns); "vibe to validate, spec to ship" via [[Spec-Driven Development]]. Profit path = validate cheaply → vibe-build → graduate to reviewed code → ship ugly & charge immediately ([[Pieter Levels]], ~$3M/yr solo). Connects to existing [[Online Income Methods Tier List]], [[Permissionless Leverage]], [[Building in Public]].
+
 ## [2026-05-30] autoresearch | Gut Optimization Masterclass
 - Rounds: 2 | Searches: 6 | Pages created: 13 (6 concepts, 6 sources, 1 synthesis)
 - Created: [[Why Optimize Your Gut]], [[Leaky Gut and Intestinal Permeability]], [[Gut Optimization Actions Tier List]], [[Gut-Harmful Foods and Actions Tier List]], [[Gut Health Tests]], [[Stanford Fermented Foods RCT 2021]], [[Human Gut Emulsifiers Study 2021]], [[Zonulin Biomarker Critique 2021]], [[Lactulose-Mannitol Meta-analysis 2022]], [[Microbiota-Gut-Brain Axis Review]], [[Artificial Sweeteners Gut Review]]
