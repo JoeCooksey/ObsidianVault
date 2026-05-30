@@ -443,6 +443,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Microbiota-Gut-Brain Axis Review]] — Frontiers/Nature reviews; bidirectional vagus/HPA/tryptophan signaling; SCFAs modulate BBB + microglia; vitamin K/B synthesis (high)
 - [[Artificial Sweeteners Gut Review]] — PMC 2024; sucralose/saccharin ↓butyrate-producers + barrier disruption; aspartame data weaker; dose/person-dependent (medium)
 
+### Health / Testosterone
+- [[Leproult Van Cauter Sleep Restriction RCT 2011]] — JAMA 2011; 5h sleep/wk → −10–15% T in healthy young men (high)
+- [[Low-Fat Diet Testosterone Meta-analysis 2021]] — Whittaker & Wu; low-fat diets lower total T (SMD −0.38), free T, DHT (medium)
+- [[Weight Loss and Testosterone Review 2024]] — fat loss = biggest lever; BMI 30→25 ≈ +13–15% T; causal (Mendelian randomization) (high)
+- [[Alcohol and Testosterone Review 2023]] — moderate ≈ −6.8%, chronic heavy up to −50%; ≤1 drink/day low-risk (high)
+- [[Endocrine Disruptors and Testosterone]] — phthalates/BPA negatively associated with T; Leydig-cell harm; secular decline (medium)
+- [[Cortisol and Testosterone Suppression]] — cortisol suppresses GnRH/LH + Leydig cells; spikes precede T drops 0.5–3 days (medium)
+- [[Exercise and Testosterone Meta-analyses]] — negligible chronic resting-T change in active adults; exercise-hypogonadal male condition (medium)
+- [[Micronutrients and Testosterone]] — zinc/vit-D/Mg correct deficiency only; vit-D RCT null in non-deficient men (medium)
+- [[Smoking Cannabis and Testosterone]] — mixed/conflicting; net harmful to reproductive health (low)
+- [[Harvard Health Testosterone Lifestyle]] — clinical overview, consistent with primary literature (high)
+
 ### Health / Fermentation (Kefir)
 - [[Frontiers-PMC — Microbiota of Kefir]] — Bourrie et al. 2016, peer-reviewed review; kefir species, kefiran, animal vs human evidence (high confidence)
 - [[Cultures for Health — Milk Kefir Grains]] — vendor + how-to; method, second ferment, sourness fixes; $16.99 grains (medium)
