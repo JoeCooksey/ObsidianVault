@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Kefir Grain Sourcing and Care",
+      "path": "wiki/concepts/Kefir Grain Sourcing and Care.md"
+    },
+    {
+      "basename": "Milk Kefir Making — Step-by-Step Guide",
+      "path": "wiki/concepts/Milk Kefir Making — Step-by-Step Guide.md"
+    },
+    {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
     {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
       "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Book Recommendations Master List",
@@ -191,14 +199,6 @@
     {
       "basename": "News Debrief 2026-05-25",
       "path": "wiki/news/News Debrief 2026-05-25.md"
-    },
-    {
-      "basename": "2026-05-25-ee-daily",
-      "path": "wiki/newsletters/2026-05-25-ee-daily.md"
-    },
-    {
-      "basename": "AI Skills Roadmap for Electrical Engineers",
-      "path": "wiki/concepts/AI Skills Roadmap for Electrical Engineers.md"
     }
   ],
   "omittedPaths": [],
