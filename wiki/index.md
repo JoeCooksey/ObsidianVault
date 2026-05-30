@@ -274,6 +274,11 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Gut Health
 - [[Gut Health Foods Tier List]] — S–F ranking of foods by microbiome impact: kefir/kimchi/Jerusalem artichoke S-tier; fermented vs prebiotic vs polyphenol vs omega-3 mechanisms; daily protocol; 30-plant-foods/week rule (developing)
 - [[Gut Microbiome Fundamentals]] — core science: Bifidobacterium/Lactobacillus/Akkermansia roles; SCFA pathway diagram; dysbiosis causes; rebuilding timeline; gut-brain axis; probiotic food vs supplement comparison (developing)
+- [[Why Optimize Your Gut]] — the 5 evidence-backed reasons: gut–brain axis, ~70% of immune system, SCFA/butyrate payoff, vitamin/metabolic functions, barrier gates systemic inflammation (developing)
+- [[Leaky Gut and Intestinal Permeability]] — mechanism (tight junctions, LPS translocation), non-specific symptoms, what damages the barrier; real-science-vs-marketing caveat; zonulin-test warning (developing)
+- [[Gut Optimization Actions Tier List]] — S→D ranking of *actions* (not foods): fermented foods + 30 plants + fiber + cut emulsifiers S-tier; minimum effective protocol (developing)
+- [[Gut-Harmful Foods and Actions Tier List]] — F→B worst-first: emulsifiers (CMC/P80)/alcohol/NSAIDs/antibiotics F-tier; UPFs/sweeteners/sugar/stress D-tier; gluten & lectins overstated; label watchlist (developing)
+- [[Gut Health Tests]] — validity-ranked: calprotectin + lactulose:mannitol Tier 1; microbiome sequencing descriptive-only; zonulin/IgG panels avoid; free DIY signals (Bristol, food journal, transit) (developing)
 
 ### Fermentation / Kefir
 - [[Milk Kefir Making — Step-by-Step Guide]] — full method: 1 Tbsp grains per 1–2 cups whole milk, 65–75°F, 12–36h, glass-only, strain + restart; second fermentation for flavor; controlling sourness; milk choice (developing)
