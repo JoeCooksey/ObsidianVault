@@ -65,7 +65,7 @@ Nearly all your stress comes from trying to control other people's actions, opin
 - The urge to immediately fix someone's mood is control in disguise. Let them feel it; let me offer support without owning their emotional state.
 - Applies powerfully to parenting adult/teen children, partners, and coworkers.
 
-## 6. [[Changing Other People]]
+## 6. Changing Other People
 > [!abstract] tldr; You cannot motivate, fix, or change another adult. Influence comes from your own example, not your pressure.
 
 - Let them be where they are. Let me model the change and let them choose whether to follow.
