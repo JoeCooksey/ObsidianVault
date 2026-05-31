@@ -51,7 +51,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 - Echoes the **[[Man in the Car Paradox]]**: the people you're trying to impress with possessions aren't admiring you — they're imagining themselves owning the thing.
 - The fix is to spend for *internal* reasons (what genuinely improves your day) rather than *external* ones (signaling).
 
-## 4. [[Money Buys Freedom, Not Stuff]]
+## 4. Money Buys Freedom, Not Stuff
 > [!abstract] tldr; The highest-return use of money is autonomy — control over your time and choices — which consistently outperforms material purchases for well-being.
 
 - **[[Independence as the Dividend]]** — the best thing money buys is the ability to wake up and do what you want; spending that erodes that freedom (debt, obligations, status upkeep) is usually a bad trade.
