@@ -63,7 +63,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 - There's no universal "right" way to spend; the question is what fits *your* temperament, history, and values.
 - Self-knowledge is the prerequisite — you can't spend well on a life you haven't honestly defined.
 
-## 6. [[The Two Failure Modes]]
+## 6. The Two Failure Modes
 > [!abstract] tldr; You can ruin a life by spending too much — and you can also ruin one by spending too little.
 
 - **Overspending** trades the future for status and short-term thrills.
