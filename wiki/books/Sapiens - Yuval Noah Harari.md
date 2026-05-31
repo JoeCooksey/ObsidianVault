@@ -47,7 +47,7 @@ Homo sapiens conquered the world not because of strength or intelligence alone, 
 
 ---
 
-## Part 2: [[The Agricultural Revolution]]
+## Part 2: [[Agricultural Revolution|The Agricultural Revolution]]
 > [!abstract] tldr; Farming didn't make individuals happier or freer — it gave the species more food and more people, but harder, narrower lives. Harari calls it "history's biggest fraud."
 
 **🧩 New Mental Models (Concepts):**
