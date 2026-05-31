@@ -21,7 +21,7 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Domains
 - [[Engineering]] — software, systems, hardware, power electronics (6 sources, 2 syntheses)
 - [[Mathematics]] — pure math, applied math, statistics (0 sources)
-- [[Books]] — literature, non-fiction, key ideas from reading (2 sources, 6 book list pages)
+- [[Books]] — literature, non-fiction, key ideas from reading (11 book summaries in [[Book View]], 10 book list pages)
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
