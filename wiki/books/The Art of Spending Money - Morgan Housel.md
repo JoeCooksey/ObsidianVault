@@ -33,7 +33,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 
 ## 📑 Key Themes
 
-## 1. [[Spending Is Harder Than Earning]]
+## 1. Spending Is Harder Than Earning
 > [!abstract] tldr; Earning money is a measurable skill; spending it well is an emotional and philosophical one, and almost no one is taught it.
 
 - High income does not equal a rich life. Plenty of high earners feel poor and plenty of modest earners feel abundant — the difference is how they spend and what they expect.
