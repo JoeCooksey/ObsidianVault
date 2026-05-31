@@ -59,7 +59,7 @@ Nearly all your stress comes from trying to control other people's actions, opin
 - **[[The 3 Pillars of Friendship]]** (proximity, timing, energy) — adult friendships fade when these shift, and that's normal, not betrayal.
 - Let them pull away; let me invest in the people who reciprocate.
 
-## 5. [[Letting Adults Have Their Emotions]]
+## 5. Letting Adults Have Their Emotions
 > [!abstract] tldr; You are not responsible for managing other people's feelings. Let them be upset.
 
 - The urge to immediately fix someone's mood is control in disguise. Let them feel it; let me offer support without owning their emotional state.
