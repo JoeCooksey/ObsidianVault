@@ -39,7 +39,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 - High income does not equal a rich life. Plenty of high earners feel poor and plenty of modest earners feel abundant — the difference is how they spend and what they expect.
 - The skill of spending is invisible because there's no scoreboard for it the way there is for net worth.
 
-## 2. [[Expectations Are the Real Variable]]
+## 2. Expectations Are the Real Variable
 > [!abstract] tldr; Happiness is results minus expectations. You can raise results all your life and never feel richer if expectations rise just as fast.
 
 - **[[The Expectations Treadmill]]** — lifestyle creep is really *expectation* creep; each upgrade resets your baseline so the next one is needed just to feel normal.
