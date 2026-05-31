@@ -19,12 +19,14 @@ related:
   - "[[Healthy Dopamine Protocols]]"
   - "[[Dopamine Baseline and the Pleasure-Pain Balance]]"
 sources:
-  - "[[Cameron Sepah — Dopamine Fasting 2.0]]"
   - "[[Anna Lembke — Dopamine Nation]]"
+external_sources:
+  - "Cameron Sepah — Dopamine Fasting 2.0 (Medium, 2019): https://medium.com/swlh/dopamine-fasting-2-0-the-hot-silicon-valley-trend-7c4dc3ba2213"
+  - "Harvard Health — Dopamine fasting: misunderstanding science (2020)"
 ---
 # Dopamine Detox (Evidence Review)
 
-What's real and what's hype about "dopamine detox" / "dopamine fasting." **The name is wrong but the protocol can work** — for the right reason (Source: [[Cameron Sepah — Dopamine Fasting 2.0]]).
+What's real and what's hype about "dopamine detox" / "dopamine fasting." **The name is wrong but the protocol can work** — for the right reason (Source: Cameron Sepah, *Dopamine Fasting 2.0*, 2019).
 
 ---
 
