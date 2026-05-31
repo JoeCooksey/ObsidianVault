@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Book View",
+      "path": "wiki/Book View.base"
+    },
+    {
+      "basename": "Sapiens - Yuval Noah Harari",
+      "path": "wiki/books/Sapiens - Yuval Noah Harari.md"
+    },
+    {
       "basename": "Ego Is the Enemy - Ryan Holiday",
       "path": "wiki/books/Ego Is the Enemy - Ryan Holiday.md"
     },
     {
-      "basename": "Alive Time vs Dead Time",
-      "path": "Alive Time vs Dead Time.md"
+      "basename": "Talk Depletes Us",
+      "path": "wiki/concepts/Talk Depletes Us.md"
     },
     {
-      "basename": "Book View",
-      "path": "wiki/Book View.base"
+      "basename": "Alive Time vs Dead Time",
+      "path": "Alive Time vs Dead Time.md"
     },
     {
       "basename": "Mushroom Fruiting Conditions",
@@ -191,14 +199,6 @@
     {
       "basename": "Atomic Habits - James Clear",
       "path": "wiki/books/Atomic Habits - James Clear.md"
-    },
-    {
-      "basename": "Linux-Mint-vs-Zorin-vs-PopOS-Guide",
-      "path": "wiki/concepts/Linux-Mint-vs-Zorin-vs-PopOS-Guide.md"
-    },
-    {
-      "basename": "Costco Vegetable Soup Recipes",
-      "path": "wiki/concepts/Costco Vegetable Soup Recipes.md"
     }
   ],
   "omittedPaths": [],
