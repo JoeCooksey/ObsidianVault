@@ -47,7 +47,7 @@ Nearly all your stress comes from trying to control other people's actions, opin
 - **[[Let Them Judge You]]** — other people's opinions are formed by *their* experiences, fears, and limitations, not the truth about you.
 - The energy spent managing your image is energy stolen from actually living. Let Me: focus on who I want to be, not on controlling perception.
 
-## 3. [[Comparison and Jealousy]]
+## 3. Comparison and Jealousy
 > [!abstract] tldr; When you feel envy, don't suppress it — read it. Jealousy is a signal pointing at what you secretly want.
 
 - **[[Jealousy as a Compass]]** — let yourself feel it, then let me use it as data about my own desires and next goals.
