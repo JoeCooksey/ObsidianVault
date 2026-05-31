@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-31] autoresearch | Dopamine Masterclass
+- Rounds: 2 | Searches: 11 | Sources fetched: 1 deep + 10 search syntheses | Pages created: 15 (8 concepts, 5 sources, 1 entity, 1 synthesis)
+- Pages: [[Dopamine Complete Guide]], [[Dopamine Increases by Activity (Tier List)]], [[Dopamine Baseline and the Pleasure-Pain Balance]], [[Reward Prediction Error]], [[Tonic vs Phasic Dopamine]], [[Dopamine Downregulation and Tolerance]], [[Healthy Dopamine Protocols]], [[Dopamine Detox (Evidence Review)]], [[Anna Lembke]]
+- Synthesis: [[Research: Dopamine Masterclass]]
+- Key finding: Dopamine = motivation, not pleasure; the *crash profile* matters more than the *peak height* — cold (2.5×, no crash) is healthy while nicotine (2.5×, sharp crash) is addictive; chocolate 1.5× → amphetamine 10×; every peak lowers the baseline; "dopamine detox" is misnamed but the behavioral protocol (CBT + ~30-day abstinence) works.
+
 ## [2026-05-31] newsletter | EE Daily — May 31, 2026
 Top stories: Custom AI ASICs reach 27.8% of AI server market (Broadcom $8.4B Q1, +106% YoY); Samsung ships HBM4E samples + ADI acquires AI power delivery firm Empower for $1.5B; NVIDIA commits $6.5B to silicon photonics with Spectrum-X co-packaged optics launch; daily research topic: β-Ga₂O₃ ultra-wide bandgap power devices (Baliga FOM 3–10× SiC, 2DEG heterostructure breakthrough).
 
