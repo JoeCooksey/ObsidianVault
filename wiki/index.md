@@ -229,6 +229,36 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Goldilocks Rule]] — peak motivation at edge of current ability; boredom (not failure) is primary long-run enemy (developing)
 - [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; one-time actions; automation (developing)
 
+### Stoicism / Ego (Ego Is the Enemy)
+- [[Stoicism]] · [[Dichotomy of Control]] — focus only on what's up to you; the philosophical base of Ego and Let Them
+- [[Talk Depletes Us]] — announcing goals steals the drive to do them; do, don't talk
+- [[The Canvas Strategy]] — make others look good; credit compounds back to you
+- [[Become a Student]] · [[Don't Tell Yourself a Story]] — stay teachable; don't believe your own legend
+- [[To Be vs To Do]] · [[Passion vs Purpose]] — chase impact not titles; purpose beats unfocused passion
+- [[Alive Time vs Dead Time]] — every setback is raw material if you choose to use it
+- [[The Effort Is Enough]] · [[Draw the Line]] — work is its own reward; failure is an event, not an identity
+- [[Entitlement, Control, Paranoia]] · [[Managing Yourself]] · [[Maintain Your Sobriety]] · [[Euthymia]] — the diseases of success and their antidotes
+
+### Boundaries / Control (The Let Them Theory)
+- [[Let Them]] · [[Let Me]] — release control of others, then own your own response (the second half is the point)
+- [[Let Them Judge You]] · [[Jealousy as a Compass]] · [[The 3 Pillars of Friendship]] — opinions, envy-as-data, and why adult friendships drift
+
+### Big History (Sapiens)
+- [[Shared Fictions]] · [[Imagined Orders]] · [[Fictive Language]] · [[Cognitive Dunbar's Number]] — collective belief is the engine of mass cooperation
+- [[Cognitive Revolution]] · [[Agricultural Revolution]] · [[Unification of Humankind]] · [[Scientific Revolution]] — Harari's four revolutions
+- [[The Wheat Trap]] · [[Luxury Trap]] · [[The Other Humans]] · [[Writing and Numbers]] — progress ≠ well-being; bureaucracy's origin
+- [[Money as Trust]] · [[Empire]] · [[Religion as Unifier]] · [[Humanism]] · [[The Arrow of History]] — the three unifiers + history's direction
+- [[The Discovery of Ignorance]] · [[Science, Empire, Capitalism Feedback Loop]] · [[Credit and the Future]] · [[The End of Homo Sapiens]] · [[Are We Happier|Are We Happier?]] — the modern power engine and its open question
+
+### Persuasion (Influence)
+- [[Reciprocity]] · [[Commitment and Consistency]] · [[Social Proof]] · [[Liking]] · [[Authority]] · [[Scarcity]] · [[Unity]] — Cialdini's 6+1 weapons of influence
+- [[Rejection-Then-Retreat]] · [[Foot-in-the-Door]] · [[Lowballing]] — compliance techniques built on the principles
+- [[Pluralistic Ignorance]] · [[Psychological Reactance]] · [[Milgram Experiment]] — the bystander effect, loss-of-freedom drive, and obedience evidence
+
+### Spending Psychology (The Art of Spending Money)
+- [[The Expectations Treadmill]] — happiness = results − expectations; managing expectations beats raising income
+- [[Independence as the Dividend]] — the highest-return purchase is autonomy, not stuff
+
 ### Health / Fitness / Cycling
 - [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
 - [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
