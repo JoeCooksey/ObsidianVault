@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-31] autoresearch | Growing Psilocybin Mushrooms in All-in-One Grow Bags
+- Rounds: 2 | Searches: 7 | Sources fetched: 2 deep + 5 search syntheses | Pages created: 16 (9 concepts, 6 sources, 1 synthesis)
+- Pages: [[All-in-One Mushroom Grow Bag]], [[Sterile Inoculation Technique]], [[Mycelium Colonization Phase]], [[Break and Shake (Spawn Distribution)]], [[Mushroom Fruiting Conditions]], [[Mushroom Contamination Identification]], [[Multi-Flush Rehydration (Dunking)]], [[Drying and Storing Psilocybin Mushrooms]], [[Psilocybin Legal Status (US)]]
+- Synthesis: [[Research - Growing Psilocybin Mushrooms in All-in-One Grow Bags]]
+- Key finding: AIO bags = one sterile injection, one opening; colonize warm (72–76°F) + dark sealed (25–45 days), break-and-shake at 50–75% to speed it, then fruit cooler (60–75°F) with FAE + humidity + 12–16 h light; harvest at veil break; cracker-dry + vacuum + freeze for 1–2 yr. Technique is identical to gourmet growing. Legal: federal Schedule I; only Colorado permits home cultivation.
+
 ## [2026-05-31] save | Library Availability — Master Book List (Livermore)
 - Type: synthesis
 - Location: wiki/questions/Library Availability — Master Book List (Livermore).md
