@@ -113,3 +113,8 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[How To Win Friends and Influence People - Dale Carnegie]] — Carnegie (1936); 30 principles across 4 parts on human relations, influence, and leadership
 - [[Never Eat Alone - Keith Ferrazzi]] — Ferrazzi & Raz (2014); generosity-first networking; RAP, pinging system, follow-up formula, super connectors; ⭐⭐⭐⭐⭐ (Joe)
 - [[The Psychology of Money - Morgan Housel]] — Housel (2020); 20 chapters on behavioral finance; behavior > knowledge; compounding, freedom, enough, tail events; Joe reading since 3/1/2026
+- [[Ego Is the Enemy - Ryan Holiday]] — Holiday (2016); Stoic case against ego across Aspire/Success/Failure; canvas strategy, alive time vs dead time, do-don't-talk
+- [[The Let Them Theory - Mel Robbins]] — Robbins (2024); two-part tool "Let Them" (release control of others) + "Let Me" (own your response); stress, opinions, comparison, relationships
+- [[Sapiens - Yuval Noah Harari]] — Harari (2011/2014); 4 revolutions (Cognitive/Agricultural/Unification/Scientific); shared fictions as the engine of mass cooperation; the wheat trap; money as universal trust
+- [[Influence - Robert Cialdini]] — Cialdini (1984); the 6 (now 7) weapons of influence: reciprocity, commitment/consistency, social proof, liking, authority, scarcity (+ unity)
+- [[The Art of Spending Money - Morgan Housel]] — Housel (2025); sequel to *Psychology of Money*; spending as a psychological skill; expectations, social comparison, money buys freedom not stuff
