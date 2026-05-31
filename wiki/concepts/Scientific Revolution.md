@@ -18,6 +18,6 @@ related:
 
 [[Yuval Noah Harari|Harari's]] fourth revolution, beginning ~500 years ago. Its radical move was **[[The Discovery of Ignorance]]** — Europeans began admitting they did *not* already know the answers, which licensed systematic observation, experiment, and mathematics.
 
-This willingness to say "we don't know" fused with empire and capital into the **[[Science, Empire, Capitalism Feedback Loop]]**, generating unprecedented power. It runs on **[[Credit and the Future|credit]]** (belief in growth) and culminates in humans becoming the engineers of life itself ([[The End of Homo Sapiens]]) — even as Harari asks whether all this power has made us any happier ([[Are We Happier?]]).
+This willingness to say "we don't know" fused with empire and capital into the **[[Science, Empire, Capitalism Feedback Loop]]**, generating unprecedented power. It runs on **[[Credit and the Future|credit]]** (belief in growth) and culminates in humans becoming the engineers of life itself ([[The End of Homo Sapiens]]) — even as Harari asks whether all this power has made us any happier ([[Are We Happier|Are We Happier?]]).
 
 *Source: [[Sapiens - Yuval Noah Harari]] — Part 4.*
