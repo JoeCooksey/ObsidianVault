@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dopamine Increases by Activity (Tier List)",
+      "path": "wiki/concepts/Dopamine Increases by Activity (Tier List).md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Dopamine Complete Guide",
+      "path": "wiki/concepts/Dopamine Complete Guide.md"
     },
     {
       "basename": "Testosterone-Lowering Habits to Avoid",
@@ -191,14 +199,6 @@
     {
       "basename": "Concept",
       "path": "_templates/Concept.md"
-    },
-    {
-      "basename": "Paper",
-      "path": "_templates/Paper.md"
-    },
-    {
-      "basename": "Question",
-      "path": "_templates/Question.md"
     }
   ],
   "omittedPaths": [],
