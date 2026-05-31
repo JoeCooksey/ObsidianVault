@@ -1,5 +1,7 @@
 ---
 title: The Art of Spending Money
+aliases:
+  - The Art of Spending Money
 subtitle: Simple Choices for a Richer Life
 author: Morgan Housel
 authors: Morgan Housel
