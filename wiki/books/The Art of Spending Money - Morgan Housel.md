@@ -45,7 +45,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 - **[[The Expectations Treadmill]]** — lifestyle creep is really *expectation* creep; each upgrade resets your baseline so the next one is needed just to feel normal.
 - Managing expectations is cheaper and more powerful than increasing income. (A direct extension of the "enough" idea from [[The Psychology of Money - Morgan Housel]].)
 
-## 3. [[Social Comparison Is the Thief]]
+## 3. Social Comparison Is the Thief
 > [!abstract] tldr; Most overspending isn't about wanting things — it's about wanting to be *seen* having things. Spending to impress others is a game you can't win.
 
 - Echoes the **[[Man in the Car Paradox]]**: the people you're trying to impress with possessions aren't admiring you — they're imagining themselves owning the thing.
