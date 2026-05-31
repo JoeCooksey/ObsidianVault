@@ -48,7 +48,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 ## 3. Social Comparison Is the Thief
 > [!abstract] tldr; Most overspending isn't about wanting things — it's about wanting to be *seen* having things. Spending to impress others is a game you can't win.
 
-- Echoes the **[[Man in the Car Paradox]]**: the people you're trying to impress with possessions aren't admiring you — they're imagining themselves owning the thing.
+- Echoes the **[[Wealth Paradox|Man in the Car Paradox]]**: the people you're trying to impress with possessions aren't admiring you — they're imagining themselves owning the thing.
 - The fix is to spend for *internal* reasons (what genuinely improves your day) rather than *external* ones (signaling).
 
 ## 4. Money Buys Freedom, Not Stuff
