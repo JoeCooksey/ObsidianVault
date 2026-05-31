@@ -34,7 +34,7 @@ Homo sapiens conquered the world not because of strength or intelligence alone, 
 
 ## 📑 Part Notes
 
-## Part 1: [[The Cognitive Revolution]]
+## Part 1: [[Cognitive Revolution|The Cognitive Revolution]]
 > [!abstract] tldr; ~70,000 years ago a change in Sapiens' brains gave us fictive language — the ability to talk about things that don't physically exist. This let us cooperate in unlimited numbers and outcompete every other human species.
 
 **🧩 New Mental Models (Concepts):**
