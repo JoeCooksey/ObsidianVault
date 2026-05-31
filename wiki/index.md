@@ -287,6 +287,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Testosterone-Lowering Habits to Avoid]] — damaging habits worst-first: obesity/sedentary, chronic short sleep/apnea (−10–15%), heavy alcohol (−7% to −50%), chronic stress, plastics/phthalates/BPA, very-low-fat dieting, endurance overtraining, smoking, cannabis (developing)
 - [[Testosterone Physiology Fundamentals]] — HPG axis, aromatase (fat→estradiol), cholesterol precursor, free vs total T + SHBG, morning/REM circadian rhythm, normal-ceiling principle, secular decline (developing)
 
+### Health / Cortisol & Stress
+- [[Cortisol Complete Guide]] — **masterclass hub**: cortisol = stress/energy hormone; the whole game is RHYTHM (high AM, low PM) not absolute level; CAR rises 50–156% post-waking; two opposite burnout signatures; Cushing vs Addison's clinical extremes (stable)
+- [[Ways to Raise Morning Cortisol (Tier List)]] — the "increase" options: morning sunlight, fixed wake time, AM exercise, hydration, delay caffeine 60–90 min; rebuild a flat rhythm / late-phase burnout (developing)
+- [[Ways to Reduce Cortisol (Tier List)]] — the "reduce" options ranked by evidence: sleep + cut evening light, yoga/qigong (HIIT *raises* it), ashwagandha 300–600 mg PM (~11–32%), omega-3, NSDR/breathing, sauna (developing)
+- [[Research - The Cortisol Masterclass (Increase and Reduce)]] — synthesis: Huberman's masterclass reframe + RCT-backed increase/reduce protocols (developing)
+
 ### Investing / Stock Monitoring
 - [[Weekly Stock Scan 2026-05-25]] — Week of May 25, 2026; 11 tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML; insider trading, analyst activity, short interest, SEC filings (complete)
 
