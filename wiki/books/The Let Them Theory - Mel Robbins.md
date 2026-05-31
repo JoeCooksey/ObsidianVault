@@ -41,7 +41,7 @@ Nearly all your stress comes from trying to control other people's actions, opin
 - The root insight (echoing [[Stoicism]] and the [[Dichotomy of Control]]): you have control over your thoughts, actions, and responses — and almost nothing else.
 - Trying to control the uncontrollable is the source of chronic frustration. "Let Them" is permission to stop.
 
-## 2. [[Other People's Opinions]]
+## 2. Other People's Opinions
 > [!abstract] tldr; You can't control what people think of you, and trying to is a prison. Let them judge, doubt, or misunderstand you.
 
 - **[[Let Them Judge You]]** — other people's opinions are formed by *their* experiences, fears, and limitations, not the truth about you.
