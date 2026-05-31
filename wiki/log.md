@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-31] autoresearch | The Cortisol Masterclass (Increase and Reduce)
+- Rounds: 3 | Searches: 7 | Source fetches: 6
+- Topic: "what is the cortisol masterclass, give options to increase and reduce"
+- The "cortisol masterclass" = Huberman Lab episode *How to Control Your Cortisol & Overcome Burnout* (Aug 2025). Core reframe: cortisol isn't bad — fix the RHYTHM (high AM, low PM), don't minimize it. Joe's "increase/reduce" = the two halves of the rhythm.
+- Pages created (7): [[Cortisol Complete Guide]] (hub), [[Ways to Raise Morning Cortisol (Tier List)]], [[Ways to Reduce Cortisol (Tier List)]], [[Huberman — How to Control Your Cortisol and Overcome Burnout]], [[Stalder et al 2025 — Cortisol Awakening Response (Endocrine Reviews)]], [[Li Huang Zhu 2025 — Exercise for Cortisol Network Meta-analysis]], [[Bachour et al 2025 — Ashwagandha Cortisol Meta-analysis]], [[Cortisol — Cleveland Clinic]]
+- Synthesis: [[Research - The Cortisol Masterclass (Increase and Reduce)]]
+- Cross-linked existing [[Cortisol and Testosterone Suppression]], [[Caffeine Timing Protocol]].
+- Key finding: INCREASE = morning sunlight + fixed wake time + AM exercise + delay caffeine 60–90 min (CAR rises 50–156%). REDUCE = sleep/cut evening light + yoga/qigong (HIIT *raises* cortisol) + ashwagandha 300–600 mg PM (~11–32%) + omega-3 + NSDR/breathing + sauna. Burnout has two opposite cortisol signatures.
+
 ## [2026-05-31] ingest | 5 Book Summaries → Book View
 - Created 5 book summary pages in `wiki/books/` (each with `title`/`author`/`coverUrl` frontmatter so they render as cards in [[Book View]]); cover images pulled from Open Library (Google Books API was quota-exhausted).
 - Pages: [[Ego Is the Enemy - Ryan Holiday]], [[The Let Them Theory - Mel Robbins]], [[Sapiens - Yuval Noah Harari]], [[Influence - Robert Cialdini]], [[The Art of Spending Money - Morgan Housel]]
