@@ -54,7 +54,7 @@ The thesis is that ego is dangerous in *all three*, and the work of suppressing 
 > [!abstract] tldr; Success is intoxicating and makes ego harder to control. Now you have something to lose and a story about your own genius to protect — both are traps.
 
 **🧩 New Mental Models (Concepts):**
-- **[[Always Stay a Student]]** — the moment you think you've arrived, you stop learning; the people who keep winning keep learning.
+- **[[Become a Student|Always Stay a Student]]** — the moment you think you've arrived, you stop learning; the people who keep winning keep learning.
 - **[[Don't Tell Yourself a Story]]** — ego turns a few wins into a grand narrative of destiny; that narrative blinds you to reality and luck's role.
 - **[[Entitlement, Control, Paranoia]]** — the three diseases of success that ego breeds.
 - **[[Managing Yourself]]** — sobriety and self-discipline matter more after success than before; scale comes from managing yourself well.
