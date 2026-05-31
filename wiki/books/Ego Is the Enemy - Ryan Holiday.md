@@ -65,7 +65,7 @@ The thesis is that ego is dangerous in *all three*, and the work of suppressing 
 
 ---
 
-## Part 3: [[Failure]]
+## Part 3: Failure
 > [!abstract] tldr; Everyone eventually hits adversity. Ego turns setbacks into permanent identity wounds; the disciplined response is to keep your head down, do the work, and let time and effort answer.
 
 **🧩 New Mental Models (Concepts):**
