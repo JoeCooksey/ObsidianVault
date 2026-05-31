@@ -410,6 +410,13 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Dopamine & Neuroscience
+- [[Huberman Lab Episode 39 — Controlling Your Dopamine]] — Huberman, 2021; activity multipliers + pool/baseline model + protocols (medium)
+- [[Di Chiara and Imperato 1988 — Drugs of Abuse and Dopamine]] — PNAS; landmark microdialysis; addictive drugs raise accumbens dopamine (high)
+- [[Anna Lembke — Dopamine Nation]] — 2021 book; pleasure-pain balance; dopamine deficit; smartphone as hypodermic needle (high)
+- [[Sramek 2000 — Cold Water Immersion and Catecholamines]] — 14°C → dopamine +250% sustained hours, NE +530% (medium)
+- [[Schultz Dopamine Reward Prediction Error Hypothesis]] — phasic dopamine encodes RPE; basis of reinforcement learning (high)
+
 ### Sexual Health
 - [[Masturbation Facts and Benefits — Cleveland Clinic]] — clinical baseline; benefits + debunked myths + limited downsides (high confidence)
 - [[Pornography Use and Psychological Science — Grubbs Kraus 2021]] — effects range positive→neutral→negative; frequency ≠ problem; moral incongruence predicts perceived addiction (high)
