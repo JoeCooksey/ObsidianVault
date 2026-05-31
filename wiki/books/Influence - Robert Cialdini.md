@@ -1,5 +1,7 @@
 ---
 title: Influence
+aliases:
+  - Influence
 subtitle: The Psychology of Persuasion
 author: Robert B. Cialdini
 authors: Robert B. Cialdini
