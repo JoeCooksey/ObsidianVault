@@ -1,5 +1,7 @@
 ---
 title: Sapiens
+aliases:
+  - Sapiens
 subtitle: A Brief History of Humankind
 author: Yuval Noah Harari
 authors: Yuval Noah Harari
