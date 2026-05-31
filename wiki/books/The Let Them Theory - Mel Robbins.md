@@ -35,7 +35,7 @@ Nearly all your stress comes from trying to control other people's actions, opin
 
 ## 📑 Where the Theory Applies
 
-## 1. [[The Stress of Control]]
+## 1. The Stress of Control
 > [!abstract] tldr; You feel exhausted because you're carrying the impossible job of managing adults who never asked to be managed. The first relief is admitting you can't control them.
 
 - The root insight (echoing [[Stoicism]] and the [[Dichotomy of Control]]): you have control over your thoughts, actions, and responses — and almost nothing else.
