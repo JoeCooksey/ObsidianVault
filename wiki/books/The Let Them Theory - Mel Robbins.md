@@ -53,7 +53,7 @@ Nearly all your stress comes from trying to control other people's actions, opin
 - **[[Jealousy as a Compass]]** — let yourself feel it, then let me use it as data about my own desires and next goals.
 - Comparison only hurts when you use it to feel small instead of to get direction.
 
-## 4. [[Adult Friendships and Relationships]]
+## 4. Adult Friendships and Relationships
 > [!abstract] tldr; Friendships drift, people change, effort becomes uneven — let them. Stop forcing relationships and notice who shows up.
 
 - **[[The 3 Pillars of Friendship]]** (proximity, timing, energy) — adult friendships fade when these shift, and that's normal, not betrayal.
