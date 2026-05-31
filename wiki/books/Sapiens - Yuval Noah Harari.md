@@ -75,7 +75,7 @@ Homo sapiens conquered the world not because of strength or intelligence alone, 
 
 ---
 
-## Part 4: [[The Scientific Revolution]]
+## Part 4: [[Scientific Revolution|The Scientific Revolution]]
 > [!abstract] tldr; ~500 years ago Europeans made a radical move — admitting they *didn't* know the answers. The willingness to say "we are ignorant" fused with capital and empire to create unprecedented power.
 
 **🧩 New Mental Models (Concepts):**
