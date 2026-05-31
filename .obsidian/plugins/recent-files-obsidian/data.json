@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Li Huang Zhu 2025 — Exercise for Cortisol Network Meta-analysis",
+      "path": "wiki/sources/Li Huang Zhu 2025 — Exercise for Cortisol Network Meta-analysis.md"
+    },
+    {
+      "basename": "Ways to Reduce Cortisol (Tier List)",
+      "path": "wiki/concepts/Ways to Reduce Cortisol (Tier List).md"
+    },
+    {
+      "basename": "Ways to Raise Morning Cortisol (Tier List)",
+      "path": "wiki/concepts/Ways to Raise Morning Cortisol (Tier List).md"
+    },
+    {
+      "basename": "Cortisol Complete Guide",
+      "path": "wiki/concepts/Cortisol Complete Guide.md"
+    },
+    {
       "basename": "Book View",
       "path": "wiki/Book View.base"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "All-in-One Mushroom Grow Bag",
       "path": "wiki/concepts/All-in-One Mushroom Grow Bag.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Library Availability — Master Book List (Livermore)",
@@ -183,22 +199,6 @@
     {
       "basename": "Boil-and-Blend Soup Formula",
       "path": "wiki/concepts/Boil-and-Blend Soup Formula.md"
-    },
-    {
-      "basename": "2026-05-28",
-      "path": "wiki/reviews/2026-05-28.md"
-    },
-    {
-      "basename": "2026-05-27",
-      "path": "wiki/reviews/2026-05-27.md"
-    },
-    {
-      "basename": "Leonardo da Vinci - Walter Isaacson",
-      "path": "wiki/books/Leonardo da Vinci - Walter Isaacson.md"
-    },
-    {
-      "basename": "Atomic Habits - James Clear",
-      "path": "wiki/books/Atomic Habits - James Clear.md"
     }
   ],
   "omittedPaths": [],
