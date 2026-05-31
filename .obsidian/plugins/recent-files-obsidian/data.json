@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ego Is the Enemy - Ryan Holiday",
+      "path": "wiki/books/Ego Is the Enemy - Ryan Holiday.md"
+    },
+    {
+      "basename": "Alive Time vs Dead Time",
+      "path": "Alive Time vs Dead Time.md"
+    },
+    {
+      "basename": "Book View",
+      "path": "wiki/Book View.base"
+    },
+    {
       "basename": "Mushroom Fruiting Conditions",
       "path": "wiki/concepts/Mushroom Fruiting Conditions.md"
     },
@@ -177,10 +189,6 @@
       "path": "wiki/books/Leonardo da Vinci - Walter Isaacson.md"
     },
     {
-      "basename": "Book View",
-      "path": "wiki/Book View.base"
-    },
-    {
       "basename": "Atomic Habits - James Clear",
       "path": "wiki/books/Atomic Habits - James Clear.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Costco Vegetable Soup Recipes",
       "path": "wiki/concepts/Costco Vegetable Soup Recipes.md"
-    },
-    {
-      "basename": "Research - Costco Vegetable Soups Guide",
-      "path": "wiki/questions/Research - Costco Vegetable Soups Guide.md"
-    },
-    {
-      "basename": "Linux-Distros-for-Windows-Switchers",
-      "path": "wiki/concepts/Linux-Distros-for-Windows-Switchers.md"
     }
   ],
   "omittedPaths": [],
