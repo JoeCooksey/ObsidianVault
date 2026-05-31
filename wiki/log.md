@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-31] save | Library Availability — Master Book List (Livermore)
+- Type: synthesis
+- Location: wiki/questions/Library Availability — Master Book List (Livermore).md
+- From: checking the [[Research - Book Recommendations Master List]] (~60 titles) against the Livermore Public Library catalog (bibliocommons, Books filter)
+- Result: ~31 available now, ~19 checked out (holdable), 11 not in catalog (need LINK+ ILL). Notables: Ego Is the Enemy + Intelligent Investor on shelf; Psychology of Money & Deep Work holdable; 48 Laws / Lean Startup / Blue Ocean / E-Myth / Good to Great (main) absent.
+
 ## [2026-05-31] autoresearch | Dopamine Masterclass
 - Rounds: 2 | Searches: 11 | Sources fetched: 1 deep + 10 search syntheses | Pages created: 15 (8 concepts, 5 sources, 1 entity, 1 synthesis)
 - Pages: [[Dopamine Complete Guide]], [[Dopamine Increases by Activity (Tier List)]], [[Dopamine Baseline and the Pleasure-Pain Balance]], [[Reward Prediction Error]], [[Tonic vs Phasic Dopamine]], [[Dopamine Downregulation and Tolerance]], [[Healthy Dopamine Protocols]], [[Dopamine Detox (Evidence Review)]], [[Anna Lembke]]
