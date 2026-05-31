@@ -75,7 +75,11 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - [[James Clear]] — *Atomic Habits* (2018); 37.78× compounding model; Four Laws of Behavior Change; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2005/2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
-- [[Morgan Housel]] — *The Psychology of Money* (2020); behavioral finance; "behavior > knowledge"; compounding, freedom, enough
+- [[Morgan Housel]] — *The Psychology of Money* (2020) & *The Art of Spending Money* (2025); behavioral finance; "behavior > knowledge"; compounding, freedom, enough, expectations
+- [[Ryan Holiday]] — *Ego Is the Enemy* (2016); Stoicism popularizer (also *The Obstacle Is the Way*); ego as the enemy across all phases of success
+- [[Mel Robbins]] — *The Let Them Theory* (2024); also *The 5 Second Rule*; "Let Them / Let Me" tool for reclaiming control
+- [[Yuval Noah Harari]] — *Sapiens* (2011/2014); historian; shared fictions / imagined orders; also *Homo Deus*, *Nexus*
+- [[Robert B. Cialdini]] — *Influence: The Psychology of Persuasion* (1984); social psychologist; the 6+1 principles of persuasion; also *Pre-Suasion*
 
 ## Cross-Domain Connections
 
