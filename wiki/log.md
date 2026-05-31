@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-31] ingest | 5 Book Summaries → Book View
+- Created 5 book summary pages in `wiki/books/` (each with `title`/`author`/`coverUrl` frontmatter so they render as cards in [[Book View]]); cover images pulled from Open Library (Google Books API was quota-exhausted).
+- Pages: [[Ego Is the Enemy - Ryan Holiday]], [[The Let Them Theory - Mel Robbins]], [[Sapiens - Yuval Noah Harari]], [[Influence - Robert Cialdini]], [[The Art of Spending Money - Morgan Housel]]
+- New author entities referenced: [[Ryan Holiday]], [[Mel Robbins]], [[Yuval Noah Harari]], [[Robert B. Cialdini]] (Morgan Housel already in wiki).
+- Note: *The Art of Spending Money* (Housel, Oct 2025) summarized thematically from Housel's framework + the book's premise; principle headings are thematic groupings, flagged in-note to refine on read.
+
 ## [2026-05-31] autoresearch | Growing Psilocybin Mushrooms in All-in-One Grow Bags
 - Rounds: 2 | Searches: 7 | Sources fetched: 2 deep + 5 search syntheses | Pages created: 16 (9 concepts, 6 sources, 1 synthesis)
 - Pages: [[All-in-One Mushroom Grow Bag]], [[Sterile Inoculation Technique]], [[Mycelium Colonization Phase]], [[Break and Shake (Spawn Distribution)]], [[Mushroom Fruiting Conditions]], [[Mushroom Contamination Identification]], [[Multi-Flush Rehydration (Dunking)]], [[Drying and Storing Psilocybin Mushrooms]], [[Psilocybin Legal Status (US)]]
