@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Dopamine Increases by Activity (Tier List)",
-      "path": "wiki/concepts/Dopamine Increases by Activity (Tier List).md"
+      "basename": "Dopamine Detox (Evidence Review)",
+      "path": "wiki/concepts/Dopamine Detox (Evidence Review).md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Healthy Dopamine Protocols",
+      "path": "wiki/concepts/Healthy Dopamine Protocols.md"
+    },
+    {
+      "basename": "Dopamine Increases by Activity (Tier List)",
+      "path": "wiki/concepts/Dopamine Increases by Activity (Tier List).md"
     },
     {
       "basename": "Dopamine Complete Guide",
@@ -191,14 +199,6 @@
     {
       "basename": "Source",
       "path": "_templates/Source.md"
-    },
-    {
-      "basename": "Entity",
-      "path": "_templates/Entity.md"
-    },
-    {
-      "basename": "Concept",
-      "path": "_templates/Concept.md"
     }
   ],
   "omittedPaths": [],
