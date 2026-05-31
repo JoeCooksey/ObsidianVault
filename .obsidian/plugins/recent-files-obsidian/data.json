@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Library Availability — Master Book List (Livermore)",
-      "path": "wiki/questions/Library Availability — Master Book List (Livermore).md"
+      "basename": "Break and Shake (Spawn Distribution)",
+      "path": "wiki/concepts/Break and Shake (Spawn Distribution).md"
+    },
+    {
+      "basename": "All-in-One Mushroom Grow Bag",
+      "path": "wiki/concepts/All-in-One Mushroom Grow Bag.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Library Availability — Master Book List (Livermore)",
+      "path": "wiki/questions/Library Availability — Master Book List (Livermore).md"
     },
     {
       "basename": "Research - Book Recommendations Master List",
@@ -191,14 +199,6 @@
     {
       "basename": "News Debrief 2026-05-27",
       "path": "wiki/news/News Debrief 2026-05-27.md"
-    },
-    {
-      "basename": "2026-05-27-ee-daily",
-      "path": "wiki/newsletters/2026-05-27-ee-daily.md"
-    },
-    {
-      "basename": "Pop-OS-Dual-Boot-Setup-Guide",
-      "path": "wiki/sources/Pop-OS-Dual-Boot-Setup-Guide.md"
     }
   ],
   "omittedPaths": [],
