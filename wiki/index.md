@@ -57,6 +57,16 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Dopamine & Neuroscience
+- [[Dopamine Complete Guide]] — masterclass hub; dopamine = motivation not pleasure; peak→baseline-dip; low-dopamine symptoms; healthy maintenance (stable)
+- [[Dopamine Increases by Activity (Tier List)]] — **the quantitative centerpiece**: how much each activity/substance raises dopamine + crash profile; chocolate 1.5×→amphetamine 10×; cold 2.5× crash-free (stable)
+- [[Dopamine Baseline and the Pleasure-Pain Balance]] — Lembke seesaw + Huberman pool model; every peak paid for with a trough; dopamine deficit state (stable)
+- [[Reward Prediction Error]] — dopamine encodes surprise; burst/no-change/dip; why expected rewards stop thrilling; variable reward is stickiest (stable)
+- [[Tonic vs Phasic Dopamine]] — baseline/motivation vs bursts/learning; raise tonic, ration phasic (stable)
+- [[Dopamine Downregulation and Tolerance]] — receptor desensitization → tolerance → deficit; reverses with abstinence (stable)
+- [[Healthy Dopamine Protocols]] — sunlight, cold, exercise, music, meditation, sleep; don't stack, intermittent reward, earn peaks (stable)
+- [[Dopamine Detox (Evidence Review)]] — misnamed but works; it's CBT/stimulus control + ~30-day abstinence, not literal dopamine reduction (stable)
+
 ### Operating Systems / Tech Decisions
 - [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
 - [[Pop-OS-Dual-Boot-Setup-Guide]] — full dual-boot guide for gaming PC + Nvidia GPU: Windows prep, Rufus USB, BIOS setup, partition, install, first boot, CS2 + RuneLite gaming setup, troubleshooting checklist (complete)
