@@ -1,5 +1,7 @@
 ---
 title: Ego Is the Enemy
+aliases:
+  - Ego Is the Enemy
 subtitle: 
 author: Ryan Holiday
 authors: Ryan Holiday
