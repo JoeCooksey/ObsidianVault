@@ -31,6 +31,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
+- [[Anna Lembke]] — Stanford addiction psychiatrist; *Dopamine Nation* (2021); pleasure-pain balance model
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
 - [[Lawrence Livermore National Laboratory]] — DOE national security lab in Livermore, CA; undergrad summer internships; apply Oct–Jan; ~8,000 staff
