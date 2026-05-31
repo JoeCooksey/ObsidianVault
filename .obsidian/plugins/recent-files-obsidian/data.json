@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-31-ee-daily",
+      "path": "wiki/newsletters/2026-05-31-ee-daily.md"
+    },
+    {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Source",
-      "path": "_templates/Source.md"
     }
   ],
   "omittedPaths": [],
