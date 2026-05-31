@@ -16,6 +16,7 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 - Pages: [[Ego Is the Enemy - Ryan Holiday]], [[The Let Them Theory - Mel Robbins]], [[Sapiens - Yuval Noah Harari]], [[Influence - Robert Cialdini]], [[The Art of Spending Money - Morgan Housel]]
 - New author entities referenced: [[Ryan Holiday]], [[Mel Robbins]], [[Yuval Noah Harari]], [[Robert B. Cialdini]] (Morgan Housel already in wiki).
 - Note: *The Art of Spending Money* (Housel, Oct 2025) summarized thematically from Housel's framework + the book's premise; principle headings are thematic groupings, flagged in-note to refine on read.
+- Follow-up: spun up **57 concept notes** in `wiki/concepts/` (one layer deep) + **4 author entities** ([[Ryan Holiday]], [[Mel Robbins]], [[Yuval Noah Harari]], [[Robert B. Cialdini]]) so every wikilink resolves. De-linked purely structural section headers in the book notes, pointed "Man in the Car Paradox" at the existing [[Wealth Paradox]], and added `aliases` to the 5 book notes so short-title self-links resolve. Audit: 0 dangling links. Clusters — Stoicism+Ego (15), Let Them (5), Sapiens (22), Influence (13), Spending (2).
 
 ## [2026-05-31] autoresearch | Growing Psilocybin Mushrooms in All-in-One Grow Bags
 - Rounds: 2 | Searches: 7 | Sources fetched: 2 deep + 5 search syntheses | Pages created: 16 (9 concepts, 6 sources, 1 synthesis)
