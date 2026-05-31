@@ -1,5 +1,7 @@
 ---
 title: The Let Them Theory
+aliases:
+  - The Let Them Theory
 subtitle: A Life-Changing Tool That Millions of People Can't Stop Talking About
 author: Mel Robbins
 authors: Mel Robbins
