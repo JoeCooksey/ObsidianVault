@@ -83,7 +83,7 @@ Homo sapiens conquered the world not because of strength or intelligence alone, 
 - **[[Science, Empire, Capitalism Feedback Loop]]** — science needs funding, empire needs technology, capitalism needs growth; the three reinforced each other into the modern world.
 - **[[Credit and the Future]]** — capitalism runs on belief in growth: credit is trust in a bigger tomorrow, which funds the science that delivers it.
 - **[[The End of Homo Sapiens]]** — biotech, AI, and engineering may make Sapiens the last "natural" humans; we are becoming the designers of life.
-- **[[Are We Happier?]]** — despite all this power, Harari questions whether Sapiens are any happier than our foraging ancestors — and warns that "we are more powerful than ever before, but have very little idea what to do with all that power."
+- **[[Are We Happier|Are We Happier?]]** — despite all this power, Harari questions whether Sapiens are any happier than our foraging ancestors — and warns that "we are more powerful than ever before, but have very little idea what to do with all that power."
 
 **💬 Reflection:**
 - The throughline of all four revolutions: our collective power keeps compounding while individual well-being and wisdom lag far behind it.
