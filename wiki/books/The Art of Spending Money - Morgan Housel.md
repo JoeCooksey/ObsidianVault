@@ -57,7 +57,7 @@ Knowing how to *make* money tells you nothing about how to *spend* it — spendi
 - **[[Independence as the Dividend]]** — the best thing money buys is the ability to wake up and do what you want; spending that erodes that freedom (debt, obligations, status upkeep) is usually a bad trade.
 - Connects to [[Financial Freedom vs Wealth]] — wealth is what you *don't* spend, and what it buys you is options.
 
-## 5. [[Know What You Actually Want]]
+## 5. Know What You Actually Want
 > [!abstract] tldr; Good spending is personal. Copying someone else's spending pattern is as foolish as copying their diet or their relationships.
 
 - There's no universal "right" way to spend; the question is what fits *your* temperament, history, and values.
