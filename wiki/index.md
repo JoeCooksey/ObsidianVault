@@ -317,6 +317,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Kefir Grain Sourcing and Care]] — where to buy (Yemoos ~$10 top pick, Cultures for Health $16.99, Etsy $8–11 budget, free from local fermenters); live vs dried; fridge/dry/freeze storage; reviving; growth troubleshooting (developing)
 - [[Kefir Microbiology and Health Benefits]] — what's in grains (L. kefiranofaciens/kefiri, yeasts, ~300 species, kefiran); animal/in-vitro benefits strong, human evidence limited; lower lactose than milk (developing)
 
+### Mycology / Mushroom Cultivation
+- [[All-in-One Mushroom Grow Bag]] — sealed bag combining grain spawn + bulk substrate + injection port + filter patch; one inoculation, one opening; beginner method (developing)
+- [[Sterile Inoculation Technique]] — still-air, alcohol-and-flame injection of spores (5–7 cc) or liquid culture (~10 cc) into the grain layer (developing)
+- [[Mycelium Colonization Phase]] — warm (72–76°F), dark, sealed; mycelium days 3–10, full grain 25–45 days (developing)
+- [[Break and Shake (Spawn Distribution)]] — at 50–75% colonization, break grain to marble-size + knead; the biggest speed lever (developing)
+- [[Mushroom Fruiting Conditions]] — four triggers: FAE + ~90–95% humidity + 12–16 h indirect light + 60–75°F; harvest at veil break (developing)
+- [[Mushroom Contamination Identification]] — Trichoderma (green=toss) / bacteria (slimy-sour) / cobweb (grey, H₂O₂) / overlay (not contam) (developing)
+- [[Multi-Flush Rehydration (Dunking)]] — pulling a 2nd flush (≤50% of 1st); AIO usually needs only misting, dunk 4–6 h if dried (developing)
+- [[Drying and Storing Psilocybin Mushrooms]] — "cracker dry" ~5% moisture; fan-dry → silica; vacuum+freeze+dark = 80–95% potency 1–2 yr (developing)
+- [[Psilocybin Legal Status (US)]] — federal Schedule I; CO home-grow only (12×12 ft); OR supervised-only; decrim ≠ legal (developing)
+- [[Research - Growing Psilocybin Mushrooms in All-in-One Grow Bags]] — synthesis: full 8-phase guide inoculation→colonize→break&shake→fruit→harvest→2nd flush→dry; legal caveat (developing)
+
 ### Diet Science / Nutrition Research
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — 9-claim evidence review: oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) + vegetables (oxalates, isothiocyanates, polyphenols, phytosterols); 2 of 9 claims hold; scorecard included (complete)
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
