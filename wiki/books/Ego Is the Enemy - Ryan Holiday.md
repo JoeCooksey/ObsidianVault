@@ -50,7 +50,7 @@ The thesis is that ego is dangerous in *all three*, and the work of suppressing 
 
 ---
 
-## Part 2: [[Success]]
+## Part 2: Success
 > [!abstract] tldr; Success is intoxicating and makes ego harder to control. Now you have something to lose and a story about your own genius to protect — both are traps.
 
 **🧩 New Mental Models (Concepts):**
