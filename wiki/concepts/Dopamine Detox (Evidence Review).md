@@ -32,7 +32,7 @@ What's real and what's hype about "dopamine detox" / "dopamine fasting." **The n
 
 ## The Name Is Misleading
 
-You **cannot** fast from dopamine — it's a constantly active neurotransmitter required for movement, motivation, and basic function. Cameron Sepah, who coined "dopamine fasting," **agrees the name is misleading**: the goal is not to lower dopamine but to **reduce impulsive behaviors** that the reward system reinforces (Source: [[Cameron Sepah — Dopamine Fasting 2.0]]). Harvard Health called the viral version "a misunderstanding of science spawning a maladaptive fad."
+You **cannot** fast from dopamine — it's a constantly active neurotransmitter required for movement, motivation, and basic function. Cameron Sepah, who coined "dopamine fasting," **agrees the name is misleading**: the goal is not to lower dopamine but to **reduce impulsive behaviors** that the reward system reinforces (Source: Cameron Sepah, *Dopamine Fasting 2.0*). Harvard Health called the viral version "a misunderstanding of science spawning a maladaptive fad."
 
 ---
 
