@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-05-31] newsletter | EE Daily — May 31, 2026
+Top stories: Custom AI ASICs reach 27.8% of AI server market (Broadcom $8.4B Q1, +106% YoY); Samsung ships HBM4E samples + ADI acquires AI power delivery firm Empower for $1.5B; NVIDIA commits $6.5B to silicon photonics with Spectrum-X co-packaged optics launch; daily research topic: β-Ga₂O₃ ultra-wide bandgap power devices (Baliga FOM 3–10× SiC, 2DEG heterostructure breakthrough).
+
+## [2026-05-31] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-05-30] autoresearch | Masturbation and Pornography (Benefits and Harms)
 - Rounds: 2 | Searches: 8 | Sources fetched: 6 | Pages created: 12 (6 sources, 4 concepts, 1 entity, 1 synthesis)
 - Sources: [[Masturbation Facts and Benefits — Cleveland Clinic]], [[Pornography Use and Psychological Science — Grubbs Kraus 2021]], [[CSBD and Problematic Pornography Use Treatments — Systematic Review 2023]], [[Pornography and Sexual Dysfunction — Integrative Review 2019]], [[Sexual Activity and Prostate Cancer — Dose-Response Meta-analysis 2025]], [[Adolescent Pornography Exposure and Sexual Behavior — Systematic Review 2023]]

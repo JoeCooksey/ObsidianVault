@@ -6,12 +6,12 @@
     {
       "id": "pm_001",
       "question": "Why is Buffett's compounding story the central lesson of The Psychology of Money?",
-      "answer": "99% of Buffett's wealth came after his 60th birthday. He started investing at 10 and never stopped. His returns are not extraordinary \u2014 his duration is. The lesson: time in the game beats rate of return. Compounding is counterintuitive because the big numbers only appear at the very end.",
+      "answer": "99% of Buffett's wealth came after his 60th birthday. He started investing at 10 and never stopped. His returns are not extraordinary — his duration is. The lesson: time in the game beats rate of return. Compounding is counterintuitive because the big numbers only appear at the very end.",
       "box": 1,
       "interval": 1,
-      "next_review": "2026-05-30",
-      "last_reviewed": "2026-05-29",
-      "repetitions": 1
+      "next_review": "2026-05-31",
+      "last_reviewed": "2026-05-30",
+      "repetitions": 2
     },
     {
       "id": "pm_002",
@@ -19,14 +19,14 @@
       "answer": "1% of events drive 90% of outcomes. Most of the S&P's gains come from a handful of extraordinary years. Most of Amazon's revenue from a handful of products. Implication: expect most experiments to fail, don't quit the game before the tail event hits, and size your exposure so failure is survivable.",
       "box": 1,
       "interval": 1,
-      "next_review": "2026-05-30",
-      "last_reviewed": "2026-05-29",
-      "repetitions": 1
+      "next_review": "2026-05-31",
+      "last_reviewed": "2026-05-30",
+      "repetitions": 2
     },
     {
       "id": "pm_003",
       "question": "What is the Man in the Car Paradox?",
-      "answer": "People buy fancy cars expecting admiration. But observers admire themselves in the car \u2014 they imagine how they'd look driving it \u2014 not the driver. Status signals are projective. The wealth paradox: things we buy to signal success rarely generate the admiration we imagine. We want respect, not cars.",
+      "answer": "People buy fancy cars expecting admiration. But observers admire themselves in the car — they imagine how they'd look driving it — not the driver. Status signals are projective. The wealth paradox: things we buy to signal success rarely generate the admiration we imagine. We want respect, not cars.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-05-31",
@@ -36,7 +36,7 @@
     {
       "id": "pm_004",
       "question": "What is Housel's thesis on Financial Freedom vs Wealth?",
-      "answer": "The highest dividend money pays is autonomy \u2014 the ability to do what you want, when you want, with who you want. Not possessions. Housel argues: save without a specific goal, because savings is optionality. It keeps options open when the unexpected happens, and that freedom is the real prize.",
+      "answer": "The highest dividend money pays is autonomy — the ability to do what you want, when you want, with who you want. Not possessions. Housel argues: save without a specific goal, because savings is optionality. It keeps options open when the unexpected happens, and that freedom is the real prize.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-05-31",
@@ -46,7 +46,7 @@
     {
       "id": "pm_005",
       "question": "What is the First Rule of Compounding?",
-      "answer": "Don't interrupt it. The biggest financial mistakes are not picking wrong stocks \u2014 they're selling at the bottom, taking on too much debt, or otherwise leaving the game before compounding does its work. Good investing is less about brilliant picks and more about never making the catastrophic mistake.",
+      "answer": "Don't interrupt it. The biggest financial mistakes are not picking wrong stocks — they're selling at the bottom, taking on too much debt, or otherwise leaving the game before compounding does its work. Good investing is less about brilliant picks and more about never making the catastrophic mistake.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-02",
@@ -56,7 +56,7 @@
     {
       "id": "pm_006",
       "question": "What are Housel's 'Untouchables'?",
-      "answer": "Five things never worth trading for money: reputation, freedom, family, friends, happiness. These are the intrinsic values that money is supposed to serve \u2014 not the other way around. When money is used to acquire these things it often destroys them. Housel argues knowing your 'enough' is the critical financial skill.",
+      "answer": "Five things never worth trading for money: reputation, freedom, family, friends, happiness. These are the intrinsic values that money is supposed to serve — not the other way around. When money is used to acquire these things it often destroys them. Housel argues knowing your 'enough' is the critical financial skill.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-02",
