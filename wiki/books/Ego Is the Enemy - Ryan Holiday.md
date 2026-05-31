@@ -35,7 +35,7 @@ The thesis is that ego is dangerous in *all three*, and the work of suppressing 
 
 ## 📑 Part Notes
 
-## Part 1: [[Aspire]]
+## Part 1: Aspire
 > [!abstract] tldr; When you're ambitious and unproven, ego whispers that you're already great. The danger is talking instead of doing, and falling in love with the idea of yourself rather than the work.
 
 **🧩 New Mental Models (Concepts):**
