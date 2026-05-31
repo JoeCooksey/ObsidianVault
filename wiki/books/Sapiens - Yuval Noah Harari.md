@@ -61,7 +61,7 @@ Homo sapiens conquered the world not because of strength or intelligence alone, 
 
 ---
 
-## Part 3: [[The Unification of Humankind]]
+## Part 3: [[Unification of Humankind|The Unification of Humankind]]
 > [!abstract] tldr; Three universal orders pulled fragmented cultures toward a single global civilization: money, empire, and religion.
 
 **🧩 New Mental Models (Concepts):**
