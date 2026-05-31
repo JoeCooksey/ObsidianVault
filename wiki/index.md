@@ -34,6 +34,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Anna Lembke]] — Stanford addiction psychiatrist; *Dopamine Nation* (2021); pleasure-pain balance model
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
+- [[Ryan Holiday]] — *Ego Is the Enemy* (2016), *The Obstacle Is the Way*; modern Stoicism popularizer
+- [[Mel Robbins]] — *The Let Them Theory* (2024), *The 5 Second Rule*; "Let Them / Let Me" tool
+- [[Yuval Noah Harari]] — historian; *Sapiens* (2011/2014), *Homo Deus*, *Nexus*; shared fictions / imagined orders
+- [[Robert B. Cialdini]] — social psychologist; *Influence* (1984), *Pre-Suasion*; the 6+1 principles of persuasion
+- [[Morgan Housel]] — *The Psychology of Money* (2020) & *The Art of Spending Money* (2025); behavioral finance
 - [[Lawrence Livermore National Laboratory]] — DOE national security lab in Livermore, CA; undergrad summer internships; apply Oct–Jan; ~8,000 staff
 - [[Intel]] — invented x86 ISA (1978); multi-core transition (2006)
 - [[AMD]] — 64-bit x86 transition (2003); chiplet architecture (2019); Ryzen AI Max APU (2025)
