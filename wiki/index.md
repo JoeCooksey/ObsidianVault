@@ -299,6 +299,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Book List — Science and Technology]] — S/A/B tier; Feynman (*Surely You're Joking*), Hamming (*Art of Doing Science*), Gertner (*Idea Factory*), Isaacson (*Innovators*), Shannon biography, GEB; reading order for Joe (developing)
 - [[Book List — History and Ideas]] — S/A/B tier; Sapiens, Guns Germs Steel, Wright Brothers, Thinking in Systems, Lessons of History, Nexus; mental models produced per book (developing)
 - [[Book List — Career and Leadership]] — S/A/B tier; Newport (*So Good They Can't Ignore You*), Pragmatic Programmer, Zinsser (*On Writing Well*), Manager's Path, First 90 Days; Joe career priority order (developing)
+- [[Library Availability — Master Book List (Livermore)]] — which master-list titles are on the shelf / checked out / need LINK+ at Livermore Public Library; checked 2026-05-31 (~31 available, ~19 holdable, 11 ILL) (developing)
 - [[Research - Book Recommendations Master List]] — master synthesis with Joe's 12-book phased reading order across all categories (complete)
 - [[Research-Reading-Complete-Guide]] — reading retention system + application framework + benefits science + Phase 4–6 book order across all domains (complete)
 
