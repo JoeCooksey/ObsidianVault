@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Healthy Ways to Manage Sexual Arousal",
+      "path": "wiki/questions/Research - Healthy Ways to Manage Sexual Arousal.md"
+    },
+    {
+      "basename": "Psychology Today — 7 Healthy Ways to Improve Sexual Desire",
+      "path": "wiki/sources/Psychology Today — 7 Healthy Ways to Improve Sexual Desire.md"
+    },
+    {
       "basename": "Book View",
       "path": "wiki/Book View.base"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Function Health Labs - 2025-12-29",
       "path": "wiki/sources/Function Health Labs - 2025-12-29.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Health Metrics Master Tier List (Price, Frequency, Worth-It)",
@@ -191,14 +199,6 @@
     {
       "basename": "Research - Stock Buy-Sell Factors and Quant Finance",
       "path": "wiki/questions/Research - Stock Buy-Sell Factors and Quant Finance.md"
-    },
-    {
-      "basename": "dashboard",
-      "path": "wiki/meta/dashboard.md"
-    },
-    {
-      "basename": "Fundamental Analysis Valuation Metrics",
-      "path": "wiki/concepts/Fundamental Analysis Valuation Metrics.md"
     }
   ],
   "omittedPaths": [],
