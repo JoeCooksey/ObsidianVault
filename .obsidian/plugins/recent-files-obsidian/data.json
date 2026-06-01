@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Book View",
+      "path": "wiki/Book View.base"
+    },
+    {
+      "basename": "The Art of Spending Money - Morgan Housel",
+      "path": "wiki/books/The Art of Spending Money - Morgan Housel.md"
+    },
+    {
       "basename": "Bloodwork Food & Supplement Guide",
       "path": "wiki/sources/Bloodwork Food & Supplement Guide.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "Cortisol Complete Guide",
       "path": "wiki/concepts/Cortisol Complete Guide.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "wiki/Book View.base"
     },
     {
       "basename": "Sapiens - Yuval Noah Harari",
@@ -195,10 +199,6 @@
     {
       "basename": "Fundamental Analysis Valuation Metrics",
       "path": "wiki/concepts/Fundamental Analysis Valuation Metrics.md"
-    },
-    {
-      "basename": "Sell Discipline (When to Sell a Stock)",
-      "path": "wiki/concepts/Sell Discipline (When to Sell a Stock).md"
     }
   ],
   "omittedPaths": [],
