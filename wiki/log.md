@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-01] agent | Quarterly Earnings Deep Dive 2026-06
+- Cycle: Q1 2026 (calendar) / Q2 FY2026 (Apple, Visa)
+- Holdings monitored: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML (all 11 reported)
+- All 11 holdings beat on revenue; 10/11 beat on EPS; 9/11 raised guidance
+- Standout: LLY (+56% rev, +170% EPS, full-year raised). NVDA $81.6B revenue (+85% YoY), $48.5B FCF in one quarter. TSMC record 66.2% gross margin.
+- Key theme: AI capex supercycle accelerating — combined AI infra spend across holdings exceeds $600B for 2026.
+- Page created: [[Quarterly Earnings Deep Dive 2026-06]]
+
 ## [2026-05-31] autoresearch | The Cortisol Masterclass (Increase and Reduce)
 - Rounds: 3 | Searches: 7 | Source fetches: 6
 - Topic: "what is the cortisol masterclass, give options to increase and reduce"

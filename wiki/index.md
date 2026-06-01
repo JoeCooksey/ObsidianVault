@@ -294,6 +294,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - The Cortisol Masterclass (Increase and Reduce)]] — synthesis: Huberman's masterclass reframe + RCT-backed increase/reduce protocols (developing)
 
 ### Investing / Stock Monitoring
+- [[Quarterly Earnings Deep Dive 2026-06]] — Q1 2026 earnings cycle; all 11 holdings (AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML) reported; deep dive per company: revenue/EPS beat, FCF, guidance direction, management commentary, thesis check; portfolio scorecard + 5 key takeaways (complete)
 - [[Weekly Stock Scan 2026-05-25]] — Week of May 25, 2026; 11 tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML; insider trading, analyst activity, short interest, SEC filings (complete)
 
 ### Consumer Spending / Purchase Value
