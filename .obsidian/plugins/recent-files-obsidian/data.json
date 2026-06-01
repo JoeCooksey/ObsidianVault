@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "4x4 Intervals for Rowing",
+      "path": "wiki/concepts/4x4 Intervals for Rowing.md"
+    },
+    {
+      "basename": "Norwegian 4x4 Interval Protocol",
+      "path": "wiki/concepts/Norwegian 4x4 Interval Protocol.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "2026-06-01-ee-daily",
+      "path": "wiki/newsletters/2026-06-01-ee-daily.md"
+    },
+    {
+      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
+      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
+    },
+    {
+      "basename": "Project - Digitally Controlled Synchronous Buck Converter",
+      "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
+    },
+    {
+      "basename": "Quarterly Earnings Deep Dive 2026-06",
+      "path": "wiki/questions/Quarterly Earnings Deep Dive 2026-06.md"
     },
     {
       "basename": "Li Huang Zhu 2025 — Exercise for Cortisol Network Meta-analysis",
@@ -63,14 +87,6 @@
     {
       "basename": "News Debrief 2026-05-31",
       "path": "wiki/news/News Debrief 2026-05-31.md"
-    },
-    {
-      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
-      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
-    },
-    {
-      "basename": "Project - Digitally Controlled Synchronous Buck Converter",
-      "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
     },
     {
       "basename": "2026-05-31-ee-daily",
@@ -183,22 +199,6 @@
     {
       "basename": "Vegetable Soup Guide",
       "path": "wiki/concepts/Vegetable Soup Guide.md"
-    },
-    {
-      "basename": "Supplement Timing Rules",
-      "path": "wiki/concepts/Supplement Timing Rules.md"
-    },
-    {
-      "basename": "Research - Joe's Supplement Stack Audit",
-      "path": "wiki/questions/Research - Joe's Supplement Stack Audit.md"
-    },
-    {
-      "basename": "Costco Pantry for Homemade Soup",
-      "path": "wiki/concepts/Costco Pantry for Homemade Soup.md"
-    },
-    {
-      "basename": "Boil-and-Blend Soup Formula",
-      "path": "wiki/concepts/Boil-and-Blend Soup Formula.md"
     }
   ],
   "omittedPaths": [],
