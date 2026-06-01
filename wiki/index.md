@@ -336,6 +336,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Reading Retention Methods]] — active recall, spaced repetition, Feynman Technique, SQ3R, Mortimer Adler 4 levels, progressive summarization; Readwise integration; protocol for Joe (developing)
 - [[Reading Application Framework]] — ARIA system (Absorb→Reflect→Intentionalize→Act); implementation lists; Zettelkasten/PARA integration; subject-specific application patterns (developing)
 - [[Benefits of Reading]] — 46% cognitive decline reduction (Yale); brain connectivity; theory of mind; stress -68%; vocabulary/earnings link; depth of engagement requirements (developing)
+- [[Book Note-Taking System]] — **master journaling guide**: 3 layers (annotate → journal → process), the book-note anatomy, copy-paste reading-journal template; Adler's marking toolkit (developing)
+- [[Book Reflection Questions]] — guiding-question bank: Adler's 4 universal Qs + comprehension/critical/personal/application/fiction blocks; the prompts that fill a journal entry (developing)
+- [[From Highlights to Permanent Notes]] — what to DO with book notes: wait → atomic notes in own words → link → spaced review → apply/create/teach; Zettelkasten vs commonplace notecards (developing)
+- [[Research - Book Journaling and Note-Taking Guide]] — synthesis: capture/journal/process separated in time; value is in the last, most-skipped step; new entities Ahrens/Luhmann/Adler (developing)
 
 ### Book Lists — Curated Reading by Category
 - [[Book List — Finance and Investing]] — S/A/B tier; The Intelligent Investor, Psychology of Money, Just Keep Buying, index fund thesis, mental models (developing)
