@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 01, 2026]] — NVIDIA Computex PC processor debut (Intel −6%); 14-inch SiC crystal commercialization (Tiancheng); 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; PsiQuantum Omega photonic chip on 300mm GlobalFoundries wafers; daily topic: GaN 6G FR3 PA design (PAE, load pull, harmonic termination)
 - [[EE Daily — May 31, 2026]] — Custom AI ASICs at 27.8% AI server market share; HBM4E shipments + ADI acquires power delivery firm ($1.5B); NVIDIA $6.5B photonics/Spectrum-X CPO; SiC 8-inch laser lift-off at 40 μm; GaN record PAE for 6G FR3; β-Ga₂O₃ UWBG 2DEG demo; daily topic: β-Ga₂O₃ UWBG power device design
 - [[EE Daily — May 30, 2026]] — imec/Ghent TFLN on silicon photonics (70 GHz, 320 Gb/s world-first); Broadcom AI ASICs $8.4B Q1 (+106% YoY); 14-inch SiC crystal commercialization (Tiancheng); 2D molecular ferroelectric at 9 nm; HBM spike + ADI acquires AI power delivery firm; daily topic: Thin-Film LiNbO₃ Electro-Optic Modulators
 - [[EE Daily — May 29, 2026]] — Moore4Power €91M Si/SiC/GaN heterogeneous integration EU project; AMD EPYC Venice first 2nm HPC CPU in production; Soitec/NTU GaN >50% PAE at 6G FR3; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; custom AI ASICs at 27.8% AI server market share; daily topic: Heterogeneous Power Module Integration (CTE, L_CS, AlN substrates)

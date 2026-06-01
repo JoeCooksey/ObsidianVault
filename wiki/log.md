@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-01] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
+## [2026-06-01] newsletter | EE Daily — June 01, 2026
+- NVIDIA Computex PC processor debut (Intel fell 6%); 14-inch SiC single crystal commercialization (Tiancheng, China); 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric (10–100× 2D SOTA); daily topic: GaN Power Amplifiers for 6G FR3 — PAE, load pull, and harmonic termination design.
+
 ## [2026-06-01] agent | Quarterly Earnings Deep Dive 2026-06
 - Cycle: Q1 2026 (calendar) / Q2 FY2026 (Apple, Visa)
 - Holdings monitored: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML (all 11 reported)
