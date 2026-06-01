@@ -552,6 +552,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Smoking Cannabis and Testosterone]] — mixed/conflicting; net harmful to reproductive health (low)
 - [[Harvard Health Testosterone Lifestyle]] — clinical overview, consistent with primary literature (high)
 
+### Health / Fitness (VO2max & Intervals)
+- [[Myworkout — The Norwegian 4x4 Protocol]] — Helgerud & Hoff (developers); canonical protocol params: 6-min warm-up, 4×4 @ 85–95% HRmax, 3-min active recoveries, 2×/week (medium)
+- [[Edwardsen 2020 — Heart Rate Response to 4x4 Protocol]] — peer-reviewed; HR peaks ~93% HRmax (interval 4), ~1.3 min lag to reach 85%, ~80% of work time in-band (high)
+- [[Long vs Short Intervals — Time Above 90% VO2max 2025]] — peer-reviewed; long (3–4 min) > short (30 s) intervals for time above 90% VO2max (~5.5 vs ~3.4 min) in trained runners (high)
+- [[Generation 100 Study — HIIT and Mortality 2020]] — Stensvold/Wisløff RCT (*BMJ*); 1,567 adults 70–77, 5 yr; HIIT 2.9 pp mortality reduction vs MICT + larger VO2max gains (high)
+- [[Norwegian 4x4 — PureGym Practical Guide]] — execution layer: talk-test/RPE gauging, running application, common mistakes (medium)
+- [[Rowing VO2max Intervals — Erg Practical Notes]] — rowing numbers: 2K+2–5 s/500m target, 28–32 spm, drag factor 120–130 (medium)
+
 ### Health / Fermentation (Kefir)
 - [[Frontiers-PMC — Microbiota of Kefir]] — Bourrie et al. 2016, peer-reviewed review; kefir species, kefiran, animal vs human evidence (high confidence)
 - [[Cultures for Health — Milk Kefir Grains]] — vendor + how-to; method, second ferment, sourness fixes; $16.99 grains (medium)
