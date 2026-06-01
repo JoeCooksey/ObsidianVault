@@ -33,7 +33,7 @@ If you answer only four questions, answer these.
 
 - In one sentence, what is the author's central argument?
 - What are the 3 most important ideas?
-- What knowledge did I gain that I didn't have before? (Source: [[litlovers nonfiction questions|litlovers]])
+- What knowledge did I gain that I didn't have before? (Source: litlovers nonfiction discussion questions)
 - Could I explain the core idea to a 12-year-old? (the Feynman test — Source: [[Reading Retention Methods]])
 - What was memorable — which specific passages struck me as significant, profound, or disturbing?
 
