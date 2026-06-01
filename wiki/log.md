@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-01] autoresearch | Every Health Metric Worth Tracking (Price, Frequency, Worth-It)
+- Rounds: 2 | Searches: 9 | Sources fetched: 1
+- Pages created: [[Health Metrics Master Tier List (Price, Frequency, Worth-It)]], [[Waist-to-Height Ratio]], [[Wearable Health Metric Validity]], [[Empirical Health Best CVD Biomarkers 2025]], [[Waist-to-Height Ratio CVD 2025]], [[Wearable Sleep and HRV Validation 2025]], [[Health Screening Cost Guide 2026 — BodySpec]], [[Blood Testing Memberships 2025]], [[VO2 Max Mortality Evidence]], [[CGM Non-Diabetic Review 2025]], [[2025 AHA-ACC Home Blood Pressure Guideline]], [[Whole-Body MRI Screening 2025]]
+- Synthesis: [[Research - Every Health Metric Worth Tracking]]
+- Key finding: The highest-value health metrics are also the cheapest (home BP, waist-to-height ratio, resting HR, VO2max estimate — all ~free); the most expensive (whole-body MRI, epigenetic clocks) are the least worth it for healthy people. Complements existing [[Health Biomarkers Complete Panel]] by adding price/frequency/worth-it scoring across wearables, anthropometrics, fitness, and imaging — not just blood.
+
 ## [2026-06-01] autoresearch | Norwegian 4x4 HIIT Masterclass (Running and Rowing)
 - Rounds: 2 | Searches: 7 | Sources fetched: 5
 - Pages created (12 — 3 concepts, 6 sources, 2 entities, 1 synthesis): [[Norwegian 4x4 Interval Protocol]], [[4x4 Intervals for Running]], [[4x4 Intervals for Rowing]], [[Jan Helgerud]], [[Ulrik Wisløff]], [[Myworkout — The Norwegian 4x4 Protocol]], [[Edwardsen 2020 — Heart Rate Response to 4x4 Protocol]], [[Long vs Short Intervals — Time Above 90% VO2max 2025]], [[Generation 100 Study — HIIT and Mortality 2020]], [[Norwegian 4x4 — PureGym Practical Guide]], [[Rowing VO2max Intervals — Erg Practical Notes]]
