@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-01] autoresearch | Book Journaling and Note-Taking Guide
+- Rounds: 2 | Searches: 6 | Sources fetched: 4 (2 Adler PDFs unreachable 404/403)
+- Pages created (10 — 3 concepts, 3 sources, 3 entities, 1 synthesis): [[Book Note-Taking System]], [[Book Reflection Questions]], [[From Highlights to Permanent Notes]], [[How to Take Smart Notes - Sonke Ahrens]], [[The Notecard System - Ryan Holiday]], [[How to Mark a Book - Mortimer Adler]], [[Sönke Ahrens]], [[Niklas Luhmann]], [[Mortimer Adler]]
+- Synthesis: [[Research - Book Journaling and Note-Taking Guide]]
+- Key finding: Effective book note-taking is THREE activities separated in time — annotate while reading (Adler's marking toolkit), journal in your own words after, and process into linked atomic notes weeks later — and the value lives almost entirely in that last, most-skipped step. WHAT to write: thesis + summary + key ideas (with why) + quotes (page #) + pushback + ONE action + connections. GUIDING questions: Adler's 4 (what's it about / said in detail / true? / what of it?). WHAT to do with notes: wait, rephrase one idea per note/card, link aggressively, spaced-review with active recall, then apply/create/teach. Two canonical systems = digital Zettelkasten (Luhmann→Ahrens) and analog commonplace notecards (Greene→Holiday). Fills the gap between existing [[Reading Retention Methods]] and [[Reading Application Framework]].
+
 ## [2026-06-01] autoresearch | Every Health Metric Worth Tracking (Price, Frequency, Worth-It)
 - Rounds: 2 | Searches: 9 | Sources fetched: 1
 - Pages created: [[Health Metrics Master Tier List (Price, Frequency, Worth-It)]], [[Waist-to-Height Ratio]], [[Wearable Health Metric Validity]], [[Empirical Health Best CVD Biomarkers 2025]], [[Waist-to-Height Ratio CVD 2025]], [[Wearable Sleep and HRV Validation 2025]], [[Health Screening Cost Guide 2026 — BodySpec]], [[Blood Testing Memberships 2025]], [[VO2 Max Mortality Evidence]], [[CGM Non-Diabetic Review 2025]], [[2025 AHA-ACC Home Blood Pressure Guideline]], [[Whole-Body MRI Screening 2025]]
