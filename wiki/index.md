@@ -606,6 +606,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - EE Physical Side Skills for Semiconductors and Power]] — 8 key findings; hiring signals, 18-month actionable plan, WBG career context (developing)
 - [[Research - LTSpice Skills Guide]] — 8 key findings; 4 simulation types, 10-circuit ladder, SPICE directives, power electronics sim, common mistakes, Joe's 4-phase timeline (complete)
 - [[Research - Complete Biohacking Guide]] — 8 key findings; tier lists, supplements, biomarkers, daily hacks (developing)
+- [[Research - Every Health Metric Worth Tracking]] — every trackable health metric scored by price/frequency/worth-it; best metrics are nearly free; ApoB > LDL, waist-to-height > BMI, VO2max = top mortality predictor, whole-body MRI not worth it (developing)
 - [[Research - Peptide Tier List]] — 8 key findings; full peptide tier list personalized for Joe; WADA considerations; synergy stacks; regulatory shift Feb 2026; priority action plan (developing)
 - [[Research - Cycling Training Periodization and Annual Plan]] — 8 key findings, 6-day/week training plan across 5 phases
 - [[Research - Norwegian 4x4 HIIT Masterclass (Running and Rowing)]] — full masterclass: protocol table, format-beats-intensity, pace-for-the-4th-rep, HR reality (~93% peak), running (treadmill ≥5% incline) + rowing (2K+2–5 s, 28–32 spm, drag 120–130) execution; ~7–13% VO2max in 8 wk + Generation 100 longevity (developing)
