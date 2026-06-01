@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Book Reflection Questions",
+      "path": "wiki/concepts/Book Reflection Questions.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "From Highlights to Permanent Notes",
+      "path": "wiki/concepts/From Highlights to Permanent Notes.md"
+    },
+    {
+      "basename": "How to Take Smart Notes - Sonke Ahrens",
+      "path": "wiki/sources/How to Take Smart Notes - Sonke Ahrens.md"
+    },
+    {
+      "basename": "Book Note-Taking System",
+      "path": "wiki/concepts/Book Note-Taking System.md"
+    },
+    {
       "basename": "Leonardo da Vinci - Walter Isaacson",
       "path": "wiki/books/Leonardo da Vinci - Walter Isaacson.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Health Metrics Master Tier List (Price, Frequency, Worth-It)",
@@ -183,22 +199,6 @@
     {
       "basename": "2026-05-30-ee-daily",
       "path": "wiki/newsletters/2026-05-30-ee-daily.md"
-    },
-    {
-      "basename": "Why Optimize Your Gut",
-      "path": "wiki/concepts/Why Optimize Your Gut.md"
-    },
-    {
-      "basename": "Leaky Gut and Intestinal Permeability",
-      "path": "wiki/concepts/Leaky Gut and Intestinal Permeability.md"
-    },
-    {
-      "basename": "Gut Optimization Actions Tier List",
-      "path": "wiki/concepts/Gut Optimization Actions Tier List.md"
-    },
-    {
-      "basename": "Gut-Harmful Foods and Actions Tier List",
-      "path": "wiki/concepts/Gut-Harmful Foods and Actions Tier List.md"
     }
   ],
   "omittedPaths": [],
