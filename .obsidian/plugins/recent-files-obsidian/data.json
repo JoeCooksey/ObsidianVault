@@ -5,6 +5,10 @@
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
     {
+      "basename": "Norwegian 4x4 Interval Protocol",
+      "path": "wiki/concepts/Norwegian 4x4 Interval Protocol.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Myworkout — The Norwegian 4x4 Protocol",
       "path": "wiki/sources/Myworkout — The Norwegian 4x4 Protocol.md"
-    },
-    {
-      "basename": "Norwegian 4x4 Interval Protocol",
-      "path": "wiki/concepts/Norwegian 4x4 Interval Protocol.md"
     },
     {
       "basename": "4x4 Intervals for Rowing",
