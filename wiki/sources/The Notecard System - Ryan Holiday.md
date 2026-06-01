@@ -60,4 +60,4 @@ Robert Greene's scale: after ~300–400 books he accumulates **3,000–4,000 car
 
 ## What It Contributes to the Topic
 
-The canonical analog answer to *what to do with notes*: the **delayed-transcription + theme-tagging + physical-regrouping** workflow. Pairs with the digital [[Sönke Ariens|Zettelkasten]] pipeline in [[From Highlights to Permanent Notes]].
+The canonical analog answer to *what to do with notes*: the **delayed-transcription + theme-tagging + physical-regrouping** workflow. Pairs with the digital [[How to Take Smart Notes - Sonke Ahrens|Zettelkasten]] pipeline in [[From Highlights to Permanent Notes]].
