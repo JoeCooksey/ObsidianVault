@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bloodwork Food & Supplement Guide",
+      "path": "wiki/sources/Bloodwork Food & Supplement Guide.md"
+    },
+    {
       "basename": "Function Health Labs - 2025-12-29",
       "path": "wiki/sources/Function Health Labs - 2025-12-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sell Discipline (When to Sell a Stock)",
       "path": "wiki/concepts/Sell Discipline (When to Sell a Stock).md"
-    },
-    {
-      "basename": "News Debrief 2026-05-30",
-      "path": "wiki/news/News Debrief 2026-05-30.md"
     }
   ],
   "omittedPaths": [],
