@@ -302,6 +302,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Ways to Reduce Cortisol (Tier List)]] — the "reduce" options ranked by evidence: sleep + cut evening light, yoga/qigong (HIIT *raises* it), ashwagandha 300–600 mg PM (~11–32%), omega-3, NSDR/breathing, sauna (developing)
 - [[Research - The Cortisol Masterclass (Increase and Reduce)]] — synthesis: Huberman's masterclass reframe + RCT-backed increase/reduce protocols (developing)
 
+### Sexual Health / Self-Control
+- [[Urge Surfing]] — ride out an unwanted urge without suppressing or acting; wave metaphor; Marlatt & Gordon 1985; 8-step protocol (developing)
+- [[Sexual Sublimation]] — redirect libido into an absorbing activity; defensible as behavioral replacement, energy-"storage" claims low evidence (developing)
+- [[Research - Healthy Ways to Manage Sexual Arousal]] — synthesis: release is cortisol-lowering & beneficial if wanted; if not, urge-surf or redirect (don't suppress); sleep/communication set the baseline (developing)
+
 ### Investing / Stock Monitoring
 - [[Quarterly Earnings Deep Dive 2026-06]] — Q1 2026 earnings cycle; all 11 holdings (AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML) reported; deep dive per company: revenue/EPS beat, FCF, guidance direction, management commentary, thesis check; portfolio scorecard + 5 key takeaways (complete)
 - [[Weekly Stock Scan 2026-05-25]] — Week of May 25, 2026; 11 tickers: AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML; insider trading, analyst activity, short interest, SEC filings (complete)
