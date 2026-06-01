@@ -404,6 +404,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Supplement Tier List Complete]] — every supplement ranked across 15 categories with doses (developing)
 - [[Peptide Tier List Complete]] — every major peptide ranked S–D by evidence × risk × Joe relevance; synergy map; WADA flags; priority action plan; GHK-Cu S-tier, BPC-157 A-tier, Semax A-tier (developing)
 - [[Health Biomarkers Complete Panel]] — all blood test biomarkers with optimal longevity ranges and testing cadence (developing)
+- [[Health Metrics Master Tier List (Price, Frequency, Worth-It)]] — **every** trackable health metric (blood, anthropometric, wearable, fitness, imaging) ranked S–D by price × frequency × worth-it; best metrics are nearly free (home BP, waist-to-height, VO2max); whole-body MRI = D-tier (developing)
+- [[Waist-to-Height Ratio]] — cheapest high-value metric; beats BMI; target <0.50; free tape measure (developing)
+- [[Wearable Health Metric Validity]] — what Oura/Whoop/Apple Watch measure well (RHR, HRV trend, total sleep) vs poorly (sleep stages 50–80%) (developing)
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
 
