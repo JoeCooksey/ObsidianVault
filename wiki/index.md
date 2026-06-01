@@ -32,6 +32,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
+- [[Jan Helgerud]] — NTNU exercise physiologist; co-developer (with Jan Hoff) of the Norwegian 4x4 protocol; Myworkout co-founder; 200+ PubMed articles
+- [[Ulrik Wisløff]] — NTNU professor, head of CERG; clinical + longevity evidence for 4x4 HIIT; Generation 100 study; "Fitness Age" VO2max estimator
 - [[Anna Lembke]] — Stanford addiction psychiatrist; *Dopamine Nation* (2021); pleasure-pain balance model
 - [[Wendy Wood]] — habit researcher; "Psychology of Habit" (*Annual Review of Psychology*)
 - [[Susan David]] — Harvard psychologist; *Emotional Agility* (2016); Institute of Coaching co-founder
