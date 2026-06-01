@@ -20,6 +20,15 @@ Synthesis of ideas from books across all genres. The goal is not summaries — i
 - Narrative non-fiction
 - Fiction (themes and ideas)
 
+## How to Read, Journal & Retain (the system)
+The reading workflow, end to end:
+- [[Book Note-Taking System]] — **what to write & when**: annotate (Adler's marking toolkit) → journal entry (thesis, key ideas, quotes, ONE action) → process; includes a copy-paste reading-journal template
+- [[Book Reflection Questions]] — the guiding-question bank that fills a journal entry (Adler's 4 universal Qs + comprehension/critical/personal/application/fiction)
+- [[From Highlights to Permanent Notes]] — **what to do with notes**: wait → atomic notes in your own words → link → spaced review → apply/create/teach; Zettelkasten ([[Niklas Luhmann]]/[[Sönke Ahrens]]) vs commonplace notecards ([[Robert Greene]]/[[Ryan Holiday]])
+- [[Reading Retention Methods]] — active recall, spaced repetition, Feynman, SQ3R, Adler's 4 levels
+- [[Reading Application Framework]] — ARIA: turning retained ideas into behavior
+- Synthesis: [[Research - Book Journaling and Note-Taking Guide]]
+
 ## Key Concepts
 
 ### From The 7 Habits of Highly Effective People (Covey)
