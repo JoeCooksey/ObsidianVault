@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-01] autoresearch | Healthy Ways to Manage Sexual Arousal
+- Rounds: 2 | Searches: 4 | Sources fetched: 3
+- Pages created (7 — 2 concepts, 4 sources, 1 synthesis): [[Urge Surfing]], [[Sexual Sublimation]], [[Cleveland Clinic — Orgasm Health Benefits]], [[Urge Surfing — Positive Psychology]], [[Psychology Today — 7 Healthy Ways to Improve Sexual Desire]], [[NCBI Review — Sexual Health and Well-Being 2025]]
+- Synthesis: [[Research - Healthy Ways to Manage Sexual Arousal]]
+- Key finding: Evidence splits by intent. If acting is wanted, sexual release is genuinely beneficial — dopamine + oxytocin counter cortisol, improving mood/sleep/cardiac function (Cleveland Clinic; PMC meta-analysis ties sexual satisfaction to multi-domain well-being). If acting is unwanted, DON'T suppress (that strengthens the urge) — urge-surf (Marlatt & Gordon: ride the wave, passes in minutes) or redirect into an absorbing activity (sublimation = behavioral replacement; energy-"storage" claims are low-evidence). Baseline: sleep, communication, relationship equity, review libido-affecting meds; desire is often responsive not spontaneous.
+
 ## [2026-06-01] autoresearch | Book Journaling and Note-Taking Guide
 - Rounds: 2 | Searches: 6 | Sources fetched: 4 (2 Adler PDFs unreachable 404/403)
 - Pages created (10 — 3 concepts, 3 sources, 3 entities, 1 synthesis): [[Book Note-Taking System]], [[Book Reflection Questions]], [[From Highlights to Permanent Notes]], [[How to Take Smart Notes - Sonke Ahrens]], [[The Notecard System - Ryan Holiday]], [[How to Mark a Book - Mortimer Adler]], [[Sönke Ahrens]], [[Niklas Luhmann]], [[Mortimer Adler]]
