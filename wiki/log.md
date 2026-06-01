@@ -13,7 +13,7 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ## [2026-06-01] autoresearch | Norwegian 4x4 HIIT Masterclass (Running and Rowing)
 - Rounds: 2 | Searches: 7 | Sources fetched: 5
-- Pages created (10): [[Norwegian 4x4 Interval Protocol]], [[4x4 Intervals for Running]], [[4x4 Intervals for Rowing]], [[Jan Helgerud]], [[Ulrik Wisløff]], [[Myworkout — The Norwegian 4x4 Protocol]], [[Edwardsen 2020 — Heart Rate Response to 4x4 Protocol]], [[Long vs Short Intervals — Time Above 90% VO2max 2025]], [[Generation 100 Study — HIIT and Mortality 2020]], [[Norwegian 4x4 — PureGym Practical Guide]], [[Rowing VO2max Intervals — Erg Practical Notes]]
+- Pages created (12 — 3 concepts, 6 sources, 2 entities, 1 synthesis): [[Norwegian 4x4 Interval Protocol]], [[4x4 Intervals for Running]], [[4x4 Intervals for Rowing]], [[Jan Helgerud]], [[Ulrik Wisløff]], [[Myworkout — The Norwegian 4x4 Protocol]], [[Edwardsen 2020 — Heart Rate Response to 4x4 Protocol]], [[Long vs Short Intervals — Time Above 90% VO2max 2025]], [[Generation 100 Study — HIIT and Mortality 2020]], [[Norwegian 4x4 — PureGym Practical Guide]], [[Rowing VO2max Intervals — Erg Practical Notes]]
 - Synthesis: [[Research - Norwegian 4x4 HIIT Masterclass (Running and Rowing)]]
 - Key finding: 4×4 min @ 85–95% HRmax / 3 min active recovery, 2×/week → ~7–13% VO2max in 8 wk (≈2× MICT); long intervals beat short for time-above-90%; pace for the 4th rep (HR actually peaks ~93%); running = treadmill ≥5% incline / harder-than-5K; rowing = 2K+2–5 s/500m, 28–32 spm, drag 120–130.
 
