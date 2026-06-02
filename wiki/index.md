@@ -496,6 +496,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Games & Cognition
+- [[Klingberg-Sauce 2022 — Gaming and Children IQ]] — *Scientific Reports*; 5,000+ kids/2 yr, genetics+SES controlled; heavy gamers +2.5 IQ vs avg; TV/social media null (high)
+- [[York 2017 — MOBA Skill and Fluid Intelligence]] — *PLOS One*; LoL skill correlates with fluid intelligence; MOBA skill peaks ~age 25 like raw IQ, FPS peaks earlier (medium)
+- [[Brain Sciences 2025 — Action vs Strategy Game EEG Study]] — 30-wk EEG training, n=68, mean age 19.8; LoL gave larger/longer-lasting spatial-WM gains than a strategy card game (medium)
+- [[Cognitive Training — A Field in Search of a Phenomenon]] — review; near transfer yes, far transfer to fluid intelligence null with active controls; brain-trainers don't raise IQ (high)
+
 ### Dopamine & Neuroscience
 - [[Huberman Lab Episode 39 — Controlling Your Dopamine]] — Huberman, 2021; activity multipliers + pool/baseline model + protocols (medium)
 - [[Di Chiara and Imperato 1988 — Drugs of Abuse and Dopamine]] — PNAS; landmark microdialysis; addictive drugs raise accumbens dopamine (high)
