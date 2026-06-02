@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-02] guide | Hermes Agent — Windows Test Setup Plan (OpenAI Backend)
+- Type: guide
+- Joe asked how he'd want to set up Hermes Agent and the best config. Chose: Windows desktop (test install), OpenAI/Codex (GPT-5.x) backend, written plan.
+- Created [[Hermes Agent — Windows Test Setup Plan (OpenAI Backend)]] — a runbook (verify install script → PowerShell install → `hermes model` OpenAI → first run → optional Telegram + read-only vault), with honesty gaps flagged for unconfirmed CLI flags and the always-on VPS graduation path.
+- Cross-linked from [[Hermes Agent]] and [[Research - Hermes Agent (What It's For, Setup, POCs)]]; added to index AI/Multi-Agent section.
+
 ## [2026-06-02] save | Food Health Tier List — Macronutrients
 - Type: concept
 - Location: wiki/concepts/Food Health Tier List — Macronutrients.md
