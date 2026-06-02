@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-02] autoresearch | Video Game Tier List to Increase IQ
+- Rounds: 2 | Searches: 6 | Fetches: 2
+- Pages created: [[Klingberg-Sauce 2022 — Gaming and Children IQ]], [[York 2017 — MOBA Skill and Fluid Intelligence]], [[Brain Sciences 2025 — Action vs Strategy Game EEG Study]], [[Cognitive Training — A Field in Search of a Phenomenon]], [[Research - Video Game Tier List to Increase IQ]] (synthesis)
+- Pages updated: [[Video Games Cognitive Benefits]] (MOBAs → A-tier + 2022–2025 IQ update), [[Research - Games Cognitive Tier List]]
+- Did NOT duplicate the existing 40-game tier list; layered the IQ-specific lens + new sources onto it.
+- Key finding: No game reliably raises a true IQ score, but gaming as a category tracks ~+2.5 IQ points in kids (Karolinska/ABCD); MOBAs/strategy/deep-puzzle games train the reasoning IQ measures; brain-training apps show null far transfer; gacha/idle games are net-negative. New contradiction: a 2025 study found action (LoL) beat turn-based strategy on durable spatial-WM gains.
+
 ## [2026-06-02] guide | Hermes Agent — Windows Test Setup Plan (OpenAI Backend)
 - Type: guide
 - Joe asked how he'd want to set up Hermes Agent and the best config. Chose: Windows desktop (test install), OpenAI/Codex (GPT-5.x) backend, written plan.
