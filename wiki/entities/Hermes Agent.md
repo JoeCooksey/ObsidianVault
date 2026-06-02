@@ -18,6 +18,7 @@ related:
   - "[[MCP Tools for Agent Stacks]]"
   - "[[Andrej Karpathy]]"
   - "[[Research - Hermes Agent (What It's For, Setup, POCs)]]"
+  - "[[Hermes Agent — Windows Test Setup Plan (OpenAI Backend)]]"
 ---
 
 # Hermes Agent
