@@ -104,6 +104,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Self-Improving Agent Loop]] — experience → structured records → auto-generated, self-refining skills; contained sub-agents as parallel learners; Hermes "Self-Evolving Skills" mechanism (developing)
 - [[Persistent Agent Memory]] — cross-session recall: FTS5 session search + `MEMORY.md`/`USER.md` durable facts + Honcho user modeling; resumes pipelines from checkpoints (developing)
 - [[Research - Hermes Agent (What It's For, Setup, POCs)]] — synthesis: what Hermes is for, why Joe should set it up (Nous's own user stories include his exact LLM-wiki-on-VPS pattern), and the coolest POCs (developing)
+- [[Hermes Agent — Windows Test Setup Plan (OpenAI Backend)]] — step-by-step runbook to kick the tires on Hermes on the Windows desktop with the OpenAI/Codex (GPT-5.x) backend; verify-script → install → `hermes model` → first run → optional Telegram/vault; graduate to VPS for always-on (developing)
 
 ### AI / Edge Computing
 - [[Post-Training Quantization]] — INT4/INT8/FP8 weight and activation quantization (developing)
