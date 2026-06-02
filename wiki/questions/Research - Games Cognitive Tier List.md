@@ -3,7 +3,7 @@ type: research
 title: "Research - Games Cognitive Tier List"
 status: developing
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-06-02
 tags:
   - games
   - cognition
