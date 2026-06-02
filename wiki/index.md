@@ -67,6 +67,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Pieter Levels]] — "@levelsio" solo founder; ~$3M/yr ARR, zero employees (Nomad List, RemoteOK, PhotoAI); vanilla PHP/jQuery/SQLite; ship-before-ready; vibe-coding indie-hacker archetype
 - [[Simon Willison]] — Django co-creator; drew the vibe-coding-vs-engineering line; "don't commit code you can't explain to someone else"
 - [[Joshua Grubbs]] — clinical psychologist; moral incongruence / PPMI model; showed religiosity (not use level) predicts self-reported "porn addiction"
+- [[Nous Research]] — open-source AI lab; Hermes LLMs (2 Pro/3/4.x), the Hermes function-calling standard, and [[Hermes Agent]]; MIT-licensed, no-lock-in philosophy
+- [[Hermes Agent]] — Nous Research's open-source self-hosted autonomous agent (MIT, v0.15.2, ~177k stars); 24/7 learning assistant with skills + persistent memory; Telegram-first, 40+ tools, BYO LLM
 
 ## Concepts
 
