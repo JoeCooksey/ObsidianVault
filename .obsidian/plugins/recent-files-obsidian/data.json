@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Awesome Hermes Use Cases",
-      "path": "wiki/sources/Awesome Hermes Use Cases.md"
+      "basename": "Video Games Cognitive Benefits",
+      "path": "wiki/concepts/Video Games Cognitive Benefits.md"
+    },
+    {
+      "basename": "Free Time Tier List",
+      "path": "wiki/concepts/Free Time Tier List.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Video Game Tier List to Increase IQ",
+      "path": "wiki/questions/Research - Video Game Tier List to Increase IQ.md"
+    },
+    {
+      "basename": "Awesome Hermes Use Cases",
+      "path": "wiki/sources/Awesome Hermes Use Cases.md"
     },
     {
       "basename": "Hermes Agent",
@@ -187,18 +199,6 @@
     {
       "basename": "Testosterone-Lowering Habits to Avoid",
       "path": "wiki/concepts/Testosterone-Lowering Habits to Avoid.md"
-    },
-    {
-      "basename": "Testosterone-Boosting Habits to Include",
-      "path": "wiki/concepts/Testosterone-Boosting Habits to Include.md"
-    },
-    {
-      "basename": "Vibe Coding Tool Landscape 2026",
-      "path": "wiki/concepts/Vibe Coding Tool Landscape 2026.md"
-    },
-    {
-      "basename": "Vibe Coding",
-      "path": "wiki/concepts/Vibe Coding.md"
     }
   ],
   "omittedPaths": [],
