@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-02] autoresearch | Hermes Agent (What It's For, Setup, POCs)
+- Rounds: 2 | Searches: 6 | Sources fetched: 5
+- Pages created (9 — 2 entities, 2 concepts, 4 sources, 1 synthesis): [[Hermes Agent]], [[Nous Research]], [[Self-Improving Agent Loop]], [[Persistent Agent Memory]], [[Hermes Agent — Official Site and GitHub]], [[NVIDIA — Hermes Self-Improving Agents]], [[Hermes Agent vs Claude Code vs OpenClaw]], [[Awesome Hermes Use Cases]]
+- Synthesis: [[Research - Hermes Agent (What It's For, Setup, POCs)]]
+- Key finding: Hermes Agent is Nous Research's open-source (MIT, v0.15.2, ~177k stars), self-hosted autonomous agent that turns any OpenAI-compatible LLM into a 24/7 personal assistant whose value COMPOUNDS — it auto-generates reusable skills ([[Self-Improving Agent Loop]]) and remembers every past session via FTS5 ([[Persistent Agent Memory]]). Best for: always-on background automation + scheduled tasks delivered to Telegram/Discord, multi-agent orchestration, self-hosting on a $5 VPS→GPU box. NOT for desk-bound deep coding (Claude Code wins that — they're complements). SHOULD JOE SET IT UP? Strong yes as a complement — Nous's OFFICIAL user stories literally include Joe's exact pattern (self-improving LLM-Wiki second brain on a Hetzner VPS via Telegram, using Karpathy's LLM Wiki pattern = this vault). Cool POCs: 79k-word autonomous novel+audiobook (House of Bells), Nous building Hermes with 12 parallel Hermes instances, autonomous RenPy visual novel, event-driven GitHub PR review, Home Assistant + Android remote control, autonomous Kali pen-testing. License contradiction resolved → MIT (one blog wrongly said Apache 2.0); trading-ROI claims wildly inconsistent → low confidence.
+
 ## [2026-06-02] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 
 ## [2026-06-02] newsletter | EE Daily — June 02, 2026
