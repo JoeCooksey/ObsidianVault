@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "News Debrief 2026-06-02",
+      "path": "wiki/news/News Debrief 2026-06-02.md"
+    },
+    {
+      "basename": "2026-06-02-ee-daily",
+      "path": "wiki/newsletters/2026-06-02-ee-daily.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Portfolio Dashboard",
       "path": "Finance/Portfolio Dashboard.md"
-    },
-    {
-      "basename": "Research - Heterogeneous Integration in Power Electronics",
-      "path": "wiki/questions/Research - Heterogeneous Integration in Power Electronics.md"
-    },
-    {
-      "basename": "Research - Stock Buy-Sell Factors and Quant Finance",
-      "path": "wiki/questions/Research - Stock Buy-Sell Factors and Quant Finance.md"
     }
   ],
   "omittedPaths": [],
