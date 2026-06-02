@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-02] save | Food Health Tier List — Macronutrients
+- Type: concept
+- Location: wiki/concepts/Food Health Tier List — Macronutrients.md
+- From: conversation ranking carbs, protein, and fats S–D by nutritional value and health benefit
+
 ## [2026-06-02] autoresearch | Hermes Agent (What It's For, Setup, POCs)
 - Rounds: 2 | Searches: 6 | Sources fetched: 5
 - Pages created (9 — 2 entities, 2 concepts, 4 sources, 1 synthesis): [[Hermes Agent]], [[Nous Research]], [[Self-Improving Agent Loop]], [[Persistent Agent Memory]], [[Hermes Agent — Official Site and GitHub]], [[NVIDIA — Hermes Self-Improving Agents]], [[Hermes Agent vs Claude Code vs OpenClaw]], [[Awesome Hermes Use Cases]]

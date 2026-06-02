@@ -409,6 +409,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Food / Nutrition Tier Lists
 - [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
+- [[Food Health Tier List — Macronutrients]] — carbs/protein/fats each ranked S–D by health value; whole-vs-processed is the dominant lever (developing)
 - [[Food Health Tier List — Vegetables]] — CDC Powerhouse scores; cruciferous cancer-protection hierarchy; 100/100 watercress (developing)
 - [[Food Health Tier List — Fruits]] — GI for every fruit; berry dominance; avoid dried/juice (developing)
 - [[Food Health Tier List — Meats and Seafood]] — omega-3 content + mercury table; processed meat F-tier (WHO Group 1) (developing)
