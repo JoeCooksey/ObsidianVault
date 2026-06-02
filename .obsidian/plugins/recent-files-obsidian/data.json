@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Food Health Tier List — Overall",
-      "path": "wiki/concepts/Food Health Tier List — Overall.md"
-    },
-    {
-      "basename": "Food Health Tier List — Macronutrients",
-      "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
+      "basename": "Awesome Hermes Use Cases",
+      "path": "wiki/sources/Awesome Hermes Use Cases.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
     },
     {
-      "basename": "Awesome Hermes Use Cases",
-      "path": "wiki/sources/Awesome Hermes Use Cases.md"
+      "basename": "Hermes Agent",
+      "path": "wiki/entities/Hermes Agent.md"
+    },
+    {
+      "basename": "Food Health Tier List — Overall",
+      "path": "wiki/concepts/Food Health Tier List — Overall.md"
+    },
+    {
+      "basename": "Food Health Tier List — Macronutrients",
+      "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
     },
     {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
@@ -195,10 +199,6 @@
     {
       "basename": "Vibe Coding",
       "path": "wiki/concepts/Vibe Coding.md"
-    },
-    {
-      "basename": "Profitable Micro-SaaS Playbook",
-      "path": "wiki/concepts/Profitable Micro-SaaS Playbook.md"
     }
   ],
   "omittedPaths": [],
