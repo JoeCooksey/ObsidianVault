@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Food Health Tier List — Overall",
+      "path": "wiki/concepts/Food Health Tier List — Overall.md"
+    },
+    {
       "basename": "Food Health Tier List — Macronutrients",
       "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Profitable Micro-SaaS Playbook",
       "path": "wiki/concepts/Profitable Micro-SaaS Playbook.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
     }
   ],
   "omittedPaths": [],
