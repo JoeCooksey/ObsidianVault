@@ -17,6 +17,7 @@ related:
   - "[[Hermes Agent vs Claude Code vs OpenClaw]]"
   - "[[Awesome Hermes Use Cases]]"
   - "[[Andrej Karpathy]]"
+  - "[[Hermes Agent — Windows Test Setup Plan (OpenAI Backend)]]"
 sources:
   - "[[Hermes Agent — Official Site and GitHub]]"
   - "[[NVIDIA — Hermes Self-Improving Agents]]"
