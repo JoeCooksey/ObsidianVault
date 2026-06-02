@@ -42,6 +42,7 @@ tags:
 | Game | Platform | Primary Cognitive Benefit | Notes |
 |------|----------|--------------------------|-------|
 | **Civilization VI / V** | PC+M | Long-horizon planning, resource allocation, probabilistic reasoning | Turn-based = allows deliberate thinking; complex enough to avoid plateau |
+| **League of Legends / Dota 2 (MOBAs)** | PC | Fluid reasoning, real-time strategy + attention, working memory | Promoted 2026-06: LoL skill correlates with fluid intelligence and peaks at age ~25 like raw IQ ([[York 2017 — MOBA Skill and Fluid Intelligence]]); a 30-week training study found LoL gave *larger, longer-lasting* spatial-attention + WM gains than a strategy card game ([[Brain Sciences 2025 — Action vs Strategy Game EEG Study]]). High toxicity/time-sink caveat. |
 | **Baba Is You** | PC+M | Abstract rule-manipulation, meta-cognition, reframing | Forces you to question axioms of puzzle logic; deepest "second-order thinking" of any puzzle game |
 | **The Witness** | PC | Inductive reasoning, pattern discovery, observational acuity | 600+ puzzles; hidden meta-rules emergent from environment; pure rule-inference |
 | **Into the Breach** | PC | Tactical consequence-mapping, constraint satisfaction, full-info decision-making | Perfect-information turn-based chess with consequence chains |
