@@ -98,6 +98,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Agent Orchestration Frameworks]] — CrewAI vs LangGraph vs Claude Code Agent Teams vs MetaGPT; framework selection guide; 2026 state (developing)
 - [[Agent Roles Software Development]] — detailed role definitions: PM, Architect, PM, Engineer, QA, Reviewer; system prompt patterns; model assignments; isolation rule (developing)
 - [[MCP Tools for Agent Stacks]] — filesystem + GitHub + E2B + Playwright + Context7; `.mcp.json` team config; tool security principle (developing)
+- [[Hermes Agent]] — Nous Research's open-source (MIT) self-hosted autonomous agent; turns any OpenAI-compatible LLM into a 24/7 learning assistant; compounds value via skills + persistent memory; best for background automation, NOT a Claude Code replacement (developing)
+- [[Self-Improving Agent Loop]] — experience → structured records → auto-generated, self-refining skills; contained sub-agents as parallel learners; Hermes "Self-Evolving Skills" mechanism (developing)
+- [[Persistent Agent Memory]] — cross-session recall: FTS5 session search + `MEMORY.md`/`USER.md` durable facts + Honcho user modeling; resumes pipelines from checkpoints (developing)
+- [[Research - Hermes Agent (What It's For, Setup, POCs)]] — synthesis: what Hermes is for, why Joe should set it up (Nous's own user stories include his exact LLM-wiki-on-VPS pattern), and the coolest POCs (developing)
 
 ### AI / Edge Computing
 - [[Post-Training Quantization]] — INT4/INT8/FP8 weight and activation quantization (developing)
