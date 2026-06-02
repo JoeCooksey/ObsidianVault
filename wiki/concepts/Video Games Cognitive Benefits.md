@@ -129,7 +129,17 @@ Given Joe is a 19yo EE student who wants to improve thinking — but gaming is a
 
 ---
 
+## 2022–2025 Evidence Update (IQ-specific)
+
+Added 2026-06 from autoresearch on "video game tier list to increase IQ" → full synthesis in [[Research - Video Game Tier List to Increase IQ]].
+
+- **Gaming as a category tracks ~+2.5 IQ points in kids.** Karolinska/ABCD longitudinal study (5,000+ children, 2 years, controlled for genetics + SES); TV and social media showed no effect. But it didn't separate genres, so it can't rank games ([[Klingberg-Sauce 2022 — Gaming and Children IQ]]).
+- **MOBAs align with the IQ construct** — LoL/Dota skill correlates with fluid intelligence and peaks at age ~25 like raw IQ; FPS games peak in the teens like reaction time ([[York 2017 — MOBA Skill and Fluid Intelligence]]).
+- **Action games can beat strategy for durable cognitive gains** — a 2025 30-week EEG training study (college students, mean age 19.8) found League of Legends produced larger, longer-lasting spatial-attention + working-memory gains than a turn-based strategy card game ([[Brain Sciences 2025 — Action vs Strategy Game EEG Study]]). Partial contradiction of the "strategy > action" intuition.
+- **The honest ceiling:** dedicated brain-training apps mostly DON'T raise general intelligence — near transfer only, null far transfer to fluid intelligence with active controls ([[Cognitive Training — A Field in Search of a Phenomenon]]). So "trains specific skills" is defensible; "raises your IQ" is not.
+
 ## Related Pages
+- [[Research - Video Game Tier List to Increase IQ]] — IQ-specific synthesis + 2022–2025 sources
 - [[Research - Games Cognitive Tier List]] — full research notes and sources
 - [[Free Time Tier List]] — gaming is C-tier overall (1–2 hrs/week cap)
 - [[Biohacking Tier List]] — cognitive enhancement via non-gaming means
