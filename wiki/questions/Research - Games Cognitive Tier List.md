@@ -40,6 +40,15 @@ tags:
 
 ---
 
+## 2026-06 Update — IQ-Specific Evidence
+
+A follow-up autoresearch pass ("video game tier list to increase IQ") added four 2017–2025 sources and a dedicated synthesis: [[Research - Video Game Tier List to Increase IQ]].
+
+- **Gaming category → ~+2.5 IQ points in kids** (Karolinska/ABCD, genetics + SES controlled): [[Klingberg-Sauce 2022 — Gaming and Children IQ]].
+- **MOBAs track fluid intelligence** (peak at age ~25 like IQ): [[York 2017 — MOBA Skill and Fluid Intelligence]] — MOBAs promoted to A-tier in [[Video Games Cognitive Benefits]].
+- **New contradiction:** a 2025 head-to-head training study found action (LoL) beat a turn-based strategy game on durable spatial-WM gains: [[Brain Sciences 2025 — Action vs Strategy Game EEG Study]].
+- **The honest caveat:** brain-training far transfer to general IQ is largely null: [[Cognitive Training — A Field in Search of a Phenomenon]].
+
 ## Open Questions
 
 1. Does Factorio's systems-thinking benefit transfer to real engineering/programming problem-solving?
