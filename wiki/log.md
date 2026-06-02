@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-02] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
+## [2026-06-02] newsletter | EE Daily — June 02, 2026
+- SIA report: semiconductors = 95% of AI server rack value, $1.2T projected by 2028; TSMC planning 15% 3nm price hike in H2 2026; PsiQuantum Omega silicon photonics chipset targets million-qubit scale; daily topic: 48V bus architecture and GaN VRM design for AI server power delivery.
+
 ## [2026-06-01] autoresearch | Healthy Ways to Manage Sexual Arousal
 - Rounds: 2 | Searches: 4 | Sources fetched: 3
 - Pages created (7 — 2 concepts, 4 sources, 1 synthesis): [[Urge Surfing]], [[Sexual Sublimation]], [[Cleveland Clinic — Orgasm Health Benefits]], [[Urge Surfing — Positive Psychology]], [[Psychology Today — 7 Healthy Ways to Improve Sexual Desire]], [[NCBI Review — Sexual Health and Well-Being 2025]]
