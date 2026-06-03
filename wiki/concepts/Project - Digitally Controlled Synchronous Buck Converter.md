@@ -55,6 +55,8 @@ The phase summaries below are the map; these three pages are the turn-by-turn di
 - [[Buck Project — Phases 2-3 Playbook (Power Stage and PCB)]] — BOM + KiCad board
 - [[Buck Project — Phases 4-6 Playbook (Bring-up, Firmware, Validation)]] — solder, control loop, prove it
 
+**Order-ready parts list:** [[Buck Converter BOM (Order-Ready 2026)]] — exact MPNs + June-2026 availability (note: FDMC8030 is now EOL, replaced there).
+
 ## The 7 phases (≈6 months at ~1–1.5 hr/day deep block)
 
 ### Phase 0 — Theory & modeling (≈3 weeks)
