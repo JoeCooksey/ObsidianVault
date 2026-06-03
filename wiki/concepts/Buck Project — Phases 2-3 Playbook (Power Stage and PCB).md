@@ -40,6 +40,8 @@ Go down this list; for each part, **write the calc or datasheet number that just
 
 > [!check] Phase 2 done when: a spreadsheet BOM where every row has a part number AND the number (calc or datasheet spec) that justifies it.
 
+> [!tip] Order-ready starting BOM: [[Buck Converter BOM (Order-Ready 2026)]] has exact MPNs + June-2026 availability (FDMS7672/FDS8880 FETs, LM5109B driver, SRP1265A-330M inductor). Still do the justification calc per row yourself — that's the deliverable.
+
 ## Phase 3 — PCB layout in KiCad (~3–4 weeks)
 
 KiCad 10 is native on your Mint ([[EE-Software-on-Linux-Mint]]). **Layout is the single highest-skill part of this project** — a working schematic with a bad layout will oscillate, get hot, or radiate noise.
