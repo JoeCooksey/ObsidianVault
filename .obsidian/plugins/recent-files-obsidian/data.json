@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ASU FURI — Fulton Undergraduate Research Initiative",
+      "path": "wiki/sources/ASU FURI — Fulton Undergraduate Research Initiative.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dopamine Increases by Activity (Tier List)",
       "path": "wiki/concepts/Dopamine Increases by Activity (Tier List).md"
-    },
-    {
-      "basename": "Dopamine Complete Guide",
-      "path": "wiki/concepts/Dopamine Complete Guide.md"
     }
   ],
   "omittedPaths": [],
