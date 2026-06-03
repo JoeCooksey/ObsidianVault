@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Job Tracker",
+      "path": "wiki/Job Tracker.base"
+    },
+    {
       "basename": "Video Games Cognitive Benefits",
       "path": "wiki/concepts/Video Games Cognitive Benefits.md"
     },
     {
       "basename": "Free Time Tier List",
       "path": "wiki/concepts/Free Time Tier List.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Video Game Tier List to Increase IQ",
@@ -195,10 +199,6 @@
     {
       "basename": "Dopamine Complete Guide",
       "path": "wiki/concepts/Dopamine Complete Guide.md"
-    },
-    {
-      "basename": "Testosterone-Lowering Habits to Avoid",
-      "path": "wiki/concepts/Testosterone-Lowering Habits to Avoid.md"
     }
   ],
   "omittedPaths": [],
