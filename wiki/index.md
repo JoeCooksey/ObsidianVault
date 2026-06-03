@@ -264,6 +264,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Family Triangulation and Cross-Generational Coalition]] — Bowen/Haley: two members allied against a third entrenches the third; the "ganging up" trap (developing)
 - [[Differentiation of Self]] — stay yourself while staying connected; change your response, not the parent (developing)
 
+### Sobriety / Recovery & Mental Health
+- [[Post-Acute Withdrawal Syndrome (PAWS)]] — the second wave after physical withdrawal; depression peaks weeks 2–12 of sobriety; sign the brain is healing (developing)
+- [[Anhedonia and Dopamine Recovery in Early Sobriety]] — flat/joyless mood = dopamine receptors not yet rebuilt; reverses over weeks-months (developing)
+- [[Alcohol-Induced vs Independent Depression]] — does mood lift in ~4 wks (alcohol caused it) or persist (independent, needs treatment)? Time is the diagnostic (developing)
+- [[Crisis and Help Resources (Mental Health and Substance Use)]] — ⚠️ 988 Suicide & Crisis Lifeline · SAMHSA 1-800-662-HELP · warning signs (reference)
+
 ### Big History (Sapiens)
 - [[Shared Fictions]] · [[Imagined Orders]] · [[Fictive Language]] · [[Cognitive Dunbar's Number]] — collective belief is the engine of mass cooperation
 - [[Cognitive Revolution]] · [[Agricultural Revolution]] · [[Unification of Humankind]] · [[Scientific Revolution]] — Harari's four revolutions
