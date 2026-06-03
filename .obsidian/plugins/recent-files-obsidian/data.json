@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Buck Converter BOM (Order-Ready 2026)",
+      "path": "wiki/concepts/Buck Converter BOM (Order-Ready 2026).md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Project - Digitally Controlled Synchronous Buck Converter",
+      "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
     },
     {
       "basename": "Research - Talking to Dad About Drinking, Health, and Connection",
@@ -51,10 +59,6 @@
     {
       "basename": "Food Health Tier List — Macronutrients",
       "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
-    },
-    {
-      "basename": "Project - Digitally Controlled Synchronous Buck Converter",
-      "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
     },
     {
       "basename": "2026-06-02-ee-daily",
@@ -195,10 +199,6 @@
     {
       "basename": "Dopamine Detox (Evidence Review)",
       "path": "wiki/concepts/Dopamine Detox (Evidence Review).md"
-    },
-    {
-      "basename": "Healthy Dopamine Protocols",
-      "path": "wiki/concepts/Healthy Dopamine Protocols.md"
     }
   ],
   "omittedPaths": [],
