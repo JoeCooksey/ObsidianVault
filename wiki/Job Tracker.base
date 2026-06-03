@@ -1,14 +1,12 @@
 filters:
   and:
     - file.hasTag("job")
-    - 'file.ext == "md"'
-
+    - file.ext == "md"
 formulas:
-  days_since_applied: 'if(applied_date, (today() - date(applied_date)).days, "")'
-  follow_up_in: 'if(follow_up_date, (date(follow_up_date) - today()).days, "")'
-  needs_followup: 'if(follow_up_date, if(date(follow_up_date) <= today() && status != "rejected" && status != "closed" && status != "offer", "🔔 due", ""), "")'
-  fit_icon: 'if(fit == "high", "🟢", if(fit == "medium", "🟡", "⚪"))'
-
+  days_since_applied: if(applied_date, (today() - date(applied_date)).days, "")
+  follow_up_in: if(follow_up_date, (date(follow_up_date) - today()).days, "")
+  needs_followup: if(follow_up_date, if(date(follow_up_date) <= today() && status != "rejected" && status != "closed" && status != "offer", "🔔 due", ""), "")
+  fit_icon: if(fit == "high", "🟢", if(fit == "medium", "🟡", "⚪"))
 properties:
   status:
     displayName: Status
@@ -25,17 +23,14 @@ properties:
   follow_up_date:
     displayName: Follow-up
   formula.days_since_applied:
-    displayName: "Days Ago"
+    displayName: Days Ago
   formula.follow_up_in:
-    displayName: "F/U in (d)"
-  formula.needs_followup:
-    displayName: ""
+    displayName: F/U in (d)
   formula.fit_icon:
-    displayName: "Fit"
-
+    displayName: Fit
 views:
   - type: table
-    name: "Pipeline"
+    name: Pipeline
     groupBy:
       property: status
       direction: ASC
@@ -47,15 +42,14 @@ views:
       - pay
       - source
       - formula.needs_followup
-
   - type: table
-    name: "Needs follow-up"
+    name: Needs follow-up
     filters:
       and:
-        - 'follow_up_date != ""'
-        - 'status != "rejected"'
-        - 'status != "closed"'
-        - 'status != "offer"'
+        - follow_up_date != ""
+        - status != "rejected"
+        - status != "closed"
+        - status != "offer"
     order:
       - company
       - role
@@ -64,12 +58,11 @@ views:
       - formula.follow_up_in
     summaries:
       formula.follow_up_in: Min
-
   - type: table
-    name: "Applied"
+    name: Applied
     filters:
       and:
-        - 'status == "applied"'
+        - status == "applied"
     order:
       - company
       - role
@@ -78,12 +71,11 @@ views:
       - follow_up_date
     summaries:
       formula.days_since_applied: Average
-
   - type: cards
-    name: "To apply"
+    name: To apply
     filters:
       and:
-        - 'status == "interested"'
+        - status == "interested"
     order:
       - formula.fit_icon
       - company
