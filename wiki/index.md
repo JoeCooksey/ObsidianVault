@@ -451,6 +451,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[EE High Income Action Plan]] — 4-phase Joe-specific roadmap: foundation → power electronics → WBG specialization → FPGA/AI second stack; LLNL/Sandia 2027 target (developing)
 
 ### Career / Job Search
+- [[Research - Summer of Freshman Year Projects]] — synthesis: what to do the summer after freshman year; build ONE power converter end-to-end + lock a fall ASU FURI spot + publish on GitHub, backfill with a paid job and math; freshman internships are hard so self-driven projects + research win; deliverable = tier list (developing)
+- [[Freshman Summer Project Plan (Tier List)]] — S→D ranked menu of summer projects by career-capital × Joe fit; S-tier = end-to-end converter, ASU FURI/professor outreach, public GitHub log; A-tier = tutoring job, deep on one tool, micro-internships; D-tier = LeetCode-only/cert-collecting/passive-income schemes (developing)
 - [[First Job Roadmap — Livermore Tri-Valley]] — Phase 0–3 roadmap for ASU EE freshman in Livermore: local jobs, LLNL/Sandia targeting, portfolio, LinkedIn (developing)
 - [[ASU EE Mentorship Pathways]] — tier list of all mentorship channels at ASU: peer mentors, FURI, faculty (Ranjram/Ayyanar), IEEE ASU, IEEE Collabratec, Barrett Alumni; Year 1 action stack (developing)
 - [[Summer Part-Time Job Search for College Students]] — 4-category framework (local in-person, institutional, skilled, remote); platform tier list S→C; LARPD/TVCC/retail local employers; resume guide; timeline for Livermore (developing)
