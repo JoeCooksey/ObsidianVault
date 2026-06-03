@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-03] build | Buck Converter BOM (Order-Ready 2026)
+- Joe asked for a live-2026, exact-part-number parts list for [[Project - Digitally Controlled Synchronous Buck Converter]], written into the vault
+- Verified production status via distributor/manufacturer search (6 searches): FDMC8030 is **NRND/EOL** → replaced with in-production FDMS7672 (30 V 5 mΩ) / FDS8880 (logic-level SOIC-8) / IRLB8721 (TO-220); inductor SRP1265A-330M confirmed (I_sat ~11 A, DCR 58 mΩ) + low-DCR alts; LM5109B/UCC27211 drivers in production; NUCLEO-G474RE in stock; scope rec modernized DS1054Z → Rigol DHO802 (12-bit, $329)
+- Pages created: [[Buck Converter BOM (Order-Ready 2026)]] (full MPN table, ordering strategy, cost roll-up) + 5 distributor source pages ([[NUCLEO-G474RE Availability — DigiKey]], [[Bourns SRP1265A-330M — DigiKey]], [[onsemi FDMS7672 / FDS8880 MOSFETs]], [[TI LM5109B / UCC27211 Gate Drivers]], [[Rigol DHO800 Series Oscilloscope]])
+- Linked from the project page + [[Buck Project — Phases 2-3 Playbook (Power Stage and PCB)]]; added to index
+- Caveat preserved: MPNs are exact but live stock fluctuates daily — confirm green "In Stock" at checkout
+
 ## [2026-06-03] autoresearch | Supporting Dad Through Early Sobriety and Depression
 - Rounds: 1 | Searches: 4
 - Context: follow-up — Joe's dad recently took a break from drinking and now seems/acts depressed all the time
