@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-03] autoresearch | Talking to Dad About Drinking, Health, and Connection
+- Rounds: 2 | Searches: 6 | Fetches: 2
+- Sources found: 7 — [[CRAFT — Advaita Integrated Medicine]], [[Robert J. Meyers — CRAFT Evidence]], [[Motivational Interviewing — Alcohol.org]], [[Empowering Parents — 7 Reasons Why Nagging Doesnt Work]], [[Triangulation — Family Systems Theory (GoodTherapy)]], [[Differentiation, Not Estrangement (Calling Home)]], [[Connecting With an Emotionally Distant Father (Good Men Project)]]
+- Pages created: [[Research - Talking to Dad About Drinking, Health, and Connection]] (synthesis) + 4 concepts ([[CRAFT (Community Reinforcement and Family Training)]], [[Motivational Interviewing]], [[Family Triangulation and Cross-Generational Coalition]], [[Differentiation of Self]]) + 7 sources + 1 entity ([[Robert J. Meyers]]); updated [[Psychological Reactance]]
+- Key finding: the "tell him to stop / eat healthy" strategy is *why* he's stuck — direct pressure triggers psychological reactance and the mom-and-Joe "ganging up" is a textbook cross-generational coalition that guarantees he hears advice as attack. Evidence-based fix = CRAFT (reward sobriety, calm boundaries, no ultimatums; ~64% vs ~30% engagement in RCTs) + motivational interviewing (stop convincing, evoke his own change talk) + de-triangling (talk one-on-one, drop "we") + connecting on his turf first (sports/stocks) + differentiation (change your response, not him). Being right ≠ being effective.
+
 ## [2026-06-03] autoresearch | Summer of Freshman Year Projects (What to Work On)
 - Rounds: 2 | Searches: 5 | Fetches: 4
 - Sources found: 4 — [[ASU FURI — Fulton Undergraduate Research Initiative]], [[Resume Without a Summer Internship — Ohio State ECS]], [[15 Ways to Make Summer Meaningful — JHU]], [[6 Inspiring EE Projects — NJIT]]
