@@ -1,0 +1,92 @@
+filters:
+  and:
+    - file.hasTag("job")
+    - 'file.ext == "md"'
+
+formulas:
+  days_since_applied: 'if(applied_date, (today() - date(applied_date)).days, "")'
+  follow_up_in: 'if(follow_up_date, (date(follow_up_date) - today()).days, "")'
+  needs_followup: 'if(follow_up_date, if(date(follow_up_date) <= today() && status != "rejected" && status != "closed" && status != "offer", "🔔 due", ""), "")'
+  fit_icon: 'if(fit == "high", "🟢", if(fit == "medium", "🟡", "⚪"))'
+
+properties:
+  status:
+    displayName: Status
+  company:
+    displayName: Company
+  role:
+    displayName: Role
+  pay:
+    displayName: Pay
+  source:
+    displayName: Source
+  applied_date:
+    displayName: Applied
+  follow_up_date:
+    displayName: Follow-up
+  formula.days_since_applied:
+    displayName: "Days Ago"
+  formula.follow_up_in:
+    displayName: "F/U in (d)"
+  formula.needs_followup:
+    displayName: ""
+  formula.fit_icon:
+    displayName: "Fit"
+
+views:
+  - type: table
+    name: "Pipeline"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - formula.fit_icon
+      - company
+      - role
+      - location
+      - pay
+      - source
+      - formula.needs_followup
+
+  - type: table
+    name: "Needs follow-up"
+    filters:
+      and:
+        - 'follow_up_date != ""'
+        - 'status != "rejected"'
+        - 'status != "closed"'
+        - 'status != "offer"'
+    order:
+      - company
+      - role
+      - status
+      - follow_up_date
+      - formula.follow_up_in
+    summaries:
+      formula.follow_up_in: Min
+
+  - type: table
+    name: "Applied"
+    filters:
+      and:
+        - 'status == "applied"'
+    order:
+      - company
+      - role
+      - applied_date
+      - formula.days_since_applied
+      - follow_up_date
+    summaries:
+      formula.days_since_applied: Average
+
+  - type: cards
+    name: "To apply"
+    filters:
+      and:
+        - 'status == "interested"'
+    order:
+      - formula.fit_icon
+      - company
+      - role
+      - location
+      - pay
