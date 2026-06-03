@@ -519,6 +519,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Triangulation — Family Systems Theory (GoodTherapy)]] — Bowen/Haley triangles; cross-generational coalition isolates the third member (medium)
 - [[Differentiation, Not Estrangement (Calling Home)]] — change your response to the parent, not the parent; collapsed boundaries (medium)
 - [[Connecting With an Emotionally Distant Father (Good Men Project)]] — build connection via small consistent shared time on his turf; listen on his terms (low)
+- [[PAWS — Depression in Sobriety (Journey Hillside)]] — depression emerges after acute withdrawal; PAWS weeks 2–12; sign of recovery (medium)
+- [[Anhedonia After Addiction (Ria Health)]] — dopamine receptors depleted by drinking; flat mood until they reopen (medium)
+- [[Alcohol and Depression — Healthline]] — self-medication; mood lift in weeks = alcohol-caused; persistent = dual diagnosis; suicide risk (medium)
+- [[Supporting a Depressed Loved One — Mayo Clinic]] — listen don't fix, positive reinforcement, shared routine/walks, 988 (high)
+- [[SAMHSA National Helpline]] — 1-800-662-HELP; free 24/7 treatment referrals for substance use + mental health (high)
 
 ### Games & Cognition
 - [[Klingberg-Sauce 2022 — Gaming and Children IQ]] — *Scientific Reports*; 5,000+ kids/2 yr, genetics+SES controlled; heavy gamers +2.5 IQ vs avg; TV/social media null (high)
