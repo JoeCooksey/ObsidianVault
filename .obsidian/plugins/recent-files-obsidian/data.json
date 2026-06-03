@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Talking to Dad About Drinking, Health, and Connection",
+      "path": "wiki/questions/Research - Talking to Dad About Drinking, Health, and Connection.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "News Debrief 2026-06-02",
+      "path": "wiki/news/News Debrief 2026-06-02.md"
+    },
+    {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
     {
       "basename": "ASU FURI — Fulton Undergraduate Research Initiative",
       "path": "wiki/sources/ASU FURI — Fulton Undergraduate Research Initiative.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Job Tracker",
@@ -47,10 +55,6 @@
     {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
       "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
-    },
-    {
-      "basename": "News Debrief 2026-06-02",
-      "path": "wiki/news/News Debrief 2026-06-02.md"
     },
     {
       "basename": "2026-06-02-ee-daily",
@@ -195,10 +199,6 @@
     {
       "basename": "Healthy Dopamine Protocols",
       "path": "wiki/concepts/Healthy Dopamine Protocols.md"
-    },
-    {
-      "basename": "Dopamine Increases by Activity (Tier List)",
-      "path": "wiki/concepts/Dopamine Increases by Activity (Tier List).md"
     }
   ],
   "omittedPaths": [],
