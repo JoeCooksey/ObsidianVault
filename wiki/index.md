@@ -505,6 +505,15 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Family / Helping a Loved One Change
+- [[CRAFT — Advaita Integrated Medicine]] — concrete CRAFT tactics: reward sobriety, withdraw warmth during use, natural consequences, no nagging (high)
+- [[Robert J. Meyers — CRAFT Evidence]] — CRAFT developer; 4 RCTs, ~64% engagement vs ~30% confrontation; family improves even if loved one doesn't (high)
+- [[Motivational Interviewing — Alcohol.org]] — MI resolves the person's own ambivalence; roll with resistance, don't convince (medium)
+- [[Empowering Parents — 7 Reasons Why Nagging Doesnt Work]] — nagging breeds resentment, gets tuned out, triggers resistance; state once + reinforce the positive (medium)
+- [[Triangulation — Family Systems Theory (GoodTherapy)]] — Bowen/Haley triangles; cross-generational coalition isolates the third member (medium)
+- [[Differentiation, Not Estrangement (Calling Home)]] — change your response to the parent, not the parent; collapsed boundaries (medium)
+- [[Connecting With an Emotionally Distant Father (Good Men Project)]] — build connection via small consistent shared time on his turf; listen on his terms (low)
+
 ### Games & Cognition
 - [[Klingberg-Sauce 2022 — Gaming and Children IQ]] — *Scientific Reports*; 5,000+ kids/2 yr, genetics+SES controlled; heavy gamers +2.5 IQ vs avg; TV/social media null (high)
 - [[York 2017 — MOBA Skill and Fluid Intelligence]] — *PLOS One*; LoL skill correlates with fluid intelligence; MOBA skill peaks ~age 25 like raw IQ, FPS peaks earlier (medium)
