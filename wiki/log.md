@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-03] autoresearch | Summer of Freshman Year Projects (What to Work On)
+- Rounds: 2 | Searches: 5 | Fetches: 4
+- Sources found: 4 — [[ASU FURI — Fulton Undergraduate Research Initiative]], [[Resume Without a Summer Internship — Ohio State ECS]], [[15 Ways to Make Summer Meaningful — JHU]], [[6 Inspiring EE Projects — NJIT]]
+- Pages created: [[Research - Summer of Freshman Year Projects]] (synthesis), [[Freshman Summer Project Plan (Tier List)]] (deliverable), + 4 source pages
+- Did NOT duplicate existing [[EE Freshman Portfolio Strategy]] / [[Python EE Project Ladder]] / [[Compounding Daily Projects Tier List]] / [[Research - Summer Part-Time Job Guide Livermore College Student]] — layered a freshman-summer-specific synthesis that ties them together with fresh 2024–2025 career sources
+- Key finding: build ONE power converter end-to-end + lock a fall ASU FURI research spot (freshmen eligible from semester 2; $1,500/sem) + publish both on GitHub; freshman internships are hard, so self-driven projects + research are the realistic high-value path (quality > quantity, 3–5 pieces)
+
 ## [2026-06-03] newsletter | EE Daily — June 03, 2026
 Top stories: NVIDIA RTX Spark ARM superchip (1 petaflop AI, 20-core Grace + Blackwell GPU) disrupts PC market at Computex 2026; NVIDIA+TSMC bring AI into semiconductor fabs (computational lithography, defect inspection); Microsoft demonstrates 10,000-year borosilicate glass storage; daily topic: Valleytronics — room-temperature valley polarization in 2D TMDs (MoS₂/WSe₂) via metasurface stacking.
 
