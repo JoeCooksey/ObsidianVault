@@ -623,6 +623,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Talking to Dad About Drinking, Health, and Connection]] — synthesis: telling him to stop is *why* he won't (reactance); use CRAFT + motivational interviewing; stop the mom-and-I "ganging up" coalition; connect on his turf first; change your response, not him (developing)
 - [[Research: Dopamine Masterclass]] — full dopamine masterclass; motivation≠pleasure; activity multipliers (chocolate 1.5×→amphetamine 10×, cold 2.5× crash-free); peak→trough baseline; downregulation; detox is behavioral; healthy stack (developing)
 - [[Research - How to Make Kefir]] — in-depth kefir-making guide: 60-sec recipe, 1:10–1:15 grain ratio, sourness control, second ferment; where to buy (Yemoos ~$10 top pick / Etsy $8–11 budget / free from local fermenters); microbiology + evidence levels (developing)
 - [[Research - Long-Term Compounding Daily Projects]] — 8 findings; leverage type decides what compounds; best daily project = skill + public artifact + career evidence; one merged PR > 5 clones; investing is the literal compounder; recommended stack = GitHub log + learn-in-public blog + automated DCA; tier list deliverable (developing)
