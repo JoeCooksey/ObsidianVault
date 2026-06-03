@@ -37,10 +37,10 @@ Concrete, orderable parts list for the [[Project - Digitally Controlled Synchron
 ---
 
 ## A. Control / brains
-| Qty | Item | MPN | Pkg | Key spec | ~$ | Status |
-|----|------|-----|-----|----------|----|--------|
-| 1 | MCU board | **NUCLEO-G474RE** (ST) | Nucleo-64 | HRTIM 184 ps, FMAC, ADC-PWM sync | $16 | ✅ In stock (DigiKey #10231585, Mouser, ST direct) |
-| 1 | USB cable | micro-USB (check board rev) | — | program + power | $3 | ✅ |
+| Qty | Item      | MPN                         | Pkg       | Key spec                         | ~$  | Status                                            |
+| --- | --------- | --------------------------- | --------- | -------------------------------- | --- | ------------------------------------------------- |
+| 1   | MCU board | **NUCLEO-G474RE** (ST)      | Nucleo-64 | HRTIM 184 ps, FMAC, ADC-PWM sync | $16 | ✅ In stock (DigiKey #10231585, Mouser, ST direct) |
+| 1   | USB cable | micro-USB (check board rev) | —         | program + power                  | $3  | ✅                                                 |
 
 ## B. Power stage (on the PCB)
 | Qty | Item | MPN (primary) | Pkg | Key spec | ~$ | Status / notes |
