@@ -258,6 +258,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Let Them]] · [[Let Me]] — release control of others, then own your own response (the second half is the point)
 - [[Let Them Judge You]] · [[Jealousy as a Compass]] · [[The 3 Pillars of Friendship]] — opinions, envy-as-data, and why adult friendships drift
 
+### Family / Helping a Loved One Change
+- [[CRAFT (Community Reinforcement and Family Training)]] — evidence-based method for a drinking/using loved one who resists help; reward sobriety, calm boundaries, no ultimatums (~2× engagement vs confrontation) (developing)
+- [[Motivational Interviewing]] — stop convincing; roll with resistance; open questions that evoke their own change talk (developing)
+- [[Family Triangulation and Cross-Generational Coalition]] — Bowen/Haley: two members allied against a third entrenches the third; the "ganging up" trap (developing)
+- [[Differentiation of Self]] — stay yourself while staying connected; change your response, not the parent (developing)
+
 ### Big History (Sapiens)
 - [[Shared Fictions]] · [[Imagined Orders]] · [[Fictive Language]] · [[Cognitive Dunbar's Number]] — collective belief is the engine of mass cooperation
 - [[Cognitive Revolution]] · [[Agricultural Revolution]] · [[Unification of Humankind]] · [[Scientific Revolution]] — Harari's four revolutions
