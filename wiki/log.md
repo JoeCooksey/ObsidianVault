@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-03] newsletter | EE Daily — June 03, 2026
+Top stories: NVIDIA RTX Spark ARM superchip (1 petaflop AI, 20-core Grace + Blackwell GPU) disrupts PC market at Computex 2026; NVIDIA+TSMC bring AI into semiconductor fabs (computational lithography, defect inspection); Microsoft demonstrates 10,000-year borosilicate glass storage; daily topic: Valleytronics — room-temperature valley polarization in 2D TMDs (MoS₂/WSe₂) via metasurface stacking.
+
+## [2026-06-03] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
 ## [2026-06-02] autoresearch | Video Game Tier List to Increase IQ
 - Rounds: 2 | Searches: 6 | Fetches: 2
 - Pages created: [[Klingberg-Sauce 2022 — Gaming and Children IQ]], [[York 2017 — MOBA Skill and Fluid Intelligence]], [[Brain Sciences 2025 — Action vs Strategy Game EEG Study]], [[Cognitive Training — A Field in Search of a Phenomenon]], [[Research - Video Game Tier List to Increase IQ]] (synthesis)
