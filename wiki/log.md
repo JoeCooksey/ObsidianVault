@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-03] autoresearch | Supporting Dad Through Early Sobriety and Depression
+- Rounds: 1 | Searches: 4
+- Context: follow-up — Joe's dad recently took a break from drinking and now seems/acts depressed all the time
+- Sources found: 5 — [[PAWS — Depression in Sobriety (Journey Hillside)]], [[Anhedonia After Addiction (Ria Health)]], [[Alcohol and Depression — Healthline]], [[Supporting a Depressed Loved One — Mayo Clinic]], [[SAMHSA National Helpline]]
+- Pages created: [[Supporting Dad Through Early Sobriety and Depression]] (synthesis) + 4 concepts ([[Post-Acute Withdrawal Syndrome (PAWS)]], [[Anhedonia and Dopamine Recovery in Early Sobriety]], [[Alcohol-Induced vs Independent Depression]], [[Crisis and Help Resources (Mental Health and Substance Use)]]) + 5 sources
+- Key finding: depression after quitting is normal + physiological — PAWS (peaks weeks 2–12) + anhedonia from dopamine receptor downregulation (ties to existing [[Dopamine Downregulation and Tolerance]]); it's the brain HEALING, not sobriety failing. Next ~4 weeks are diagnostic: mood lifting = alcohol-induced (sobriety cures it); persisting = independent/self-medicated depression that NEEDS treatment. ⚠️ SAFETY: co-occurring depression + alcohol = elevated suicide risk → 988 / SAMHSA 1-800-662-HELP. Joe's move = reinforce the sobriety warmly, listen don't lecture, drop the health campaign, standing low-stakes hang (walk/game), encourage a doctor, watch the timeline.
+
 ## [2026-06-03] autoresearch | Talking to Dad About Drinking, Health, and Connection
 - Rounds: 2 | Searches: 6 | Fetches: 2
 - Sources found: 7 — [[CRAFT — Advaita Integrated Medicine]], [[Robert J. Meyers — CRAFT Evidence]], [[Motivational Interviewing — Alcohol.org]], [[Empowering Parents — 7 Reasons Why Nagging Doesnt Work]], [[Triangulation — Family Systems Theory (GoodTherapy)]], [[Differentiation, Not Estrangement (Calling Home)]], [[Connecting With an Emotionally Distant Father (Good Men Project)]]
