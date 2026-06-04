@@ -81,12 +81,12 @@ Concrete, orderable parts list for the [[Project - Digitally Controlled Synchron
 ---
 
 ## F. Bench equipment (one-time; reused on every future build)
-| Item | 2026 pick | Why | ~$ |
-|------|-----------|-----|----|
-| **Oscilloscope** | **Rigol DHO802** (12-bit, 2 ch, 70 MHz, $329) — or **DHO804/DHO814** for 4 ch | Current-gen 12-bit replaces the old DS1054Z; SW-node + transient work. SFRA in firmware avoids a separate network analyzer | $329+ |
-| Bench PSU | used 0–30 V / ≥4 A, **current-limit capable** | bring up behind a 4 A limit every time (your safety floor) | $50–70 |
-| DC electronic load | used (e.g., budget 150 W unit) — or power resistors ~1.7 Ω / 15 W+ | load sweep for efficiency + transient steps | $25–40 |
-| Multimeter | any decent DMM | V / I / continuity | $20–40 |
+| Item               | 2026 pick                                                                     | Why                                                                                                                        | ~$     |
+| ------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **Oscilloscope**   | **Rigol DHO802** (12-bit, 2 ch, 70 MHz, $329) — or **DHO804/DHO814** for 4 ch | Current-gen 12-bit replaces the old DS1054Z; SW-node + transient work. SFRA in firmware avoids a separate network analyzer | $329+  |
+| Bench PSU          | used 0–30 V / ≥4 A, **current-limit capable**                                 | bring up behind a 4 A limit every time (your safety floor)                                                                 | $50–70 |
+| DC electronic load | used (e.g., budget 150 W unit) — or power resistors ~1.7 Ω / 15 W+            | load sweep for efficiency + transient steps                                                                                | $25–40 |
+| Multimeter         | any decent DMM                                                                | V / I / continuity                                                                                                         | $20–40 |
 
 ## G. Tools & consumables (skip what you own)
 - Temperature-controlled soldering iron **+ hot-air station** (the SOIC-8 driver/FETs are far easier with hot air; the TO-220 IRLB8721 alt needs only the iron)
