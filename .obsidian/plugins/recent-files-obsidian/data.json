@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Buck Converter BOM (Order-Ready 2026)",
-      "path": "wiki/concepts/Buck Converter BOM (Order-Ready 2026).md"
+      "basename": "Physical AI Build Guide (Roadmap for Joe)",
+      "path": "wiki/concepts/Physical AI Build Guide (Roadmap for Joe).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Most Useful Topics to Learn Now (for Joe)",
+      "path": "wiki/questions/Research - Most Useful Topics to Learn Now (for Joe).md"
     },
     {
       "basename": "Ego Is the Enemy - Ryan Holiday",
       "path": "wiki/books/Ego Is the Enemy - Ryan Holiday.md"
+    },
+    {
+      "basename": "Buck Converter BOM (Order-Ready 2026)",
+      "path": "wiki/concepts/Buck Converter BOM (Order-Ready 2026).md"
     },
     {
       "basename": "Book View",
@@ -15,10 +27,6 @@
     {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Project - Digitally Controlled Synchronous Buck Converter",
@@ -191,14 +199,6 @@
     {
       "basename": "News Debrief 2026-05-31",
       "path": "wiki/news/News Debrief 2026-05-31.md"
-    },
-    {
-      "basename": "2026-05-31-ee-daily",
-      "path": "wiki/newsletters/2026-05-31-ee-daily.md"
-    },
-    {
-      "basename": "Dopamine Detox (Evidence Review)",
-      "path": "wiki/concepts/Dopamine Detox (Evidence Review).md"
     }
   ],
   "omittedPaths": [],
