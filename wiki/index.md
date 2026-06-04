@@ -115,6 +115,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Knowledge Distillation for Edge LLMs]] — small student models from large teachers (developing)
 - [[Speculative Decoding]] — EAGLE, Medusa; 2–3.6× decoding speedup (developing)
 
+### Frontier / What to Learn Now (2026) — Personalized for Joe
+- [[Research - Most Useful Topics to Learn Now (for Joe)]] — **synthesis/recommendation**: generic 2026 answer (AI literacy/context engineering/ML/durable skills) vs the *useful-for-Joe* answer = the EE×AI intersection; ranked S/A/B tiers (developing)
+- [[Physical AI (Embodied Intelligence)]] — AI that perceives + acts in the physical world; crossed to commercial viability 2026; perfect EE×AI fit; bottleneck = real-world manipulation (developing)
+- [[Robotics Foundation Models (VLA)]] — vision-language-action models (π0, Gemini Robotics/RT-2, Isaac GR00T, Octo); flow matching for smooth action (developing)
+- [[Context Engineering]] — designing the whole info environment (tools/memory/retrieval/state), not just the prompt; Gartner "breakout AI capability of 2026" (developing)
+- [[Linear Algebra for AI and Quant]] — the math substrate of AI (matrix mult, LoRA, SVD/PCA) + quant + EE signals; fills the empty Math domain (developing)
+- [[Energy for AI (Nuclear SMRs and Data Center Power)]] — "power for AI" reframes Joe's SiC/GaN track; SMRs/nuclear/sodium-ion; the binding AI constraint (developing)
+- [[Neuromorphic Computing]] — brain-like event-driven ultra-low-power chips for edge AI/robotics; watch-and-learn frontier (seed)
+- [[Learning Agility (Meta-Skill)]] — the 2026 "skill of skills"; the durable AI-resistant human skills (judgment, taste, problem-framing) (developing)
+
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
 
