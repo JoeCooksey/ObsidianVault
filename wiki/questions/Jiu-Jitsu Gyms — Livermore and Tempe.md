@@ -24,12 +24,12 @@ Shortlist of top Brazilian Jiu-Jitsu (BJJ) academies in Joe's two home bases: **
 
 ## Livermore, CA
 
-| Gym | Address / Contact | Notes |
-|-----|-------------------|-------|
-| **Darcio Lira Jiu Jitsu** | 1601 Railroad Ave #A · (925) 549-1590 | Legit black belt (Prof. Darcio); praised for technical depth + proper fundamentals; gi & no-gi. "Real BJJ" reputation. **Top pick.** |
-| **Charles Gracie Jiu-Jitsu Academy – Livermore** | gracielivermore.com | Charles Gracie lineage; beginner-friendly, supportive, self-defense + fitness focus. Brand-name structure. |
-| **Arena BJJ Livermore** | 4555 Las Positas Rd, Ste E · M–F 9a–8:30p, Sat 9a–12p | Instructors 15+ yrs experience; wide weekday hours suit a student schedule. |
-| **JG Academy (Livermore)** | jgacademy.net/livermore | Family-friendly; welcomes total beginners. |
+| Gym                                              | Address / Contact                                     | Notes                                                                                                                                |
+| ------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Darcio Lira Jiu Jitsu**                        | 1601 Railroad Ave #A · (925) 549-1590                 | Legit black belt (Prof. Darcio); praised for technical depth + proper fundamentals; gi & no-gi. "Real BJJ" reputation. **Top pick.** |
+| **Charles Gracie Jiu-Jitsu Academy – Livermore** | gracielivermore.com                                   | Charles Gracie lineage; beginner-friendly, supportive, self-defense + fitness focus. Brand-name structure.                           |
+| **Arena BJJ Livermore**                          | 4555 Las Positas Rd, Ste E · M–F 9a–8:30p, Sat 9a–12p | Instructors 15+ yrs experience; wide weekday hours suit a student schedule.                                                          |
+| **JG Academy (Livermore)**                       | jgacademy.net/livermore                               | Family-friendly; welcomes total beginners.                                                                                           |
 
 **Shortlist:** Darcio Lira + Charles Gracie — trial both, pick the people.
 
