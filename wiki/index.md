@@ -310,6 +310,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Bulk and Cut Decision Framework]] — BF%-based decision rule; lean bulk/cut/recomp protocols; calorie math; cycle structure (developing)
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
 
+### Hobbies / Lifestyle
+- [[Jiu-Jitsu Gyms — Livermore and Tempe]] — top BJJ academies in both home bases; Livermore (Darcio Lira, Charles Gracie) + Tempe/ASU (Gustavo Dantas, Dark Matter); free-trial playbook + pricing (reference)
+
 ### Health / Personal
 - [[Supplement Timing Rules]] — when to take supplements for absorption: fat-soluble (with meal), free amino acids (empty stomach), night vs evening-avoid, mineral competition; two rules that matter most (developing)
 - [[Foundational Health Supplements]] — vitamin D, magnesium, omega-3, zinc; deficiency rates (developing)
