@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-04] save | Jiu-Jitsu Gyms — Livermore and Tempe
+- Type: reference
+- Location: wiki/questions/Jiu-Jitsu Gyms — Livermore and Tempe.md
+- From: conversation on for-fun hobbies → top BJJ gyms in Livermore CA + Tempe AZ (web-searched, 2 searches)
+
 ## [2026-06-04] guide | Physical AI + VLA Build Guide (Roadmap for Joe)
 - Searches: 4 (grounded in 2026 tooling) | Pages created: 3 ([[Physical AI Build Guide (Roadmap for Joe)]], [[Physical AI Project Ladder]], [[LeRobot and SO-101 (Hugging Face)]]); updated [[Physical AI (Embodied Intelligence)]] + index
 - Request: Joe asked for a full guide to build the Physical AI + VLA skill (the Tier-S recommendation from [[Research - Most Useful Topics to Learn Now (for Joe)]])
