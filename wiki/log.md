@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-04] guide | Physical AI + VLA Build Guide (Roadmap for Joe)
+- Searches: 4 (grounded in 2026 tooling) | Pages created: 3 ([[Physical AI Build Guide (Roadmap for Joe)]], [[Physical AI Project Ladder]], [[LeRobot and SO-101 (Hugging Face)]]); updated [[Physical AI (Embodied Intelligence)]] + index
+- Request: Joe asked for a full guide to build the Physical AI + VLA skill (the Tier-S recommendation from [[Research - Most Useful Topics to Learn Now (for Joe)]])
+- Key finding: A **6-phase, sim-first, ~$130-entry** path: Phase 0 foundations (linear algebra/PyTorch/control — overlaps EE coursework) → P1 Modern Robotics + MuJoCo → P2 deep RL (PPO/SAC, CS285) + imitation learning (ACT/Diffusion Policy) → **P3 build + train a real Hugging Face SO-101 arm via LeRobot** (the EE-edge moat: wiring/power/calibration/latency) → P4 fine-tune an open VLA (OpenVLA LoRA/OFT, π0/openpi, GR00T N1) + edge-deploy on Jetson → P5 capstone + FURI. Strategic thesis: the 2026 bottleneck is real-world reliability = engineering turf, so Joe should own "make VLAs run reliably on cheap edge hardware," not compete on model architecture.
+
 ## [2026-06-04] autoresearch | Most Useful Topics to Learn Now (for Joe)
 - Rounds: 3 | Searches: 9 | Fetches: 2 (1 paywalled, 403)
 - Pages created: 12 — 6 concepts ([[Physical AI (Embodied Intelligence)]], [[Robotics Foundation Models (VLA)]], [[Context Engineering]], [[Linear Algebra for AI and Quant]], [[Energy for AI (Nuclear SMRs and Data Center Power)]], [[Neuromorphic Computing]], [[Learning Agility (Meta-Skill)]] — 7 concepts actually), 5 sources, 1 synthesis
