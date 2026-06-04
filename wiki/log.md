@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-04] autoresearch | Most Useful Topics to Learn Now (for Joe)
+- Rounds: 3 | Searches: 9 | Fetches: 2 (1 paywalled, 403)
+- Pages created: 12 — 6 concepts ([[Physical AI (Embodied Intelligence)]], [[Robotics Foundation Models (VLA)]], [[Context Engineering]], [[Linear Algebra for AI and Quant]], [[Energy for AI (Nuclear SMRs and Data Center Power)]], [[Neuromorphic Computing]], [[Learning Agility (Meta-Skill)]] — 7 concepts actually), 5 sources, 1 synthesis
+- Synthesis: [[Research - Most Useful Topics to Learn Now (for Joe)]]
+- Key finding: The generic 2026 answer (AI literacy / context engineering / ML / durable human skills) is real, but the *useful-for-Joe* answer is the **EE×AI intersection**: Tier-S = Physical AI / robotics foundation models, Context Engineering, and Linear Algebra (his empty Math domain); Tier-A = "Power for AI" (reframes his SiC/GaN track) + Learning Agility; Tier-B watch = Neuromorphic. Fundamentals are an appreciating asset in the AI era, not a depreciating one.
+
 ## [2026-06-04] newsletter | EE Daily — June 04, 2026
 Top stories: NVIDIA RTX Spark ARM superchip enters PC market (1 petaflop, Grace + Blackwell); Broadcom AI chip Q3 outlook ($16B) misses estimates ($17.2B), stock −15%, chip selloff; Alphabet raises record $84.75B equity offering for AI infrastructure; daily topic: Custom AI ASICs — architecture, tape-out flow, and Broadcom vs Google TPU design.
 
