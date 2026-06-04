@@ -55,6 +55,8 @@ Physical AI sits at the **intersection of [[AI Applications in Electrical Engine
 - **MuJoCo** — free physics simulator; the standard for RL/robotics experiments.
 - **LeRobot (Hugging Face)** — open-source library + cheap hardware for hands-on VLA.
 
+> [!tip] How to actually learn this → [[Physical AI Build Guide (Roadmap for Joe)]] (phased roadmap) + [[Physical AI Project Ladder]] (project-by-project), built on the [[LeRobot and SO-101 (Hugging Face)|LeRobot + SO-101]] stack.
+
 ## See Also
 
 - [[Robotics Foundation Models (VLA)]] — the model architectures that power this
