@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-04] newsletter | EE Daily — June 04, 2026
+Top stories: NVIDIA RTX Spark ARM superchip enters PC market (1 petaflop, Grace + Blackwell); Broadcom AI chip Q3 outlook ($16B) misses estimates ($17.2B), stock −15%, chip selloff; Alphabet raises record $84.75B equity offering for AI infrastructure; daily topic: Custom AI ASICs — architecture, tape-out flow, and Broadcom vs Google TPU design.
+
+## [2026-06-04] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+World: Ukraine drones strike St. Petersburg oil terminal during SPIEF. US: Trump EO strips job protections from 8,000 GS-15 federal workers (Schedule F expansion). Technology: Alphabet raises record $84.75B equity offering for AI infrastructure. Science/Health: Karolinska/Stockholm oral drug activates skeletal muscle for obesity/diabetes (Cell). Wildcard: Broadcom Q2 AI chip guidance miss, −15% stock drop, broad chip selloff.
+
 ## [2026-06-03] build | Buck Converter BOM (Order-Ready 2026)
 - Joe asked for a live-2026, exact-part-number parts list for [[Project - Digitally Controlled Synchronous Buck Converter]], written into the vault
 - Verified production status via distributor/manufacturer search (6 searches): FDMC8030 is **NRND/EOL** → replaced with in-production FDMS7672 (30 V 5 mΩ) / FDS8880 (logic-level SOIC-8) / IRLB8721 (TO-220); inductor SRP1265A-330M confirmed (I_sat ~11 A, DCR 58 mΩ) + low-DCR alts; LM5109B/UCC27211 drivers in production; NUCLEO-G474RE in stock; scope rec modernized DS1054Z → Rigol DHO802 (12-bit, $329)

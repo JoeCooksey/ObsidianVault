@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 04, 2026]] — NVIDIA RTX Spark ARM superchip enters PC market (1 petaflop, Grace + Blackwell); Broadcom AI chip Q3 forecast misses ($16B vs $17.2B est), chip selloff; Alphabet $84.75B record equity offering; daily topic: Custom AI ASICs architecture and Broadcom/TPU comparison
 - [[EE Daily — June 03, 2026]] — NVIDIA RTX Spark ARM superchip (1 petaflop AI) disrupts PC market at Computex; NVIDIA+TSMC AI-powered fab integration; Microsoft 10,000-year glass storage; daily topic: Valleytronics and room-temperature valley polarization in 2D TMDs
 - [[EE Daily — June 02, 2026]] — SIA report: semiconductors = 95% of AI server rack value ($1.2T by 2028); TSMC plans 15% 3nm price hike; PsiQuantum Omega silicon photonics for million-qubit quantum; edge AI at 26% CAGR; daily topic: 48V bus + GaN VRM design for AI server power delivery
 - [[EE Daily — June 01, 2026]] — NVIDIA Computex PC processor debut (Intel −6%); 14-inch SiC crystal commercialization (Tiancheng); 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; PsiQuantum Omega photonic chip on 300mm GlobalFoundries wafers; daily topic: GaN 6G FR3 PA design (PAE, load pull, harmonic termination)
