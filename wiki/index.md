@@ -118,6 +118,8 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Frontier / What to Learn Now (2026) — Personalized for Joe
 - [[Research - Most Useful Topics to Learn Now (for Joe)]] — **synthesis/recommendation**: generic 2026 answer (AI literacy/context engineering/ML/durable skills) vs the *useful-for-Joe* answer = the EE×AI intersection; ranked S/A/B tiers (developing)
 - [[Physical AI (Embodied Intelligence)]] — AI that perceives + acts in the physical world; crossed to commercial viability 2026; perfect EE×AI fit; bottleneck = real-world manipulation (developing)
+- [[Physical AI Build Guide (Roadmap for Joe)]] — **full how-to-learn guide**: 6-phase roadmap (foundations → sim → RL/IL → real SO-101 arm → VLA fine-tune → capstone); the EE-edge thesis; resource table (developing)
+- [[Physical AI Project Ladder]] — 13-rung project sequence (sim-first $0 → ~$130 SO-101 arm → OpenVLA fine-tune → edge Jetson → FURI capstone) (developing)
 - [[Robotics Foundation Models (VLA)]] — vision-language-action models (π0, Gemini Robotics/RT-2, Isaac GR00T, Octo); flow matching for smooth action (developing)
 - [[Context Engineering]] — designing the whole info environment (tools/memory/retrieval/state), not just the prompt; Gartner "breakout AI capability of 2026" (developing)
 - [[Linear Algebra for AI and Quant]] — the math substrate of AI (matrix mult, LoRA, SVD/PCA) + quant + EE signals; fills the empty Math domain (developing)
