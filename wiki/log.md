@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-05] save | Most Self-Teachable High-Value Skills (Tier List for Joe)
+- Type: concept (tier list)
+- Location: wiki/concepts/Most Self-Teachable High-Value Skills (Tier List for Joe).md
+- From: follow-up to the learning-science research — Joe asked what top things he should self-teach
+- Key idea: the learning science is a *selection filter* — best self-teaching targets have a built-in feedback loop + free resources + clean deconstruction. S-tier for Joe = math foundations, programming depth, AI/ML; A = LTSpice, Verilog/FPGA, investing. One-line answer: **self-teach math first** (fills empty Math domain, double-dips with the EE degree, underpins AI + quant, and problem sets give their own feedback).
+
 ## [2026-06-05] autoresearch | How to Learn Anything (The Science of Learning)
 - Rounds: 2 | Searches: 10 | Fetches: 1 | Pages created: 15
 - Synthesis: [[Research: How to Learn Anything (The Science of Learning)]]
