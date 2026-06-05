@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-05] autoresearch | How to Learn Anything (The Science of Learning)
+- Rounds: 2 | Searches: 10 | Fetches: 1 | Pages created: 15
+- Synthesis: [[Research: How to Learn Anything (The Science of Learning)]]
+- Concepts: [[Active Recall (Retrieval Practice)]], [[Spaced Repetition]], [[Interleaving (Learning)]], [[Deliberate Practice]], [[The Feynman Technique]], [[Desirable Difficulties]], [[Metalearning (Drawing the Map)]], [[Focused vs Diffuse Mode]], [[Rapid Skill Acquisition (First 20 Hours)]]
+- Entities: [[Anders Ericsson]], [[Scott Young]], [[Barbara Oakley]]
+- Sources: [[Dunlosky 2013 — Improving Students' Learning]], [[Make It Stick (Brown, Roediger, McDaniel)]]
+- Key finding: The two highest-utility techniques (practice testing + distributed practice) are free, broadly applicable, and the *opposite* of how most people study (rereading/highlighting = low utility). Unifying principle = **desirable difficulties**: methods that feel harder produce more durable learning; judge by delayed recall, not by how it felt. The "10,000-hour rule" is a misreading of Ericsson — *quality* of practice, not raw hours, builds expertise.
+- Filed new index section **Learning Science / How to Learn Anything**; deliberately did NOT duplicate the reading-specific [[Reading Retention Methods]] — cross-linked instead.
+
 ## [2026-06-05] newsletter | EE Daily — June 05, 2026
 Top stories: NVIDIA RTX Spark ARM superchip (1 petaflop, Grace + Blackwell) enters PC market; 14-inch SiC wafer commercialization begins (Tiancheng); light-powered photonic chip demonstrated for AI and quantum; daily topic: Ga₂O₃ UWBG power device design (4.8 eV bandgap, 8 MV/cm critical field, BFOM 10× over SiC).
 
