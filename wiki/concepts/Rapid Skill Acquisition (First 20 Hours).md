@@ -13,7 +13,7 @@ related:
   - "[[Metalearning (Drawing the Map)]]"
   - "[[Research: How to Learn Anything (The Science of Learning)]]"
 sources:
-  - "[[Josh Kaufman]]"
+  - "Josh Kaufman — *The First 20 Hours* (2013)"
 ---
 
 # Rapid Skill Acquisition (First 20 Hours)
