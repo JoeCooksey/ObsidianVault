@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-05] newsletter | EE Daily — June 05, 2026
+Top stories: NVIDIA RTX Spark ARM superchip (1 petaflop, Grace + Blackwell) enters PC market; 14-inch SiC wafer commercialization begins (Tiancheng); light-powered photonic chip demonstrated for AI and quantum; daily topic: Ga₂O₃ UWBG power device design (4.8 eV bandgap, 8 MV/cm critical field, BFOM 10× over SiC).
+
+## [2026-06-05] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+World: US-Iran talks collapse; Tehran threatens full Strait of Hormuz closure; Kazakhstan offers uranium storage as off-ramp. US: Senate passes immigration enforcement bill party-line; Schedule F EO reclassifies 8,000 GS-15 federal workers for at-will termination. Technology: Bipartisan Great American AI Act 269-page discussion draft released (3-year state preemption, $100M/yr AI standards center). Science/Health: 600K-veteran VA study links semaglutide/GLP-1 drugs to addiction reduction. Wildcard: Putin announces air defense strengthening after Ukrainian drones strike St. Petersburg oil terminal.
+
 ## [2026-06-04] save | Jiu-Jitsu Gyms — Livermore and Tempe
 - Type: reference
 - Location: wiki/questions/Jiu-Jitsu Gyms — Livermore and Tempe.md
