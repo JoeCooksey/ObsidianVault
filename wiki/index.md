@@ -72,6 +72,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Joshua Grubbs]] — clinical psychologist; moral incongruence / PPMI model; showed religiosity (not use level) predicts self-reported "porn addiction"
 - [[Nous Research]] — open-source AI lab; Hermes LLMs (2 Pro/3/4.x), the Hermes function-calling standard, and [[Hermes Agent]]; MIT-licensed, no-lock-in philosophy
 - [[Hermes Agent]] — Nous Research's open-source self-hosted autonomous agent (MIT, v0.15.2, ~177k stars); 24/7 learning assistant with skills + persistent memory; Telegram-first, 40+ tools, BYO LLM
+- [[Anders Ericsson]] — psychologist (1947–2020); originated **deliberate practice**; *Peak* (2016); debunked the 10,000-hour rule
+- [[Scott Young]] — *Ultralearning* (2019); 9 principles; the MIT Challenge (4-yr CS degree in ~1 yr) + Year Without English
+- [[Barbara Oakley]] — engineering prof; co-created *Learning How to Learn* (biggest MOOC ever); focused/diffuse mode, chunking; *A Mind for Numbers*
 
 ## Concepts
 
