@@ -85,6 +85,33 @@ Lower on the *usefulness* axis, but they still pass the **feedback-loop filter**
 > [!tip] Pick by feedback *speed*, not prestige
 > The most rewarding free-time skills are the ones that tell you within minutes whether you got it right — taste, a timer, a finished image, a part that fits. That fast loop is what makes them *fun* to grind, and it's the same property that makes the Tier S skills learnable. The difference is only on the usefulness axis.
 
+## The textbook route — what self-teaches well from a book
+
+A textbook is the highest-bandwidth self-teaching tool *when the book supplies its own feedback loop* — i.e. **worked examples + end-of-chapter problems + a solutions manual.** That's the whole filter restated: a good problem set with answers is a feedback loop printed on paper. Without solved problems you can't grade yourself, and the subject drops out of "textbook-self-teachable."
+
+> [!tip] The one rule for buying a self-study textbook
+> Before anything else, confirm a **solutions manual** (official or community) exists. The book that grades you beats the "better" book that doesn't. A famous text with no answers is a worse *self-teaching* tool than a mediocre one with full solutions.
+
+These are the subjects where the textbook route works best — rigorous, sequential, problem-driven, and (mostly) on Joe's EE path:
+
+| Subject | Canonical self-study text(s) | Why it works from a book |
+|---|---|---|
+| **Linear algebra** | Strang, *Intro to Linear Algebra* (+ his free MIT OCW lectures) | Tight problems, famous solutions, lectures fill the gaps. → [[Linear Algebra for AI and Quant]] |
+| **Calculus** | Stewart (gentle) or Spivak (rigorous) | Massive problem banks + solution manuals; the classic self-teach subject. → [[Calculus in Electrical Engineering]] |
+| **Differential equations** | Boyce & DiPrima | Mechanical, procedure-heavy → perfect for closed-book drilling. → [[Differential Equations in Electrical Engineering]] |
+| **Probability & statistics** | Blitzstein *Intro to Probability* (free PDF + edX) | Solved problems + free course; underpins AI/quant. → [[Probability for AI and Quant]] |
+| **Analog circuits** | Sedra & Smith; Razavi | The EE backbone; huge solved-problem sets. Core to Joe's WBG/power track. → [[Analog Circuit Design Path]] |
+| **Practical electronics** | Horowitz & Hill, *The Art of Electronics* | Less problem-set, more "build and measure" — pair with a bench. → [[Arduino and Soldering Starter Projects]] |
+| **Signals & systems / DSP** | Oppenheim, *Signals and Systems* + *DSP* | Math-meets-EE; solutions widely available. → [[Signals and Systems for EE]] |
+| **Algorithms / CS** | CLRS; *SICP*; Nand2Tetris (book + free course) | Self-checking — code runs or it doesn't; Nand2Tetris auto-grades. → [[Programming depth]] |
+| **Electromagnetics** | Griffiths, *Intro to Electrodynamics* | Beloved problems with solutions; demanding but rewarding for EE. → [[Electromagnetics for EE]] |
+| **Economics / finance** | Hull, *Options, Futures, and Other Derivatives*; any solid intro micro text | Quantitative, problem-driven; feeds the investing interest. → [[Financial Literacy Roadmap]] |
+
+> [!warning] What a textbook *can't* teach you alone
+> Skills without a printable feedback loop — public speaking, design taste, writing voice, leadership, an instrument's *feel*. You can read *about* them, but the book can't tell you you're wrong. These still need reps with real people or an external grader (same caveat as the [Tier C](#tier-c-low-academic-load-free-time-skills) instrument/photography rows).
+
+**How to actually study from one** (don't just read it): work the examples *closed-book first*, then do the problems, then check the solution — that's [[Active Recall (Retrieval Practice)]], not passive reading. Re-reading a chapter feels productive and teaches almost nothing; solving its problems is the entire point. → see the protocol below.
+
 ## How to run any of them (the protocol)
 
 1. **Map first** (~10% of time): split the subject into Concepts (understand), Facts (memorize), Procedures (practice). → [[Metalearning (Drawing the Map)]]
