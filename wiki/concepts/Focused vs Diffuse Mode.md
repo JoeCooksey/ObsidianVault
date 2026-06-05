@@ -41,7 +41,7 @@ This is why "sleep on it" works, and why cramming straight through blocks insigh
 
 ## Related mechanisms
 
-- **Chunking** — the focused mode, through attention + understanding + practice, packs information into [[Chunking (Learning)|chunks]] (compact units working memory can handle). Chunking is the foundation of expertise.
+- **Chunking** — the focused mode, through attention + understanding + practice, packs information into *chunks* (compact units working memory can handle). Chunking is the foundation of expertise. (Source: [[Barbara Oakley]])
 - **Sleep** isn't optional — it's when the diffuse mode consolidates memories and clears metabolic waste. Skipping sleep to study trades away the consolidation you studied *for*.
 - **The Pomodoro Technique** is the standard tool: ~25 min focused, then a real break to let diffuse mode run.
 
