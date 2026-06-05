@@ -11,7 +11,6 @@ tags:
 status: developing
 related:
   - "[[Deep Work]]"
-  - "[[Chunking (Learning)]]"
   - "[[Research: How to Learn Anything (The Science of Learning)]]"
 sources:
   - "[[Barbara Oakley]]"
