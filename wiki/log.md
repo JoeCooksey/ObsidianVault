@@ -11,6 +11,9 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-05] edit | Self-Study Textbook List + NotebookLM Prompt
+- Added "What each subject is actually about" — one-paragraph plain-English overview per subject.
+
 ## [2026-06-05] save | Self-Study Textbook List + NotebookLM Prompt
 - Type: reference
 - New page: best self-study textbook per subject (linear algebra → finance) + reusable NotebookLM study-coach prompt and follow-ups.
