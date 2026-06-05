@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-05] save | Self-Study Textbook List + NotebookLM Prompt
+- Type: reference
+- New page: best self-study textbook per subject (linear algebra → finance) + reusable NotebookLM study-coach prompt and follow-ups.
+- Cross-linked from [[Most Self-Teachable High-Value Skills (Tier List for Joe)]].
+
+## [2026-06-05] edit | Most Self-Teachable High-Value Skills (Tier List for Joe)
+- Added Tier C (low-academic-load / free-time skills) and "The textbook route" section.
+
 ## [2026-06-05] save | Most Self-Teachable High-Value Skills (Tier List for Joe)
 - Type: concept (tier list)
 - Location: wiki/concepts/Most Self-Teachable High-Value Skills (Tier List for Joe).md
