@@ -133,6 +133,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Learning Science / How to Learn Anything
 - [[Research: How to Learn Anything (The Science of Learning)]] — **master synthesis + step-by-step operating system**: two engines (memory + skill), the 5-phase protocol (map → understand → make-it-stick → build-skill → compound); feels-harder = learns-better (developing)
+- [[Most Self-Teachable High-Value Skills (Tier List for Joe)]] — applies the learning science as a *selection filter* (feedback loop + free resources + deconstructable); S-tier = math foundations, programming depth, AI/ML; A = LTSpice, FPGA, investing; one-line answer = **self-teach math first** (developing)
 - [[Active Recall (Retrieval Practice)]] — the #1 evidence-based technique: produce the answer from memory, don't re-read; beats highlighting cold (developing)
 - [[Spaced Repetition]] — review at expanding intervals (SM-2: 1d→6d→15d→37d→90d) to beat the Ebbinghaus forgetting curve; distributed practice = #2 technique (developing)
 - [[Interleaving (Learning)]] — mix problem types instead of blocking; builds the skill of picking the right method; feels worse, retains better (developing)
