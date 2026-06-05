@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Self-Study Textbook List + NotebookLM Prompt",
+      "path": "wiki/concepts/Self-Study Textbook List + NotebookLM Prompt.md"
+    },
+    {
       "basename": "Most Self-Teachable High-Value Skills (Tier List for Joe)",
       "path": "wiki/concepts/Most Self-Teachable High-Value Skills (Tier List for Joe).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Alive Time vs Dead Time",
       "path": "Alive Time vs Dead Time.md"
-    },
-    {
-      "basename": "Mushroom Fruiting Conditions",
-      "path": "wiki/concepts/Mushroom Fruiting Conditions.md"
     }
   ],
   "omittedPaths": [],
