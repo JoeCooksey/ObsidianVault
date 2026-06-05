@@ -680,6 +680,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research: How to Learn Anything (The Science of Learning)]] — **master synthesis**: the full evidence-based guide to learning anything; memory engine (retrieval+spacing+interleaving) + skill engine (deliberate practice + 20 hours); 5-phase protocol; "feels-harder = learns-better"; 10,000-hour myth debunked (developing)
 - [[Supporting Dad Through Early Sobriety and Depression]] — synthesis: he took a break from drinking and seems depressed — that's expected (PAWS + anhedonia, brain recovering); next ~4 wks are diagnostic (alcohol-induced vs independent depression); ⚠️ elevated suicide risk → 988/SAMHSA; reinforce sobriety warmly, listen don't lecture, walk together, encourage a doctor (developing)
 - [[Research - Talking to Dad About Drinking, Health, and Connection]] — synthesis: telling him to stop is *why* he won't (reactance); use CRAFT + motivational interviewing; stop the mom-and-I "ganging up" coalition; connect on his turf first; change your response, not him (developing)
 - [[Research: Dopamine Masterclass]] — full dopamine masterclass; motivation≠pleasure; activity multipliers (chocolate 1.5×→amphetamine 10×, cold 2.5× crash-free); peak→trough baseline; downregulation; detox is behavioral; healthy stack (developing)
