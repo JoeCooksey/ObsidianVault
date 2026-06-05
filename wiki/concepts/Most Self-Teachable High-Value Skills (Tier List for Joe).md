@@ -64,6 +64,27 @@ Applied to Joe's profile (1st-year EE → wide-bandgap power electronics, strong
 - **Touch typing, Git, Linux** — knock out in days; high daily-use multiplier. → [[Zero Cost Computer Skills — Tier List]]
 - **Physical AI / robotics** — highest *ceiling* item, but lower early self-teachability (needs hardware; sim has a learning curve). Start **sim-first**. → [[Physical AI Build Guide (Roadmap for Joe)]]
 
+## Tier C — low-academic-load / free-time skills
+
+Lower on the *usefulness* axis, but they still pass the **feedback-loop filter** perfectly — which is exactly why they're so satisfying to self-teach. These are for enjoyment, dexterity, and life quality, not the résumé. Most reach "genuinely good" on evenings-and-weekends time.
+
+| Skill | Feedback loop | Why it's a great free-time pick for Joe |
+|---|---|---|
+| **Fermentation & cooking** (kefir, sourdough, hot sauce, pickles) | Your taste buds + did it set/rise/sour | Cheap, edible payoff every few days, and it's low-key applied microbiology + chemistry. Kefir is the perfect starter project. → [[Kefir and Home Fermentation]] |
+| **Home espresso / pour-over coffee** | The cup — grind, dose, and time give instant tunable feedback | A tiny optimization problem you drink. Dial-in mindset rewards an engineer. → [[Coffee Dial-In (Espresso & Pour-Over)]] |
+| **Chess** | Win/loss + engine eval after every move | Free world-class training (Lichess), pure retrieval/pattern practice, scales infinitely. → [[Chess Self-Study Path]] |
+| **CAD + 3D printing** (Fusion 360 / FreeCAD) | Does the part print and fit? | Bridges directly into EE/hardware — print enclosures, jigs, robot parts. Half-fun, half-Tier-A. → [[CAD and 3D Printing for Makers]] |
+| **Hobby electronics / Arduino & soldering** | The circuit works or it doesn't | Pure EE adjacency disguised as a hobby; blinking-LED-to-real-gadget ladder. → [[Arduino and Soldering Starter Projects]] |
+| **An instrument** (guitar or piano) | Your ear + tuner / pitch apps | Feedback loop is partly internal, so pair with an app that grades pitch/timing. Deep, lifelong, stress-relieving. → [[Self-Teaching an Instrument]] |
+| **Photography** | The image on screen, histogram, exposure triangle | Cheap entry (phone counts), composition rules deconstruct cleanly. *Taste* needs reps + critique. → [[Photography Fundamentals]] |
+| **A language** (e.g. Spanish) | Comprehension + spaced-repetition apps | Anki/Duolingo + media immersion = self-teachable to conversational; conversation itself needs real partners. → [[Language Self-Study (Comprehensible Input)]] |
+| **Bouldering / climbing** | Send or fall — brutally honest | Not pure self-teach (spotters/gym), but the wall *is* the feedback. Strength + problem-solving. → [[Climbing for Beginners]] |
+| **Speedcubing / juggling / lock-picking** | A timer, a dropped ball, the lock opens | "First 20 hours" poster children — tiny, deconstructable, addictive instant feedback. Great breaks between study. → [[Quick Dexterity Skills (20-Hour Wins)]] |
+| **Cocktails / mixology** | Taste + balance ratios | Recipe = a controllable formula; ratios and dilution are basically applied math you can sip. → [[Cocktail Fundamentals]] |
+
+> [!tip] Pick by feedback *speed*, not prestige
+> The most rewarding free-time skills are the ones that tell you within minutes whether you got it right — taste, a timer, a finished image, a part that fits. That fast loop is what makes them *fun* to grind, and it's the same property that makes the Tier S skills learnable. The difference is only on the usefulness axis.
+
 ## How to run any of them (the protocol)
 
 1. **Map first** (~10% of time): split the subject into Concepts (understand), Facts (memorize), Procedures (practice). → [[Metalearning (Drawing the Map)]]
