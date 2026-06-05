@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
-      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
     },
     {
       "basename": "Jiu-Jitsu Gyms — Livermore and Tempe",
       "path": "wiki/questions/Jiu-Jitsu Gyms — Livermore and Tempe.md"
     },
     {
-      "basename": "log",
-      "path": "wiki/log.md"
+      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
+      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
     {
       "basename": "Physical AI Build Guide (Roadmap for Joe)",
@@ -195,10 +199,6 @@
     {
       "basename": "Library Availability — Master Book List (Livermore)",
       "path": "wiki/questions/Library Availability — Master Book List (Livermore).md"
-    },
-    {
-      "basename": "Research - Book Recommendations Master List",
-      "path": "wiki/sources/Research - Book Recommendations Master List.md"
     }
   ],
   "omittedPaths": [],
