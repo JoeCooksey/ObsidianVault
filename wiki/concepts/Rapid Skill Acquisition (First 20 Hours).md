@@ -18,7 +18,7 @@ sources:
 
 # Rapid Skill Acquisition (First 20 Hours)
 
-**You don't need 10,000 hours to get *good enough to be useful* — you need about 20 hours of focused practice.** Josh Kaufman's framework (*The First 20 Hours*, 2013) separates **expertise** (Ericsson's long game) from **competence** (going from zero to functional fast). The steep part of the learning curve happens early. (Source: [[Josh Kaufman]])
+**You don't need 10,000 hours to get *good enough to be useful* — you need about 20 hours of focused practice.** Josh Kaufman's framework (*The First 20 Hours*, 2013) separates **expertise** (Ericsson's long game) from **competence** (going from zero to functional fast). The steep part of the learning curve happens early. (Source: Josh Kaufman, *The First 20 Hours*, 2013)
 
 ## The four steps
 
