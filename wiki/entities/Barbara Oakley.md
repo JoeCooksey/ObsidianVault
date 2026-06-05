@@ -21,7 +21,7 @@ Professor of engineering at Oakland University; co-creator (with neuroscientist 
 
 ## Background
 
-- Self-described former "math-phobe" who flunked her way through math and science in school, then deliberately retrained herself and became an engineering professor — a living case study in [[Carol Dweck|growth mindset]].
+- Self-described former "math-phobe" who flunked her way through math and science in school, then deliberately retrained herself and became an engineering professor — a living case study in growth mindset (Carol Dweck).
 - Author of *A Mind for Numbers* (2014), the book behind the course.
 
 ## Key ideas she popularized
