@@ -614,6 +614,10 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Neuroscience / Habits
 - [[Huberman Lab Essentials - Habit Formation and Breaking]] — Huberman, 2025, podcast transcript
 
+### Learning Science
+- [[Dunlosky 2013 — Improving Students' Learning]] — meta-analysis ranking 10 study techniques; practice testing + distributed practice = high utility; rereading/highlighting = low (high)
+- [[Make It Stick (Brown, Roediger, McDaniel)]] — 2014; the definitive popular synthesis; retrieval + spacing + interleaving + elaboration as desirable difficulties (high)
+
 ### AI / LLM
 - [[Survey - Low-bit LLMs 2024]] — arXiv 2409.16694, comprehensive quantization survey
 - [[Edge LLM Inference Benchmark 2026]] — arXiv 2603.23640, sustained hardware benchmarks
