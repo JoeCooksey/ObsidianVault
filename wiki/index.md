@@ -128,6 +128,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Neuromorphic Computing]] — brain-like event-driven ultra-low-power chips for edge AI/robotics; watch-and-learn frontier (seed)
 - [[Learning Agility (Meta-Skill)]] — the 2026 "skill of skills"; the durable AI-resistant human skills (judgment, taste, problem-framing) (developing)
 
+### Learning Science / How to Learn Anything
+- [[Research: How to Learn Anything (The Science of Learning)]] — **master synthesis + step-by-step operating system**: two engines (memory + skill), the 5-phase protocol (map → understand → make-it-stick → build-skill → compound); feels-harder = learns-better (developing)
+- [[Active Recall (Retrieval Practice)]] — the #1 evidence-based technique: produce the answer from memory, don't re-read; beats highlighting cold (developing)
+- [[Spaced Repetition]] — review at expanding intervals (SM-2: 1d→6d→15d→37d→90d) to beat the Ebbinghaus forgetting curve; distributed practice = #2 technique (developing)
+- [[Interleaving (Learning)]] — mix problem types instead of blocking; builds the skill of picking the right method; feels worse, retains better (developing)
+- [[Desirable Difficulties]] — Bjork's unifying principle: effortful, fluency-breaking practice produces durable learning; judge by delayed recall, not by feel (developing)
+- [[The Feynman Technique]] — explain it simply to a 12-year-old → find your gaps → refine with an analogy; understanding ≠ familiarity (developing)
+- [[Deliberate Practice]] — Ericsson: target a specific weakness at the edge of ability with fast feedback; the 10,000-hour rule is a misreading (developing)
+- [[Rapid Skill Acquisition (First 20 Hours)]] — Kaufman: zero→competent in ~20 focused hours; deconstruct, self-correct, remove barriers, commit (developing)
+- [[Metalearning (Drawing the Map)]] — Ultralearning #1: spend ~10% planning Concepts/Facts/Procedures + best resources before grinding (developing)
+- [[Focused vs Diffuse Mode]] — Oakley: alternate concentrated focus and relaxed background processing; "sleep on it" is real; chunking (developing)
+
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
 
