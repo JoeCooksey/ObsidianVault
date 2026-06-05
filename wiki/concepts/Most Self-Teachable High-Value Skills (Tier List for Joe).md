@@ -3,6 +3,7 @@ type: concept
 title: "Most Self-Teachable High-Value Skills (Tier List for Joe)"
 created: 2026-06-05
 updated: 2026-06-05
+
 tags:
   - concept
   - learning
