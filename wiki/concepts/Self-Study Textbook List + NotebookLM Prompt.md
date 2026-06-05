@@ -47,6 +47,30 @@ The best textbook for each subject you can realistically self-teach from a book,
 > [!warning] ⚠️ = no clean answer key
 > *The Art of Electronics* teaches by building and measuring on a bench, not by graded problem sets — pair it with hardware, not a solutions manual.
 
+## What each subject is actually about
+
+A one-paragraph "what am I getting into" for each, with how it connects to Joe's EE/AI/quant path.
+
+**Linear algebra** — The math of *vectors and matrices*: how to represent and transform data, solve systems of equations, and understand operations like rotation, projection, and scaling. It's the language of everything multi-dimensional. Why it matters: it's the literal substrate of machine learning (every neural net is matrix multiplications), computer graphics, signal processing, and quant. The single highest-leverage subject on this list. → [[Linear Algebra for AI and Quant]]
+
+**Calculus** — The math of *change and accumulation*: derivatives (how fast something changes) and integrals (adding up infinitely many small pieces). It turns "instantaneous rate" and "total over time" into something you can compute. Why it matters: it's the engine under physics, circuit analysis, optimization (how AI models train via gradients), and probability. → [[Calculus in Electrical Engineering]]
+
+**Differential equations** — Equations that describe how a system *evolves over time* based on its current state (e.g. how a capacitor charges, how a population grows, how a circuit oscillates). You solve for the function that obeys the rule. Why it matters: this is how engineers model the real, dynamic world — every RLC circuit, control system, and physical process is a differential equation. → [[Differential Equations in Electrical Engineering]]
+
+**Probability & statistics** — The math of *uncertainty and evidence*: probability predicts outcomes from a known model; statistics infers the model from observed data. Together they let you reason rigorously about randomness, risk, and "what does this data actually tell me?" Why it matters: foundational to machine learning, experiment design, quant trading, and not being fooled by noise. → [[Probability for AI and Quant]]
+
+**Analog circuits** — How to design with *continuous signals* using transistors, amplifiers, and feedback — the parts of electronics that don't reduce to 1s and 0s. Covers how to amplify, filter, and condition real-world signals. Why it matters: it's the EE backbone and the direct on-ramp to Joe's wide-bandgap / power-electronics track. → [[Analog Circuit Design Path]]
+
+**Practical electronics** — The hands-on craft of *building circuits that actually work*: choosing components, reading datasheets, prototyping, and debugging on a bench with real instruments. Less theory, more engineering judgment ("what do experienced designers actually do?"). Why it matters: bridges textbook EE to real hardware — the skill that makes you dangerous in a lab. → [[Arduino and Soldering Starter Projects]]
+
+**Signals & systems / DSP** — The math of *how signals behave and how systems transform them*: filtering, the frequency domain, the Fourier and Laplace transforms, sampling, and convolution. DSP is the digital version — processing audio, images, and sensor data in code. Why it matters: the meeting point of math and EE; underpins audio, comms, radar, and ML on time-series. → [[Signals and Systems for EE]]
+
+**Algorithms / CS fundamentals** — How to *solve problems efficiently with code*: data structures (how to organize information), algorithm design, and analyzing how fast/memory-hungry a solution is. Plus how a computer works from the ground up (Nand2Tetris builds one from logic gates). Why it matters: separates someone who can code from someone who can engineer; core to AI work and interviews. → [[Programming depth]]
+
+**Electromagnetics** — The physics of *electric and magnetic fields*: how charges create fields, how fields store energy and exert force, and how they propagate as waves (this is what light, radio, and Wi-Fi *are*). Why it matters: the deep "why" beneath all of EE — antennas, transmission lines, motors, high-frequency circuit behavior. Demanding but foundational. → [[Electromagnetics for EE]]
+
+**Economics / finance** — How *value, prices, and incentives* work: micro/macro economics explains how markets and decisions behave; quantitative finance (Hull) covers how to price and hedge financial instruments like options and futures using probability and calculus. Why it matters: feeds Joe's investing interest and the quant direction, and it's genuinely useful life knowledge. → [[Financial Literacy Roadmap]]
+
 ## The NotebookLM prompt (reusable)
 
 Upload the textbook PDF (and any solutions manual / lecture notes) as sources in [[NotebookLM]], then paste this:
