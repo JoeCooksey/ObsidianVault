@@ -24,6 +24,7 @@ related:
   - "[[Verilog and FPGA Learning Path]]"
   - "[[LTSpice Complete Skills Guide]]"
   - "[[Zero Cost Computer Skills — Tier List]]"
+  - "[[Self-Study Textbook List + NotebookLM Prompt]]"
 ---
 
 # Most Self-Teachable High-Value Skills (Tier List for Joe)
