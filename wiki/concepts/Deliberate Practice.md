@@ -50,7 +50,7 @@ Gladwell's popular "10,000-hour rule" is a distortion of Ericsson's work. Ericss
 
 ## Where it fits
 
-Deliberate practice is how the **skill** side of learning advances, the complement to the memory-side stack ([[Active Recall (Retrieval Practice)]] + [[Spaced Repetition]]). It's the engine behind [[Directness and Drill (Ultralearning)|directness/drill]] in Ultralearning. (Source: [[Research: How to Learn Anything (The Science of Learning)]])
+Deliberate practice is how the **skill** side of learning advances, the complement to the memory-side stack ([[Active Recall (Retrieval Practice)]] + [[Spaced Repetition]]). It's the engine behind the *directness* and *drill* principles in Ultralearning (see [[Scott Young]]). (Source: [[Research: How to Learn Anything (The Science of Learning)]])
 
 > [!tip] One-line rule
 > Don't practice what you're good at; practice what you're bad at, with feedback, at the edge of your ability.
