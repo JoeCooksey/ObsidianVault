@@ -113,6 +113,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Hermes Agent (What It's For, Setup, POCs)]] — synthesis: what Hermes is for, why Joe should set it up (Nous's own user stories include his exact LLM-wiki-on-VPS pattern), and the coolest POCs (developing)
 - [[Hermes Agent — Windows Test Setup Plan (OpenAI Backend)]] — step-by-step runbook to kick the tires on Hermes on the Windows desktop with the OpenAI/Codex (GPT-5.x) backend; verify-script → install → `hermes model` → first run → optional Telegram/vault; graduate to VPS for always-on (developing)
 
+### Claude Code / Tooling
+- [[Claude Code loop Command]] — **usage guide** for `/loop`: three forms (`/loop [interval] [prompt]`, both optional) = fixed cron schedule, self-paced (Claude picks 1 min–1 hr & can end itself), or bare `/loop` = maintenance prompt / `loop.md`; stop with `Esc`; 7-day expiry; session-scoped (stable)
+- [[Claude Code Scheduled Tasks]] — the broader system behind `/loop`: Cloud (Routines) vs Desktop vs `/loop` comparison, one-time reminders, `CronCreate`/`CronList`/`CronDelete` tools, 5-field cron reference, jitter/expiry (stable)
+- [[Research - Claude Code loop Command]] — synthesis: three behaviors, self-pacing, `loop.md`, when NOT to use it; contradiction = third-party 3-day/10% figures are stale vs docs' 7-day/30-min (stable)
+
 ### AI / Edge Computing
 - [[Post-Training Quantization]] — INT4/INT8/FP8 weight and activation quantization (developing)
 - [[GGUF Format]] — llama.cpp quantization file format; Q4_K_M recommended (developing)
