@@ -390,6 +390,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI Training Data Work (Online Income)]] — Outlier/DataAnnotation/Mercor; STEM+coding experts $40–100+/hr async; best new-money fit + AI literacy (developing)
 - [[Research - Ways to Make Money Online (Tier List)]] — synthesis: ranking lens, key findings, contradictions, sources (developing)
 
+### Making Money with Claude Code & AI
+- [[AI Money-Making Methods Tier List]] — **centerpiece**: every way to make money with Claude Code + AI ranked S→D for Joe (income ceiling × durability × fit × capital); the rule = sell the deliverable not the AI; ladder = data work → freelancing → services/agency → micro-SaaS → audience (developing)
+- [[Selling Claude Code Services (Freelance, Consulting, Workshops)]] — the solo services ladder: freelance $50–300/hr → consulting $5K–15K/engagement → workshops $3K–8K/half-day; "price the engagement not the hour" (developing)
+- [[AI Automation Agency]] — scale services into retainers: n8n workflows for businesses; projects $3K–100K+ by scope, retainers $500–8K/mo, 5 clients ≈ $15K–25K/mo recurring; real constraint = niche + client acquisition (developing)
+- [[Research - Making Money with Claude Code and AI (Tiered)]] — synthesis: tiered options, realistic 2026 income data, saturation/reality-check, why most fail (bucket-hopping), Joe's recommended stack (developing)
+
 ### Stocks / Investing & Quant Finance
 - [[Fundamental Analysis Valuation Metrics]] — what to own & at what price: P/E (vs history/peers/market), PEG, P/B, P/S, FCF yield; moat/debt/management; value traps; no ratio alone (developing)
 - [[Technical Analysis Indicators]] — when to act: moving averages (50/200), RSI 70/30, MACD, support/resistance, volume; timing tool, weak standalone edge after costs (developing)
