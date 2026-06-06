@@ -456,6 +456,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Costco Vegetable Soup Recipes]] — 7 soup recipes (Classic Vegetable, Roasted Tomato, French Onion, Minestrone, Curried Lentil, Quick Frozen-Veg, Mushroom Garlic); full instructions + tips; $0.75–1.50/serving (developing)
 - [[Costco Pantry for Homemade Soup]] — master ingredient list with prices: fresh veg, frozen blends, Kirkland broth, spices; minimum viable ~$40–50 pantry setup (developing)
 
+### Meal Prep
+- [[Research - Meal Prep Playbook for Joe's Core Foods]] — synthesis: applies the component method to Joe's stack (oats+kefir, beef, rice, sweet potato/potato, veg, eggs, salmon, white fish, frozen fruit); 90-min prep plan + 8-bowl mix-and-match menu + sauce rotation (complete)
+- [[Component Meal Prep Method]] — batch parts separately, store apart, assemble bowls in <5 min, rotate sauce to beat monotony; carb+protein+veg+sauce+topper formula (developing)
+- [[Meal Prep Food Safety — Storage Times]] — 3–4 day fridge limit on cooked meat/fish; 2-hour rule; reheat 165°F; freezer months table; eat fish first (developing)
+- [[Kefir Overnight Oats]] — ½ cup oats : 1 cup kefir (1:2), soak ≥5h, keeps 4–5 days; gut + beta-glucan double-dip (developing)
+- [[Protein Per Meal Target]] — ~30–40g/meal (0.4–0.6 g/kg) for max MPS via leucine threshold; caveat: daily total matters more than per-meal (developing)
+- [[Frozen vs Fresh Produce]] — frozen retains 90–100% of vitamins, often beats aged fresh; frozen fruit is a strength not a compromise (developing)
+
 ### Food / Nutrition Tier Lists
 - [[Food Health Tier List — Overall]] — S–F ranking of all major foods by pure healthiness; scoring framework (developing)
 - [[Food Health Tier List — Macronutrients]] — carbs/protein/fats each ranked S–D by health value; whole-vs-processed is the dominant lever (developing)
