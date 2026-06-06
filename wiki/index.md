@@ -628,6 +628,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Not All AI-Assisted Programming Is Vibe Coding]] — Simon Willison (2025-03-19); the narrow definition + "don't commit code you can't explain"; when it's appropriate vs not (high)
 - [[Pieter Levels — How He Builds (Case Study)]] — multiple profiles (2025); ~$3M/yr solo, simple stack, ship-before-ready doctrine (medium — self-reported revenue)
 
+### Making Money with Claude Code & AI (Sources)
+- [[How to Make Money with Claude Code — youcanbuildthings 2026]] — four paths: freelance $50–300/hr, micro-SaaS, consulting $5K–15K, workshops $3K–8K; "sell the deliverable not the AI" (medium)
+- [[AI Automation Agency Pricing — Arsum 2026]] — agency pricing by scope ($3K–100K+) + retainer math ($500–8K/mo); n8n flat-rate scaling (medium)
+- [[AI Side Hustle Income Data 2026]] — aggregated 2026 rate/income ranges: consulting $100–300/hr, automation $75–200/hr, micro-SaaS ~$1,200 MRR by 90 days, faceless YouTube ramps (medium)
+- [[Make Money with AI 2026 — Reality Check]] — saturation hits the bottom not the top; ~80% of companies get nothing from AI; failure = bucket-hopping; platform risk; scam red flags (medium)
+
 ### Productivity / Career Philosophy
 - [[Deep Work — Cal Newport]] — Newport (2016); deep vs shallow work, Time × Intensity formula, two core abilities, Principle of Least Resistance, 4 scheduling philosophies (high — as framework)
 - [[The Almanack of Naval Ravikant]] — Jorgenson/Ravikant (2020); four kinds of leverage, permissionless code/media, specific knowledge, productize yourself, long-term games (high — as framework)
