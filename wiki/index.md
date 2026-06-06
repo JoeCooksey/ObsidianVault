@@ -697,6 +697,11 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Math Foundations (Sources)
 - [[Research - Math and Physics Foundations for EE]] — 8 key findings mapping Calc 1-3, DiffEQ, Mechanics, E&M to EE coursework and career (developing)
 
+### Grad School / Degree Value (Sources)
+- [[Source - Research.com EE Degree Levels and ROI]] — duration, salary premium, funding structure (BS vs MS vs PhD); 72/28 industry-vs-PhD split (complete)
+- [[Source - edX Is a Master's in EE Worth It]] — BLS salary gap ($1,840 vs $1,543/wk), EE median $111,910, 9% growth, MS cost/time (complete)
+- [[Source - EE PhD vs MS Industry Value]] — practitioner view: PhD premium only $5–25K/yr, high opportunity cost, goal-driven not money-driven (complete)
+
 ## Questions / Synthesis (Agent Systems)
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
