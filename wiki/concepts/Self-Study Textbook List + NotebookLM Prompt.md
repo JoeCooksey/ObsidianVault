@@ -31,18 +31,18 @@ The best textbook for each subject you can realistically self-teach from a book,
 
 ## The textbook list
 
-| Subject | Best self-study textbook | Backup / supplement | Has solutions? |
-|---|---|---|---|
-| **Linear algebra** | Strang, *Introduction to Linear Algebra* | Free MIT OCW 18.06 lectures | ✅ |
-| **Calculus** | Stewart, *Calculus* (gentle) | Spivak, *Calculus* (rigorous) | ✅ |
-| **Differential equations** | Boyce & DiPrima, *Elementary Differential Equations* | Strang, *Differential Equations and Linear Algebra* | ✅ |
-| **Probability & statistics** | Blitzstein & Hwang, *Introduction to Probability* | Free PDF + Harvard Stat 110 (edX) | ✅ |
-| **Analog circuits** | Sedra & Smith, *Microelectronic Circuits* | Razavi, *Fundamentals of Microelectronics* | ✅ |
-| **Practical electronics** | Horowitz & Hill, *The Art of Electronics* | *AoE — Student Manual* | ⚠️ build/measure |
-| **Signals & systems / DSP** | Oppenheim, *Signals and Systems* | Oppenheim, *Discrete-Time Signal Processing* | ✅ |
-| **Algorithms / CS** | Cormen et al., *CLRS* | *SICP*; Nand2Tetris (auto-grades) | ✅ |
-| **Electromagnetics** | Griffiths, *Introduction to Electrodynamics* | Purcell & Morin, *Electricity and Magnetism* | ✅ |
-| **Economics / finance** | Hull, *Options, Futures, and Other Derivatives* | Mankiw, *Principles of Economics* | ✅ |
+| Subject                      | Best self-study textbook                             | Backup / supplement                                 | Has solutions?   |
+| ---------------------------- | ---------------------------------------------------- | --------------------------------------------------- | ---------------- |
+| **Linear algebra**           | Strang, *Introduction to Linear Algebra*             | Free MIT OCW 18.06 lectures                         | ✅                |
+| **Calculus**                 | Stewart, *Calculus* (gentle)                         | Spivak, *Calculus* (rigorous)                       | ✅                |
+| **Differential equations**   | Boyce & DiPrima, *Elementary Differential Equations* | Strang, *Differential Equations and Linear Algebra* | ✅                |
+| **Probability & statistics** | Blitzstein & Hwang, *Introduction to Probability*    | Free PDF + Harvard Stat 110 (edX)                   | ✅                |
+| **Analog circuits**          | Sedra & Smith, *Microelectronic Circuits*            | Razavi, *Fundamentals of Microelectronics*          | ✅                |
+| **Practical electronics**    | Horowitz & Hill, *The Art of Electronics*            | *AoE — Student Manual*                              | ⚠️ build/measure |
+| **Signals & systems / DSP**  | Oppenheim, *Signals and Systems*                     | Oppenheim, *Discrete-Time Signal Processing*        | ✅                |
+| **Algorithms / CS**          | Cormen et al., *CLRS*                                | *SICP*; Nand2Tetris (auto-grades)                   | ✅                |
+| **Electromagnetics**         | Griffiths, *Introduction to Electrodynamics*         | Purcell & Morin, *Electricity and Magnetism*        | ✅                |
+| **Economics / finance**      | Hull, *Options, Futures, and Other Derivatives*      | Mankiw, *Principles of Economics*                   | ✅                |
 
 > [!warning] ⚠️ = no clean answer key
 > *The Art of Electronics* teaches by building and measuring on a bench, not by graded problem sets — pair it with hardware, not a solutions manual.
