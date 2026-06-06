@@ -555,6 +555,13 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Meal Prep / Food Safety
+- [[FoodSafety.gov — Leftovers and Cold Storage]] — USDA/HHS: cooked meat/fish 3–4 days fridge; 2-hr rule; reheat 165°F; freezer months (high)
+- [[Component Meal Prep Bowls — Make-Ahead Method]] — recipe aggregate: carb+protein+veg+sauce+topper; separate storage → 4–5 days; sauce = variety lever (medium)
+- [[Walder Wellness — Kefir Overnight Oats]] — RD recipe: 1:2 oats:kefir, ≥5h soak, 4–5 day keep (medium)
+- [[Frozen vs Fresh Produce — Healthline]] — frozen retains 90–100% vitamins, often > aged fresh (high)
+- [[Protein Per Meal and Muscle Synthesis — JISSN]] — Schoenfeld & Aragon 2018: ~0.4 g/kg/meal; daily total dominates (high)
+
 ### Family / Helping a Loved One Change
 - [[CRAFT — Advaita Integrated Medicine]] — concrete CRAFT tactics: reward sobriety, withdraw warmth during use, natural consequences, no nagging (high)
 - [[Robert J. Meyers — CRAFT Evidence]] — CRAFT developer; 4 RCTs, ~64% engagement vs ~30% confrontation; family improves even if loved one doesn't (high)
