@@ -163,6 +163,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Grad School / MS EE Programs
 - [[MS EE Programs Power Electronics Semiconductors]] — quick-reference tier list: NC State WBG, VT CPES, UT Austin SSE, Purdue, MIT/Stanford/Berkeley (developing)
+- [[MS EE Return on Investment]] — high ROI: +15–25% pay over BS, 1–2 yrs, $20–70K cost, 3–7 yr payback; raised by employer sponsorship / funded TA-RA / specialization (developing)
+- [[PhD EE Opportunity Cost]] — goal decision not money decision: 4–6 yrs, fully funded but only +$5–25K/yr over MS; may never break even; worth it only for academia/research (developing)
+- [[EE Career Fields by Degree Level]] — BS enters most EE (power/comms/controls/embedded); MS specializes; PhD needed only for research (device physics, photonics, ML hardware, academia) (developing)
 
 ### EE × AI (Electrical Engineering + Artificial Intelligence)
 - [[AI Applications in Electrical Engineering]] — domain map of all 8 EE×AI application areas: EDA/chip design, power electronics, TinyML/edge AI, EV/BMS, signal processing, digital twins, control systems, verification; opportunity matrix by EE track (developing)
