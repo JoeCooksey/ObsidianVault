@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - MS and PhD in Electrical Engineering (Worth It)",
+      "path": "wiki/questions/Research - MS and PhD in Electrical Engineering (Worth It).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Self-Study Textbook List + NotebookLM Prompt",
       "path": "wiki/concepts/Self-Study Textbook List + NotebookLM Prompt.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Research - Meal Prep Playbook for Joe's Core Foods",
       "path": "wiki/questions/Research - Meal Prep Playbook for Joe's Core Foods.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "2026-06-06-ee-daily",
@@ -195,10 +199,6 @@
     {
       "basename": "Ways to Raise Morning Cortisol (Tier List)",
       "path": "wiki/concepts/Ways to Raise Morning Cortisol (Tier List).md"
-    },
-    {
-      "basename": "Cortisol Complete Guide",
-      "path": "wiki/concepts/Cortisol Complete Guide.md"
     }
   ],
   "omittedPaths": [],
