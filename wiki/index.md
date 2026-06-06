@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 06, 2026]] — Renesas d-mode GaN bidirectional switch (APEC 2026, 650V/11mΩ first commercial); NVIDIA Vera CPU full production (OpenAI/Anthropic/SpaceX); QuiX Quantum FFCU 150ns photonic QC; κ-Ga₂O₃ ferroelectricity mechanism; daily topic: D-Mode GaN Bidirectional Switches
 - [[EE Daily — June 05, 2026]] — NVIDIA RTX Spark ARM superchip (1 petaflop) enters PCs; 14-inch SiC wafer commercialization (Tiancheng); photonic chip for AI/quantum; Ga₂O₃ UWBG HEMT advances; daily topic: Ga₂O₃ UWBG power device design
 - [[EE Daily — June 04, 2026]] — NVIDIA RTX Spark ARM superchip enters PC market (1 petaflop, Grace + Blackwell); Broadcom AI chip Q3 forecast misses ($16B vs $17.2B est), chip selloff; Alphabet $84.75B record equity offering; daily topic: Custom AI ASICs architecture and Broadcom/TPU comparison
 - [[EE Daily — June 03, 2026]] — NVIDIA RTX Spark ARM superchip (1 petaflop AI) disrupts PC market at Computex; NVIDIA+TSMC AI-powered fab integration; Microsoft 10,000-year glass storage; daily topic: Valleytronics and room-temperature valley polarization in 2D TMDs

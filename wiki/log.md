@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-06] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- Iran-US military clash and Strait of Hormuz closure; Senate passed $70B immigration enforcement bill; White House AI EO + NVIDIA Vera CPU in full production; daraxonrasib targets KRAS in pancreatic cancer + thymus longevity study; FIFA World Cup 2026 opens June 11.
+
+## [2026-06-06] newsletter | EE Daily — June 06, 2026
+- Top stories: Renesas TP65B110HRU d-mode GaN bidirectional switch (APEC 2026, first commercial); NVIDIA Vera CPU full production; QuiX Quantum FFCU 150ns photonic QC; κ-Ga₂O₃ ferroelectricity mechanism (npj Comp Mater 2026). Daily topic: Depletion-Mode GaN Bidirectional Switches.
+
 ## [2026-06-05] edit | Self-Study Textbook List + NotebookLM Prompt
 - Added "What each subject is actually about" — one-paragraph plain-English overview per subject.
 
