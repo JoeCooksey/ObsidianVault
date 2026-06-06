@@ -713,6 +713,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Post-Study Motivation and Active Recovery]] — 8 key findings; cognitive depletion science; active recovery tier list; guilt reframe; schedule architecture fix; Joe-specific action plan (developing)
 - [[Research - Where to Get Cheap Books]] — full tier list (S=free → D=avoid); Libby, BookBub, ThriftBooks, AbeBooks, BookFinder, Project Gutenberg; Joe-specific sourcing path for his 9-book reading list (complete)
 - [[Research - Top MS EE Programs Physical Side]] — 10 schools ranked; NC State WBG MS, VT CPES, UT Austin SSE; Joe's recommended path to NC State + PowerAmerica pipeline (developing)
+- [[Research - MS and PhD in Electrical Engineering (Worth It)]] — master's = high-ROI play (+15–25% pay, 1–2 yrs, 3–7 yr payback); PhD = goal not money (4–6 yrs, +$5–25K/yr, rarely beats MS financially); worth it only for academia/research; most EE enters at BS; decision table + Joe-specific path (developing)
 - [[Research - College Dating Guide for Young Men]] — all methods ranked S–D; app rankings; the ask formula; baseline stack; mindset principles (complete)
 - [[Research - Building Social Connections at ASU]] — 8 key findings; proximity science; Jeffrey Hall 50–200 hr formula; ASU-specific resources; online student strategy (developing)
 - [[Research - Social Confidence and Climbing the Social Ladder]] — 8 key findings; 12-week week-by-week plan; CBT + exposure hierarchy; conversation techniques; social ladder strategy (developing)
