@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-06] autoresearch | Claude Code /loop Command (usage guide)
+- Rounds: 2 | Searches: 1 | Fetches: 2
+- Sources found: 2 ([[Source - Claude Code Docs Scheduled Tasks]] — primary/high; [[Source - Better Stack Claude Code loop Guide]] — workflow examples/medium, stale on limits)
+- Pages created (5): guide [[Claude Code loop Command]]; system concept [[Claude Code Scheduled Tasks]]; 2 source pages; synthesis [[Research - Claude Code loop Command]]
+- Synthesis: [[Research - Claude Code loop Command]]
+- New index section: **Claude Code / Tooling**
+- Key finding: `/loop [interval] [prompt]` (both optional) has three behaviors — fixed cron schedule, self-paced (Claude picks 1 min–1 hr & can end itself), or bare `/loop` running the maintenance prompt / `loop.md`. Session-scoped, fires between turns while idle, 7-day expiry, stop with `Esc`. For unattended work use Routines/Desktop/GitHub Actions instead. Contradiction: a third-party guide's 3-day expiry & 10% jitter are stale vs the docs' 7-day & 30-min.
+
 ## [2026-06-06] ingest + tier | ERP Peptide Catalog — Worth-It for Joe
 - Source: `.raw/ERP Price list (Jun.30end).pdf` → [[ERP Peptide Price List (Jun 2026)]] (grey-market Chinese vendor, ~80 products)
 - Pages created (2): source [[ERP Peptide Price List (Jun 2026)]]; tier list [[ERP Peptide Catalog — Worth-It Tier for Joe]]
