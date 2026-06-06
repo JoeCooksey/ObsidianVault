@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-06] autoresearch | Meal Prep Playbook for Joe's Core Foods
+- Rounds: 3 | Searches: 8
+- Sources found: 5 ([[FoodSafety.gov — Leftovers and Cold Storage]], [[Component Meal Prep Bowls — Make-Ahead Method]], [[Walder Wellness — Kefir Overnight Oats]], [[Frozen vs Fresh Produce — Healthline]], [[Protein Per Meal and Muscle Synthesis — JISSN]])
+- Pages created (11): synthesis [[Research - Meal Prep Playbook for Joe's Core Foods]]; concepts [[Component Meal Prep Method]], [[Meal Prep Food Safety — Storage Times]], [[Kefir Overnight Oats]], [[Frozen vs Fresh Produce]], [[Protein Per Meal Target]]; + 5 source pages
+- Key finding: Joe's foods are an ideal meal-prep stack → use the **component method** (batch parts, store separately, assemble bowls, rotate sauce). Hard limits: cooked meat/fish 3–4 days fridge (eat fish first), freeze the rest. Frozen fruit retains 90–100% nutrients.
+
 ## [2026-06-06] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 - Iran-US military clash and Strait of Hormuz closure; Senate passed $70B immigration enforcement bill; White House AI EO + NVIDIA Vera CPU in full production; daraxonrasib targets KRAS in pancreatic cancer + thymus longevity study; FIFA World Cup 2026 opens June 11.
 
