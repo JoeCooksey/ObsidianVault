@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-06] autoresearch | MS and PhD in Electrical Engineering (Worth It)
+- Rounds: 3 | Searches: 6 | Fetches: 4 (2× 403)
+- Sources found: 3 ([[Source - Research.com EE Degree Levels and ROI]], [[Source - edX Is a Master's in EE Worth It]], [[Source - EE PhD vs MS Industry Value]])
+- Pages created (7): synthesis [[Research - MS and PhD in Electrical Engineering (Worth It)]]; concepts [[MS EE Return on Investment]], [[PhD EE Opportunity Cost]], [[EE Career Fields by Degree Level]]; + 3 source pages
+- Key finding: A **master's is the high-ROI play** (+15–25% pay, 1–2 yrs, 3–7 yr payback) for almost any EE career. A **PhD is goal-driven, not money-driven** — 4–6 yrs, only +$5K–$25K/yr over an MS, and it may never beat the MS path financially once you count 5 lost-earnings years; worth it only for academia or research-scientist roles (device physics, photonics, ML hardware). Most EE fields enter at the BS.
+
 ## [2026-06-06] autoresearch | Meal Prep Playbook for Joe's Core Foods
 - Rounds: 3 | Searches: 8
 - Sources found: 5 ([[FoodSafety.gov — Leftovers and Cold Storage]], [[Component Meal Prep Bowls — Make-Ahead Method]], [[Walder Wellness — Kefir Overnight Oats]], [[Frozen vs Fresh Produce — Healthline]], [[Protein Per Meal and Muscle Synthesis — JISSN]])
