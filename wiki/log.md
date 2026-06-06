@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-06] autoresearch | Making Money with Claude Code and AI (Tiered)
+- Rounds: 2 | Searches: 6 | Fetches: 2
+- Sources found: 4
+- Pages created: [[AI Money-Making Methods Tier List]], [[Selling Claude Code Services (Freelance, Consulting, Workshops)]], [[AI Automation Agency]], [[How to Make Money with Claude Code — youcanbuildthings 2026]], [[AI Automation Agency Pricing — Arsum 2026]], [[AI Side Hustle Income Data 2026]], [[Make Money with AI 2026 — Reality Check]]
+- Synthesis: [[Research - Making Money with Claude Code and AI (Tiered)]]
+- Key finding: Sell the deliverable/outcome, never the AI — methods AI does at zero marginal cost for everyone collapse in price; durable money = human judgment + distribution with AI as a 10× lever. Ladder: data work → AI-augmented freelancing → productized services/agency → micro-SaaS → audience.
+
 ## [2026-06-06] autoresearch | Claude Code /loop Command (usage guide)
 - Rounds: 2 | Searches: 1 | Fetches: 2
 - Sources found: 2 ([[Source - Claude Code Docs Scheduled Tasks]] — primary/high; [[Source - Better Stack Claude Code loop Guide]] — workflow examples/medium, stale on limits)
