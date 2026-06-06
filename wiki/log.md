@@ -11,6 +11,19 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-06] ingest + tier | ERP Peptide Catalog — Worth-It for Joe
+- Source: `.raw/ERP Price list (Jun.30end).pdf` → [[ERP Peptide Price List (Jun 2026)]] (grey-market Chinese vendor, ~80 products)
+- Pages created (2): source [[ERP Peptide Price List (Jun 2026)]]; tier list [[ERP Peptide Catalog — Worth-It Tier for Joe]]
+- Extends existing [[Peptide Tier List Complete]] to the full vendor catalog (added GLP-1 class, metabolic/fat-loss, mitochondrial, bioregulators, cosmetic blends)
+- Key finding: For Joe (lean 19yo athlete, WADA-relevant) almost nothing on the list is worth it. **Whole GLP-1/fat-loss column (Semaglutide→Lemon Bottle) contraindicated**; **GH-axis column redundant at peak natural GH**; many items WADA-banned (HGH, IGF-1 LR3, TB-500, GLOW/KLOW blends, AOD-9604, MGF, melanotans, myostatin agents); genuinely dangerous D-tier flagged (Adipotide kidney tox, Dermorphin opioid, self-inject Botulinum toxin, FOXO4). Only ~3–4 worth pursuing (GHK-Cu topical, Thymosin Alpha-1, BPC-157, Semax/Selank) — and via a compounding pharmacy, NOT this vendor. Heavy safety/legality caveats throughout.
+
+## [2026-06-06] autoresearch | Health Hacks Leveled 1-100 by Cost & Barrier to Entry
+- Rounds: 2 | Searches: 8 | Fetches: 1
+- Sources found: 3 ([[Bryan Johnson Immortals DIY — Empirical Health]], [[Minimum Lifestyle for Lifespan — Lancet eClinicalMedicine 2025]], [[Longevity Clinic Costs — Fountain Life]])
+- Pages created (5): synthesis [[Research - Health Hacks Leveled 1-100 by Cost]]; concept [[Cost-Barrier Health Hack Ladder]]; + 3 source pages
+- Synthesis: [[Research - Health Hacks Leveled 1-100 by Cost]]
+- Key finding: Built a full 1–100 ladder ordered by cost + barrier to entry across 10 tiers (Lvl 1 free/instant → Lvl 100 frontier $1M+/yr). **Impact and cost are inverted: ~90% of measurable healthspan gains live in Tiers I–V (under ~$2,000/yr)** — lifestyle (free) + core supplements + a wearable + one annual blood panel. Higher tiers buy data and marginal optimization, not foundational health; Tier VIII+ (longevity clinics, peptides, stem cells, gene therapy) is largely experimental/low-confidence. Did not duplicate existing [[Biohacking Tier List]] / [[Supplement Tier List Complete]] — linked to them.
+
 ## [2026-06-06] autoresearch | MS and PhD in Electrical Engineering (Worth It)
 - Rounds: 3 | Searches: 6 | Fetches: 4 (2× 403)
 - Sources found: 3 ([[Source - Research.com EE Degree Levels and ROI]], [[Source - edX Is a Master's in EE Worth It]], [[Source - EE PhD vs MS Industry Value]])

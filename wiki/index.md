@@ -483,12 +483,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions: dose, temp, frequency, timing; sauna, CWI, Zone 2, VO2 max, strength, sleep, TRE, red light, breathwork (developing)
 - [[Supplement Tier List Complete]] — every supplement ranked across 15 categories with doses (developing)
 - [[Peptide Tier List Complete]] — every major peptide ranked S–D by evidence × risk × Joe relevance; synergy map; WADA flags; priority action plan; GHK-Cu S-tier, BPC-157 A-tier, Semax A-tier (developing)
+- [[ERP Peptide Catalog — Worth-It Tier for Joe]] — full ~80-product grey-market vendor catalog ([[ERP Peptide Price List (Jun 2026)]]) tier-ranked S–D for Joe with PDF pricing; covers GLP-1/metabolic, GH-axis, mitochondrial, bioregulators not in the main list; verdict: ~3 items worth it, none from this vendor; GLP-1 column contraindicated for a lean athlete; many WADA-banned (developing)
 - [[Health Biomarkers Complete Panel]] — all blood test biomarkers with optimal longevity ranges and testing cadence (developing)
 - [[Health Metrics Master Tier List (Price, Frequency, Worth-It)]] — **every** trackable health metric (blood, anthropometric, wearable, fitness, imaging) ranked S–D by price × frequency × worth-it; best metrics are nearly free (home BP, waist-to-height, VO2max); whole-body MRI = D-tier (developing)
 - [[Waist-to-Height Ratio]] — cheapest high-value metric; beats BMI; target <0.50; free tape measure (developing)
 - [[Wearable Health Metric Validity]] — what Oura/Whoop/Apple Watch measure well (RHR, HRV trend, total sleep) vs poorly (sleep stages 50–80%) (developing)
 - [[Biohacking Daily Health Hacks]] — 36 simple, proven, free/cheap daily practices with mechanisms (developing)
 - [[Biohacking Health Products Protocol]] — evidence-based products + step-by-step protocols for supplements, skincare, haircare, and oral care (developing)
+- [[Research - Health Hacks Leveled 1-100 by Cost]] — **gamified 1–100 ladder** of health interventions ranked by cost + barrier to entry (Lvl 1 free/instant → Lvl 100 frontier $1M+/yr); 10 tiers; core finding: impact & cost are inverted — ~90% of gains live under ~$2k/yr (developing)
+- [[Cost-Barrier Health Hack Ladder]] — the framework behind the 1–100 list: barrier = money + effort/access + knowledge + medical gatekeeping; 10-tier table; the $2k/yr sweet spot (developing)
 
 ### Compounding / Long-Term Daily Projects
 - [[Project - Digitally Controlled Synchronous Buck Converter]] — **full 7-phase build plan** (≈6 mo @ 1–1.5 hr/day): 12V→5V@3A sync buck; theory→LTSpice→KiCad PCB→bring-up→digital compensator (STM32G4 HRTIM, design-by-emulation)→closed-loop validation (loop-gain Bode/SFRA, transient, efficiency, DPT)→publish; STM32G4 vs TI C2000 platform decision; BOM + budget + safety + daily-work structure (developing)
