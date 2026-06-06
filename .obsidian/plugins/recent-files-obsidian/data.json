@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Self-Study Textbook List + NotebookLM Prompt",
+      "path": "wiki/concepts/Self-Study Textbook List + NotebookLM Prompt.md"
+    },
+    {
+      "basename": "Claude Code loop Command",
+      "path": "wiki/concepts/Claude Code loop Command.md"
+    },
+    {
+      "basename": "Research - Claude Code loop Command",
+      "path": "wiki/questions/Research - Claude Code loop Command.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "ERP Peptide Catalog — Worth-It Tier for Joe",
       "path": "wiki/concepts/ERP Peptide Catalog — Worth-It Tier for Joe.md"
     },
     {
       "basename": "Peptide Tier List Complete",
       "path": "wiki/concepts/Peptide Tier List Complete.md"
-    },
-    {
-      "basename": "Self-Study Textbook List + NotebookLM Prompt",
-      "path": "wiki/concepts/Self-Study Textbook List + NotebookLM Prompt.md"
     },
     {
       "basename": "Research - Health Hacks Leveled 1-100 by Cost",
@@ -23,10 +35,6 @@
     {
       "basename": "Research - MS and PhD in Electrical Engineering (Worth It)",
       "path": "wiki/questions/Research - MS and PhD in Electrical Engineering (Worth It).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Kefir Overnight Oats",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-06-01-ee-daily",
       "path": "wiki/newsletters/2026-06-01-ee-daily.md"
-    },
-    {
-      "basename": "Myworkout — The Norwegian 4x4 Protocol",
-      "path": "wiki/sources/Myworkout — The Norwegian 4x4 Protocol.md"
-    },
-    {
-      "basename": "4x4 Intervals for Rowing",
-      "path": "wiki/concepts/4x4 Intervals for Rowing.md"
     }
   ],
   "omittedPaths": [],
