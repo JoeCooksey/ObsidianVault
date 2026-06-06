@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-06-06-ee-daily",
-      "path": "wiki/newsletters/2026-06-06-ee-daily.md"
-    },
-    {
       "basename": "Self-Study Textbook List + NotebookLM Prompt",
       "path": "wiki/concepts/Self-Study Textbook List + NotebookLM Prompt.md"
+    },
+    {
+      "basename": "Kefir Overnight Oats",
+      "path": "wiki/concepts/Kefir Overnight Oats.md"
+    },
+    {
+      "basename": "Research - Meal Prep Playbook for Joe's Core Foods",
+      "path": "wiki/questions/Research - Meal Prep Playbook for Joe's Core Foods.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "2026-06-06-ee-daily",
+      "path": "wiki/newsletters/2026-06-06-ee-daily.md"
     },
     {
       "basename": "Most Self-Teachable High-Value Skills (Tier List for Joe)",
@@ -15,10 +27,6 @@
     {
       "basename": "Metalearning (Drawing the Map)",
       "path": "wiki/concepts/Metalearning (Drawing the Map).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Milk Kefir Making — Step-by-Step Guide",
@@ -191,14 +199,6 @@
     {
       "basename": "Cortisol Complete Guide",
       "path": "wiki/concepts/Cortisol Complete Guide.md"
-    },
-    {
-      "basename": "Sapiens - Yuval Noah Harari",
-      "path": "wiki/books/Sapiens - Yuval Noah Harari.md"
-    },
-    {
-      "basename": "Talk Depletes Us",
-      "path": "wiki/concepts/Talk Depletes Us.md"
     }
   ],
   "omittedPaths": [],
