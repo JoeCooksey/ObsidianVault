@@ -1,13 +1,16 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-05T00:00:00
+updated: 2026-06-06T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
+2026-06-06 — Autoresearch: **Meal Prep Playbook for Joe's Core Foods** — Joe asked (via /autoresearch) for meal-prep ideas using his staples: overnight-oats-with-kefir, ground beef, rice, sweet potato, potato, mixed veg, nuts/seeds, eggs, salmon, cheap white fish, and mostly-frozen fruit. The vault already had deep food content ([[Food Health Tier List — Overall]], soup guides, kefir-making) but **no meal-prep methodology** — so this filled that gap. **Core thesis: don't cook 15 finished meals — use the [[Component Meal Prep Method]]** (batch 2–3 proteins + 2 starches + 1 tray veg on one ~90-min prep day, store the parts *separately*, assemble bowls in <5 min, and **rotate the sauce** to defeat monotony). Hard schedule-driver = [[Meal Prep Food Safety — Storage Times]]: cooked meat/fish **3–4 days** fridge (eat the perishable **fish first, days 1–2**), then **freeze the rest** (beef 3–4 mo, fish 2–3 mo, freeze flat); 2-hr rule, reheat 165°F, reheat salmon low+covered+splash water. Breakfast solved by [[Kefir Overnight Oats]] (½ cup oats : 1 cup kefir = 1:2, soak ≥5h, keeps 4–5 days). [[Frozen vs Fresh Produce]] = frozen retains **90–100% of vitamins, often beats aged fresh** → Joe's frozen fruit is a strength. [[Protein Per Meal Target]] ≈30–40 g/meal for max MPS, but daily total matters more. Deliverable [[Research - Meal Prep Playbook for Joe's Core Foods]] includes an 8-bowl mix-and-match menu (Tex-Mex/Korean beef, Mediterranean/sweet-potato salmon, "meat & potatoes" white fish, fish-taco, breakfast hash) + sauce shortlist. (3 rounds, 8 searches, 11 pages: 5 concepts, 5 sources, 1 synthesis.)
+
+## Previously
 2026-06-05 — Saved [[Most Self-Teachable High-Value Skills (Tier List for Joe)]] — follow-up to the learning-science research below: Joe asked what top things he should self-teach. Key reframe: **the learning science is a SELECTION FILTER, not just a study method** — the best self-teaching targets have (1) a built-in feedback loop (so no human coach needed), (2) free world-class resources, (3) clean deconstruction. Skills *without* a feedback loop (public speaking, design taste, leadership) are bad pure-self-teaching targets. Applied to Joe → **S-tier:** math foundations (linear algebra→calc→diffeq), programming depth (Python→C/C++), AI/ML + context engineering; **A-tier:** LTSpice, Verilog/FPGA (HDLBits auto-grades), investing; **B:** typing/Git/Linux fast wins, Physical AI (sim-first). **One-line answer: self-teach MATH first** — only item that fills the empty Math domain, double-dips with the EE degree, AND underpins both AI and quant. Protocol = map → Anki facts / Feynman concepts / closed-book problems → interleave → compound daily. Applies the method from the research below to the priorities in [[Research - Most Useful Topics to Learn Now (for Joe)]].
 
 ## Previously
