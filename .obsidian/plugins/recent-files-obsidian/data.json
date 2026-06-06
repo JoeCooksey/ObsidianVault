@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Project - Digitally Controlled Synchronous Buck Converter",
+      "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
+    },
+    {
+      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
+      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
+    },
+    {
+      "basename": "Buck Project — Phases 2-3 Playbook (Power Stage and PCB)",
+      "path": "wiki/concepts/Buck Project — Phases 2-3 Playbook (Power Stage and PCB).md"
+    },
+    {
       "basename": "AI Money-Making Methods Tier List",
       "path": "wiki/concepts/AI Money-Making Methods Tier List.md"
     },
@@ -85,10 +97,6 @@
       "path": "wiki/questions/Jiu-Jitsu Gyms — Livermore and Tempe.md"
     },
     {
-      "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
-      "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
-    },
-    {
       "basename": "Physical AI Build Guide (Roadmap for Joe)",
       "path": "wiki/concepts/Physical AI Build Guide (Roadmap for Joe).md"
     },
@@ -107,10 +115,6 @@
     {
       "basename": "Book View",
       "path": "wiki/Book View.base"
-    },
-    {
-      "basename": "Project - Digitally Controlled Synchronous Buck Converter",
-      "path": "wiki/concepts/Project - Digitally Controlled Synchronous Buck Converter.md"
     },
     {
       "basename": "Research - Talking to Dad About Drinking, Health, and Connection",
@@ -195,10 +199,6 @@
     {
       "basename": "How to Take Smart Notes - Sonke Ahrens",
       "path": "wiki/sources/How to Take Smart Notes - Sonke Ahrens.md"
-    },
-    {
-      "basename": "Book Note-Taking System",
-      "path": "wiki/concepts/Book Note-Taking System.md"
     }
   ],
   "omittedPaths": [],
