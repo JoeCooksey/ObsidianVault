@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-07] newsletter | EE Daily — June 07, 2026
+- Top stories: ASML raises 2026 guidance to €36–40B (60 High-NA EUV machines, analyst PT raises from BoA/Barclays/JPMorgan); EPFL chip-scale femtosecond laser matching tabletop performance; China naval operation east of Taiwan (Japan-Philippines maritime talks trigger PLA response). Daily topic: Zinc-Bromine Flow Batteries — electrochemical fundamentals, bromine complexation, RTE calculation.
+
+## [2026-06-07] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- China naval operation east of Taiwan; Toledo OH festival shooting (12 wounded, suspects at large); Apple WWDC 2026 (Google Gemini 1.2T powers rebuilt Siri, Tim Cook final keynote); PEPFAR funding cuts endangering HIV patients in South Africa/Mozambique; Iran-US military clash at Strait of Hormuz (Day 100, US strikes Iranian radar sites after drone launch).
+
 ## [2026-06-06] autoresearch | Making Money with Claude Code and AI (Tiered)
 - Rounds: 2 | Searches: 6 | Fetches: 2
 - Sources found: 4

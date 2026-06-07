@@ -59,9 +59,9 @@
       "answer": "'After I [CURRENT HABIT], I will [NEW HABIT].' You borrow the neural trigger of an existing habit to launch a new one. Example: 'After I pour my morning coffee, I will write in my journal for one minute.' The existing habit provides the cue automatically.",
       "box": 1,
       "interval": 1,
-      "next_review": "2026-05-31",
-      "last_reviewed": null,
-      "repetitions": 0
+      "next_review": "2026-06-07",
+      "last_reviewed": "2026-06-06",
+      "repetitions": 1
     },
     {
       "id": "ah_007",
