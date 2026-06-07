@@ -327,6 +327,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[The Expectations Treadmill]] — happiness = results − expectations; managing expectations beats raising income
 - [[Independence as the Dividend]] — the highest-return purchase is autonomy, not stuff
 
+### Life Stage / Personal Development
+- [[Research - Things to Normalize Before Turning 25]] — **synthesis**: a long categorized "normalize this" list for the twenties (Money / Health & Body / Mind & Emotions / Relationships / Career / Self); time compounds + responsibilities lowest = highest-leverage decade; "25" is a motivational marker, not biology (developing)
+- [[Brain Matures at 25 Myth]] — the pop "brain fully develops at 25" claim is oversimplified; PFC keeps maturing into the 20s–30s with no birthday switch; structure ≠ behavior (developing)
+
 ### Health / Fitness / Cycling
 - [[Training Periodization]] — macrocycle/mesocycle/microcycle; 5-phase annual cycling arc (developing)
 - [[Polarized Training]] — Seiler 80/20: 80% Zone 1, ~20% Zone 3, avoid grey zone (developing)
