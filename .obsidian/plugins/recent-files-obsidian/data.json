@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dash Stirring Popcorn Maker — Guide and Recipes",
+      "path": "wiki/concepts/Dash Stirring Popcorn Maker — Guide and Recipes.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Food Health Tier List — Macronutrients",
       "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Research - Things to Normalize Before Turning 25",
       "path": "wiki/questions/Research - Things to Normalize Before Turning 25.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
@@ -195,10 +199,6 @@
     {
       "basename": "Health Metrics Master Tier List (Price, Frequency, Worth-It)",
       "path": "wiki/concepts/Health Metrics Master Tier List (Price, Frequency, Worth-It).md"
-    },
-    {
-      "basename": "Book Reflection Questions",
-      "path": "wiki/concepts/Book Reflection Questions.md"
     }
   ],
   "omittedPaths": [],
