@@ -32,7 +32,7 @@ sources:
 A long, categorized list of mindsets, habits, and behaviors worth treating as *normal* (default, unremarkable, guilt-free) before 25. The twenties are the highest-leverage decade: time compounds (money, skills, relationships, health), responsibilities are lowest, and the cost of mistakes is small (Source: [[Things to Normalize Before 25 — Life Lessons]]). The list pulls from financial planning, health science, psychology, and career research, and is cross-linked to the deeper wiki pages that operationalize each item.
 
 > [!note] On the "25" framing
-> The number 25 is a useful Schelling point, not a biological deadline. The popular "brain finishes at 25" claim is oversimplified — maturity is a gradual process with no switch that flips on your birthday (Source: [[McGill OSS — Is 25 Really the Magic Number]]). See [[Brain Matters at 25 Myth|Brain Matures at 25 Myth]]. Read the list as "build these defaults early," not "you fail at 25."
+> The number 25 is a useful Schelling point, not a biological deadline. The popular "brain finishes at 25" claim is oversimplified — maturity is a gradual process with no switch that flips on your birthday (Source: [[McGill OSS — Is 25 Really the Magic Number]]). See [[Brain Matures at 25 Myth]]. Read the list as "build these defaults early," not "you fail at 25."
 
 ## Key Findings
 
