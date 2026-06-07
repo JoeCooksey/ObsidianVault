@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-07] autoresearch | Things to Normalize Before Turning 25
+- Rounds: 2 | Searches: 6 | Fetches: 2 | Pages created: 8
+- Synthesis: [[Research - Things to Normalize Before Turning 25]] (a long, categorized "normalize this" list: Money / Health & Body / Mind & Emotions / Relationships & Boundaries / Career & Skills / Self & Identity)
+- Concept: [[Brain Matures at 25 Myth]] (corrects the pop-science "brain fully develops at 25")
+- Sources: [[Stanford Medicine — Five Healthy Habits for Your 20s and 30s]], [[McGill OSS — Is 25 Really the Magic Number]], [[Compound Interest Starting Early]], [[Things to Normalize Before 25 — Life Lessons]], [[Career Advice for Your 20s]], [[Emotional Maturity in Your 20s]]
+- Heavily cross-linked to existing wiki clusters (habits, emotional agility, Let Them, finance, 4x4 HIIT, testosterone) rather than duplicating them
+- Key finding: the twenties are the highest-leverage decade because time compounds (money, skills, health, relationships) and responsibilities are lowest; "before 25" is a motivational Schelling point, NOT a biological deadline — the brain-matures-at-25 claim is oversimplified
+- Highest-ROI items (hardest to make up later): invest early + strength/sleep
+
 ## [2026-06-07] newsletter | EE Daily — June 07, 2026
 - Top stories: ASML raises 2026 guidance to €36–40B (60 High-NA EUV machines, analyst PT raises from BoA/Barclays/JPMorgan); EPFL chip-scale femtosecond laser matching tabletop performance; China naval operation east of Taiwan (Japan-Philippines maritime talks trigger PLA response). Daily topic: Zinc-Bromine Flow Batteries — electrochemical fundamentals, bromine complexation, RTE calculation.
 
