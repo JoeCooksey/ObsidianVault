@@ -343,6 +343,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
 
 ### Hobbies / Lifestyle
+- [[Dash Stirring Popcorn Maker — Guide and Recipes]] — how to get the best popcorn from the Dash SmartStore oil stirring popper: base method + ratios (1 tbsp oil per ¼ cup kernels), 7 tips, and 10 recipes (movie butter, kettle corn, caramel, cheddar, chili-lime, etc.) (complete)
 - [[Jiu-Jitsu Gyms — Livermore and Tempe]] — top BJJ academies in both home bases; Livermore (Darcio Lira, Charles Gracie) + Tempe/ASU (Gustavo Dantas, Dark Matter); free-trial playbook + pricing (reference)
 
 ### Health / Personal
