@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-07] save | Dash Stirring Popcorn Maker — Guide and Recipes
+- Type: concept (how-to/reference)
+- Location: wiki/concepts/Dash Stirring Popcorn Maker — Guide and Recipes.md
+- From: conversation on how to make the best popcorn with the Dash SmartStore Stirring Popcorn Maker (oil stirring popper); base method, ratios, 7 tips, 10 recipes
+- Indexed under: Hobbies / Lifestyle
+
 ## [2026-06-07] autoresearch | Things to Normalize Before Turning 25
 - Rounds: 2 | Searches: 6 | Fetches: 2 | Pages created: 8
 - Synthesis: [[Research - Things to Normalize Before Turning 25]] (a long, categorized "normalize this" list: Money / Health & Body / Mind & Emotions / Relationships & Boundaries / Career & Skills / Self & Identity)
