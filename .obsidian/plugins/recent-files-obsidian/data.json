@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Food Health Tier List — Macronutrients",
+      "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
+    },
+    {
+      "basename": "2026-06-07-ee-daily",
+      "path": "wiki/newsletters/2026-06-07-ee-daily.md"
+    },
+    {
+      "basename": "Buck Converter BOM (Order-Ready 2026)",
+      "path": "wiki/concepts/Buck Converter BOM (Order-Ready 2026).md"
+    },
+    {
+      "basename": "Research - Things to Normalize Before Turning 25",
+      "path": "wiki/questions/Research - Things to Normalize Before Turning 25.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Buck Project — Phases 0-1 Playbook (Theory and Simulation)",
       "path": "wiki/concepts/Buck Project — Phases 0-1 Playbook (Theory and Simulation).md"
     },
@@ -23,10 +43,6 @@
     {
       "basename": "Research - Making Money with Claude Code and AI (Tiered)",
       "path": "wiki/questions/Research - Making Money with Claude Code and AI (Tiered).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "AI Automation Agency",
@@ -109,10 +125,6 @@
       "path": "wiki/books/Ego Is the Enemy - Ryan Holiday.md"
     },
     {
-      "basename": "Buck Converter BOM (Order-Ready 2026)",
-      "path": "wiki/concepts/Buck Converter BOM (Order-Ready 2026).md"
-    },
-    {
       "basename": "Book View",
       "path": "wiki/Book View.base"
     },
@@ -157,10 +169,6 @@
       "path": "wiki/concepts/Food Health Tier List — Overall.md"
     },
     {
-      "basename": "Food Health Tier List — Macronutrients",
-      "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
-    },
-    {
       "basename": "2026-06-02-ee-daily",
       "path": "wiki/newsletters/2026-06-02-ee-daily.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Book Reflection Questions",
       "path": "wiki/concepts/Book Reflection Questions.md"
-    },
-    {
-      "basename": "From Highlights to Permanent Notes",
-      "path": "wiki/concepts/From Highlights to Permanent Notes.md"
-    },
-    {
-      "basename": "How to Take Smart Notes - Sonke Ahrens",
-      "path": "wiki/sources/How to Take Smart Notes - Sonke Ahrens.md"
     }
   ],
   "omittedPaths": [],
