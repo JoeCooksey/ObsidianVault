@@ -78,6 +78,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Anders Ericsson]] — psychologist (1947–2020); originated **deliberate practice**; *Peak* (2016); debunked the 10,000-hour rule
 - [[Scott Young]] — *Ultralearning* (2019); 9 principles; the MIT Challenge (4-yr CS degree in ~1 yr) + Year Without English
 - [[Barbara Oakley]] — engineering prof; co-created *Learning How to Learn* (biggest MOOC ever); focused/diffuse mode, chunking; *A Mind for Numbers*
+- [[NotebookLM]] — Google Labs source-grounded AI study assistant; answers cited from YOUR uploaded sources; flashcards/quizzes/Socratic Learning Guide/audio overviews; the "AI second" engine for reading
 
 ## Concepts
 
