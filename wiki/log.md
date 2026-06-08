@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] autoresearch | AI-Augmented Book Reading and Chapter Summaries
+- Rounds: 1 | Searches: 4 | Sources fetched: 3
+- Pages created: [[Research - AI-Augmented Book Reading and Chapter Summaries]] (synthesis), [[AI-Augmented Reading Workflow]], [[Cognitive Offloading (Learning Risk)]], [[Generation Effect (Handwriting)]], [[NotebookLM Study Workflow]], [[NotebookLM]] (entity), [[Gerlich 2025 — AI Cognitive Offloading and Critical Thinking]], [[Pen Is Mightier Than the Keyboard — Mueller and Oppenheimer]], [[NotebookLM Student Features — Google]], [[Feynman Technique 2.0 with AI — Bananote]]
+- Linked to existing: [[Book Note-Taking System]], [[From Highlights to Permanent Notes]], [[Reading Retention Methods]], [[The Feynman Technique]], [[Active Recall (Retrieval Practice)]], [[Spaced Repetition]], [[Desirable Difficulties]], [[Self-Study Textbook List + NotebookLM Prompt]]
+- Key finding: Iron rule = **pen first, AI second**. Hand-summarizing each chapter from memory IS the learning (generation effect); AI used BEFORE that offloads the thinking and erodes comprehension (Gerlich 2025; worst for 17–25). Use AI only after, as checker / Feynman sparring partner / quiz generator / connector — NotebookLM (source-grounded, cited) for a specific book.
+
 ## [2026-06-08] autoresearch | Daily Habits Every Man Should Adopt
 - Rounds: 2 | Searches: 8 | Sources fetched: 5
 - Pages created: [[Research - Daily Habits Every Man Should Adopt]] (synthesis), [[Multi-Level Review Cadence]], [[Daily Spiritual Disciplines]], [[Diet, Sleep and Exercise — Keystones of a Healthy Lifestyle]], [[Gottman — Small Things Often]]
