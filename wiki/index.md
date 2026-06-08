@@ -675,6 +675,10 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Learning Science
 - [[Dunlosky 2013 — Improving Students' Learning]] — meta-analysis ranking 10 study techniques; practice testing + distributed practice = high utility; rereading/highlighting = low (high)
 - [[Make It Stick (Brown, Roediger, McDaniel)]] — 2014; the definitive popular synthesis; retrieval + spacing + interleaving + elaboration as desirable difficulties (high)
+- [[Gerlich 2025 — AI Cognitive Offloading and Critical Thinking]] — *Societies*, Jan 2025, n=666; frequent AI use ↔ weaker critical thinking, mediated by offloading; 17–25 most at risk; education buffers (high)
+- [[Pen Is Mightier Than the Keyboard — Mueller and Oppenheimer]] — 2014 + SciAm 2024; longhand note-takers beat typists on conceptual questions; slow handwriting forces paraphrase = generation effect (high)
+- [[NotebookLM Student Features — Google]] — Google Labs; source-grounded answers w/ citations + flashcards/quizzes/Socratic Learning Guide/audio overviews (medium, vendor)
+- [[Feynman Technique 2.0 with AI — Bananote]] — AI as Socratic critic that probes knowledge gaps; concrete prompts; self-explanation 89% better problem-solving (Chi 1994) (medium)
 
 ### AI / LLM
 - [[Survey - Low-bit LLMs 2024]] — arXiv 2409.16694, comprehensive quantization survey
