@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught)",
+      "path": "wiki/questions/Research - Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught).md"
+    },
+    {
+      "basename": "Macronutrient Sourcing Guide (What to Buy)",
+      "path": "wiki/concepts/Macronutrient Sourcing Guide (What to Buy).md"
+    },
+    {
+      "basename": "EWG Shopper's Guide to Pesticides in Produce (2025)",
+      "path": "wiki/sources/EWG Shopper's Guide to Pesticides in Produce (2025).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Contradict My Summary — AI Reading Prompt",
       "path": "wiki/concepts/Contradict My Summary — AI Reading Prompt.md"
     },
     {
       "basename": "Research - AI-Augmented Book Reading and Chapter Summaries",
       "path": "wiki/questions/Research - AI-Augmented Book Reading and Chapter Summaries.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Daily Habits Every Man Should Adopt",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-06-02-ee-daily",
       "path": "wiki/newsletters/2026-06-02-ee-daily.md"
-    },
-    {
-      "basename": "Research - Healthy Ways to Manage Sexual Arousal",
-      "path": "wiki/questions/Research - Healthy Ways to Manage Sexual Arousal.md"
-    },
-    {
-      "basename": "Psychology Today — 7 Healthy Ways to Improve Sexual Desire",
-      "path": "wiki/sources/Psychology Today — 7 Healthy Ways to Improve Sexual Desire.md"
-    },
-    {
-      "basename": "The Art of Spending Money - Morgan Housel",
-      "path": "wiki/books/The Art of Spending Money - Morgan Housel.md"
     }
   ],
   "omittedPaths": [],
