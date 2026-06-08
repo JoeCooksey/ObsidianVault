@@ -504,6 +504,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Food Health Tier List — Grains]] — GI values; beta-glucan in oats/barley; whole vs. refined impact (developing)
 - [[Food Health Tier List — Dairy]] — fermentation hierarchy; kefir 61 probiotic strains vs. yogurt 7; full-fat debate (developing)
 
+### Food Sourcing (Organic, Grass-Fed, Wild-Caught)
+- [[Research - Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught)]] — **master synthesis**: when the organic/grass-fed/pasture/wild premium is worth it; 3 levers that matter (Dirty Dozen organic, pasture eggs+small wild fish, real EVOO); carb/protein/fat shopping list; CGM self-test (developing)
+- [[Organic vs Conventional — Worth-It Decision]] — buy Dirty Dozen organic, Clean Fifteen conventional; organic = ~30% less pesticide + lower cadmium, NOT more nutritious/healthier; full 2025 lists (developing)
+- [[Animal Product Sourcing (Grass-Fed, Pasture-Raised, Wild-Caught)]] — worth-it ranking of animal labels: pasture eggs + small wild fish = best ROI; grass-fed beef marginal; "Certified Humane" beats the adjective; egg/fish label decoder (developing)
+- [[Macronutrient Sourcing Guide (What to Buy)]] — the cart-level shopping list by macro (carb/protein/fat) with the one sourcing upgrade that matters for each; get omega-3 from fish not beef; buy real EVOO (developing)
+- [[CGM Self-Testing for Food Response]] — "test yourself" answer: 2–4 wk CGM reveals which carbs spike YOU; glycemic response is personal; IgG panels not validated, use elimination diet; optimization not medicine (developing)
+
 ### Biohacking / Optimization
 - [[Biohacking Tier List]] — S–D ranking across 10 categories: sleep, exercise, temperature, light, fasting, stress, wearables, cognitive, longevity, gut (developing)
 - [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions: dose, temp, frequency, timing; sauna, CWI, Zone 2, VO2 max, strength, sleep, TRE, red light, breathwork (developing)
