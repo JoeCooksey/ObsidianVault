@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] autoresearch | Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught)
+- Rounds: 2
+- Sources found: 5 (EWG 2025, Stanford 2012 + Newcastle 2014 meta-analyses, grass-fed beef review, egg/fish labels, CGM studies)
+- Pages created: [[Research - Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught)]], [[Organic vs Conventional — Worth-It Decision]], [[Animal Product Sourcing (Grass-Fed, Pasture-Raised, Wild-Caught)]], [[Macronutrient Sourcing Guide (What to Buy)]], [[CGM Self-Testing for Food Response]], + 5 source pages
+- Synthesis: [[Research - Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught)]]
+- Key finding: most sourcing premiums buy reduced exposure/welfare, not "more nutritious" food — 3 levers worth paying for: Dirty Dozen organic, pasture eggs + small wild fish, real EVOO; everything else is marginal.
+
 ## [2026-06-08] save | Contradict My Summary — AI Reading Prompt
 - Companion to the autoresearch run below: reusable copy-paste prompt that turns AI into a blunt skeptic checking a hand-written chapter summary (contradict / what-I-missed / where-I'm-vague / steel-man / 3 questions, then stop) + variants for books the AI may not know and live Feynman mode.
 - Page created: [[Contradict My Summary — AI Reading Prompt]]
