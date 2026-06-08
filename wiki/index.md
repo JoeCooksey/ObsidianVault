@@ -477,6 +477,11 @@ Master catalog of all wiki pages. Update on every ingest.
 ### Diet Science / Nutrition Research
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — 9-claim evidence review: oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) + vegetables (oxalates, isothiocyanates, polyphenols, phytosterols); 2 of 9 claims hold; scorecard included (complete)
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
+- [[Research - Whole Foods Diet vs Supplement-Only Diet]] — **synthesis**: food beats pills on every axis + a supplement-only diet is impossible (no calories/protein/fiber); nutrients from FOOD predict lower mortality, supplements don't; multivitamins extend nothing in healthy adults (NCI/JAMA 2024); isolated megadoses can harm (β-carotene/calcium); supplements = gap tools only (developing)
+- [[Food Matrix Effect]] — why source matters: nutrient + fiber/fat/enzyme/phytochemical context ≠ isolated molecule; matrix both helps (iron+vit C) and hinders (oxalates) absorption; "sum of parts ≠ the whole" (developing)
+- [[Supplement-Only Diet Feasibility]] — you cannot live on pills (no calories/macros/fiber/satiety); real comparison is whole food vs engineered meal-replacement, food still wins long-term (developing)
+- [[When Supplements Are Justified]] — the legitimate gap-filling indications: pregnancy (folate), vegan (B12/omega-3), elderly + low-sun (D/B12), lab-confirmed deficiency; supplements treat deficiency, don't buy extra health (developing)
+- [[High-Dose Isolated Supplement Harms]] — the safety-ceiling argument: β-carotene (ATBC +18%, CARET +46% deaths in smokers), vitamin E >RDA, calcium ≥1000mg/day → cancer death; whole food self-limits, pills don't (developing)
 
 ### Cooking / Practical Food
 - [[Vegetable Soup Guide]] — flexible one-pot soup built on celery/broccoli/carrot/onion/bell pepper/spring mix/sweet potato/brussels sprout; layer-by-cook-time staging table; 4 spice blends (herb, minestrone, curry, southwest); legume + grain + veg add-ins; ~50 min (stable)
