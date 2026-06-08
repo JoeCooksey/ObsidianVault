@@ -152,6 +152,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Rapid Skill Acquisition (First 20 Hours)]] — Kaufman: zero→competent in ~20 focused hours; deconstruct, self-correct, remove barriers, commit (developing)
 - [[Metalearning (Drawing the Map)]] — Ultralearning #1: spend ~10% planning Concepts/Facts/Procedures + best resources before grinding (developing)
 - [[Focused vs Diffuse Mode]] — Oakley: alternate concentrated focus and relaxed background processing; "sleep on it" is real; chunking (developing)
+- [[AI-Augmented Reading Workflow]] — **how to use AI to deepen book understanding without losing it**: iron rule = pen first, AI second; per-chapter loop (read→hand-summarize→Check/Teach-back/Quiz/Connect); what AI is and isn't for (developing)
+- [[Cognitive Offloading (Learning Risk)]] — the central AI-study danger: delegating the *thinking* (not just memory) erodes comprehension & critical thinking; worst for 17–25; the "do hard work first" rule defuses it (developing)
+- [[Generation Effect (Handwriting)]] — you remember what you produce; handwriting is slow → forces select+paraphrase → deep processing; this is why the handwritten chapter summary is the part to protect from AI (developing)
+- [[NotebookLM Study Workflow]] — running a book through NotebookLM chapter by chapter (source-grounded, cited): verify-don't-generate, quiz, Socratic Learning-Guide teach-back, audio review; guardrails against offloading (developing)
 
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
