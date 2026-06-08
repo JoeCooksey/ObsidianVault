@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] autoresearch | Daily Habits Every Man Should Adopt
+- Rounds: 2 | Searches: 8 | Sources fetched: 5
+- Pages created: [[Research - Daily Habits Every Man Should Adopt]] (synthesis), [[Multi-Level Review Cadence]], [[Daily Spiritual Disciplines]], [[Diet, Sleep and Exercise — Keystones of a Healthy Lifestyle]], [[Gottman — Small Things Often]]
+- Linked to existing: [[Four Laws of Behavior Change]], [[Habit Stacking]], [[Identity-Based vs Goal-Based Habits]], [[Linchpin Habits]], [[The 3 Pillars of Friendship]], [[Financial Order of Operations]], [[James Clear]]
+- Key finding: highest-ROI habits are nearly free; "small things often" + 1% better daily; pick ONE keystone habit per domain (health/education/smartness/relationships/finance/faith), then review on a daily→weekly→quarterly→yearly cadence.
+
 ## [2026-06-08] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 - Philippines M7.8 earthquake + 1m tsunami (32 dead, 200+ injured); Terafab SpaceX/Tesla/Intel $55–119B Texas fab filing + ASML CEO confirms talks; Apple WWDC 2026 — Tim Cook's final keynote, Siri rebuilt on Google Gemini 1.2T, iOS 27, Claude as native iPhone option; Eli Lilly Phase 3 ADA data — retatrutide triple agonist obesity + Foundayo oral GLP-1 beats semaglutide; Xi Jinping arrives in Pyongyang — first state visit in 7 years.
 

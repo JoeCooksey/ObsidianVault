@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-07T00:00:00
+updated: 2026-06-08T00:00:00
 tags:
   - meta
 ---
@@ -285,6 +285,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Temptation Bundling]] — pair WANT + NEED; anticipatory dopamine makes necessary habits attractive (developing)
 - [[Goldilocks Rule]] — peak motivation at edge of current ability; boredom (not failure) is primary long-run enemy (developing)
 - [[Commitment Device]] — present choice locks in future behavior; Ulysses contract; one-time actions; automation (developing)
+- [[Multi-Level Review Cadence]] — nested reflection loop: daily (5 min) → weekly (20 min) → quarterly (1–2 hr) → yearly; catches drift each lower level can't see (stable)
+- [[Daily Spiritual Disciplines]] — faith-domain habit set: Scripture, prayer (5 modes), gratitude, solitude; 7-day on-ramp (stable)
 
 ### Stoicism / Ego (Ego Is the Enemy)
 - [[Stoicism]] · [[Dichotomy of Control]] — focus only on what's up to you; the philosophical base of Ego and Let Them
@@ -579,6 +581,10 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Habits / Lifestyle
+- [[Diet, Sleep and Exercise — Keystones of a Healthy Lifestyle]] — PMC 2022; sleep/diet/exercise are interdependent pillars; ≥30 min/day, 7–9h sleep, whole food (medium)
+- [[Gottman — Small Things Often]] — Gottman Institute; daily micro-connection beats grand gestures; turn toward bids; six-second kiss (high)
+
 ### Meal Prep / Food Safety
 - [[FoodSafety.gov — Leftovers and Cold Storage]] — USDA/HHS: cooked meat/fish 3–4 days fridge; 2-hr rule; reheat 165°F; freezer months (high)
 - [[Component Meal Prep Bowls — Make-Ahead Method]] — recipe aggregate: carb+protein+veg+sauce+topper; separate storage → 4–5 days; sauce = variety lever (medium)
@@ -733,6 +739,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Daily Habits Every Man Should Adopt]] — **master synthesis**: best daily habits across 6 domains (health/fitness, education, smartness, relationships, financial, faith) + weekly/quarterly/yearly cadence; "small things often" + 1% better; pick one keystone per domain (developing)
 - [[Research: How to Learn Anything (The Science of Learning)]] — **master synthesis**: the full evidence-based guide to learning anything; memory engine (retrieval+spacing+interleaving) + skill engine (deliberate practice + 20 hours); 5-phase protocol; "feels-harder = learns-better"; 10,000-hour myth debunked (developing)
 - [[Supporting Dad Through Early Sobriety and Depression]] — synthesis: he took a break from drinking and seems depressed — that's expected (PAWS + anhedonia, brain recovering); next ~4 wks are diagnostic (alcohol-induced vs independent depression); ⚠️ elevated suicide risk → 988/SAMHSA; reinforce sobriety warmly, listen don't lecture, walk together, encourage a doctor (developing)
 - [[Research - Talking to Dad About Drinking, Health, and Connection]] — synthesis: telling him to stop is *why* he won't (reactance); use CRAFT + motivational interviewing; stop the mom-and-I "ganging up" coalition; connect on his turf first; change your response, not him (developing)

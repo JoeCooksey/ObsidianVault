@@ -1,13 +1,16 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-06T00:00:00
+updated: 2026-06-08T00:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
+2026-06-08 — Autoresearch: **Daily Habits Every Man Should Adopt** — Joe asked (via /autoresearch) for the best daily habits across 6 domains (health/fitness, education, general smartness, relationships, financial, faith), then weekly/quarterly/yearly habits built on them. The vault already had a rich habit-science base ([[Four Laws of Behavior Change]], [[Habit Stacking]], [[Habit Loop]], [[Identity-Based vs Goal-Based Habits]], [[Linchpin Habits]], [[The 3 Pillars of Friendship]], [[Financial Order of Operations]], [[James Clear]]), so this run did NOT duplicate — it added the master synthesis + 2 new concepts + 2 source pages and cross-linked. **Deliverable = [[Research - Daily Habits Every Man Should Adopt]]**, a complete habit system organized by 6 domains × 4 cadences. **Operating principle: highest-ROI habits are nearly free; "small things often" beats "big things rarely"; be 1% better daily; pick ONE keystone (linchpin) habit per domain and stack it onto an existing routine** ([[Four Laws of Behavior Change]] = make it obvious/attractive/easy/satisfying; start at a 2-min version). **Daily core:** sleep 7–9h fixed schedule + ≥30 min movement + whole-food protein-forward eating + morning sunlight (the 3 pillars are interdependent — [[Diet, Sleep and Exercise — Keystones of a Healthy Lifestyle]]); 20+ min of thought-pushing reading; one deep-focus block + teach/journal it; turn toward bids for connection + specific gratitude + 5-min check-in ([[Gottman — Small Things Often]]); pay-yourself-first automation + intentional spending; Scripture + prayer + gratitude + solitude ([[Daily Spiritual Disciplines]]). **Cadence ([[Multi-Level Review Cadence]]):** daily 5-min check → weekly ~20-min reset (Sunday) → quarterly 1–2 hr audit (re-test metrics, rebalance, plan) → yearly re-aim (physical+labs, financial plan, relational + spiritual stock-take). **Contradictions resolved:** habit formation ≈66 days not 21 (myth); sleep target 7–9h (RCT) over the 6.5h observed in one cohort study. Faith sources skew Christian (noted in Open Questions). (2 rounds, 8 searches, 5 fetches, 5 pages: 1 synthesis, 2 concepts, 2 sources.)
+
+## Previously
 2026-06-07 — Save: **Dash Stirring Popcorn Maker — Guide and Recipes** — Joe shared a product link for the Dash SmartStore Stirring Popcorn Maker and asked how to make the best popcorn + recipes, then said "add to my vault." Filed [[Dash Stirring Popcorn Maker — Guide and Recipes]] under **Hobbies / Lifestyle**. Key point: it's an **oil-based stirring popper** (not air) — the stir rod is the advantage, enabling kettle corn/caramel without scorching; lid is a butter-melting tray; flip to serve when pops slow to 2–3 sec. Base ratio = **1 tbsp oil per ¼ cup kernels** (¼ cup ≈ 8 cups popped); refined coconut oil = theater flavor; fine popcorn salt; fat-first-then-powders for seasoning. Includes 10 recipes (movie butter, kettle corn, caramel corn, white cheddar, cinnamon-sugar, chili-lime, ranch, garlic-parm, cookies-and-cream, everything bagel) + troubleshooting.
 
 ## Previously
