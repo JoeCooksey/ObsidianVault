@@ -157,6 +157,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Cognitive Offloading (Learning Risk)]] — the central AI-study danger: delegating the *thinking* (not just memory) erodes comprehension & critical thinking; worst for 17–25; the "do hard work first" rule defuses it (developing)
 - [[Generation Effect (Handwriting)]] — you remember what you produce; handwriting is slow → forces select+paraphrase → deep processing; this is why the handwritten chapter summary is the part to protect from AI (developing)
 - [[NotebookLM Study Workflow]] — running a book through NotebookLM chapter by chapter (source-grounded, cited): verify-don't-generate, quiz, Socratic Learning-Guide teach-back, audio review; guardrails against offloading (developing)
+- [[Contradict My Summary — AI Reading Prompt]] — **copy-paste prompt**: paste your hand-written chapter summary, AI plays blunt skeptic (contradict / what-I-missed / where-I'm-vague / steel-man / 3 questions); variants for unknown books + live Feynman mode (stable)
 
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
