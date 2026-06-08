@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] create | Healthiest Cooking Methods — Master Guide
+- Follow-up to the food sourcing run: Joe asked for a master guide on the healthiest cooking methods for the foods on his tier lists.
+- Pages created: [[Healthiest Cooking Methods — Master Guide]] + sources [[Heat-Formed Food Toxins (HCAs, PAHs, AGEs, Acrylamide)]], [[Nutrient Retention by Cooking Method]]
+- Searches: 4 (nutrient retention, HCAs/PAHs, AGEs, acrylamide)
+- Key finding: nutrient loss AND toxin formation both rise with heat/dryness/char — so 3 dials win everywhere: lower temp, more moisture, less browning; plus marinate meat (cuts HCAs 90%+) and keep the broth when boiling.
+
 ## [2026-06-08] autoresearch | Food Sourcing Guide (Organic, Grass-Fed, Wild-Caught)
 - Rounds: 2
 - Sources found: 5 (EWG 2025, Stanford 2012 + Newcastle 2014 meta-analyses, grass-fed beef review, egg/fish labels, CGM studies)
