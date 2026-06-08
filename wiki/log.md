@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] save | Contradict My Summary — AI Reading Prompt
+- Companion to the autoresearch run below: reusable copy-paste prompt that turns AI into a blunt skeptic checking a hand-written chapter summary (contradict / what-I-missed / where-I'm-vague / steel-man / 3 questions, then stop) + variants for books the AI may not know and live Feynman mode.
+- Page created: [[Contradict My Summary — AI Reading Prompt]]
+- Linked to: [[AI-Augmented Reading Workflow]], [[NotebookLM Study Workflow]], [[The Feynman Technique]], [[Cognitive Offloading (Learning Risk)]]
+
 ## [2026-06-08] autoresearch | AI-Augmented Book Reading and Chapter Summaries
 - Rounds: 1 | Searches: 4 | Sources fetched: 3
 - Pages created: [[Research - AI-Augmented Book Reading and Chapter Summaries]] (synthesis), [[AI-Augmented Reading Workflow]], [[Cognitive Offloading (Learning Risk)]], [[Generation Effect (Handwriting)]], [[NotebookLM Study Workflow]], [[NotebookLM]] (entity), [[Gerlich 2025 — AI Cognitive Offloading and Critical Thinking]], [[Pen Is Mightier Than the Keyboard — Mueller and Oppenheimer]], [[NotebookLM Student Features — Google]], [[Feynman Technique 2.0 with AI — Bananote]]
