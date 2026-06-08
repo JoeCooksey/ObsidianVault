@@ -511,6 +511,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Macronutrient Sourcing Guide (What to Buy)]] — the cart-level shopping list by macro (carb/protein/fat) with the one sourcing upgrade that matters for each; get omega-3 from fish not beef; buy real EVOO (developing)
 - [[CGM Self-Testing for Food Response]] — "test yourself" answer: 2–4 wk CGM reveals which carbs spike YOU; glycemic response is personal; IgG panels not validated, use elimination diet; optimization not medicine (developing)
 
+### Food Preparation / Cooking
+- [[Healthiest Cooking Methods — Master Guide]] — **master guide**: how to cook every food on the tier lists for max nutrition + min harm; per-food playbook (veg/meat/fish/eggs/potatoes/grains/legumes/nuts/dairy/oils); 3 dials = lower heat, more moisture, less browning; marinate meat, keep the broth (stable)
+- [[Heat-Formed Food Toxins (HCAs, PAHs, AGEs, Acrylamide)]] — the 4 heat-created harms + evidence-graded mitigation; marinate 30min cuts HCAs 90%+; golden-not-brown for acrylamide; moist/low-heat for AGEs (stable)
+- [[Nutrient Retention by Cooking Method]] — steam/microwave keep >90% vit C; boiling leaches water-soluble vitamins (keep the broth); some foods (tomato/carrot) are better cooked; 4 dials to minimize loss (stable)
+
 ### Biohacking / Optimization
 - [[Biohacking Tier List]] — S–D ranking across 10 categories: sleep, exercise, temperature, light, fasting, stress, wearables, cognitive, longevity, gut (developing)
 - [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions: dose, temp, frequency, timing; sauna, CWI, Zone 2, VO2 max, strength, sleep, TRE, red light, breathwork (developing)
