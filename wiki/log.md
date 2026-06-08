@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] autoresearch | Whole Foods Diet vs Supplement-Only Diet
+- Rounds: 2 | Searches: 6 | Pages created: 9
+- Sources found: 5 (NCI/JAMA 2024 multivitamin–mortality; Tufts/Annals 2019 food-vs-supplement mortality; Frontiers 2020 bioavailability/food matrix; ATBC+CARET β-carotene harm; meal-replacement feasibility aggregate)
+- Pages created: [[Research - Whole Foods Diet vs Supplement-Only Diet]], [[Food Matrix Effect]], [[Supplement-Only Diet Feasibility]], [[When Supplements Are Justified]], [[High-Dose Isolated Supplement Harms]] + 5 source pages
+- Synthesis: [[Research - Whole Foods Diet vs Supplement-Only Diet]]
+- Key finding: a literal supplement-only diet is impossible (no calories/protein/fiber); whole food wins on outcomes (nutrients from FOOD predict lower mortality, supplements don't; multivitamins extend nothing in healthy adults) and on safety (isolated megadoses like β-carotene/calcium can harm — food self-limits). Supplements are gap tools (deficiency, pregnancy, vegan, elderly/low-sun), not food replacements.
+
 ## [2026-06-08] create | Healthiest Cooking Methods — Master Guide
 - Follow-up to the food sourcing run: Joe asked for a master guide on the healthiest cooking methods for the foods on his tier lists.
 - Pages created: [[Healthiest Cooking Methods — Master Guide]] + sources [[Heat-Formed Food Toxins (HCAs, PAHs, AGEs, Acrylamide)]], [[Nutrient Retention by Cooking Method]]
