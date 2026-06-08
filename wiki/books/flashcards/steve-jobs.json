@@ -31,7 +31,7 @@
       "id": "sv_005",
       "question": "What is Apple's Vertical Integration philosophy, and what does it trade off?",
       "answer": "End-to-end control of hardware + software + retail is essential to a perfect, cohesive experience. Opposite of the Gates/Microsoft 'open systems' model. Vindicated by iTunes → iPod → iPhone → App Store flywheel. Trade-off: closed systems lock users in but deliver coherence Windows cannot match.",
-      "box": 1, "interval": 1, "next_review": "2026-06-04", "last_reviewed": null, "repetitions": 0
+      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": "2026-06-07", "repetitions": 1
     },
     {
       "id": "sv_006",

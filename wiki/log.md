@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-08] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- Philippines M7.8 earthquake + 1m tsunami (32 dead, 200+ injured); Terafab SpaceX/Tesla/Intel $55–119B Texas fab filing + ASML CEO confirms talks; Apple WWDC 2026 — Tim Cook's final keynote, Siri rebuilt on Google Gemini 1.2T, iOS 27, Claude as native iPhone option; Eli Lilly Phase 3 ADA data — retatrutide triple agonist obesity + Foundayo oral GLP-1 beats semaglutide; Xi Jinping arrives in Pyongyang — first state visit in 7 years.
+
+## [2026-06-08] newsletter | EE Daily — June 08, 2026
+- Top stories: Terafab SpaceX/Tesla/Intel $55–119B Texas fab (ASML EUV supply constraint — 48 EUV/yr fully booked through 2027); NVIDIA RTX Spark (3N, 6144 Blackwell cores) + TSMC AI-in-fab integration (computational litho, defect AI, scheduling); HRL 40nm GaN-on-SiC achieves MRL 6; QuiX Quantum FFCU 150ns photonic QC feed-forward; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric (Advanced Materials). Daily topic: EUV Lithography principles and Terafab supply chain constraints.
+
 ## [2026-06-07] save | Dash Stirring Popcorn Maker — Guide and Recipes
 - Type: concept (how-to/reference)
 - Location: wiki/concepts/Dash Stirring Popcorn Maker — Guide and Recipes.md
