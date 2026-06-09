@@ -170,10 +170,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Digital Logic and Boolean Algebra]] — Boolean algebra, De Morgan's laws, K-maps, combinational circuits, D flip-flops, FSMs, intro Verilog — prerequisite for EEE 120 and FPGA career track (developing)
 
 ### Math and Physics Foundations for EE
+- [[Research - Math and Physics Pipeline to Electrical Engineering]] — **master synthesis**: all 6 prereq courses as one pipeline; math track = the language (vocab→grammar→scale), physics track = the content (template→substance→components); dependency graph (developing)
 - [[Calculus in Electrical Engineering]] — Calc 1-3 mapped to EE: derivatives for V-I relations, integrals for energy/RMS/Fourier, vector calc for Maxwell (developing)
 - [[Differential Equations in Electrical Engineering]] — RC/RL/RLC ODEs, Laplace/transfer functions, control systems, wave equation (developing)
+- [[Linear Algebra in Electrical Engineering]] — 3 roles: Ax=b nodal/mesh (what SPICE does), eigenvalues=poles/state-space, DFT-as-matrix + SVD/MIMO (developing)
 - [[Classical Mechanics in Electrical Engineering]] — mechanical-electrical analogy, motor/generator dynamics, MEMS, vibration-to-resonance (developing)
 - [[Electromagnetism Foundations for EE]] — Gauss/Faraday/Ampere/Lorentz mapped to components, transformers, motors, antennas (developing)
+- [[University Physics 3 in Electrical Engineering]] — PHY 241 (thermo/optics/modern physics) mapped to EE: thermal management, photonics/EUV, band theory → all semiconductor devices (developing)
 
 ### Grad School / MS EE Programs
 - [[MS EE Programs Power Electronics Semiconductors]] — quick-reference tier list: NC State WBG, VT CPES, UT Austin SSE, Purdue, MIT/Stanford/Berkeley (developing)
