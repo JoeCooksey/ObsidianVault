@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] autoresearch | Fiber Supplement Tier List
+- Rounds: 3 | Searches: 4 | Sources fetched: 3
+- Pages created: [[Fiber Supplement Tier List]], [[Functional Fiber Framework (McRorie)]], [[Fiber for Chronic Constipation Meta-Analysis (2022)]], [[Inulin High-Dose Inflammation Finding (Stanford 2022)]], [[PHGG Microbiome Trials]]
+- Synthesis: [[Research - Fiber Supplement Tier List]]
+- Key finding: Psyllium husk is S-tier for almost everyone — only common fiber that is gel-forming AND minimally fermented, so it does everything (regularity both ways, FDA cholesterol claim, glycemic, IBS pain) with low gas; benefit = viscosity × resistance to fermentation; inulin overrated as a supplement.
+
 ## [2026-06-09] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 
 ## [2026-06-09] newsletter | EE Daily — June 09, 2026
