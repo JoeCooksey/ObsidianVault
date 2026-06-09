@@ -485,6 +485,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Supplement-Only Diet Feasibility]] — you cannot live on pills (no calories/macros/fiber/satiety); real comparison is whole food vs engineered meal-replacement, food still wins long-term (developing)
 - [[When Supplements Are Justified]] — the legitimate gap-filling indications: pregnancy (folate), vegan (B12/omega-3), elderly + low-sun (D/B12), lab-confirmed deficiency; supplements treat deficiency, don't buy extra health (developing)
 - [[High-Dose Isolated Supplement Harms]] — the safety-ceiling argument: β-carotene (ATBC +18%, CARET +46% deaths in smokers), vitamin E >RDA, calcium ≥1000mg/day → cancer death; whole food self-limits, pills don't (developing)
+- [[Research - Fiber Supplement Tier List]] — **synthesis**: psyllium S-tier (does everything, FDA cholesterol claim, constipation meta-analysis winner RR 1.82); benefit = viscosity × non-fermentation; inulin overrated (gassy, Stanford 30g inflammation); >10g/day ≥4wk; food-first still wins (developing)
 
 ### Cooking / Practical Food
 - [[Vegetable Soup Guide]] — flexible one-pot soup built on celery/broccoli/carrot/onion/bell pepper/spring mix/sweet potato/brussels sprout; layer-by-cook-time staging table; 4 spice blends (herb, minestrone, curry, southwest); legume + grain + veg add-ins; ~50 min (stable)
