@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] autoresearch | Healthy vs Unhealthy Gut Signs
+- Rounds: 2 | Searches: 6 | Sources fetched: 4
+- Pages created: [[Signs of a Healthy Gut]], [[Signs of an Unhealthy Gut]], [[GI Red Flag Symptoms]], [[Bristol Stool Scale]], [[Gut Transit Time]] + sources [[Blue Poo Transit Time Study (PREDICT 1)]], [[Cleveland Clinic Dysbiosis Overview]], [[IFFGD GI Alarm Symptoms]]
+- Synthesis: [[Research - Healthy vs Unhealthy Gut Signs]]
+- Key finding: a healthy gut is silent + regular (Bristol 3–4, easy passage, predictable rhythm, transit ~14–58h); frequency is the most overrated marker (transit time predicts microbiome better — PREDICT 1). Unhealthy signs tier by confidence: digestive (high) → food-response → systemic (fatigue/sleep/mood/skin, medium) → distal (migraines/autoimmune, medium-low). Red flags (blood, weight loss, dysphagia, fever, anemia, new symptoms after 50) are a SEPARATE category — never self-treat past them.
+
 ## [2026-06-09] autoresearch | Fiber Supplement Tier List
 - Rounds: 3 | Searches: 4 | Sources fetched: 3
 - Pages created: [[Fiber Supplement Tier List]], [[Functional Fiber Framework (McRorie)]], [[Fiber for Chronic Constipation Meta-Analysis (2022)]], [[Inulin High-Dose Inflammation Finding (Stanford 2022)]], [[PHGG Microbiome Trials]]
