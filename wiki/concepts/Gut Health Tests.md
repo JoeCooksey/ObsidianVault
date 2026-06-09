@@ -63,3 +63,6 @@ How to actually measure gut health — ranked by **validity**, because the consu
 - [[Health Biomarkers Complete Panel]]
 - [[Zonulin Biomarker Critique 2021]]
 - [[Lactulose-Mannitol Meta-analysis 2022]]
+- [[Bristol Stool Scale]] — full 7-type reference for the DIY signal above
+- [[Gut Transit Time]] — full reference + home blue-dye protocol ([[Blue Poo Transit Time Study (PREDICT 1)]])
+- [[Signs of a Healthy Gut]] · [[Signs of an Unhealthy Gut]] · [[GI Red Flag Symptoms]]
