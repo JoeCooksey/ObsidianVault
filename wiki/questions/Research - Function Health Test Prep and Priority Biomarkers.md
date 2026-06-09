@@ -52,6 +52,25 @@ Joe has a Function Health draw in **~6 days** (asked 2026-06-09) and wants the m
 6. **Hydrate well** the day before and morning of; **keep prescription meds**; **skip seafood 48 h** before (he has a heavy-metals panel).
 7. **Priority markers to read first:** ApoB + LDL particle number, Lp(a) (confirm), hs-CRP, HbA1c + fasting insulin, ALT/AST (rested), Tg:HDL ratio, Test/Free-T/SHBG/LH, Vitamin D, ferritin, omega-3 index. (Source: [[Most Important Biomarkers (Priority Shortlist)]])
 
+## Supplement Hold/Continue Plan (Joe's ~25-supplement stack)
+Built from [[Research - Joe's Supplement Stack Audit]]. Principle: almost everything is fine — but a few items distort the exact markers already flagged (kidney + liver) or the assays (biotin).
+
+### 🛑 Hold before the draw
+| Supplement | Stop | Why |
+|---|---|---|
+| **Creatine** | **~5 days before** | Raises **creatinine** → falsely lowers **eGFR** (kidney). #1 cause of a false "bad kidney" result in lifters. |
+| **Anything with biotin** | **72 h before** | Wrecks thyroid + hormone immunoassays — directly relevant to his borderline-high **Free T4**. Not obviously in his stack → **check electrolyte/greens/energy labels**. |
+| **Liver-metabolized botanicals:** turmeric/curcumin, NAC, aged garlic, rhodiola, bacopa, lion's mane, alpha-GPC, TMG | **~3 days before** | Not dangerous at his doses, but his **ALT 69 / AST 39** are flagged — can't interpret a still-high ALT while taking things the liver processes. Pausing lets him + doctor see a clean liver number. |
+
+### ✅ Keep taking (until the night before) — some *improve* accuracy
+- **Bedtime sleep stack** (magnesium glycinate, glycine, apigenin, L-theanine) — keep; good sleep = accurate cortisol/glucose/testosterone.
+- **Omega-3 fish oil** — keep; he *wants* his true omega-3 index measured (was low, 6.3%).
+- **Vitamin D3/K2** — keep; reflects real vitamin D status (a tracked marker).
+- **Taurine, boron, astaxanthin, inulin fiber, L-tyrosine, vitamin C, electrolytes** — minimal panel impact; keep until day before.
+
+### 🌅 Morning of the draw
+**Water only.** Hold the entire fasted block until *after* the blood draw, then resume everything with breakfast.
+
 ## Contradictions
 - **Function's own guidance (8 h fast, no alcohol/exercise mention) vs best practice.** Function is minimalist; the broader clinical literature is firmer on **no alcohol and no intense exercise 48–72 h**. For Joe's flagged markers, follow the stricter version — Function's silence is not "it doesn't matter."
 - **Black coffee:** some sources allow it while fasting; safest is water-only to avoid nudging glucose/cortisol.
