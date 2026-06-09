@@ -531,6 +531,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Nutrient Retention by Cooking Method]] — steam/microwave keep >90% vit C; boiling leaches water-soluble vitamins (keep the broth); some foods (tomato/carrot) are better cooked; 4 dials to minimize loss (stable)
 
 ### Biohacking / Optimization
+- [[Research - Biohacking Masterclass (Every Habit by Frequency)]] — **master checklist**: every evidence-graded habit organized by what it optimizes (sleep / exercise / diet / light / temperature / stress / lifestyle / supplements / tracking), each with frequency + dose + 🟢🟡🔵 evidence grade; 2026 backing (7–9k steps plateau, Attia 4 pillars, cyclic sighing RCT, social-connection mortality); "minimum effective everything-day" for Joe (developing)
 - [[Biohacking Tier List]] — S–D ranking across 10 categories: sleep, exercise, temperature, light, fasting, stress, wearables, cognitive, longevity, gut (developing)
 - [[Health Protocol Tier List]] — 28 protocols ranked S–D with specific prescriptions: dose, temp, frequency, timing; sauna, CWI, Zone 2, VO2 max, strength, sleep, TRE, red light, breathwork (developing)
 - [[Supplement Tier List Complete]] — every supplement ranked across 15 categories with doses (developing)
