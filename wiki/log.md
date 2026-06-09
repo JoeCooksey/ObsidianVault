@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+
+## [2026-06-09] newsletter | EE Daily — June 09, 2026
+- Top stories: ASML Terafab $55B Texas fab (SpaceX-Tesla JV, triple analyst upgrade); Apple WWDC iOS 27 + Tim Cook exit (multi-model AI on iPhone); AMD hits 2030 EPS target two years early. Daily topic: Silicon Photonics for AI Data Center Interconnects.
+
 ## [2026-06-08] autoresearch | Whole Foods Diet vs Supplement-Only Diet
 - Rounds: 2 | Searches: 6 | Pages created: 9
 - Sources found: 5 (NCI/JAMA 2024 multivitamin–mortality; Tufts/Annals 2019 food-vs-supplement mortality; Frontiers 2020 bioavailability/food matrix; ATBC+CARET β-carotene harm; meal-replacement feasibility aggregate)

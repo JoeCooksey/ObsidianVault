@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 09, 2026]] — ASML Terafab $55B Texas fab (SpaceX-Tesla JV, triple analyst upgrade); Apple WWDC iOS 27 + Tim Cook exit (multi-model AI on iPhone); AMD hits 2030 EPS target two years early; 2D CuInP₂S₆ ferroelectric neuromorphic AI; daily topic: Silicon Photonics for AI Data Center Interconnects
 - [[EE Daily — June 08, 2026]] — Terafab $55–119B Texas fab (ASML EUV supply bottleneck); NVIDIA RTX Spark + TSMC AI-in-fab; HRL 40nm GaN-on-SiC MRL 6; QuiX Quantum FFCU photonic QC; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; daily topic: EUV Lithography fundamentals and scale-up constraints
 - [[EE Daily — June 07, 2026]] — ASML raises 2026 guidance to €36–40B (60 High-NA EUV machines); EPFL chip-scale femtosecond laser; Hamamatsu/NKT/Yaqumo cold-atom quantum alliance; graphene bidirectional neural interface (Nature Comms); daily topic: Zinc-Bromine Flow Battery design and electrochemistry
 - [[EE Daily — June 06, 2026]] — Renesas d-mode GaN bidirectional switch (APEC 2026, 650V/11mΩ first commercial); NVIDIA Vera CPU full production (OpenAI/Anthropic/SpaceX); QuiX Quantum FFCU 150ns photonic QC; κ-Ga₂O₃ ferroelectricity mechanism; daily topic: D-Mode GaN Bidirectional Switches
