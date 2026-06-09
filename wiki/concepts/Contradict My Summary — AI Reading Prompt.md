@@ -71,3 +71,7 @@ say so in one line and move on.
 
 - **Book the AI may not know (or to kill hallucination):** also paste the chapter text — *"Here is the chapter text, then my summary. Judge my summary only against the text below."* This is exactly the [[NotebookLM Study Workflow]] pattern (chapter = source, then run the prompt).
 - **Pure Feynman mode (no written summary, teach it live):** *"I'm going to explain this chapter out loud. Play a sharp skeptic — interrupt with 'why?' or 'how?' every time I hand-wave or skip a step. Don't let me off the hook."* → [[The Feynman Technique]]
+
+## Real Uses
+
+- **2026-06-09 — *Ego Is the Enemy* Part 1: Aspire** → [[ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06)]]. The prompt worked as designed: GPT refused to rewrite the summary, ranked what was missed ([[To Be vs To Do]] was absent entirely), flagged 11 vague terms, steel-manned Holiday, and asked three questions then stopped. Bonus: the session pivoted into personal application and produced [[Escape Hatch Pattern (Self-Handicapping)]].

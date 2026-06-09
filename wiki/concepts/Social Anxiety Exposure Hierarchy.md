@@ -51,5 +51,6 @@ Anxiety is a false alarm that extinguishes with repeated non-catastrophic exposu
 ## Related
 - [[Research - Social Confidence and Climbing the Social Ladder]]
 - [[Social Confidence Building]]
+- [[Escape Hatch Pattern (Self-Handicapping)]] — the ego mechanism that resists taking the reps + the gym advice-rep/name-rep protocol
 - [[Limbic Friction]]
 - [[Emotional Agility]]

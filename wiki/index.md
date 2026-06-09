@@ -300,6 +300,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Stoicism / Ego (Ego Is the Enemy)
 - [[Stoicism]] · [[Dichotomy of Control]] — focus only on what's up to you; the philosophical base of Ego and Let Them
+- [[Escape Hatch Pattern (Self-Handicapping)]] — avoid full effort → avoid feedback → preserve self-image; the fix = binary reps too small to hide from (gym protocol: every advice question ends with a name exchange); from Joe's Part 1 sparring session [[ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06)]]
 - [[Talk Depletes Us]] — announcing goals steals the drive to do them; do, don't talk
 - [[The Canvas Strategy]] — make others look good; credit compounds back to you
 - [[Become a Student]] · [[Don't Tell Yourself a Story]] — stay teachable; don't believe your own legend
