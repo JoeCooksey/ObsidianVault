@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Signs of an Unhealthy Gut",
+      "path": "wiki/concepts/Signs of an Unhealthy Gut.md"
+    },
+    {
+      "basename": "Signs of a Healthy Gut",
+      "path": "wiki/concepts/Signs of a Healthy Gut.md"
+    },
+    {
+      "basename": "Bristol Stool Scale",
+      "path": "wiki/concepts/Bristol Stool Scale.md"
+    },
+    {
+      "basename": "Gut Health Tests",
+      "path": "wiki/concepts/Gut Health Tests.md"
+    },
+    {
       "basename": "Fiber Supplement Tier List",
       "path": "wiki/concepts/Fiber Supplement Tier List.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "EWG Shopper's Guide to Pesticides in Produce (2025)",
       "path": "wiki/sources/EWG Shopper's Guide to Pesticides in Produce (2025).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Contradict My Summary — AI Reading Prompt",
@@ -183,22 +199,6 @@
     {
       "basename": "Video Games Cognitive Benefits",
       "path": "wiki/concepts/Video Games Cognitive Benefits.md"
-    },
-    {
-      "basename": "Free Time Tier List",
-      "path": "wiki/concepts/Free Time Tier List.md"
-    },
-    {
-      "basename": "Research - Video Game Tier List to Increase IQ",
-      "path": "wiki/questions/Research - Video Game Tier List to Increase IQ.md"
-    },
-    {
-      "basename": "Awesome Hermes Use Cases",
-      "path": "wiki/sources/Awesome Hermes Use Cases.md"
-    },
-    {
-      "basename": "Hermes Agent",
-      "path": "wiki/entities/Hermes Agent.md"
     }
   ],
   "omittedPaths": [],
