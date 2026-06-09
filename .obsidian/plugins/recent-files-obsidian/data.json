@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fiber Supplement Tier List",
+      "path": "wiki/concepts/Fiber Supplement Tier List.md"
+    },
+    {
       "basename": "Healthiest Cooking Methods — Master Guide",
       "path": "wiki/concepts/Healthiest Cooking Methods — Master Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hermes Agent",
       "path": "wiki/entities/Hermes Agent.md"
-    },
-    {
-      "basename": "Food Health Tier List — Overall",
-      "path": "wiki/concepts/Food Health Tier List — Overall.md"
     }
   ],
   "omittedPaths": [],
