@@ -104,6 +104,8 @@ Solving these gives the wave equation — essential for RF, PCB signal integrity
 
 ## Related
 - [[Differential Equations in Electrical Engineering]]
+- [[Linear Algebra in Electrical Engineering]]
 - [[Electromagnetism Foundations for EE]]
+- [[Research - Math and Physics Pipeline to Electrical Engineering]]
 - [[ASU EE Year 1-2 Curriculum Map]]
 - [[EE Freshman Self-Study Stack]]
