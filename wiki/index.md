@@ -459,6 +459,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Gut Health Tests]] — validity-ranked: calprotectin + lactulose:mannitol Tier 1; microbiome sequencing descriptive-only; zonulin/IgG panels avoid; free DIY signals (Bristol, food journal, transit) (developing)
 - [[Fiber Supplement Tier List]] — S–F ranking of fiber supplements: **psyllium S-tier** (gel-forming + low-ferment → does everything); oat β-glucan/methylcellulose/Ca-polycarbophil A; PHGG/glucomannan/acacia B; inulin/wheat dextrin C; rule = pick by viscosity × fermentation, >10g/day for ≥4wk (developing)
 - [[Functional Fiber Framework (McRorie)]] — *why* some fibers work: benefit = viscosity (gel) × resistance to fermentation; explains psyllium's uniqueness; debunks "soluble=good/insoluble=bad" (developing)
+- [[Signs of a Healthy Gut]] — the positive checklist: Bristol 3–4, easy passage, predictable rhythm, transit ~14–58h, minimal bloating, steady energy/mood/skin; a healthy gut is silent (developing)
+- [[Signs of an Unhealthy Gut]] — warning catalog by confidence tier: digestive (bloating/gas/irregular stools, high) → food-response (new intolerances, cravings) → systemic (fatigue/sleep/mood/skin/weight, medium) → distal (migraines/autoimmune, medium-low) (developing)
+- [[GI Red Flag Symptoms]] — ⚠️ doctor-now list: blood in stool, vomiting blood, 10+ lb loss/3mo, dysphagia, fever, nighttime symptoms, anemia, new symptoms after 50; functional imbalance can never explain these (stable)
+- [[Bristol Stool Scale]] — full 7-type reference; target 3–4; form correlates r≈0.84 with transit time; frequency barely correlates (stable)
+- [[Gut Transit Time]] — best free gut marker: median 28.7h, healthy ~14–58h; beats frequency/consistency for predicting microbiome (AUC 0.82); home blue-dye protocol (developing)
 
 ### Fermentation / Kefir
 - [[Milk Kefir Making — Step-by-Step Guide]] — full method: 1 Tbsp grains per 1–2 cups whole milk, 65–75°F, 12–36h, glass-only, strain + restart; second fermentation for flavor; controlling sourness; milk choice (developing)
