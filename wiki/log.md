@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] autoresearch | Math and Physics Pipeline to Electrical Engineering
+- Rounds: 2 | Searches: 5 | Sources fetched: 4
+- Pages created: [[Linear Algebra in Electrical Engineering]], [[University Physics 3 in Electrical Engineering]] + sources [[Linear Algebra in Electrical Circuits (UW Math 308)]], [[Matrix Theory in Wireless Communications (MDPI Algorithms 2016)]], [[ASU PHY 241 Course Description]], [[Quantum Mechanics in Semiconductor Devices (overview)]]
+- Synthesis: [[Research - Math and Physics Pipeline to Electrical Engineering]]
+- Pages updated: [[Calculus in Electrical Engineering]], [[Differential Equations in Electrical Engineering]], [[Classical Mechanics in Electrical Engineering]], [[Electromagnetism Foundations for EE]] (cross-links only — content already covered 4 of Joe's 6 courses, so this run filled the 2 gaps + built the unifying synthesis)
+- Key finding: the 6 prereq courses are one pipeline — math track is the language (calc = vocabulary, diffeq = grammar of change, linear algebra = scale/simultaneity), physics track is the content (mechanics = same ODEs on easier objects, E&M = components from first principles, Physics 3 = below-the-circuit gateway: thermo→thermal management, optics→photonics/EUV, quantum band theory→every semiconductor device incl. the literal meaning of "wide bandgap").
+
 ## [2026-06-09] autoresearch | Biohacking Masterclass (Every Habit by Frequency)
 - Rounds: 3 | Searches: 7 | Sources fetched: 2
 - Pages created: [[Research - Biohacking Masterclass (Every Habit by Frequency)]] (master checklist) + sources [[Daily Steps and Mortality Meta-Analysis (Lancet 2025)]], [[Attia Four-Pillar Exercise Framework]], [[Cyclic Sighing Breathwork RCT (Cell Reports 2023)]], [[Social Connection and Mortality (Holt-Lunstad)]]
