@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] ingest | ChatGPT — Ego Is the Enemy Part 1 Sparring
+- Source: `.raw/articles/chatgpt-ego-is-the-enemy-part1-sparring-2026-06-09.md` (fetched from ChatGPT share link via Playwright)
+- Summary: [[ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06)]]
+- Pages created: [[Escape Hatch Pattern (Self-Handicapping)]]
+- Pages updated: [[Ego Is the Enemy - Ryan Holiday]] (Part 1 sparring callout), [[Contradict My Summary — AI Reading Prompt]] (first Real Uses entry), [[Social Anxiety Exposure Hierarchy]] (cross-link)
+- Key insight: Joe's social avoidance and SAT pattern are the same ego move — avoid full effort → avoid clear feedback → preserve the untested belief "I could if I tried"; the fix is removing the escape hatch with binary reps ("did I take the rep?") and pairing every safe advice-question with the exposed name-exchange. Note: the share link is missing the middle turns (Joe's answers to the 3 comprehension questions).
+
 ## [2026-06-09] autoresearch | Math and Physics Pipeline to Electrical Engineering
 - Rounds: 2 | Searches: 5 | Sources fetched: 4
 - Pages created: [[Linear Algebra in Electrical Engineering]], [[University Physics 3 in Electrical Engineering]] + sources [[Linear Algebra in Electrical Circuits (UW Math 308)]], [[Matrix Theory in Wireless Communications (MDPI Algorithms 2016)]], [[ASU PHY 241 Course Description]], [[Quantum Mechanics in Semiconductor Devices (overview)]]
