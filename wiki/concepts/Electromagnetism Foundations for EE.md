@@ -167,6 +167,8 @@ At high frequencies, everything is an antenna. EMC engineering (required for FCC
 - [[Calculus in Electrical Engineering]]
 - [[Differential Equations in Electrical Engineering]]
 - [[Classical Mechanics in Electrical Engineering]]
+- [[University Physics 3 in Electrical Engineering]]
+- [[Research - Math and Physics Pipeline to Electrical Engineering]]
 - [[Wide Bandgap Semiconductors]]
 - [[Silicon Carbide Power Electronics]]
 - [[EV Fast Charging Topologies]]
