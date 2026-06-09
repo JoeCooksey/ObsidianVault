@@ -142,6 +142,8 @@ This is the **electromagnetic wave equation** — a second-order PDE whose solut
 
 ## Related
 - [[Calculus in Electrical Engineering]]
+- [[Linear Algebra in Electrical Engineering]]
 - [[Electromagnetism Foundations for EE]]
 - [[Classical Mechanics in Electrical Engineering]]
+- [[Research - Math and Physics Pipeline to Electrical Engineering]]
 - [[EE Physical Side — Actionable Skill Plan]]
