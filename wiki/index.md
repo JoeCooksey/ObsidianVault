@@ -725,6 +725,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Lactulose-Mannitol Meta-analysis 2022]] — *BMC Gastroenterology*; LMR = validated functional permeability test; healthy ~0.014 vs untreated coeliac ~0.133, AUC 0.88 (high)
 - [[Microbiota-Gut-Brain Axis Review]] — Frontiers/Nature reviews; bidirectional vagus/HPA/tryptophan signaling; SCFAs modulate BBB + microglia; vitamin K/B synthesis (high)
 - [[Artificial Sweeteners Gut Review]] — PMC 2024; sucralose/saccharin ↓butyrate-producers + barrier disruption; aspartame data weaker; dose/person-dependent (medium)
+- [[Blue Poo Transit Time Study (PREDICT 1)]] — Asnicar et al., *Gut* 2021, n=863 logged; median transit 28.7h; transit beats frequency/consistency as microbiome marker (AUC 0.82); long transit ↔ visceral fat + worse postprandial responses (high)
+- [[Cleveland Clinic Dysbiosis Overview]] — clinical reference; dysbiosis symptom map by body site (gut/mouth/skin/urogenital); healthy = diversity with no dominant organism (high)
+- [[IFFGD GI Alarm Symptoms]] — alarm symptoms can never be functional: bleeding (location decoder), vomiting blood, 10lb/3mo weight loss, dysphagia, fever, nighttime pain (high)
 
 ### Health / Testosterone
 - [[Leproult Van Cauter Sleep Restriction RCT 2011]] — JAMA 2011; 5h sleep/wk → −10–15% T in healthy young men (high)
