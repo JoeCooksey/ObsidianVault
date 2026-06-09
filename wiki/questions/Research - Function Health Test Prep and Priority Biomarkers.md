@@ -14,6 +14,7 @@ related:
   - "[[Blood Test Preparation Protocol]]"
   - "[[Most Important Biomarkers (Priority Shortlist)]]"
   - "[[Health Biomarkers Complete Panel]]"
+  - "[[Research - Joe's Supplement Stack Audit]]"
 sources:
   - "[[Function Health Prep Guidance]]"
   - "[[Exercise Effects on Blood Test Results]]"
