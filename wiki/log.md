@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] autoresearch | Biohacking Masterclass (Every Habit by Frequency)
+- Rounds: 3 | Searches: 7 | Sources fetched: 2
+- Pages created: [[Research - Biohacking Masterclass (Every Habit by Frequency)]] (master checklist) + sources [[Daily Steps and Mortality Meta-Analysis (Lancet 2025)]], [[Attia Four-Pillar Exercise Framework]], [[Cyclic Sighing Breathwork RCT (Cell Reports 2023)]], [[Social Connection and Mortality (Holt-Lunstad)]]
+- Key finding: built the requested format gap — every habit categorized by what it optimizes (sleep/exercise/diet/light/temp/stress/lifestyle/supplements/tracking) with frequency + dose + evidence grade. Foundational free habits beat every device/supplement. New 2026 anchors: steps plateau at 7–9k/day (~47% lower mortality vs 2k); exercise = 4 separate pillars (Zone 2 3–4×/wk, VO2max 1×/wk, strength 2–3×/wk, stability daily); sauna 4–7×/wk strongest temp-hormesis longevity data; 5-min/day cyclic sighing beat mindfulness for cortisol (Stanford RCT); social connection ≈ 26% lower premature death. Did NOT duplicate the deep existing health cluster — cross-linked it into one checklist.
+
 ## [2026-06-09] autoresearch | Function Health Test Prep + Priority Biomarkers
 - Rounds: 2 | Searches: 4 | Sources fetched: 1 (+ Function MCP personal data)
 - Pages created: [[Blood Test Preparation Protocol]], [[Most Important Biomarkers (Priority Shortlist)]] + sources [[Function Health Prep Guidance]], [[Exercise Effects on Blood Test Results]]
