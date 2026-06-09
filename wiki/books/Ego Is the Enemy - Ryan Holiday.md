@@ -50,6 +50,9 @@ The thesis is that ego is dangerous in *all three*, and the work of suppressing 
 **💬 Reflection:**
 - The temptation early on is to manufacture the *appearance* of progress (announcing plans, branding myself) instead of the substance. The canvas strategy reframes "grunt work" as strategic.
 
+> [!key-insight] Sparring session on Part 1 (2026-06-09)
+> Joe ran his from-memory Part 1 summary through the [[Contradict My Summary — AI Reading Prompt]] → [[ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06)]]. Verdict: directionally right, but missed [[To Be vs To Do]] and "Work, Work, Work" entirely, and softened the sharp edges (ego makes you *unteachable*; the Canvas Strategy is strategic humility, not people-pleasing; restraint is power, not passivity). The session then turned personal: ego protects an untested self-image by avoiding full effort → filed as [[Escape Hatch Pattern (Self-Handicapping)]] with a concrete gym social-reps protocol.
+
 ---
 
 ## Part 2: Success
