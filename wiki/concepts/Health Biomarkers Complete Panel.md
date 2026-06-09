@@ -174,3 +174,10 @@ related:
 | **Hims/Hers Labs** | ~$149 | 75+ markers; convenient |
 
 > [!note] For a 19-year-old male: start with Vitamin D, ferritin, testosterone (total + free), SHBG, HbA1c, fasting insulin, CBC, CMP, and ApoB. That one panel reveals 90% of actionable findings at this age.
+
+---
+
+## See Also
+- [[Most Important Biomarkers (Priority Shortlist)]] — the high-signal filter on this full table
+- [[Blood Test Preparation Protocol]] — prep so the draw measures you, not yesterday's workout
+- [[Research - Function Health Test Prep and Priority Biomarkers]] — personalized to Joe's last panel
