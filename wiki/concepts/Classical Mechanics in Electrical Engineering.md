@@ -148,4 +148,6 @@ Linear momentum $p = mv$ is conserved in collisions → analogous to charge cons
 - [[Electromagnetism Foundations for EE]]
 - [[Differential Equations in Electrical Engineering]]
 - [[Calculus in Electrical Engineering]]
+- [[University Physics 3 in Electrical Engineering]]
+- [[Research - Math and Physics Pipeline to Electrical Engineering]]
 - [[EE Physical Side — Actionable Skill Plan]]
