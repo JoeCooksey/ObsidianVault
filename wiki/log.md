@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-09] autoresearch | Function Health Test Prep + Priority Biomarkers
+- Rounds: 2 | Searches: 4 | Sources fetched: 1 (+ Function MCP personal data)
+- Pages created: [[Blood Test Preparation Protocol]], [[Most Important Biomarkers (Priority Shortlist)]] + sources [[Function Health Prep Guidance]], [[Exercise Effects on Blood Test Results]]
+- Synthesis: [[Research - Function Health Test Prep and Priority Biomarkers]] (personalized to Joe's last panel, 2025-12-29, 120 markers, 13 OOR)
+- Key finding: Prep matters MORE for Joe than most because his flagged markers (ALT 69/AST 39, hormones) are exactly the exercise-/fasting-sensitive ones — rest 48–72h from hard training, fast 8–12h, morning rested draw, no alcohol 48–72h, hold biotin 72h. His headline result = high **Lp(a) 152 nmol/L** (genetic, won't move — keep every other CVD lever tight) + atherogenic small-dense-LDL pattern + low omega-3 index (6.3% vs >8%). Pulled his actual Function data via MCP to personalize.
+
 ## [2026-06-09] autoresearch | Healthy vs Unhealthy Gut Signs
 - Rounds: 2 | Searches: 6 | Sources fetched: 4
 - Pages created: [[Signs of a Healthy Gut]], [[Signs of an Unhealthy Gut]], [[GI Red Flag Symptoms]], [[Bristol Stool Scale]], [[Gut Transit Time]] + sources [[Blue Poo Transit Time Study (PREDICT 1)]], [[Cleveland Clinic Dysbiosis Overview]], [[IFFGD GI Alarm Symptoms]]
