@@ -1,0 +1,12 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - heading "The Pipeline" [level=1] [ref=e3]
+    - generic [ref=e4]:
+      - generic [ref=e5]: Math track
+      - generic [ref=e6]: Physics track
+      - generic [ref=e7]: EE courses
+    - img "Course dependency graph" [ref=e8]
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - heading "EE Pipeline Visualizer" [level=2] [ref=e11]
+      - paragraph [ref=e12]: Skeleton loaded.
