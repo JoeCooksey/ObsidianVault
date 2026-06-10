@@ -26,8 +26,8 @@ Joe's first recorded real-world use of the [[Contradict My Summary — AI Readin
 
 Raw transcript: `.raw/articles/chatgpt-ego-is-the-enemy-part1-sparring-2026-06-09.md`
 
-> [!gap] Incomplete share
-> The share link only contains 7 turns. Joe's answers to the three comprehension questions and the exchange that surfaced the "SAT pattern" are missing — the conversation jumps from the questions straight to coaching that references both.
+> [!gap] Joe's answer turn is unrecoverable
+> The conversation jumps from GPT's three comprehension questions straight to "That is probably the most important connection you've made so far," which quotes Joe ("I know that I care about this more than anyone I would talk to"). Joe confirmed (2026-06-09) that both the share link and a full manual paste render this way — his answer message was likely lost to a ChatGPT edit/regeneration branch. His answers to the three questions (To Be vs To Do, passion vs purpose, Canvas Strategy vs people-pleasing) and the ego→social-avoidance connection exist only as reflected in GPT's reply.
 
 ---
 
