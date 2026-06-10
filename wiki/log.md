@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-10] save | Blood Test Preparation Protocol — Joe's keep/pause supplement table
+- Type: concept (update — no new page)
+- Location: wiki/concepts/Blood Test Preparation Protocol.md
+- From: conversation on which supplements to keep vs pause before the upcoming Function Health draw (~June 15)
+- Added: a Joe-specific keep/pause table mapped to [[Supplement Priority Stack for Young Males]] — pause biotin/multis (72 h, the Free T4 recheck depends on it), creatine + Tier 3 (2–3 days), caffeine morning-of; keep omega-3 (index reflects ~120 days, want habitual intake measured), D3+K2, magnesium, prescription meds. Cutoffs for this draw: biotin out + last hard training by June 12–13.
+
 ## [2026-06-10] autoresearch | How to Improve at League of Legends
 - Rounds: 2 | Sources fetched: 7 (run interrupted by token limit at ~10:55; synthesis + filing completed on resume)
 - Pages created: [[LoL Improvement Practice System]], [[Laning Fundamentals (LoL)]], [[Wave Management (LoL)]], [[LoL Macro Play]], [[Vision Control (LoL)]], [[Tilt (Esports)]] + sources [[Martončik 2024 — Psychological Predictors of Esports Success]], [[Bennett 2024 — Practice Behaviours of Expert LoL Players]], [[Hotspawn — How to Get Good at LoL]], [[Dignitas — LoL Ranked Climbing and Tilt Guides]], [[Boosteria — LoL Macro Play Guide]], [[Boosteria — LoL CSing Fundamentals]], [[WeCoach — Vision Control Ward Guide]]
