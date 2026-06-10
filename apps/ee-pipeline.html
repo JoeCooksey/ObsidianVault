@@ -646,6 +646,124 @@ selftest('analogy: mapped mechanical and electrical responses coincide', ()=>{
   return maxd < 1e-12;
 });
 
+// ---------- 4c. nodal analysis: circuits become Ax = b ----------
+// Fixed topology: Vs—R1—(n1)—R2—(n2)—R4—(n3); R3: n2→gnd; R5: n3→gnd.
+// Norton-transform the source (Is = Vs/R1 into n1, R1 to ground) → pure conductance form.
+function nodalBuild(R, Vs){
+  const g = R.map(r => 1/r);
+  const G = [
+    [g[0]+g[1], -g[1],            0        ],
+    [-g[1],      g[1]+g[2]+g[3], -g[3]     ],
+    [0,         -g[3],            g[3]+g[4]],
+  ];
+  const b = [Vs*g[0], 0, 0];
+  return {G, b};
+}
+
+SIMS.nodal = {
+  title: 'Nodal analysis — the circuit becomes Ax = b',
+  why: `<b>Linear Algebra → Circuits.</b> Write KCL at every node and a resistor network collapses into
+    a matrix equation <b>G·v = b</b>: conductances fill the matrix, sources fill the right-hand side,
+    and Gaussian elimination hands back every node voltage at once. This is literally what SPICE does —
+    millions of times per simulation. Scale the same idea up: eigenvalues of a state matrix are system
+    poles (Control 480), the DFT is a matrix (Signals 350), SVD splits MIMO radio channels.
+    <span class="pages">Wiki: Linear Algebra in Electrical Engineering · Linear Algebra in Electrical Circuits (UW Math 308)</span>`,
+  mount(root){
+    const Vs = 10;
+    const eq = document.createElement('div'); eq.className = 'eq';
+    eq.innerHTML = `KCL at n1, n2, n3 &nbsp;<span class="dim">→</span>&nbsp; G·v = b
+      &nbsp;<span class="dim">(after Norton-transforming Vs through R1; entries in millisiemens)</span>`;
+    root.appendChild(eq);
+    const ctls = document.createElement('div'); ctls.className = 'controls'; root.appendChild(ctls);
+    const wrap = document.createElement('div'); wrap.className = 'matrixwrap'; root.appendChild(wrap);
+    const svgBox = document.createElement('div'); root.appendChild(svgBox);
+    const note = document.createElement('p'); note.className = 'note';
+    note.textContent = 'Drag any resistor: the matrix rebuilds from conductances, gaussSolve re-solves it, and the node voltages on the schematic follow instantly. Five unknowns would work the same way — or five million.';
+    root.appendChild(note);
+
+    const DEF = [100, 220, 330, 470, 1000];
+    const sliders = [];
+    const fm = v => (1000*v).toPrecision(3);                 // S → mS
+    const update = () => {
+      const R = sliders.map(s=>s.get());
+      const {G, b} = nodalBuild(R, Vs);
+      const v = gaussSolve(G.map(r=>r.slice()), b.slice());
+      wrap.innerHTML =
+        `<span class="mat" style="grid-template-columns:repeat(3,auto)">${
+          G.flat().map(x=>`<span>${fm(x)}</span>`).join('')}</span>
+         <span class="mat">${v.map((_,i)=>`<span class="v">v${i+1}</span>`).join('')}</span>
+         <span>=</span>
+         <span class="mat">${b.map(x=>`<span class="b">${fm(x)}</span>`).join('')}</span>
+         <span class="dim" style="margin-left:14px">→</span>
+         <span class="mat">${v.map(x=>`<span class="v">${x.toFixed(3)} V</span>`).join('')}</span>`;
+      drawSchematic(R, v);
+    };
+    ['R1','R2','R3','R4','R5'].forEach((n,i)=>
+      sliders.push(makeSlider(ctls, {label:n, lo:10, hi:10000, init:DEF[i], unit:'Ω', oninput:update})));
+
+    function drawSchematic(R, v){
+      const TOP = 70, GND = 200, X = [60, 240, 440, 640];
+      const hres = (x1,x2,y) => {
+        const w = x2-x1, n = 6; let d = `M${x1},${y}`;
+        for(let s=1;s<=n;s++) d += ` L${x1 + w*(s-0.5)/n},${y + (s%2?-9:9)}`;
+        return d + ` L${x2},${y}`;
+      };
+      const vres = (y1,y2,x) => {
+        const h = y2-y1, n = 6; let d = `M${x},${y1}`;
+        for(let s=1;s<=n;s++) d += ` L${x + (s%2?-9:9)},${y1 + h*(s-0.5)/n}`;
+        return d + ` L${x},${y2}`;
+      };
+      const vcol = x => `hsl(${120*x/Vs+200},80%,${55+20*x/Vs}%)`;
+      svgBox.innerHTML = `
+      <svg viewBox="0 0 760 250" style="max-width:780px;background:var(--panel);border:1px solid var(--grid);border-radius:8px">
+        <g stroke="#566175" stroke-width="2" fill="none">
+          <path d="M${X[0]},${TOP+18} V${TOP} H110 M210,${TOP} H${X[1]} M${X[1]+30},${TOP} H270 M410,${TOP} H${X[2]} M${X[2]+30},${TOP} H470 M610,${TOP} H${X[3]}"/>
+          <path d="M30,${GND} H730"/>
+          <path d="M${X[0]},${GND} V${TOP+52}"/>
+          <path d="M${X[2]},${TOP} V100 M${X[2]},160 V${GND}"/>
+          <path d="M${X[3]},${TOP} V100 M${X[3]},160 V${GND}"/>
+        </g>
+        <g stroke="#5aa9ff" stroke-width="2" fill="none">
+          <path d="${hres(110,210,TOP)}"/><path d="${hres(270,410,TOP)}"/><path d="${hres(470,610,TOP)}"/>
+          <path d="${vres(100,160,X[2])}"/><path d="${vres(100,160,X[3])}"/>
+        </g>
+        <g stroke="#ffb454" stroke-width="2.5">
+          <line x1="${X[0]-14}" y1="${TOP+26}" x2="${X[0]+14}" y2="${TOP+26}"/>
+          <line x1="${X[0]-7}"  y1="${TOP+38}" x2="${X[0]+7}"  y2="${TOP+38}"/>
+        </g>
+        <g fill="#8b97a8" font-size="13" font-family="ui-monospace,Consolas,monospace">
+          <text x="28" y="${TOP+34}">Vs=${Vs}V</text>
+          <text x="138" y="${TOP-16}">R1 ${eng(R[0],'Ω')}</text>
+          <text x="304" y="${TOP-16}">R2 ${eng(R[1],'Ω')}</text>
+          <text x="504" y="${TOP-16}">R4 ${eng(R[3],'Ω')}</text>
+          <text x="${X[2]+14}" y="136">R3 ${eng(R[2],'Ω')}</text>
+          <text x="${X[3]+14}" y="136">R5 ${eng(R[4],'Ω')}</text>
+          <text x="700" y="${GND-8}">gnd</text>
+        </g>
+        ${[1,2,3].map(i=>`
+          <circle cx="${X[i]}" cy="${TOP}" r="5" fill="${vcol(v[i-1])}"/>
+          <text x="${X[i]-22}" y="${TOP-34}" fill="${vcol(v[i-1])}" font-size="15" font-weight="600"
+            font-family="ui-monospace,Consolas,monospace">v${i}=${v[i-1].toFixed(2)}V</text>`).join('')}
+      </svg>`;
+    }
+    update();
+  }
+};
+
+selftest('nodal: solution satisfies KCL (G·v = b residual ~ 0)', ()=>{
+  const {G, b} = nodalBuild([100,220,330,470,1000], 10);
+  const v = gaussSolve(G.map(r=>r.slice()), b.slice());
+  let res = 0;
+  for(let i=0;i<3;i++)
+    res = Math.max(res, Math.abs(G[i].reduce((s,g,j)=>s+g*v[j],0) - b[i]));
+  return res < 1e-9;
+});
+selftest('nodal: equal resistors give monotonically dropping voltages', ()=>{
+  const {G, b} = nodalBuild([500,500,500,500,500], 10);
+  const v = gaussSolve(G, b);
+  return v[0] > v[1] && v[1] > v[2] && v[2] > 0;
+});
+
 selftest('RC sim hits 63.2% of Vs at t=tau', ()=>{
   const R=1000, C=1e-6, Vs=5, tau=R*C;
   const r = integrate(rcDeriv(R,C,Vs), [0], tau, 2000);
