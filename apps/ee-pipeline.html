@@ -235,12 +235,137 @@ function runSelfTests(){
 }
 
 // ============================================================
-// 2. data — CONNECTIONS                       (Task 3)
+// 2. data — CONNECTIONS
 // ============================================================
 
+// Sim registry — sims register themselves here: {title, why, mount(el)}
+const SIMS = {};
+
+// Info-card views for nodes without a dedicated simulation.
+const INFOS = {
+  phys3: {title:'Physics 3 — Thermo · Optics · Quantum', html:
+    `<div class="infocard">The gateway <b>below</b> the circuit. Thermodynamics → junction temperature
+     and thermal management (wide-bandgap packaging is applied thermo). Wave optics → fiber, photonics,
+     and the diffraction limit behind EUV lithography. Photons + matter waves → band theory — the quantum
+     foundation of every diode, transistor, and LED, and the literal meaning of "wide bandgap".
+     <span class="pages">Wiki: University Physics 3 in Electrical Engineering · Quantum Mechanics in Semiconductor Devices</span></div>`},
+  eee350: {title:'EEE 350 — Signals', html:`<div class="infocard">Runs on <b>Laplace and Fourier</b>: transfer functions from Diff Eq, and the DFT — which is literally a matrix (Linear Algebra). Try the <b>RC/RLC</b> sim: a filter IS a transfer function.</div>`},
+  eee352: {title:'EEE 352 — Devices', html:`<div class="infocard">Built on <b>Physics 3</b>: band theory, photons, matter waves. Why semiconductors conduct, why "wide bandgap" matters for Joe's WBG packaging track.</div>`},
+  eee334: {title:'EEE 334 — Electronics', html:`<div class="infocard">Transistor circuits = <b>Devices + Circuits</b>. Small-signal models are linear algebra; bias transients are diff eq.</div>`},
+  eee340: {title:'EEE 340 — Electromagnetics', html:`<div class="infocard"><b>Physics 2 with vector calculus turned up</b>: Maxwell's equations → transmission lines, antennas, waveguides. Try the <b>Fields</b> sim.</div>`},
+  eee480: {title:'EEE 480 — Control', html:`<div class="infocard"><b>Eigenvalues of the state matrix = system poles = stability.</b> Diff Eq supplies the dynamics, Linear Algebra solves them at scale. The RLC damping classifications (ζ) in the transients sim are exactly pole locations.</div>`},
+};
+
+// Graph nodes: viewBox is 330 × 560
+const NODES = [
+  {id:'calc1',  label:'Calc 1 · derivatives',  track:'math', x:8,   y:34,  w:148, view:'rlc'},
+  {id:'calc2',  label:'Calc 2 · integrals',    track:'math', x:8,   y:84,  w:148, view:'rlc'},
+  {id:'calc3',  label:'Calc 3 · vector calc',  track:'math', x:8,   y:134, w:148, view:'fields'},
+  {id:'diffeq', label:'Diff Eq · dynamics',    track:'math', x:8,   y:184, w:148, view:'rlc'},
+  {id:'linalg', label:'Linear Algebra',        track:'math', x:8,   y:234, w:148, view:'nodal'},
+  {id:'phys1',  label:'Phys 1 · Mechanics',    track:'phys', x:176, y:84,  w:148, view:'analogy'},
+  {id:'phys2',  label:'Phys 2 · E&M',          track:'phys', x:176, y:159, w:148, view:'fields'},
+  {id:'phys3',  label:'Phys 3 · Modern',       track:'phys', x:176, y:234, w:148, view:'phys3'},
+  {id:'eee202', label:'EEE 202 · Circuits',    track:'ee',   x:90,  y:338, w:150, view:'nodal'},
+  {id:'eee350', label:'EEE 350 · Signals',     track:'ee',   x:90,  y:376, w:150, view:'eee350'},
+  {id:'eee352', label:'EEE 352 · Devices',     track:'ee',   x:90,  y:414, w:150, view:'eee352'},
+  {id:'eee334', label:'EEE 334 · Electronics', track:'ee',   x:90,  y:452, w:150, view:'eee334'},
+  {id:'eee340', label:'EEE 340 · EM',          track:'ee',   x:90,  y:490, w:150, view:'eee340'},
+  {id:'eee480', label:'EEE 480 · Control',     track:'ee',   x:90,  y:528, w:150, view:'eee480'},
+];
+const NODE_H = 26;
+
+// Edges between nodes; each carries the view its connection demonstrates.
+const EDGES = [
+  {from:'calc1',  to:'phys1',  view:'analogy'},
+  {from:'calc2',  to:'phys1',  view:'rlc'},
+  {from:'calc3',  to:'phys2',  view:'fields'},
+  {from:'linalg', to:'eee202', view:'nodal'},
+  {from:'diffeq', to:'eee202', view:'rlc'},
+  {from:'phys1',  to:'eee202', view:'analogy'},
+  {from:'phys2',  to:'eee340', view:'fields'},
+  {from:'phys3',  to:'eee352', view:'phys3'},
+  {from:'eee202', to:'eee350'}, {from:'eee350', to:'eee352'},
+  {from:'eee352', to:'eee334'}, {from:'eee334', to:'eee340'},
+  {from:'eee340', to:'eee480'},
+];
+
 // ============================================================
-// 3. graph render + router                    (Task 3)
+// 3. graph render + router
 // ============================================================
+const svg = document.getElementById('graph');
+const SVGNS = 'http://www.w3.org/2000/svg';
+function el(tag, attrs, parent){
+  const e = document.createElementNS(SVGNS, tag);
+  for(const k in attrs) e.setAttribute(k, attrs[k]);
+  (parent||svg).appendChild(e); return e;
+}
+function nodeById(id){ return NODES.find(n=>n.id===id); }
+function anchor(n, other){
+  // pick a connection point on node n facing node other
+  const cx = n.x + n.w/2, cy = n.y + NODE_H/2;
+  const ox = other.x + other.w/2, oy = other.y + NODE_H/2;
+  if(Math.abs(oy-cy) > 30 && Math.abs(ox-cx) < 120)
+    return [cx + (ox>cx?28:(ox<cx?-28:0)), oy>cy ? n.y+NODE_H : n.y];
+  return [ox>cx ? n.x+n.w : n.x, cy];
+}
+
+function renderGraph(){
+  svg.innerHTML = '';
+  const defs = el('defs', {});
+  const mk = el('marker', {id:'arr', viewBox:'0 0 10 10', refX:9, refY:5,
+    markerWidth:7, markerHeight:7, orient:'auto-start-reverse'}, defs);
+  el('path', {d:'M0,0 L10,5 L0,10 z', fill:'#566175'}, mk);
+
+  // track headers
+  const lbl = (t,x,y)=>{ const e=el('text',{x,y,class:'glabel'}); e.textContent=t; };
+  lbl('MATH — THE LANGUAGE', 8, 20);
+  lbl('PHYSICS — THE CONTENT', 176, 20);
+  lbl('EE COURSE CHAIN', 90, 326);
+
+  for(const ed of EDGES){
+    const a = nodeById(ed.from), b = nodeById(ed.to);
+    const [x1,y1] = anchor(a,b), [x2,y2] = anchor(b,a);
+    const mx = (x1+x2)/2, my = (y1+y2)/2;
+    const path = el('path', {
+      d:`M${x1},${y1} Q${mx},${y1===a.y+NODE_H/2 ? y1 : my} ${x2},${y2}`,
+      class:'gedge', 'marker-end':'url(#arr)', 'data-view':ed.view||''});
+    if(ed.view) path.addEventListener('click', ()=>show(ed.view));
+    else path.style.cursor = 'default';
+  }
+  for(const n of NODES){
+    const g = el('g', {class:`gnode ${n.track}`, 'data-id':n.id, 'data-view':n.view});
+    el('rect', {x:n.x, y:n.y, width:n.w, height:NODE_H, rx:7}, g);
+    const t = el('text', {x:n.x+n.w/2, y:n.y+NODE_H/2+4.5, 'text-anchor':'middle'}, g);
+    t.textContent = n.label;
+    g.addEventListener('click', ()=>show(n.view));
+  }
+}
+
+let currentView = null;
+function show(viewId){
+  if(!viewId) return;
+  currentView = viewId;
+  // highlight graph
+  svg.querySelectorAll('.gnode').forEach(g =>
+    g.classList.toggle('active', g.dataset.view === viewId));
+  svg.querySelectorAll('.gedge').forEach(p =>
+    p.classList.toggle('active', p.dataset.view === viewId));
+  // render panel
+  const root = document.getElementById('sim-root');
+  root.innerHTML = '';
+  const sim = SIMS[viewId];
+  if(sim){
+    const h = document.createElement('h2'); h.textContent = sim.title; root.appendChild(h);
+    if(sim.why){ const w = document.createElement('div'); w.className='why'; w.innerHTML = sim.why; root.appendChild(w); }
+    sim.mount(root);
+  } else if(INFOS[viewId]){
+    const info = INFOS[viewId];
+    const h = document.createElement('h2'); h.textContent = info.title; root.appendChild(h);
+    const d = document.createElement('div'); d.innerHTML = info.html; root.appendChild(d);
+  }
+  document.getElementById('main').scrollTop = 0;
+}
 
 // ============================================================
 // 4. sims                                     (Tasks 4-7)
@@ -249,7 +374,8 @@ function runSelfTests(){
 // ============================================================
 // 5. boot
 // ============================================================
-document.getElementById('sim-root').innerHTML = '<h2>EE Pipeline Visualizer</h2><p class="note">Skeleton loaded.</p>';
+renderGraph();
+show('analogy');
 if(location.search.includes('test=1')) runSelfTests();
 </script>
 </body>
