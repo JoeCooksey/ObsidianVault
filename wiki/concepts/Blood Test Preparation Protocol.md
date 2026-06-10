@@ -14,6 +14,7 @@ related:
   - "[[Health Biomarkers Complete Panel]]"
   - "[[Function Health Prep Guidance]]"
   - "[[Exercise Effects on Blood Test Results]]"
+  - "[[Supplement Priority Stack for Young Males]]"
 ---
 
 # Blood Test Preparation Protocol
