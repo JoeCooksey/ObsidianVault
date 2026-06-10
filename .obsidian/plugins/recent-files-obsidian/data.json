@@ -5,6 +5,10 @@
       "path": "wiki/log.md"
     },
     {
+      "basename": "Research - How to Improve at League of Legends",
+      "path": "wiki/questions/Research - How to Improve at League of Legends.md"
+    },
+    {
       "basename": "OSRS Ironman Late Game and Endgame",
       "path": "wiki/concepts/OSRS Ironman Late Game and Endgame.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Milk Kefir Making — Step-by-Step Guide",
       "path": "wiki/concepts/Milk Kefir Making — Step-by-Step Guide.md"
-    },
-    {
-      "basename": "hot",
-      "path": "wiki/hot.md"
     }
   ],
   "omittedPaths": [],
