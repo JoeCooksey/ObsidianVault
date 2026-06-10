@@ -72,8 +72,167 @@
 <script>
 "use strict";
 // ============================================================
-// 1. utils — RK4, Gaussian elimination, Plot  (Task 2)
+// 1. utils — RK4, Gaussian elimination, Plot
 // ============================================================
+
+// One RK4 step for y' = f(t, y); y is a plain numeric array.
+function rk4Step(f, t, y, h){
+  const k1 = f(t, y);
+  const k2 = f(t + h/2, y.map((v,i)=>v + h/2*k1[i]));
+  const k3 = f(t + h/2, y.map((v,i)=>v + h/2*k2[i]));
+  const k4 = f(t + h,   y.map((v,i)=>v + h*k3[i]));
+  return y.map((v,i)=>v + h/6*(k1[i] + 2*k2[i] + 2*k3[i] + k4[i]));
+}
+
+// Integrate from t=0 to tEnd with n steps; returns {t:[], y:[[...]]} samples.
+function integrate(f, y0, tEnd, n){
+  const h = tEnd/n, ts = [0], ys = [y0.slice()];
+  let y = y0.slice();
+  for(let i=1;i<=n;i++){
+    y = rk4Step(f, (i-1)*h, y, h);
+    ts.push(i*h); ys.push(y.slice());
+  }
+  return {t:ts, y:ys};
+}
+
+// Solve Ax = b by Gaussian elimination with partial pivoting.
+function gaussSolve(A, b){
+  const n = b.length, M = A.map((row,i)=>[...row, b[i]]);
+  for(let c=0;c<n;c++){
+    let p = c;
+    for(let r=c+1;r<n;r++) if(Math.abs(M[r][c]) > Math.abs(M[p][c])) p = r;
+    [M[c],M[p]] = [M[p],M[c]];
+    for(let r=c+1;r<n;r++){
+      const fac = M[r][c]/M[c][c];
+      for(let k=c;k<=n;k++) M[r][k] -= fac*M[c][k];
+    }
+  }
+  const x = new Array(n).fill(0);
+  for(let r=n-1;r>=0;r--){
+    let s = M[r][n];
+    for(let k=r+1;k<n;k++) s -= M[r][k]*x[k];
+    x[r] = s/M[r][r];
+  }
+  return x;
+}
+
+// Lightweight canvas line plotter.
+// traces: [{x:[], y:[], color, label, width}]
+class Plot {
+  constructor(canvas, opts={}){
+    this.cv = canvas; this.ctx = canvas.getContext('2d');
+    this.opts = Object.assign({xlabel:'t', ylabel:'', pad:42}, opts);
+  }
+  draw(traces){
+    const {ctx, cv} = this, P = this.opts.pad;
+    const W = cv.width, H = cv.height;
+    ctx.clearRect(0,0,W,H);
+    let xmin=Infinity,xmax=-Infinity,ymin=Infinity,ymax=-Infinity;
+    for(const tr of traces) for(let i=0;i<tr.x.length;i++){
+      const x=tr.x[i], y=tr.y[i];
+      if(x<xmin)xmin=x; if(x>xmax)xmax=x;
+      if(y<ymin)ymin=y; if(y>ymax)ymax=y;
+    }
+    if(!isFinite(xmin)) return;
+    if(ymax-ymin < 1e-12){ ymax+=1; ymin-=1; }
+    const yr = ymax-ymin; ymax += yr*0.08; ymin -= yr*0.08;
+    const sx = x => P + (x-xmin)/(xmax-xmin)*(W-P-12);
+    const sy = y => H-P + (y-ymin)/(ymax-ymin)*(P+28-H);
+    // grid + axes
+    ctx.strokeStyle = '#222a36'; ctx.fillStyle = '#8b97a8';
+    ctx.font = '11px ui-monospace,Consolas,monospace'; ctx.lineWidth = 1;
+    const fmt = v => Math.abs(v)>=1000||((Math.abs(v)<0.01)&&v!==0) ? v.toExponential(1) : +v.toPrecision(3);
+    for(let i=0;i<=4;i++){
+      const yv = ymin + (ymax-ymin)*i/4, gy = sy(yv);
+      ctx.beginPath(); ctx.moveTo(P,gy); ctx.lineTo(W-12,gy); ctx.stroke();
+      ctx.fillText(fmt(yv), 4, gy+4);
+    }
+    for(let i=0;i<=5;i++){
+      const xv = xmin + (xmax-xmin)*i/5, gx = sx(xv);
+      ctx.beginPath(); ctx.moveTo(gx,28); ctx.lineTo(gx,H-P); ctx.stroke();
+      ctx.fillText(fmt(xv), gx-12, H-P+16);
+    }
+    // zero line
+    if(ymin<0 && ymax>0){
+      ctx.strokeStyle='#3a4450'; ctx.beginPath();
+      ctx.moveTo(P,sy(0)); ctx.lineTo(W-12,sy(0)); ctx.stroke();
+    }
+    // traces
+    for(const tr of traces){
+      ctx.strokeStyle = tr.color; ctx.lineWidth = tr.width||2;
+      ctx.beginPath();
+      for(let i=0;i<tr.x.length;i++){
+        const px=sx(tr.x[i]), py=sy(tr.y[i]);
+        i ? ctx.lineTo(px,py) : ctx.moveTo(px,py);
+      }
+      ctx.stroke();
+    }
+    // legend
+    let lx = P+8;
+    for(const tr of traces){
+      if(!tr.label) continue;
+      ctx.fillStyle = tr.color; ctx.fillRect(lx, 10, 18, 3);
+      ctx.fillStyle = '#dbe2ec'; ctx.fillText(tr.label, lx+24, 16);
+      lx += 24 + ctx.measureText(tr.label).width + 26;
+    }
+    // x label
+    ctx.fillStyle='#8b97a8'; ctx.fillText(this.opts.xlabel, W-30, H-6);
+  }
+}
+
+// engineering notation for slider readouts
+function eng(v, unit){
+  const pre = [[1e9,'G'],[1e6,'M'],[1e3,'k'],[1,''],[1e-3,'m'],[1e-6,'µ'],[1e-9,'n'],[1e-12,'p']];
+  for(const [m,p] of pre) if(Math.abs(v) >= m*0.9995) return +(v/m).toPrecision(3) + ' ' + p + unit;
+  return v.toExponential(2) + ' ' + unit;
+}
+
+// log-scale slider helper: range input 0..1000 ↔ [lo, hi] logarithmic
+function logVal(t, lo, hi){ return lo*Math.pow(hi/lo, t/1000); }
+function makeSlider(parent, {label, lo, hi, init, unit, oninput}){
+  const row = document.createElement('div'); row.className = 'ctl';
+  const t0 = Math.round(1000*Math.log(init/lo)/Math.log(hi/lo));
+  row.innerHTML = `<label>${label}</label><input type="range" min="0" max="1000" value="${t0}"><span class="val"></span>`;
+  parent.appendChild(row);
+  const inp = row.querySelector('input'), val = row.querySelector('.val');
+  const get = () => logVal(+inp.value, lo, hi);
+  const upd = () => { val.textContent = eng(get(), unit); };
+  inp.addEventListener('input', ()=>{ upd(); oninput(get()); });
+  upd();
+  return {get, set:(v)=>{ inp.value = Math.round(1000*Math.log(v/lo)/Math.log(hi/lo)); upd(); }};
+}
+
+// ---- self-tests (run with ?test=1) ----
+const SELFTESTS = [];
+function selftest(name, fn){ SELFTESTS.push({name, fn}); }
+
+selftest('rk4 RC charging matches 1-e^-1 at t=tau', ()=>{
+  const tau = 1, r = integrate((t,[v])=>[(1-v)/tau], [0], tau, 1000);
+  const v = r.y[r.y.length-1][0];
+  return Math.abs(v - (1 - Math.E**-1)) < 1e-6;
+});
+selftest('rk4 undamped LC conserves energy over 10 cycles', ()=>{
+  const L=1, C=1, w = 1/Math.sqrt(L*C);            // y=[q, i]
+  const f = (t,[q,i]) => [i, -q/(L*C)];
+  const r = integrate(f, [1,0], 10*2*Math.PI/w, 20000);
+  const E = ([q,i]) => q*q/(2*C) + L*i*i/2;
+  return Math.abs(E(r.y[r.y.length-1]) - E(r.y[0])) < 1e-6;
+});
+selftest('gaussSolve solves known 2x2 system', ()=>{
+  const x = gaussSolve([[2,1],[1,3]],[5,10]);
+  return Math.abs(x[0]-1) < 1e-12 && Math.abs(x[1]-3) < 1e-12;
+});
+
+function runSelfTests(){
+  let pass = 0;
+  for(const {name, fn} of SELFTESTS){
+    let ok = false;
+    try { ok = fn(); } catch(e){ console.error('SELFTEST ERROR', name, e); }
+    console.log((ok ? 'SELFTEST PASS' : 'SELFTEST FAIL') + ': ' + name);
+    if(ok) pass++;
+  }
+  console.log(`SELFTEST SUMMARY: ${pass}/${SELFTESTS.length} passed`);
+}
 
 // ============================================================
 // 2. data — CONNECTIONS                       (Task 3)
@@ -91,6 +250,7 @@
 // 5. boot
 // ============================================================
 document.getElementById('sim-root').innerHTML = '<h2>EE Pipeline Visualizer</h2><p class="note">Skeleton loaded.</p>';
+if(location.search.includes('test=1')) runSelfTests();
 </script>
 </body>
 </html>
