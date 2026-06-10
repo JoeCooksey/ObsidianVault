@@ -364,6 +364,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[OSRS Ironman Slayer Ladder]] — 58 black mask → 85 whip → 87 trident → 91 primordials → 93 occult → 95 lance; the mid-game spine, 100–200 hrs (developing)
 - [[Varlamore Ironman Unlocks]] — what changed vs classic routes: hunter rumours, blessed bone shards prayer, Moons of Peril gear, Fortis Colosseum (developing)
 
+### Gaming / League of Legends
+- [[LoL Improvement Practice System]] — volume-first practice system: one role / 2–3 champs, consistent schedule, warm-up, one focus goal, light VOD review, tilt protocol (developing)
+- [[Laning Fundamentals (LoL)]] — CS benchmarks (~80@10), last-hit mechanics, 4 trading templates by archetype, Practice Tool drills (developing)
+- [[Wave Management (LoL)]] — freeze / slow push / crash / bounce; wave state controls tempo and everything downstream (developing)
+- [[LoL Macro Play]] — five pillars (information/time/space/resources/conversion), objectives > KDA, 60-30-10 rule, win conditions (developing)
+- [[Vision Control (LoL)]] — phase-based ward maps, denial counts double, 3-placed/2-cleared per-game floor (developing)
+- [[Tilt (Esports)]] — biggest rank-limiter below Diamond; structural countermeasures: game sets, stop-loss, mute, grade decisions not LP (developing)
+
 ### Hobbies / Lifestyle
 - [[Dash Stirring Popcorn Maker — Guide and Recipes]] — how to get the best popcorn from the Dash SmartStore oil stirring popper: base method + ratios (1 tbsp oil per ¼ cup kernels), 7 tips, and 10 recipes (movie butter, kettle corn, caramel, cheddar, chili-lime, etc.) (complete)
 - [[Jiu-Jitsu Gyms — Livermore and Tempe]] — top BJJ academies in both home bases; Livermore (Darcio Lira, Charles Gracie) + Tempe/ASU (Gustavo Dantas, Dark Matter); free-trial playbook + pricing (reference)
