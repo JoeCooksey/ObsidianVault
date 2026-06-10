@@ -39,10 +39,11 @@
   .eq{background:var(--panel2);border:1px solid var(--grid);border-radius:8px;padding:12px 18px;margin:12px 0;font:16px/1.8 ui-monospace,Consolas,monospace;overflow-x:auto;white-space:nowrap}
   .eq .hl{color:var(--glow)} .eq .dim{color:var(--muted)}
   .controls{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px 26px;margin:14px 0;background:var(--panel);border:1px solid var(--grid);border-radius:8px;padding:14px 18px}
-  .ctl{display:flex;align-items:center;gap:10px;font-size:13.5px}
-  .ctl label{min-width:74px;color:var(--muted)}
-  .ctl input[type=range]{flex:1;accent-color:var(--accent)}
-  .ctl .val{min-width:78px;text-align:right;font-family:ui-monospace,Consolas,monospace;color:var(--ink)}
+  .ctl{font-size:13.5px}
+  .ctl .top{display:flex;justify-content:space-between;margin-bottom:2px}
+  .ctl label{color:var(--muted)}
+  .ctl input[type=range]{width:100%;accent-color:var(--accent)}
+  .ctl .val{font-family:ui-monospace,Consolas,monospace;color:var(--ink)}
   .chips{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
   .chip{background:var(--panel2);border:1px solid var(--grid);border-radius:999px;padding:3px 13px;font:13px ui-monospace,Consolas,monospace}
   .chip b{color:var(--glow);font-weight:600}
@@ -192,7 +193,7 @@ function logVal(t, lo, hi){ return lo*Math.pow(hi/lo, t/1000); }
 function makeSlider(parent, {label, lo, hi, init, unit, oninput}){
   const row = document.createElement('div'); row.className = 'ctl';
   const t0 = Math.round(1000*Math.log(init/lo)/Math.log(hi/lo));
-  row.innerHTML = `<label>${label}</label><input type="range" min="0" max="1000" value="${t0}"><span class="val"></span>`;
+  row.innerHTML = `<div class="top"><label>${label}</label><span class="val"></span></div><input type="range" min="0" max="1000" value="${t0}">`;
   parent.appendChild(row);
   const inp = row.querySelector('input'), val = row.querySelector('.val');
   const get = () => logVal(+inp.value, lo, hi);
@@ -368,8 +369,144 @@ function show(viewId){
 }
 
 // ============================================================
-// 4. sims                                     (Tasks 4-7)
+// 4. sims
 // ============================================================
+
+// ---------- 4a. RC / RLC transients ----------
+// Series RLC step response, state y = [vC, iL]:
+//   vC' = i/C ;  i' = (Vs - vC - R·i)/L        (KVL written as an ODE)
+function rlcDeriv(R, L, C, Vs){ return (t,[v,i]) => [i/C, (Vs - v - R*i)/L]; }
+// RC: vC' = (Vs - vC)/(RC)
+function rcDeriv(R, C, Vs){ return (t,[v]) => [(Vs - v)/(R*C)]; }
+
+function rlcZeta(R,L,C){ return (R/2)*Math.sqrt(C/L); }
+function classifyZeta(z){
+  if(Math.abs(z-1) < 0.02) return 'critically damped';
+  return z < 1 ? 'underdamped' : 'overdamped';
+}
+
+// Exact step response of series RLC (vC across C, i through loop).
+// Closed form is used for plotting because large ζ makes the ODE stiff
+// (fast pole ≈ 2ζω₀ blows past RK4's stability limit at plot step sizes).
+function rlcStep(R, L, C, Vs, t){
+  const w0 = 1/Math.sqrt(L*C), z = rlcZeta(R,L,C);
+  if(Math.abs(z-1) < 1e-6){               // critically damped
+    const e = Math.exp(-w0*t);
+    return [Vs*(1 - e*(1 + w0*t)), (Vs/L)*t*e];
+  }
+  if(z < 1){                              // underdamped
+    const s = z*w0, wd = w0*Math.sqrt(1-z*z), e = Math.exp(-s*t);
+    return [Vs*(1 - e*(Math.cos(wd*t) + s/wd*Math.sin(wd*t))),
+            (Vs/(L*wd))*e*Math.sin(wd*t)];
+  }
+  const q = w0*Math.sqrt(z*z-1);          // overdamped: real poles s1, s2
+  const s1 = -z*w0 + q, s2 = -z*w0 - q;
+  return [Vs*(1 - (s2*Math.exp(s1*t) - s1*Math.exp(s2*t))/(s2-s1)),
+          (Vs/(L*(s1-s2)))*(Math.exp(s1*t) - Math.exp(s2*t))];
+}
+
+SIMS.rlc = {
+  title: 'Transients — every L/C circuit is an ODE',
+  why: `<b>Calculus → Diff Eq → Circuits.</b> The component laws ARE derivatives — <b>i = C dv/dt</b>,
+    <b>v = L di/dt</b> — so the moment a capacitor or inductor enters a circuit, KVL stops being algebra
+    and becomes a differential equation. One storage element → first-order (RC charging, filters);
+    two → second-order (RLC ringing, resonance). The damping ratio ζ you set below is the same number
+    that becomes pole locations in Signals (350) and Control (480).
+    <span class="pages">Wiki: Calculus in Electrical Engineering · Differential Equations in Electrical Engineering</span>`,
+  mount(root){
+    const Vs = 5;
+    let mode = 'rlc';
+    const seg = document.createElement('div'); seg.className = 'row';
+    seg.innerHTML = `<button class="seg" data-m="rc">RC — first order</button>
+                     <button class="seg on" data-m="rlc">RLC — second order</button>
+                     <button id="rlc-reset">Reset values</button>`;
+    root.appendChild(seg);
+    const eq = document.createElement('div'); eq.className = 'eq'; root.appendChild(eq);
+    const ctls = document.createElement('div'); ctls.className = 'controls'; root.appendChild(ctls);
+    const chips = document.createElement('div'); chips.className = 'chips'; root.appendChild(chips);
+    const cv = document.createElement('canvas'); cv.width = 780; cv.height = 360; root.appendChild(cv);
+    const note = document.createElement('p'); note.className = 'note'; root.appendChild(note);
+    const plot = new Plot(cv, {xlabel:'t (s)'});
+
+    const DEF = {R:100, L:0.1, C:1e-5};
+    let sR, sL, sC;
+    const update = () => {
+      const R = sR.get(), L = sL.get(), C = sC.get();
+      if(mode === 'rc'){
+        const tau = R*C;
+        const r = integrate(rcDeriv(R,C,Vs), [0], 6*tau, 1500);
+        plot.draw([
+          {x:r.t, y:r.y.map(s=>s[0]), color:'#7ce38b', label:'v_C (V)'},
+          {x:r.t, y:r.y.map(s=>(Vs-s[0])), color:'#ffb454', label:'i·R = Vs−v_C (V)'},
+        ]);
+        eq.innerHTML = `RC·dv/dt + v = Vs &nbsp;&nbsp;<span class="dim">→</span>&nbsp;
+          <span class="hl">(${eng(R*C,'s')})</span>·dv/dt + v = ${Vs} &nbsp;
+          <span class="dim">solution: v(t) = ${Vs}(1 − e<sup>−t/τ</sup>)</span>`;
+        chips.innerHTML = `<span class="chip">τ = RC = <b>${eng(tau,'s')}</b></span>
+          <span class="chip">v(τ) = 63.2% of Vs</span><span class="chip">~settled at 5τ = <b>${eng(5*tau,'s')}</b></span>`;
+        note.textContent = 'The capacitor charges along the universal exponential — same curve as heating, RC filters, and first-order everything. Green: capacitor voltage. Orange: resistor drop (they always sum to Vs).';
+      } else {
+        const w0 = 1/Math.sqrt(L*C), z = rlcZeta(R,L,C);
+        const slowRate = z < 1 ? z*w0 : w0*(z - Math.sqrt(z*z-1));
+        const tEnd = z < 1 ? Math.min(8/Math.max(slowRate,1e-9), 80/w0) : 8/slowRate;
+        const N = 1500, ts = [], vs = [], is = [];
+        for(let k=0;k<=N;k++){
+          const t = tEnd*k/N, [v,i] = rlcStep(R,L,C,Vs,t);
+          ts.push(t); vs.push(v); is.push(i);
+        }
+        const Z0 = Math.sqrt(L/C);
+        plot.draw([
+          {x:ts, y:vs, color:'#7ce38b', label:'v_C (V)'},
+          {x:ts, y:is.map(i=>i*Z0), color:'#ffb454', label:'i × Z₀ (V)'},
+        ]);
+        eq.innerHTML = `LC·d²v/dt² + RC·dv/dt + v = Vs &nbsp;&nbsp;<span class="dim">→</span>&nbsp;
+          <span class="hl">(${eng(L*C,'s²')})</span>·v″ + <span class="hl">(${eng(R*C,'s')})</span>·v′ + v = ${Vs}`;
+        const cls = classifyZeta(z);
+        chips.innerHTML = `<span class="chip">ω₀ = 1/√(LC) = <b>${eng(w0,'rad/s')}</b></span>
+          <span class="chip">f₀ = <b>${eng(w0/(2*Math.PI),'Hz')}</b></span>
+          <span class="chip">ζ = (R/2)√(C/L) = <b>${z.toPrecision(3)}</b></span>
+          <span class="chip cls-${cls.slice(0,5)==='under'?'under':(cls[0]==='c'?'crit':'over')}">→ <b>${cls}</b></span>`;
+        note.textContent = 'Drag R: small R rings (underdamped, ζ<1), large R creeps (overdamped, ζ>1), and R = 2√(L/C) is the knife edge (ζ=1). Z₀ = √(L/C) scales current into volts so both traces share an axis.';
+      }
+    };
+    const mk = (label,lo,hi,init,unit) => makeSlider(ctls, {label, lo, hi, init, unit, oninput:update});
+    sR = mk('R', 10, 10000, DEF.R, 'Ω');
+    sL = mk('L', 1e-3, 1, DEF.L, 'H');
+    sC = mk('C', 1e-7, 1e-3, DEF.C, 'F');
+    seg.querySelectorAll('.seg').forEach(b => b.addEventListener('click', ()=>{
+      mode = b.dataset.m;
+      seg.querySelectorAll('.seg').forEach(x=>x.classList.toggle('on', x===b));
+      update();
+    }));
+    seg.querySelector('#rlc-reset').addEventListener('click', ()=>{
+      sR.set(DEF.R); sL.set(DEF.L); sC.set(DEF.C); update();
+    });
+    update();
+  }
+};
+
+selftest('RC sim hits 63.2% of Vs at t=tau', ()=>{
+  const R=1000, C=1e-6, Vs=5, tau=R*C;
+  const r = integrate(rcDeriv(R,C,Vs), [0], tau, 2000);
+  return Math.abs(r.y[r.y.length-1][0] - Vs*(1-Math.E**-1)) < 1e-4*Vs;
+});
+selftest('analytic RLC step matches RK4 in non-stiff case', ()=>{
+  const R=100, L=0.1, C=1e-5, Vs=5;          // ζ=0.5, ω₀=1000 — comfortably non-stiff
+  const tEnd = 0.02, n = 4000;
+  const r = integrate(rlcDeriv(R,L,C,Vs), [0,0], tEnd, n);
+  let maxErr = 0;
+  for(let k=0;k<=n;k+=40){
+    const [v,i] = rlcStep(R,L,C,Vs,r.t[k]);
+    maxErr = Math.max(maxErr, Math.abs(v-r.y[k][0]), Math.abs(i-r.y[k][1])*Math.sqrt(L/C));
+  }
+  return maxErr < 1e-6;
+});
+selftest('RLC critical damping at R = 2*sqrt(L/C)', ()=>{
+  const L=0.1, C=1e-5, R = 2*Math.sqrt(L/C);
+  return classifyZeta(rlcZeta(R,L,C)) === 'critically damped'
+      && classifyZeta(rlcZeta(R/4,L,C)) === 'underdamped'
+      && classifyZeta(rlcZeta(R*4,L,C)) === 'overdamped';
+});
 
 // ============================================================
 // 5. boot
