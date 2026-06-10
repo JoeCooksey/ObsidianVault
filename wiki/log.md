@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-10] build | EE Pipeline Visualizer app
+- Built: `apps/ee-pipeline.html` — single-file interactive study app for [[Research - Math and Physics Pipeline to Electrical Engineering]]
+- Features: clickable SVG dependency graph (math track / physics track / EE course chain) routing to 4 simulations — RC/RLC transients (τ, ζ, ω₀, damping classes), mass-spring ↔ RLC analogy (mapped sliders, coinciding traces), nodal analysis Ax=b (live G matrix + Gaussian elimination, "what SPICE does"), E-field visualizer (draggable charges, Coulomb superposition)
+- Math verified: 10 in-page self-tests against closed-form solutions (open with `?test=1`); RLC plotting uses the exact analytic step response because large ζ makes the ODE stiff for fixed-step RK4
+- Zero dependencies, works offline — open directly in any browser
+- Pages updated: [[Research - Math and Physics Pipeline to Electrical Engineering]] (companion-app link)
+
 ## [2026-06-10] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 World: Iran-Israel ceasefire in "final throes" as Israel strikes Lebanon and Iran conditionally halts offensive. US: House passes $70B ICE/border enforcement package 214–212, ending months-long DHS funding lapse. Technology: Apple WWDC 2026 — Gemini-powered Siri, iOS 27, Tim Cook's final keynote. Science/Health: Eli Lilly oral GLP-1 Foundayo (orforglipron) pivotal trial data; LLY crosses $1.01T valuation. Wildcard: California governor primary — Trump-backed Steve Hilton vs. Xavier Becerra in November.
 
