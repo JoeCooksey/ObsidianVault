@@ -2,7 +2,7 @@
 type: synthesis
 title: "Research - Math and Physics Pipeline to Electrical Engineering"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-10
 tags:
   - research
   - electrical-engineering
