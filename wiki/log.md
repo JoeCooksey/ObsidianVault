@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-10] autoresearch | OSRS Ironman Progression Guide
+- Rounds: 3 | Searches: 4 | Sources fetched: 7
+- Pages created: [[OSRS Ironman Early Game]], [[OSRS Ironman Mid Game]], [[OSRS Ironman Late Game and Endgame]], [[OSRS Ironman Slayer Ladder]], [[Varlamore Ironman Unlocks]] + sources [[OSRS Wiki — Ironman Guide]], [[Ironman Efficiency Guide (ironman.guide)]], [[Ironman Meta — Progression Guides]], [[Ironman Meta — Varlamore Guide]]
+- Synthesis: [[Research - OSRS Ironman Progression Guide]]
+- Key finding: all sources converge on a 4-stage model with functional boundaries — Barrows gloves ends early game, quest cape + 87 Slayer ends mid game, bowfa from Corrupted Gauntlet (the single highest-leverage iron grind) unlocks the raid stage; Varlamore content (bone shards, Moons of Peril, hunter rumours) patched the classic route's prayer cost and mid-game gear drought.
+- New index section: Gaming / OSRS
+
 ## [2026-06-10] build | EE Pipeline Visualizer app
 - Built: `apps/ee-pipeline.html` — single-file interactive study app for [[Research - Math and Physics Pipeline to Electrical Engineering]]
 - Features: clickable SVG dependency graph (math track / physics track / EE course chain) routing to 4 simulations — RC/RLC transients (τ, ζ, ω₀, damping classes), mass-spring ↔ RLC analogy (mapped sliders, coinciding traces), nodal analysis Ax=b (live G matrix + Gaussian elimination, "what SPICE does"), E-field visualizer (draggable charges, Coulomb superposition)
