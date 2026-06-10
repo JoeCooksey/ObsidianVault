@@ -11,6 +11,11 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-10] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+World: Iran-Israel ceasefire in "final throes" as Israel strikes Lebanon and Iran conditionally halts offensive. US: House passes $70B ICE/border enforcement package 214–212, ending months-long DHS funding lapse. Technology: Apple WWDC 2026 — Gemini-powered Siri, iOS 27, Tim Cook's final keynote. Science/Health: Eli Lilly oral GLP-1 Foundayo (orforglipron) pivotal trial data; LLY crosses $1.01T valuation. Wildcard: California governor primary — Trump-backed Steve Hilton vs. Xavier Becerra in November.
+
+## [2026-06-10] newsletter | EE Daily — June 10, 2026
+Top stories: NVIDIA RTX Spark Grace Blackwell superchip (1 PFLOP AI, 128 GB unified memory, Apple as AI client); Apple WWDC 2026 Gemini-powered Siri and Tim Cook's final keynote (EE angle: on-device vs cloud inference); China SiC 8-inch laser lift-off breaks 40 µm material loss barrier; AI-designed thermoelectric generators hit record ZT efficiency (Nature); 2D ferroelectric CuInP₂S₆ neuromorphic logic. Daily research topic: Wide-Bandgap Device Selection for Data Center Power — SiC vs GaN 2026 decision matrix.
 ## [2026-06-09] ingest | ChatGPT — Ego Is the Enemy Part 1 Sparring
 - Source: `.raw/articles/chatgpt-ego-is-the-enemy-part1-sparring-2026-06-09.md` (fetched from ChatGPT share link via Playwright)
 - Summary: [[ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06)]]
