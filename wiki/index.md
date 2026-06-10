@@ -357,6 +357,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Bulk and Cut Decision Framework]] — BF%-based decision rule; lean bulk/cut/recomp protocols; calorie math; cycle structure (developing)
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
 
+### Gaming / OSRS (Old School RuneScape)
+- [[OSRS Ironman Early Game]] — logistics-first opening checklist: quest XP chain, Wintertodt, fairy rings/Ardy cloak/graceful, Kingdom, 43 Prayer via bone shards (developing)
+- [[OSRS Ironman Mid Game]] — the big four (Barrows gloves, fire cape, 70 Prayer, quest cape) + melee/ranged/magic gear matrix + Moons of Peril (developing)
+- [[OSRS Ironman Late Game and Endgame]] — SotE → camp Corrupted Gauntlet (bowfa) → solo boss circuit → ToA-first raid order → infernal/quiver/mega-rares (developing)
+- [[OSRS Ironman Slayer Ladder]] — 58 black mask → 85 whip → 87 trident → 91 primordials → 93 occult → 95 lance; the mid-game spine, 100–200 hrs (developing)
+- [[Varlamore Ironman Unlocks]] — what changed vs classic routes: hunter rumours, blessed bone shards prayer, Moons of Peril gear, Fortis Colosseum (developing)
+
 ### Hobbies / Lifestyle
 - [[Dash Stirring Popcorn Maker — Guide and Recipes]] — how to get the best popcorn from the Dash SmartStore oil stirring popper: base method + ratios (1 tbsp oil per ¼ cup kernels), 7 tips, and 10 recipes (movie butter, kettle corn, caramel, cheddar, chili-lime, etc.) (complete)
 - [[Jiu-Jitsu Gyms — Livermore and Tempe]] — top BJJ academies in both home bases; Livermore (Darcio Lira, Charles Gracie) + Tempe/ASU (Gustavo Dantas, Dark Matter); free-trial playbook + pricing (reference)
