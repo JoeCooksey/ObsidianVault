@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-10] autoresearch | How to Improve at League of Legends
+- Rounds: 2 | Sources fetched: 7 (run interrupted by token limit at ~10:55; synthesis + filing completed on resume)
+- Pages created: [[LoL Improvement Practice System]], [[Laning Fundamentals (LoL)]], [[Wave Management (LoL)]], [[LoL Macro Play]], [[Vision Control (LoL)]], [[Tilt (Esports)]] + sources [[Martončik 2024 — Psychological Predictors of Esports Success]], [[Bennett 2024 — Practice Behaviours of Expert LoL Players]], [[Hotspawn — How to Get Good at LoL]], [[Dignitas — LoL Ranked Climbing and Tilt Guides]], [[Boosteria — LoL Macro Play Guide]], [[Boosteria — LoL CSing Fundamentals]], [[WeCoach — Vision Control Ward Guide]]
+- Synthesis: [[Research - How to Improve at League of Legends]]
+- Key finding: a registered report (N=411) finds deliberate practice has a NULL effect on rank while plain volume of play predicts it (r=.26), and Riot API data on 913 experts shows Challenger's signature is consistent daily volume — so the practice system is volume-first with structure (one role/2–3 champs, focus goals, light VOD review, tilt protocol) only at the margin; skill ladder = laning → wave management → macro → vision.
+- New index section: Gaming / League of Legends
+
 ## [2026-06-10] autoresearch | OSRS Ironman Progression Guide
 - Rounds: 3 | Searches: 4 | Sources fetched: 7
 - Pages created: [[OSRS Ironman Early Game]], [[OSRS Ironman Mid Game]], [[OSRS Ironman Late Game and Endgame]], [[OSRS Ironman Slayer Ladder]], [[Varlamore Ironman Unlocks]] + sources [[OSRS Wiki — Ironman Guide]], [[Ironman Efficiency Guide (ironman.guide)]], [[Ironman Meta — Progression Guides]], [[Ironman Meta — Varlamore Guide]]
