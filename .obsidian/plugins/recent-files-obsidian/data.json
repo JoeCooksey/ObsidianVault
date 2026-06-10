@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "OSRS Ironman Mid Game",
+      "path": "wiki/concepts/OSRS Ironman Mid Game.md"
+    },
+    {
+      "basename": "OSRS Ironman Early Game",
+      "path": "wiki/concepts/OSRS Ironman Early Game.md"
+    },
+    {
+      "basename": "Research - OSRS Ironman Progression Guide",
+      "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
+    },
+    {
       "basename": "Stock Briefing 2026-06-10",
       "path": "wiki/questions/Stock Briefing 2026-06-10.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Jiu-Jitsu Gyms — Livermore and Tempe",
       "path": "wiki/questions/Jiu-Jitsu Gyms — Livermore and Tempe.md"
-    },
-    {
-      "basename": "Physical AI Build Guide (Roadmap for Joe)",
-      "path": "wiki/concepts/Physical AI Build Guide (Roadmap for Joe).md"
-    },
-    {
-      "basename": "Research - Most Useful Topics to Learn Now (for Joe)",
-      "path": "wiki/questions/Research - Most Useful Topics to Learn Now (for Joe).md"
-    },
-    {
-      "basename": "Ego Is the Enemy - Ryan Holiday",
-      "path": "wiki/books/Ego Is the Enemy - Ryan Holiday.md"
     }
   ],
   "omittedPaths": [],
