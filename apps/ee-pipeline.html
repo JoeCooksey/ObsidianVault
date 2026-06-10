@@ -344,9 +344,10 @@ function renderGraph(){
 }
 
 let currentView = null;
+let viewEpoch = 0;   // bumped on every navigation; running animations check it and stop
 function show(viewId){
   if(!viewId) return;
-  currentView = viewId;
+  currentView = viewId; viewEpoch++;
   // highlight graph
   svg.querySelectorAll('.gnode').forEach(g =>
     g.classList.toggle('active', g.dataset.view === viewId));
@@ -484,6 +485,166 @@ SIMS.rlc = {
     update();
   }
 };
+
+// ---------- 4b. mass-spring ↔ RLC analogy ----------
+// Identical second-order ODEs:  m·x″ + b·x′ + k·x = 0   and   L·q″ + R·q′ + q/C = 0
+// with m↔L, b↔R, k↔1/C, x↔q, x′↔i.
+function msdDeriv(m, b, k){ return (t,[x,v]) => [v, (-k*x - b*v)/m]; }
+
+function analogySolve(m, b, k){
+  const w0 = Math.sqrt(k/m), z = b/(2*Math.sqrt(k*m));
+  const slowRate = z < 1 ? Math.max(z*w0, 1e-9) : w0*(z - Math.sqrt(z*z-1));
+  const tEnd = Math.min(8/slowRate, 60/w0);
+  const n = Math.min(20000, Math.max(2000, Math.ceil(1.5*tEnd*b/m)));  // keep h·(fast pole) stable
+  const mech = integrate(msdDeriv(m,b,k), [1,0], tEnd, n);             // x₀=1, released
+  const elec = integrate(msdDeriv(m,b,k), [1,0], tEnd, n);             // SAME equation: L=m, R=b, 1/C=k
+  return {mech, elec, tEnd, n, w0, z};
+}
+
+SIMS.analogy = {
+  title: 'Mechanics is the rehearsal — same ODE, different costume',
+  why: `<b>Physics 1 → Circuits.</b> A mass on a damped spring and a series RLC circuit obey the
+    <b>same second-order differential equation</b> — mass↔inductance (inertia), damping↔resistance
+    (dissipation), spring stiffness↔1/capacitance (restoring), position↔charge, velocity↔current.
+    Every slider below moves <i>both</i> systems at once, and their responses plot as one curve —
+    because mathematically there is only one system. Learning oscillation on blocks and springs IS
+    learning circuit transients in disguise.
+    <span class="pages">Wiki: Classical Mechanics in Electrical Engineering</span>`,
+  mount(root){
+    const eq = document.createElement('div'); eq.className = 'eq'; root.appendChild(eq);
+    const ctls = document.createElement('div'); ctls.className = 'controls'; root.appendChild(ctls);
+    const chips = document.createElement('div'); chips.className = 'chips'; root.appendChild(chips);
+    const row = document.createElement('div'); row.className = 'row'; root.appendChild(row);
+    const cvM = document.createElement('canvas'); cvM.width = 380; cvM.height = 190; row.appendChild(cvM);
+    const cvE = document.createElement('canvas'); cvE.width = 380; cvE.height = 190; row.appendChild(cvE);
+    const cvP = document.createElement('canvas'); cvP.width = 780; cvP.height = 280; root.appendChild(cvP);
+    const note = document.createElement('p'); note.className = 'note';
+    note.textContent = 'Watch the mass and the capacitor charge move in lockstep. The thick green band is x(t); the thin pink line riding exactly inside it is q(t) — they differ by nothing.';
+    root.appendChild(note);
+    const plot = new Plot(cvP, {xlabel:'t (s)'});
+
+    let sol = null, sm, sb, sk;
+    const update = () => {
+      const m = sm.get(), b = sb.get(), k = sk.get();
+      sol = analogySolve(m,b,k);
+      eq.innerHTML =
+        `<span style="color:#ffb454">m</span>·x″ + <span style="color:#ffb454">b</span>·x′ + <span style="color:#ffb454">k</span>·x = 0
+         &nbsp;&nbsp;<span class="dim">⟺</span>&nbsp;&nbsp;
+         <span style="color:#7ce38b">L</span>·q″ + <span style="color:#7ce38b">R</span>·q′ + <span style="color:#7ce38b">(1/C)</span>·q = 0
+         <br><span class="dim">m=${m.toPrecision(3)} ↔ L=${m.toPrecision(3)}&nbsp;&nbsp;·&nbsp;&nbsp;b=${b.toPrecision(3)} ↔ R=${b.toPrecision(3)}&nbsp;&nbsp;·&nbsp;&nbsp;k=${k.toPrecision(3)} ↔ 1/C=${k.toPrecision(3)}</span>`;
+      const cls = classifyZeta(sol.z);
+      chips.innerHTML = `<span class="chip">ω₀ = √(k/m) = 1/√(LC) = <b>${sol.w0.toPrecision(3)} rad/s</b></span>
+        <span class="chip">ζ = <b>${sol.z.toPrecision(3)}</b></span>
+        <span class="chip cls-${cls[0]==='u'?'under':(cls[0]==='c'?'crit':'over')}">→ <b>${cls}</b></span>`;
+      plot.draw([
+        {x:sol.mech.t, y:sol.mech.y.map(s=>s[0]), color:'#7ce38b66', label:'x(t) — mass position', width:7},
+        {x:sol.elec.t, y:sol.elec.y.map(s=>s[0]), color:'#ff6e9c', label:'q(t) — capacitor charge', width:1.6},
+      ]);
+    };
+    const mk = (label,lo,hi,init,unit) => makeSlider(ctls, {label, lo, hi, init, unit, oninput:update});
+    sm = mk('m ↔ L', 0.1, 5, 1, 'kg ↔ H');
+    sb = mk('b ↔ R', 0.05, 10, 0.4, 'N·s/m ↔ Ω');
+    sk = mk('k ↔ 1/C', 1, 50, 9, 'N/m ↔ 1/F');
+    update();
+
+    // --- animations ---
+    const myEpoch = viewEpoch;
+    const mctx = cvM.getContext('2d'), ectx = cvE.getContext('2d');
+    let dotP = 0, lastTs = null;
+    function drawMech(x){
+      const W = cvM.width, H = cvM.height; mctx.clearRect(0,0,W,H);
+      const wallX = 26, eqX = 215, px = eqX + x*95, midY = H/2;
+      mctx.fillStyle = '#8b97a8'; mctx.font = '12px system-ui';
+      mctx.fillText('MECHANICAL', 12, 20);
+      mctx.strokeStyle = '#566175'; mctx.lineWidth = 3;
+      mctx.beginPath(); mctx.moveTo(wallX, 28); mctx.lineTo(wallX, H-28); mctx.stroke();
+      // spring zigzag wall → mass
+      mctx.strokeStyle = '#ffb454'; mctx.lineWidth = 2; mctx.beginPath();
+      mctx.moveTo(wallX, midY-18);
+      const nCoil = 9, span = (px-24) - wallX;
+      for(let i=1;i<=nCoil;i++)
+        mctx.lineTo(wallX + span*i/nCoil, midY-18 + (i%2 ? -10 : 10));
+      mctx.lineTo(px-24, midY-18); mctx.stroke();
+      // damper (piston) wall → mass, lower line
+      mctx.strokeStyle = '#5aa9ff'; mctx.beginPath();
+      mctx.moveTo(wallX, midY+22); mctx.lineTo(wallX+span*0.45, midY+22);
+      mctx.rect(wallX+span*0.45, midY+14, 26, 16);
+      mctx.moveTo(wallX+span*0.45+13, midY+22); mctx.lineTo(px-24, midY+22);
+      mctx.stroke();
+      // mass
+      mctx.fillStyle = '#dbe2ec'; mctx.fillRect(px-24, midY-30, 48, 60);
+      mctx.fillStyle = '#0e1116'; mctx.font = 'bold 15px system-ui';
+      mctx.fillText('m', px-7, midY+5);
+      // equilibrium tick
+      mctx.strokeStyle = '#3a4450'; mctx.setLineDash([3,4]);
+      mctx.beginPath(); mctx.moveTo(eqX, 30); mctx.lineTo(eqX, H-22); mctx.stroke();
+      mctx.setLineDash([]);
+    }
+    function drawElec(q, i){
+      const W = cvE.width, H = cvE.height; ectx.clearRect(0,0,W,H);
+      const L0 = 40, R0 = W-46, T0 = 44, B0 = H-34;
+      ectx.fillStyle = '#8b97a8'; ectx.font = '12px system-ui';
+      ectx.fillText('ELECTRICAL — series RLC', 12, 20);
+      ectx.strokeStyle = '#566175'; ectx.lineWidth = 2;
+      ectx.strokeRect(L0, T0, R0-L0, B0-T0);
+      // R zigzag (top)
+      const rx = (L0+R0)/2 - 38; ectx.strokeStyle = '#5aa9ff'; ectx.beginPath();
+      ectx.moveTo(rx, T0);
+      for(let s=1;s<=6;s++) ectx.lineTo(rx + s*12, T0 + (s%2 ? -9 : 9));
+      ectx.lineTo(rx+76, T0); ectx.stroke();
+      ectx.fillStyle = '#5aa9ff'; ectx.fillText('R (damping)', rx+2, T0-16);
+      // L coil (right side)
+      ectx.strokeStyle = '#ffb454'; ectx.beginPath();
+      const ly = (T0+B0)/2 - 34;
+      for(let s=0;s<4;s++) ectx.arc(R0, ly + s*18 + 9, 9, -Math.PI/2, Math.PI/2);
+      ectx.stroke();
+      ectx.fillStyle = '#ffb454'; ectx.fillText('L (mass)', R0-66, (T0+B0)/2+4);
+      // C plates (bottom) with charge bars
+      const cx = (L0+R0)/2; ectx.strokeStyle = '#7ce38b'; ectx.lineWidth = 3;
+      ectx.beginPath(); ectx.moveTo(cx-10, B0-14); ectx.lineTo(cx-10, B0+14);
+      ectx.moveTo(cx+10, B0-14); ectx.lineTo(cx+10, B0+14); ectx.stroke();
+      // clear the loop wire between plates
+      ectx.strokeStyle = '#0e1116'; ectx.lineWidth = 4;
+      ectx.beginPath(); ectx.moveTo(cx-9, B0); ectx.lineTo(cx+9, B0); ectx.stroke();
+      ectx.fillStyle = '#7ce38b';
+      ectx.fillText('C (spring)  q=' + q.toFixed(2), cx-30, B0+28);
+      // charge fill: bar height ∝ |q|
+      const qb = 14*Math.min(Math.abs(q), 1.2);
+      ectx.fillStyle = q >= 0 ? '#7ce38b' : '#ff6e9c';
+      ectx.fillRect(cx-16, B0-qb, 4, 2*qb);
+      // current dot orbiting the loop, speed ∝ i
+      const per = 2*((R0-L0)+(B0-T0));
+      dotP = ((dotP + i*0.045) % 1 + 1) % 1;
+      let d = dotP*per, dx, dy;
+      if(d < R0-L0){ dx = L0+d; dy = T0; }
+      else if(d < (R0-L0)+(B0-T0)){ dx = R0; dy = T0 + (d-(R0-L0)); }
+      else if(d < 2*(R0-L0)+(B0-T0)){ dx = R0 - (d-(R0-L0)-(B0-T0)); dy = B0; }
+      else { dx = L0; dy = B0 - (d-2*(R0-L0)-(B0-T0)); }
+      ectx.fillStyle = '#ff6e9c';
+      ectx.beginPath(); ectx.arc(dx, dy, 5, 0, 7); ectx.fill();
+      ectx.fillStyle = '#8b97a8';
+      ectx.fillText('i = ' + i.toFixed(2), L0+6, T0+20);
+    }
+    function frame(ts){
+      if(viewEpoch !== myEpoch) return;          // view changed — stop
+      if(lastTs === null) lastTs = ts;
+      const wall = 9000;                          // ms per loop of the solution window
+      const tt = (ts % wall)/wall;
+      const idx = Math.min(sol.mech.t.length-1, Math.floor(tt*sol.mech.t.length));
+      const [x,v] = sol.mech.y[idx];
+      drawMech(x); drawElec(x, v);                // q ≡ x, i ≡ x′ by the analogy
+      requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+  }
+};
+
+selftest('analogy: mapped mechanical and electrical responses coincide', ()=>{
+  const {mech, elec} = analogySolve(1.3, 0.7, 12);
+  let maxd = 0;
+  for(let i=0;i<mech.y.length;i++) maxd = Math.max(maxd, Math.abs(mech.y[i][0]-elec.y[i][0]));
+  return maxd < 1e-12;
+});
 
 selftest('RC sim hits 63.2% of Vs at t=tau', ()=>{
   const R=1000, C=1e-6, Vs=5, tau=R*C;
