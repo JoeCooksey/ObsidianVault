@@ -785,6 +785,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Ironman Meta — Progression Guides]] — stage milestones, slayer ladder, time estimates (50–100 hr early, 100–200 hr slayer) (medium)
 - [[Ironman Meta — Varlamore Guide]] — hunter rumours, bone shards, Moons of Peril, Colosseum for irons (medium)
 
+### Gaming / League of Legends (Sources)
+- [[Martončik 2024 — Psychological Predictors of Esports Success]] — registered report, N=411 LoL: deliberate practice null (r=-.01), volume predicts rank (r=.26) (high)
+- [[Bennett 2024 — Practice Behaviours of Expert LoL Players]] — Riot API data, 913 experts: Challenger = consistent daily volume, fewest zero days (medium)
+- [[Hotspawn — How to Get Good at LoL]] — Apr 2026 consensus skeleton: one role, small pool, objectives > kills, map awareness, laning (medium)
+- [[Dignitas — LoL Ranked Climbing and Tilt Guides]] — champion-pool math (~33 games/champ), warm-up, game sets, tilt protocol (medium)
+- [[Boosteria — LoL Macro Play Guide]] — five macro pillars, wave states, tempo, 60-30-10 rule (medium)
+- [[Boosteria — LoL CSing Fundamentals]] — CS@10/15 metrics, trading templates, daily 20-min drill block (medium)
+- [[WeCoach — Vision Control Ward Guide]] — phase-based warding, six common mistakes (medium)
+
 ## Areas (Personal)
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
