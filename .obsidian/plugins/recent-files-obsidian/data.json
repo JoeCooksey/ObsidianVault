@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "OSRS Ironman Late Game and Endgame",
+      "path": "wiki/concepts/OSRS Ironman Late Game and Endgame.md"
+    },
+    {
+      "basename": "Research - OSRS Ironman Progression Guide",
+      "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
+    },
+    {
       "basename": "OSRS Ironman Mid Game",
       "path": "wiki/concepts/OSRS Ironman Mid Game.md"
     },
@@ -9,20 +21,12 @@
       "path": "wiki/concepts/OSRS Ironman Early Game.md"
     },
     {
-      "basename": "Research - OSRS Ironman Progression Guide",
-      "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
-    },
-    {
       "basename": "Stock Briefing 2026-06-10",
       "path": "wiki/questions/Stock Briefing 2026-06-10.md"
     },
     {
       "basename": "Research - Math and Physics Pipeline to Electrical Engineering",
       "path": "wiki/questions/Research - Math and Physics Pipeline to Electrical Engineering.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "The Let Them Theory - Mel Robbins",
@@ -195,10 +199,6 @@
     {
       "basename": "hot",
       "path": "wiki/hot.md"
-    },
-    {
-      "basename": "Jiu-Jitsu Gyms — Livermore and Tempe",
-      "path": "wiki/questions/Jiu-Jitsu Gyms — Livermore and Tempe.md"
     }
   ],
   "omittedPaths": [],
