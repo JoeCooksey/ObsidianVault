@@ -31,6 +31,8 @@ sources:
 
 The six "weed-out" courses are not a hazing ritual — they are one connected pipeline. **The math sequence builds the language EE is written in (calculus → differential equations → linear algebra), and the physics sequence builds the content it describes (mechanics → E&M → modern physics).** Every upper-division EE course is one of these six wearing a lab coat.
 
+> [!tip] 🎛 **Companion app:** [ee-pipeline.html](../../apps/ee-pipeline.html) — interactive simulations of these connections (clickable dependency graph, RC/RLC transients, mass-spring ↔ RLC analogy, nodal Ax=b, E-field visualizer). Open in any browser; add `?test=1` to run the built-in math self-tests.
+
 ## The Dependency Graph
 
 ```
