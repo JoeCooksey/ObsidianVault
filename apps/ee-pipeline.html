@@ -764,6 +764,139 @@ selftest('nodal: equal resistors give monotonically dropping voltages', ()=>{
   return v[0] > v[1] && v[1] > v[2] && v[2] > 0;
 });
 
+// ---------- 4d. electric fields: Coulomb superposition ----------
+function eFieldAt(charges, x, y){
+  let Ex = 0, Ey = 0;
+  for(const c of charges){
+    const dx = x - c.x, dy = y - c.y;
+    const r2 = dx*dx + dy*dy + 25;          // softened to avoid the singularity
+    const inv = c.q / (r2 * Math.sqrt(r2)); // q·r̂/r² = q·r⃗/r³
+    Ex += 8e4 * dx * inv; Ey += 8e4 * dy * inv;
+  }
+  return [Ex, Ey];
+}
+
+SIMS.fields = {
+  title: 'Fields — every component is E&M wearing a package',
+  why: `<b>Calc 3 + Physics 2 → EM (340) → components.</b> Point charges make fields by
+    <b>Coulomb's law + superposition</b> — and vector calculus exists in the EE curriculum largely
+    because Maxwell's equations needed div and curl to say this compactly. Trap this field between
+    two plates and you've <i>derived</i> a capacitor; wiggle the charges and the field ripples away
+    at c — that's an antenna. Drag the charges below; double-click one to flip its sign.
+    <span class="pages">Wiki: Electromagnetism Foundations for EE · Calculus in Electrical Engineering</span>`,
+  mount(root){
+    const eq = document.createElement('div'); eq.className = 'eq';
+    eq.innerHTML = `E⃗ = Σᵢ k·qᵢ·r̂ᵢ / rᵢ² &nbsp;&nbsp;<span class="dim">(superposition — fields just add; Gauss's law ∇·E = ρ/ε₀ is the same fact in Maxwell form)</span>`;
+    root.appendChild(eq);
+    const row = document.createElement('div'); row.className = 'row';
+    row.innerHTML = `<button id="f-add-p">＋ add positive</button><button id="f-add-n">− add negative</button>
+      <button id="f-dipole">Reset dipole</button><button id="f-clear">Clear</button>`;
+    root.appendChild(row);
+    const cv = document.createElement('canvas'); cv.width = 780; cv.height = 460;
+    cv.style.cursor = 'grab'; root.appendChild(cv);
+    const note = document.createElement('p'); note.className = 'note';
+    note.textContent = 'Arrows: field direction, brightness ∝ field strength (log scale). Lines: field lines traced out of + charges (into − charges). Drag charges; double-click to flip sign.';
+    root.appendChild(note);
+    const ctx = cv.getContext('2d');
+
+    let charges = [];
+    const dipole = () => { charges = [{x:270,y:230,q:1},{x:510,y:230,q:-1}]; };
+    dipole();
+
+    function render(){
+      ctx.clearRect(0,0,cv.width,cv.height);
+      // vector grid
+      const step = 30;
+      for(let gx = step/2; gx < cv.width; gx += step){
+        for(let gy = step/2; gy < cv.height; gy += step){
+          const [Ex,Ey] = eFieldAt(charges,gx,gy);
+          const m = Math.hypot(Ex,Ey);
+          if(m < 1e-6) continue;
+          const len = Math.min(13, 3 + 3*Math.log10(1+m));
+          const a = Math.min(0.9, 0.12 + 0.2*Math.log10(1+m));
+          const ux = Ex/m, uy = Ey/m;
+          ctx.strokeStyle = `rgba(158,203,255,${a})`;
+          ctx.lineWidth = 1.2;
+          ctx.beginPath();
+          ctx.moveTo(gx-ux*len/2, gy-uy*len/2);
+          ctx.lineTo(gx+ux*len/2, gy+uy*len/2);
+          ctx.stroke();
+          ctx.beginPath();                       // arrowhead
+          ctx.moveTo(gx+ux*len/2, gy+uy*len/2);
+          ctx.lineTo(gx+ux*len/2-uy*2.4-ux*3.5, gy+uy*len/2+ux*2.4-uy*3.5);
+          ctx.stroke();
+        }
+      }
+      // field lines from positive charges (or backwards from negatives if no positives)
+      const sources = charges.filter(c=>c.q>0);
+      const seeds = sources.length ? sources : charges.filter(c=>c.q<0);
+      const dir = sources.length ? 1 : -1;
+      ctx.strokeStyle = 'rgba(255,180,84,0.55)'; ctx.lineWidth = 1.3;
+      for(const c of seeds){
+        const nLines = 14;
+        for(let k=0;k<nLines;k++){
+          const th = 2*Math.PI*k/nLines;
+          let x = c.x + 14*Math.cos(th), y = c.y + 14*Math.sin(th);
+          ctx.beginPath(); ctx.moveTo(x,y);
+          for(let s=0;s<700;s++){
+            const [Ex,Ey] = eFieldAt(charges,x,y);
+            const m = Math.hypot(Ex,Ey);
+            if(m < 1e-7) break;
+            x += dir*4*Ex/m; y += dir*4*Ey/m;
+            ctx.lineTo(x,y);
+            if(x<0||y<0||x>cv.width||y>cv.height) break;
+            if(charges.some(o => o.q*dir < 0 && Math.hypot(x-o.x,y-o.y) < 13)) break;
+          }
+          ctx.stroke();
+        }
+      }
+      // charges
+      for(const c of charges){
+        ctx.fillStyle = c.q > 0 ? '#ff6e9c' : '#5aa9ff';
+        ctx.beginPath(); ctx.arc(c.x, c.y, 12, 0, 7); ctx.fill();
+        ctx.fillStyle = '#0e1116'; ctx.font = 'bold 16px ui-monospace,Consolas,monospace';
+        ctx.fillText(c.q > 0 ? '+' : '−', c.x-5, c.y+5.5);
+      }
+    }
+
+    const pos = ev => {
+      const r = cv.getBoundingClientRect();
+      return [(ev.clientX-r.left)*cv.width/r.width, (ev.clientY-r.top)*cv.height/r.height];
+    };
+    let drag = null;
+    cv.addEventListener('mousedown', ev=>{
+      const [x,y] = pos(ev);
+      drag = charges.find(c=>Math.hypot(x-c.x,y-c.y) < 16) || null;
+      if(drag) cv.style.cursor = 'grabbing';
+    });
+    cv.addEventListener('mousemove', ev=>{
+      if(!drag) return;
+      const [x,y] = pos(ev);
+      drag.x = Math.max(14, Math.min(cv.width-14, x));
+      drag.y = Math.max(14, Math.min(cv.height-14, y));
+      render();
+    });
+    window.addEventListener('mouseup', ()=>{ drag = null; cv.style.cursor = 'grab'; });
+    cv.addEventListener('dblclick', ev=>{
+      const [x,y] = pos(ev);
+      const c = charges.find(c=>Math.hypot(x-c.x,y-c.y) < 16);
+      if(c){ c.q = -c.q; render(); }
+    });
+    const rnd = v => v*(0.25 + 0.5*Math.random());
+    row.querySelector('#f-add-p').addEventListener('click', ()=>{ charges.push({x:rnd(cv.width)+cv.width/4, y:rnd(cv.height)+cv.height/4, q:1}); render(); });
+    row.querySelector('#f-add-n').addEventListener('click', ()=>{ charges.push({x:rnd(cv.width)+cv.width/4, y:rnd(cv.height)+cv.height/4, q:-1}); render(); });
+    row.querySelector('#f-dipole').addEventListener('click', ()=>{ dipole(); render(); });
+    row.querySelector('#f-clear').addEventListener('click', ()=>{ charges = []; render(); });
+    render();
+  }
+};
+
+selftest('fields: E cancels at midpoint of two equal positive charges', ()=>{
+  const ch = [{x:100,y:200,q:1},{x:300,y:200,q:1}];
+  const [Ex,Ey] = eFieldAt(ch, 200, 200);
+  return Math.hypot(Ex,Ey) < 1e-12;
+});
+
 selftest('RC sim hits 63.2% of Vs at t=tau', ()=>{
   const R=1000, C=1e-6, Vs=5, tau=R*C;
   const r = integrate(rcDeriv(R,C,Vs), [0], tau, 2000);
