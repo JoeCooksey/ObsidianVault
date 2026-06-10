@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EE Pipeline — Math &amp; Physics → Electrical Engineering</title>
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b24; --panel2:#1c2330; --ink:#dbe2ec; --muted:#8b97a8;
+    --math:#5aa9ff; --phys:#ffb454; --ee:#7ce38b; --accent:#ff6e9c;
+    --grid:#222a36; --glow:#9ecbff;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:15px/1.5 ui-sans-serif,system-ui,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);display:flex;height:100vh;overflow:hidden}
+  h1{font-size:17px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:4px 6px 10px}
+  h2{font-size:22px;margin:0 0 4px}
+  #sidebar{width:350px;min-width:310px;border-right:1px solid var(--grid);overflow-y:auto;padding:14px 10px;background:linear-gradient(180deg,#10141b,#0e1116)}
+  #main{flex:1;overflow-y:auto;padding:22px 30px 60px}
+  #graph{width:100%;display:block}
+  .legend{display:flex;gap:14px;font-size:12px;color:var(--muted);margin:2px 6px 8px}
+  .legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+  .legend .lm::before{background:var(--math)} .legend .lp::before{background:var(--phys)} .legend .le::before{background:var(--ee)}
+
+  /* graph elements */
+  .gnode rect{fill:var(--panel);stroke-width:1.5;rx:7;cursor:pointer;transition:filter .15s}
+  .gnode text{fill:var(--ink);font-size:12.5px;pointer-events:none}
+  .gnode.math rect{stroke:var(--math)} .gnode.phys rect{stroke:var(--phys)} .gnode.ee rect{stroke:var(--ee)}
+  .gnode:hover rect{filter:brightness(1.45)}
+  .gnode.active rect{filter:drop-shadow(0 0 6px var(--glow)) brightness(1.5)}
+  .gedge{stroke:#3a4450;stroke-width:1.6;fill:none;cursor:pointer}
+  .gedge:hover{stroke:var(--glow);stroke-width:2.4}
+  .gedge.active{stroke:var(--glow);stroke-width:2.6}
+  .glabel{fill:var(--muted);font-size:10.5px;letter-spacing:.08em}
+
+  /* sim panel */
+  .why{background:var(--panel);border:1px solid var(--grid);border-left:3px solid var(--accent);border-radius:8px;padding:12px 16px;margin:14px 0 18px;color:#c4cedd}
+  .why b{color:var(--ink)}
+  .why .pages{display:block;margin-top:7px;font-size:12.5px;color:var(--muted)}
+  .eq{background:var(--panel2);border:1px solid var(--grid);border-radius:8px;padding:12px 18px;margin:12px 0;font:16px/1.8 ui-monospace,Consolas,monospace;overflow-x:auto;white-space:nowrap}
+  .eq .hl{color:var(--glow)} .eq .dim{color:var(--muted)}
+  .controls{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px 26px;margin:14px 0;background:var(--panel);border:1px solid var(--grid);border-radius:8px;padding:14px 18px}
+  .ctl{display:flex;align-items:center;gap:10px;font-size:13.5px}
+  .ctl label{min-width:74px;color:var(--muted)}
+  .ctl input[type=range]{flex:1;accent-color:var(--accent)}
+  .ctl .val{min-width:78px;text-align:right;font-family:ui-monospace,Consolas,monospace;color:var(--ink)}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+  .chip{background:var(--panel2);border:1px solid var(--grid);border-radius:999px;padding:3px 13px;font:13px ui-monospace,Consolas,monospace}
+  .chip b{color:var(--glow);font-weight:600}
+  .chip.cls-under b{color:var(--phys)} .chip.cls-crit b{color:var(--ee)} .chip.cls-over b{color:var(--math)}
+  canvas{display:block;background:var(--panel);border:1px solid var(--grid);border-radius:8px;max-width:100%}
+  .row{display:flex;gap:14px;flex-wrap:wrap;margin:12px 0}
+  button,.seg{background:var(--panel2);color:var(--ink);border:1px solid var(--grid);border-radius:6px;padding:5px 14px;font:13.5px inherit;cursor:pointer}
+  button:hover{border-color:var(--glow)}
+  .seg.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .matrixwrap{display:flex;align-items:center;gap:10px;font:17px ui-monospace,Consolas,monospace;flex-wrap:wrap;margin:14px 0}
+  .mat{display:inline-grid;gap:2px 14px;padding:8px 14px;border-left:2px solid var(--muted);border-right:2px solid var(--muted);border-radius:6px}
+  .mat span{text-align:right;min-width:64px}
+  .mat span.v{color:var(--ee)} .mat span.b{color:var(--phys)}
+  .note{color:var(--muted);font-size:13px;margin:8px 0}
+  .infocard{background:var(--panel);border:1px solid var(--grid);border-radius:8px;padding:16px 20px;margin:14px 0;color:#c4cedd}
+</style>
+</head>
+<body>
+  <nav id="sidebar">
+    <h1>The Pipeline</h1>
+    <div class="legend"><span class="lm">Math track</span><span class="lp">Physics track</span><span class="le">EE courses</span></div>
+    <svg id="graph" viewBox="0 0 330 560" role="img" aria-label="Course dependency graph"></svg>
+  </nav>
+  <main id="main">
+    <div id="sim-root"></div>
+  </main>
+<script>
+"use strict";
+// ============================================================
+// 1. utils — RK4, Gaussian elimination, Plot  (Task 2)
+// ============================================================
+
+// ============================================================
+// 2. data — CONNECTIONS                       (Task 3)
+// ============================================================
+
+// ============================================================
+// 3. graph render + router                    (Task 3)
+// ============================================================
+
+// ============================================================
+// 4. sims                                     (Tasks 4-7)
+// ============================================================
+
+// ============================================================
+// 5. boot
+// ============================================================
+document.getElementById('sim-root').innerHTML = '<h2>EE Pipeline Visualizer</h2><p class="note">Skeleton loaded.</p>';
+</script>
+</body>
+</html>
