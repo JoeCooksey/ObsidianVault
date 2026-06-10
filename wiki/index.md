@@ -771,6 +771,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Cultured.guru — How to Make Fermented Milk Kefir]] — microbiologist how-to blog; ratios/temp/timing (medium)
 - [[Etsy — Milk Kefir Grains Marketplace]] — budget sourcing $8–17 live grains (medium)
 
+### Gaming / OSRS (Sources)
+- [[OSRS Wiki — Ironman Guide]] — canonical community-maintained ironman progression guide; stage model + unlock lists (high)
+- [[Ironman Efficiency Guide (ironman.guide)]] — Oziris-lineage 569-step ordered route, 2026 update; "camp CG until 2 enhanced seeds" (medium-high)
+- [[Ironman Meta — Progression Guides]] — stage milestones, slayer ladder, time estimates (50–100 hr early, 100–200 hr slayer) (medium)
+- [[Ironman Meta — Varlamore Guide]] — hunter rumours, bone shards, Moons of Peril, Colosseum for irons (medium)
+
 ## Areas (Personal)
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
 
