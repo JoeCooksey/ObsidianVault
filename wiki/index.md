@@ -816,6 +816,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - How to Improve at League of Legends]] — **synthesis**: volume of play beats deliberate practice (registered report) + Challenger consistency signature; skill ladder = laning → wave management → macro → vision; one role / 2–3 champs; tilt = biggest limiter below Diamond (developing)
 - [[Research - OSRS Ironman Progression Guide]] — **synthesis + master checklist**: 4-stage model (early → mid → late → endgame) with per-stage unlock checklists; slayer = mid-game spine, Corrupted Gauntlet/bowfa = highest-leverage grind, ToA = first raid; Varlamore reroutes prayer + mid-game gear (developing)
 - [[Research - AI-Augmented Book Reading and Chapter Summaries]] — **synthesis**: how to use AI to deepen a book while still hand-summarizing each chapter; iron rule = pen first, AI second; handwriting IS the learning (generation effect), AI-first offloads it (Gerlich 2025); 4 AI moves after the pen; NotebookLM for a specific book (developing)
 - [[Research - Daily Habits Every Man Should Adopt]] — **master synthesis**: best daily habits across 6 domains (health/fitness, education, smartness, relationships, financial, faith) + weekly/quarterly/yearly cadence; "small things often" + 1% better; pick one keystone per domain (developing)
