@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Research - Paul Saladino Animal-Based Diet",
-      "path": "wiki/questions/Research - Paul Saladino Animal-Based Diet.md"
+      "basename": "Boredom Activity Playbook",
+      "path": "wiki/concepts/Boredom Activity Playbook.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Paul Saladino Animal-Based Diet",
+      "path": "wiki/questions/Research - Paul Saladino Animal-Based Diet.md"
     },
     {
       "basename": "Food Health Tier List — Macronutrients",
@@ -195,10 +199,6 @@
     {
       "basename": "Peptide Tier List Complete",
       "path": "wiki/concepts/Peptide Tier List Complete.md"
-    },
-    {
-      "basename": "Research - Health Hacks Leveled 1-100 by Cost",
-      "path": "wiki/questions/Research - Health Hacks Leveled 1-100 by Cost.md"
     }
   ],
   "omittedPaths": [],
