@@ -835,6 +835,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Boosteria — LoL Macro Play Guide]] — five macro pillars, wave states, tempo, 60-30-10 rule (medium)
 - [[Boosteria — LoL CSing Fundamentals]] — CS@10/15 metrics, trading templates, daily 20-min drill block (medium)
 - [[WeCoach — Vision Control Ward Guide]] — phase-based warding, six common mistakes (medium)
+- [[EloAscend — Top Lane Guide 2026]] — benchmarked top-lane guide: wave habit every 30 s, 3-question TP check, rank-banded pools, 3:00 ward (medium)
+- [[Boosteria — Top Lane Fundamentals Guide]] — densest top source: wave rules, TP patterns, split checklist, under-tower CS formula, VOD focus (medium)
+- [[Boosteria — Trading in Lane Guide]] — three-stance model, trading-window hierarchy, tethering, minion aggro (medium)
+- [[Boosteria — Jungle Pathing Basics]] — jungle tracking from the laner's seat: leash read, CS counting, absence signals (medium)
+- [[Patch 26.x Top Lane Tier Lists (Aggregate)]] — 26.12 snapshot (Garen/Yone/Darius/Malphite S+) + the same-patch contradiction it documents (low, expires per patch)
 
 ## Areas (Personal)
 - Health / Supplements — see [[Research - Supplements for Young Male Health and Learning]]
