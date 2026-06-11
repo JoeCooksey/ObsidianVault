@@ -5,6 +5,10 @@
       "path": "wiki/concepts/Most Important Biomarkers (Priority Shortlist).md"
     },
     {
+      "basename": "2026-06-06-ee-daily",
+      "path": "wiki/newsletters/2026-06-06-ee-daily.md"
+    },
+    {
       "basename": "Blood Test Preparation Protocol",
       "path": "wiki/concepts/Blood Test Preparation Protocol.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Research - Health Hacks Leveled 1-100 by Cost",
       "path": "wiki/questions/Research - Health Hacks Leveled 1-100 by Cost.md"
-    },
-    {
-      "basename": "Cost-Barrier Health Hack Ladder",
-      "path": "wiki/concepts/Cost-Barrier Health Hack Ladder.md"
-    },
-    {
-      "basename": "Research - MS and PhD in Electrical Engineering (Worth It)",
-      "path": "wiki/questions/Research - MS and PhD in Electrical Engineering (Worth It).md"
     }
   ],
   "omittedPaths": [],
