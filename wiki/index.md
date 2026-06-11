@@ -624,6 +624,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Educational Documentaries]] — S–B tier list; Cosmos (Sagan) S-tier; Particle Fever, Story of Math, Social Dilemma, Becoming Warren Buffett; Joe watch order (developing)
 - [[Intellectual Films]] — S–B tier list; Oppenheimer/The Big Short S-tier; science, philosophy, business films; Joe watch order (developing)
 
+### Podcasts / Audio Learning
+- [[Research - Podcasts (Purpose, Learning Value, Best Ones)]] — **synthesis**: point = information + social connection on dead time (peer-reviewed); learning real but shallow-by-default; fluency illusion; commute listening legitimate (developing)
+- [[Learning from Podcasts (Evidence Review)]] — listening ≈ reading for accessible material, reading wins as complexity rises; multitasking with motor tasks costs little, forgetting curve costs a lot; good-for/bad-for table (developing)
+- [[Podcast Active Listening Protocol]] — mode triage (entertainment/exposure/study) + pause-and-recall reps + 5-min from-memory takeaways; transcript → Contradict-My-Summary prompt (developing)
+- [[Parasocial Relationships (Podcast Hosts)]] — host bonds → relatedness + meaning (Tobin 2022); mentorship-at-scale vs cross-domain trust transfer (sponsor problem) (developing)
+- [[Best Podcasts Tier List (for Joe)]] — S: Dwarkesh/Huberman/Knowledge Project/Lex; A: Acquired/Founders/Latent Space/Amp Hour/In Our Time/Hardcore History; anti-recs (developing)
+
 ### Dating / Relationships
 - [[College Dating Methods Ranked]] — S–D tier list of all methods; clubs/classes S-tier; Hinge A-tier app; ask formula; physical baseline (developing)
 
