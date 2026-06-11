@@ -66,7 +66,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[MLC-LLM]] — TVM-based universal LLM deployment engine
 - [[Wolfspeed]] — largest SiC wafer manufacturer; 62% market share (2025)
 - [[STMicroelectronics SiC]] — Tesla Model 3 SiC supplier; automotive SiC leader
-- [[Paul Saladino]] — "Carnivore MD" (MD); *The Carnivore Code* author; animal-based diet advocate; quit strict carnivore after testosterone/sleep problems; 2 of 9 anti-plant claims hold up
+- [[Paul Saladino]] — "Carnivore MD" (MD); *The Carnivore Code* author; animal-based diet advocate; quit strict carnivore after testosterone/sleep problems; 2 of 9 anti-plant claims hold up; full diet research → [[Research - Paul Saladino Animal-Based Diet]]
 - [[Jim Simons]] — mathematician & founder of Renaissance Technologies; "Quant King"; Medallion ~39% net since 1988; best risk-adjusted record in finance; d. 2024
 - [[Renaissance Technologies]] — quant hedge fund (Simons, 1978); Medallion ~39% net, 5/44 fees, closed to outsiders since 1993, capped small; $7B IRS settlement (2021)
 - [[Ed Thorp]] — "godfather of quants"; beat blackjack (*Beat the Dealer*) then markets; invented statistical arbitrage; PNP ~20% net for 2 decades, no down quarter
