@@ -82,6 +82,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Scott Young]] — *Ultralearning* (2019); 9 principles; the MIT Challenge (4-yr CS degree in ~1 yr) + Year Without English
 - [[Barbara Oakley]] — engineering prof; co-created *Learning How to Learn* (biggest MOOC ever); focused/diffuse mode, chunking; *A Mind for Numbers*
 - [[NotebookLM]] — Google Labs source-grounded AI study assistant; answers cited from YOUR uploaded sources; flashcards/quizzes/Socratic Learning Guide/audio overviews; the "AI second" engine for reading
+- [[Erin Westgate]] — University of Florida psychologist; MAC model of boredom (with Timothy Wilson); "boredom is a signal — what counts is the response"
+- [[Sandi Mann]] — UCLan psychologist; *The Upside of Downtime*; boredom-creativity studies; phone-free mind-wandering protocol
 
 ## Concepts
 
