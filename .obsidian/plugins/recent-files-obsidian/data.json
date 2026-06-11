@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Most Important Biomarkers (Priority Shortlist)",
+      "path": "wiki/concepts/Most Important Biomarkers (Priority Shortlist).md"
+    },
+    {
+      "basename": "Health Biomarkers Complete Panel",
+      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
+    },
+    {
+      "basename": "Gut Health Tests",
+      "path": "wiki/concepts/Gut Health Tests.md"
+    },
+    {
       "basename": "Best Podcasts Tier List (for Joe)",
       "path": "wiki/concepts/Best Podcasts Tier List (for Joe).md"
     },
@@ -9,20 +25,12 @@
       "path": "wiki/concepts/Boredom Activity Playbook.md"
     },
     {
-      "basename": "log",
-      "path": "wiki/log.md"
-    },
-    {
       "basename": "Research - Paul Saladino Animal-Based Diet",
       "path": "wiki/questions/Research - Paul Saladino Animal-Based Diet.md"
     },
     {
       "basename": "Food Health Tier List — Macronutrients",
       "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
-    },
-    {
-      "basename": "Most Important Biomarkers (Priority Shortlist)",
-      "path": "wiki/concepts/Most Important Biomarkers (Priority Shortlist).md"
     },
     {
       "basename": "2026-06-06-ee-daily",
@@ -39,10 +47,6 @@
     {
       "basename": "Function Health Prep Guidance",
       "path": "wiki/sources/Function Health Prep Guidance.md"
-    },
-    {
-      "basename": "Health Biomarkers Complete Panel",
-      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
     },
     {
       "basename": "Contradict My Summary — AI Reading Prompt",
@@ -107,10 +111,6 @@
     {
       "basename": "Bristol Stool Scale",
       "path": "wiki/concepts/Bristol Stool Scale.md"
-    },
-    {
-      "basename": "Gut Health Tests",
-      "path": "wiki/concepts/Gut Health Tests.md"
     },
     {
       "basename": "Fiber Supplement Tier List",
