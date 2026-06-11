@@ -504,6 +504,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Growing Psilocybin Mushrooms in All-in-One Grow Bags]] — synthesis: full 8-phase guide inoculation→colonize→break&shake→fruit→harvest→2nd flush→dry; legal caveat (developing)
 
 ### Diet Science / Nutrition Research
+- [[Research - Paul Saladino Animal-Based Diet]] — **synthesis**: why he calls grass-fed meat the best food (bioavailability real, grass-fed edge tiny, contaminant case unquantified), full how-to-follow guide, reasons to/not to follow (zero fiber, LDL/KETO-CTA, raw-milk H5N1, COI), vegetable views (developing)
+- [[Animal-Based Diet (Saladino)]] — the practical guide: 1 lb meat/100 lb BW, 0.5 oz liver/day, fruit+honey carbs ×0.7–1.7 g/lb, 3 toxicity tiers; structurally = whole-food high-protein paleo-with-dairy minus vegetables (developing)
+- [[Saladino Grass-Fed Meat Argument]] — his 5-part "best food for humans" case + per-claim evidence check; defensible core = excellent protein source + modest quality upgrade, not "best food" (developing)
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — 9-claim evidence review: oats (phytic acid, saponins, lectins, mycotoxins, glyphosate) + vegetables (oxalates, isothiocyanates, polyphenols, phytosterols); 2 of 9 claims hold; scorecard included (complete)
 - [[Antinutrients-Plant-Defense-Compounds]] — reference: phytic acid, lectins, oxalates, saponins, isothiocyanates, polyphenols, phytosterols; harm levels, food sources, mitigation methods, verdicts (developing)
 - [[Research - Whole Foods Diet vs Supplement-Only Diet]] — **synthesis**: food beats pills on every axis + a supplement-only diet is impossible (no calories/protein/fiber); nutrients from FOOD predict lower mortality, supplements don't; multivitamins extend nothing in healthy adults (NCI/JAMA 2024); isolated megadoses can harm (β-carotene/calcium); supplements = gap tools only (developing)
