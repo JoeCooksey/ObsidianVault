@@ -383,6 +383,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[LoL Macro Play]] — five pillars (information/time/space/resources/conversion), objectives > KDA, 60-30-10 rule, win conditions (developing)
 - [[Vision Control (LoL)]] — phase-based ward maps, denial counts double, 3-placed/2-cleared per-game floor (developing)
 - [[Tilt (Esports)]] — biggest rank-limiter below Diamond; structural countermeasures: game sets, stop-loss, mute, grade decisions not LP (developing)
+- [[Research - Improving at Top Lane (League of Legends)]] — **role-specific synthesis**: top = the isolated lane; skill order = trading → jungle tracking → wave → TP; archetype pool > tier lists (developing)
+- [[Trading Stances and Windows (LoL)]] — 3 stances (aggressive/defensive/cheater), window hierarchy (cooldowns > last-hit punishes > level spikes > items), tethering, convert every won trade (developing)
+- [[Jungle Tracking for Laners]] — leash read, jungler CS ≈ 4/camp (12 CS @ 2:45 = gank window), the 3:00 ward, absence = threat signal (developing)
+- [[Teleport Usage (Top Lane)]] — TP = global tempo lever; only when it fixes your wave or flips guaranteed numbers; 3-question check; freeze-hold TP (developing)
+- [[Split Pushing (LoL)]] — goal = forced responses not towers; 1-3-1 logic; never while Baron is up; pre-split checklist (developing)
+- [[Top Lane Champion Pool]] — blind tank + comfort carry + pocket counter; 30–50 games ≥50% WR per champ; archetype > tier list (developing)
 
 ### Hobbies / Lifestyle
 - [[Dash Stirring Popcorn Maker — Guide and Recipes]] — how to get the best popcorn from the Dash SmartStore oil stirring popper: base method + ratios (1 tbsp oil per ¼ cup kernels), 7 tips, and 10 recipes (movie butter, kettle corn, caramel, cheddar, chili-lime, etc.) (complete)
