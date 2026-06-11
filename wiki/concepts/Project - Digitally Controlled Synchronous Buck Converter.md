@@ -3,7 +3,7 @@ type: project
 title: "Project - Digitally Controlled Synchronous Buck Converter"
 status: developing
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-11
 tags:
   - project
   - power-electronics
