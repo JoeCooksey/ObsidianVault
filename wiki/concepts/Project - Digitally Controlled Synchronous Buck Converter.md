@@ -25,6 +25,12 @@ sources:
 
 # Project — Digitally Controlled Synchronous Buck Converter
 
+> [!check] Progress (2026-06-11): **Phases 0–1 COMPLETE** — repo: `github.com/JoeCooksey/digital-buck-converter`
+> - Phase 0: hand derivations (PDF) + G_vd(s) Bode in Python (f₀ ≈ 4.2 kHz)
+> - Phase 1 ideal sim: ripple 45 mV ✓ (<50 mV spec), ΔI_L ≈ 0.95 A ✓ (~30% target), startup ring matches the 4.2 kHz double-pole; **open-loop needs D ≈ 0.45, not ideal 0.417** (diode + parasitic drops) — the DC error the Phase 5 loop will null
+> - Phase 1 sync sim ("Realness"): 2-FET stage + 200 ns dead time + DCR/ESR → 5.03 V / 3.02 A, **η = 93.6%** with generic .model cards
+> - **Now in Phase 2** — replace generic models with real-part datasheet numbers, justify each BOM row, order parts
+
 The S-tier deep-work build from [[Deep-Work Compounding Projects Tier List]]: take **one** power converter from spec to validated hardware, controlled by a microcontroller running a closed loop *you* designed. It exercises every EE layer at once and is the portfolio crown jewel for power-electronics roles.
 
 ## Target spec (chosen for a safe, canonical first build)
