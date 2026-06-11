@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-11] autoresearch | Podcasts (Purpose, Learning Value, Best Ones)
+- Rounds: 2 | Searches: 8 | Sources fetched: 6 (1 blocked: Time.com; 1 refused: Willingham blog — covered via secondary)
+- Pages created: [[Learning from Podcasts (Evidence Review)]], [[Podcast Active Listening Protocol]], [[Parasocial Relationships (Podcast Hosts)]], [[Best Podcasts Tier List (for Joe)]] + sources [[Tobin Guadagno 2022 — Why People Listen (PLOS One)]], [[Daniel Woody 2010 — They Hear But Do Not Listen]], [[Jabbari 2025 — Podcast Learning While Driving RCT]], [[Edison Infinite Dial 2026]]
+- Updated: index (new "Podcasts / Audio Learning" concept section + Sources subsection)
+- Synthesis: [[Research - Podcasts (Purpose, Learning Value, Best Ones)]]
+- Key finding: Podcasts deliver information + social connection on dead time (peer-reviewed: curiosity/need-for-cognition predict listening, parasocial bonds → relatedness/meaning); learning is real but shallow-by-default — listening ≈ reading for accessible material, reading wins for complex material, commute listening costs ~nothing (driving RCT), and the real loss is the forgetting curve → fix with mode triage + 5-min from-memory recall.
+
 ## [2026-06-11] autoresearch | Best Activities When Bored
 - Rounds: 2 | Searches: 7 | Sources fetched: 5 (1 full PDF read)
 - Pages created: [[Boredom Activity Playbook]], [[MAC Model of Boredom]], [[Interest vs Enjoyment]], [[Digital Switching]], [[Attention Restoration Theory]] + entities [[Erin Westgate]], [[Sandi Mann]] + sources [[Westgate 2020 - Why Boredom Is Interesting]], [[Tam 2024 - Digital Switching Study]], [[Mann and Cadman 2014 - Boredom and Creativity]]
