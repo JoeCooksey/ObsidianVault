@@ -756,6 +756,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Cleveland Clinic Dysbiosis Overview]] — clinical reference; dysbiosis symptom map by body site (gut/mouth/skin/urogenital); healthy = diversity with no dominant organism (high)
 - [[IFFGD GI Alarm Symptoms]] — alarm symptoms can never be functional: bleeding (location decoder), vomiting blood, 10lb/3mo weight loss, dysphagia, fever, nighttime pain (high)
 
+### Nutrition / Animal-Based Diet (Saladino)
+- [[Saladino Animal-Based Diet Official Guide]] — primary source, paulsaladinomd.com; the diet spec: 1 lb meat/100 lb BW, 0.5 oz liver/day, carbs ×0.7–1.7 g/lb from fruit+honey, 1 L raw milk (high for his claims)
+- [[Heart and Soil Plant Toxins and Food List Guide]] — primary source (his company, COI); 3-tier toxicity food list + the "plants don't want to be eaten" argument; fruit exempt via seed dispersal (high for his claims)
+- [[Saladino Is Grass-Fed Meat Really Worth It]] — primary source; his grass-fed case = small micronutrient edge + feedlot contaminant avoidance (glyphosate/atrazine/zearalenone/dioxins); omits omega-3/CLA (medium-low)
+- [[Carnivore and Animal-Based Diet Risk Reviews (PMC)]] — peer-reviewed counterweight: LDL/TG rise, sat fat >WHO limit, zero fiber, TMAO/endotoxin mechanisms; "cannot be recommended long-term" (high)
+- [[Raw Milk Safety and H5N1 (CDC FDA)]] — H5N1 in commercial raw milk since Apr 2024, never in pasteurized; 60-day cheese aging doesn't kill it; CDC = pasteurized only (high)
+- [[Saladino Diet Critiques (Gene Food + Hone Health)]] — why he quit carnivore (T tanked, sleep, palpitations) + standing critiques: LDL/KETO-CTA plaque progression, RDN "never recommend" (medium)
+
 ### Health / Testosterone
 - [[Leproult Van Cauter Sleep Restriction RCT 2011]] — JAMA 2011; 5h sleep/wk → −10–15% T in healthy young men (high)
 - [[Low-Fat Diet Testosterone Meta-analysis 2021]] — Whittaker & Wu; low-fat diets lower total T (SMD −0.38), free T, DHT (medium)
