@@ -11,19 +11,25 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
-<<<<<<< HEAD
-## [2026-06-10] save | Blood Test Preparation Protocol — Joe's keep/pause supplement table
-- Type: concept (update — no new page)
-- Location: wiki/concepts/Blood Test Preparation Protocol.md
-- From: conversation on which supplements to keep vs pause before the upcoming Function Health draw (~June 15)
-- Added: a Joe-specific keep/pause table mapped to [[Supplement Priority Stack for Young Males]] — pause biotin/multis (72 h, the Free T4 recheck depends on it), creatine + Tier 3 (2–3 days), caffeine morning-of; keep omega-3 (index reflects ~120 days, want habitual intake measured), D3+K2, magnesium, prescription meds. Cutoffs for this draw: biotin out + last hard training by June 12–13.
-=======
+## [2026-06-11] autoresearch | Paul Saladino Animal-Based Diet
+- Rounds: 2 | Searches: 6 | Sources fetched: 6
+- Pages created: [[Animal-Based Diet (Saladino)]], [[Saladino Grass-Fed Meat Argument]] + sources [[Saladino Animal-Based Diet Official Guide]], [[Heart and Soil Plant Toxins and Food List Guide]], [[Saladino Is Grass-Fed Meat Really Worth It]], [[Carnivore and Animal-Based Diet Risk Reviews (PMC)]], [[Raw Milk Safety and H5N1 (CDC FDA)]], [[Saladino Diet Critiques (Gene Food + Hone Health)]]
+- Updated: [[Paul Saladino]] (entity), index entity line + new Diet Science entries + new Sources subsection
+- Synthesis: [[Research - Paul Saladino Animal-Based Diet]]
+- Key finding: Saladino's grass-fed case is really a contaminant-avoidance argument (his own micronutrient deltas are tiny); the diet is structurally a whole-food high-protein cleanup whose benefits don't require the vegetable removal; the standing dealbreakers are zero fiber, deliberately high LDL (KETO-CTA plaque progression — directly relevant to Joe's Lp(a) 152), and raw milk post-H5N1.
+- Note: resolved a leftover git merge conflict in this log (kept both sides — 06-10 save entry + 06-11 news/newsletter entries below)
+
 ## [2026-06-11] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 - World: US strikes Iran second consecutive day (tanker off Oman, 3 Indian sailors killed); US: House passes $70B ICE/border package 214-212; Technology: OpenAI $25B revenue + GPT-5.4 (1M token, autonomous workflows); Science/Health: GLP-1 drugs cut breast cancer risk 30% (large study); Wildcard: FIFA World Cup 2026 kicks off — South Africa vs Mexico at Estadio Azteca.
 
 ## [2026-06-11] newsletter | EE Daily — June 11, 2026
 - Top stories: Semiconductor stocks rebound on Oracle AI demand (NVDA/AMD/SMCI rising); TSMC CEO warns global capacity will lag AI demand for years (30%+ growth guided); ASML PT raised to €1,921 (BofA) + Terafab/Tata India 300mm fab expansion; 2D Fe₂Mo₃O₈ ferroelectric 230 µC/cm² + CuInP₂S₆ neuromorphic FeFETs; daily topic: GaN Cascode Architecture (normally-on SiC JFET + normally-off GaN HEMT for >600V switching).
->>>>>>> origin/main
+
+## [2026-06-10] save | Blood Test Preparation Protocol — Joe's keep/pause supplement table
+- Type: concept (update — no new page)
+- Location: wiki/concepts/Blood Test Preparation Protocol.md
+- From: conversation on which supplements to keep vs pause before the upcoming Function Health draw (~June 15)
+- Added: a Joe-specific keep/pause table mapped to [[Supplement Priority Stack for Young Males]] — pause biotin/multis (72 h, the Free T4 recheck depends on it), creatine + Tier 3 (2–3 days), caffeine morning-of; keep omega-3 (index reflects ~120 days, want habitual intake measured), D3+K2, magnesium, prescription meds. Cutoffs for this draw: biotin out + last hard training by June 12–13.
 
 ## [2026-06-10] autoresearch | How to Improve at League of Legends
 - Rounds: 2 | Sources fetched: 7 (run interrupted by token limit at ~10:55; synthesis + filing completed on resume)
