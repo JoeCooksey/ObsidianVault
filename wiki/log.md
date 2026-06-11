@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-11] autoresearch (resumed) | Improving at Top Lane (League of Legends)
+- Resumed an interrupted run: 5 concepts + 4 sources already existed but were never filed (no synthesis, index, log, or hot entry); this session completed the filing + 1 gap-fill search
+- Pages created: [[Research - Improving at Top Lane (League of Legends)]] (synthesis), [[Patch 26.x Top Lane Tier Lists (Aggregate)]] (the missing source the champion-pool page referenced)
+- Pre-existing from interrupted run: [[Trading Stances and Windows (LoL)]], [[Jungle Tracking for Laners]], [[Teleport Usage (Top Lane)]], [[Split Pushing (LoL)]], [[Top Lane Champion Pool]] + sources [[EloAscend — Top Lane Guide 2026]], [[Boosteria — Top Lane Fundamentals Guide]], [[Boosteria — Trading in Lane Guide]], [[Boosteria — Jungle Pathing Basics]]
+- Updated: index (6 concept lines + 5 source lines in Gaming / League of Legends)
+- Key finding: top lane's defining property is isolation (longest lane, fewest escapes, melee-vs-melee) — so the role-specific skill order is trading (3 stances + cooldown-first window hierarchy) → jungle tracking (CS counting, 3:00 ward, absence = threat) → wave management → Teleport (only to fix your wave or flip guaranteed numbers); build the pool by archetype not tier list, since same-patch tier lists contradict each other (Darius S+ vs D on 26.12).
+
 ## [2026-06-11] autoresearch | Podcasts (Purpose, Learning Value, Best Ones)
 - Rounds: 2 | Searches: 8 | Sources fetched: 6 (1 blocked: Time.com; 1 refused: Willingham blog — covered via secondary)
 - Pages created: [[Learning from Podcasts (Evidence Review)]], [[Podcast Active Listening Protocol]], [[Parasocial Relationships (Podcast Hosts)]], [[Best Podcasts Tier List (for Joe)]] + sources [[Tobin Guadagno 2022 — Why People Listen (PLOS One)]], [[Daniel Woody 2010 — They Hear But Do Not Listen]], [[Jabbari 2025 — Podcast Learning While Driving RCT]], [[Edison Infinite Dial 2026]]
