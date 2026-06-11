@@ -97,6 +97,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Healthy Dopamine Protocols]] — sunlight, cold, exercise, music, meditation, sleep; don't stack, intermittent reward, earn peaks (stable)
 - [[Dopamine Detox (Evidence Review)]] — misnamed but works; it's CBT/stimulus control + ~30-day abstinence, not literal dopamine reduction (stable)
 
+### Boredom / What to Do When Bored
+- [[Research - Best Activities When Bored]] — **synthesis**: boredom = attention/meaning-deficit signal; scrolling proven to worsen it; best default = phone-free walk; interesting > enjoyable (developing)
+- [[Boredom Activity Playbook]] — **the practical answer**: don't grab phone → 10-sec diagnose → 4 tiers (crash-free defaults / deliberate mind-wandering / interest-building / re-engineer the boring task) (developing)
+- [[MAC Model of Boredom]] — Westgate & Wilson: boredom = attention deficit (U-shaped: too easy OR too hard) and/or meaning deficit; 4 regulation routes (developing)
+- [[Interest vs Enjoyment]] — enjoyable-easy = cognitive junk food; interesting-demanding builds the resources that prevent future boredom (developing)
+- [[Digital Switching]] — Tam 2024: flipping between short videos INCREASES boredom (7 experiments, ~1,200 people); people mispredict it (developing)
+- [[Attention Restoration Theory]] — nature restores depleted directed attention (Berman 2008 + 2024 RCTs); why the walk is the #1 default (developing)
+- Sources: [[Westgate 2020 - Why Boredom Is Interesting]] · [[Tam 2024 - Digital Switching Study]] · [[Mann and Cadman 2014 - Boredom and Creativity]]
+
 ### Operating Systems / Tech Decisions
 - [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
 - [[Pop-OS-Dual-Boot-Setup-Guide]] — full dual-boot guide for gaming PC + Nvidia GPU: Windows prep, Rufus USB, BIOS setup, partition, install, first boot, CS2 + RuneLite gaming setup, troubleshooting checklist (complete)
