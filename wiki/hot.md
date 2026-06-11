@@ -1,13 +1,16 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-10T16:00:00
+updated: 2026-06-11T11:00:00
 tags:
   - meta
 ---
 # Recent Context
 
 ## Last Updated
+2026-06-11 — Autoresearch: **Paul Saladino Animal-Based Diet** — Joe asked (via /autoresearch) why Saladino calls grass-fed meat the best human food, for a how-to guide on his animal-based diet, reasons to/not to follow it, and his vegetable views. The vault already had [[Paul Saladino]] + the 9-claim [[Paul-Saladino-Oats-Vegetables-Claims]] review (2 of 9 hold) — this run added the positive case, the practical guide, and the balanced verdict. **Deliverable = [[Research - Paul Saladino Animal-Based Diet]]** + concepts [[Animal-Based Diet (Saladino)]] (how-to: 1 lb meat/100 lb BW, 0.5 oz liver/day, fruit+honey carbs ×0.7–1.7 g/lb by activity, 3-tier toxicity food list) and [[Saladino Grass-Fed Meat Argument]] (his 5-part case + per-claim evidence check). **Key findings:** (1) his grass-fed argument is really a **feedlot-contaminant-avoidance** argument (glyphosate/atrazine/zearalenone/dioxins — plausible, unquantified); his own micronutrient deltas are tiny (vit C ~11.3 vs 7.3 mg/lb; an orange = ~70 mg); (2) the diet is **structurally a whole-food high-protein cleanup** (no UPF, no seed-oil junk, organs fix real micronutrient gaps, NOT keto) — its reported benefits don't require the vegetable removal, which is the part the evidence opposes; (3) **dealbreakers**: zero fiber (microbiome), deliberately high LDL ([[Saladino Diet Critiques (Gene Food + Hone Health)|KETO-CTA]]: plaque progression in 1 yr at LDL>190 — **directly relevant to Joe's Lp(a) 152**), and raw dairy post-H5N1 ([[Raw Milk Safety and H5N1 (CDC FDA)]]: virus in commercial raw milk since Apr 2024, never pasteurized; CDC = pasteurized only); (4) vegetables: "plants don't want to be eaten" frame, fruit exempt via seed dispersal; his own food list quietly allows squash/cucumber/fermented veg/white rice/sweet potato — **rhetoric stricter than protocol**; (5) credit where due: he self-corrected when strict carnivore tanked his testosterone/sleep. ⚠️ Also resolved a leftover git merge conflict in wiki/log.md (kept both sides). (2 rounds, 6 searches, 6 fetches; 9 pages: 1 synthesis, 2 concepts, 6 sources; entity + index updated.)
+
+## Previously
 2026-06-10 — Save: **Blood Test Prep — Joe's Supplement Keep/Pause Table** — Joe asked which supplements to keep vs pause before his Function Health draw (~June 15); answer filed into the existing [[Blood Test Preparation Protocol]] (update, no new page) as a reusable keep/pause table mapped to [[Supplement Priority Stack for Young Males]]. **Pause:** biotin/B-complex/multivitamin **72 h** (only hard must-stop — the Free T4 1.5 recheck depends on holding it), creatine 2–3 d (creatinine→eGFR), Bacopa/Rhodiola/Tier 3 2–3 d, caffeine morning-of (water-only fast). **Keep:** omega-3 (index = ~120-day RBC membrane measure; test should capture habitual intake — his 6.3% vs >8% target), D3+K2, magnesium glycinate, prescription meds always. Bigger-than-supplements reminders: no intense exercise 48–72 h (ALT 69/AST 39 = likely training artifacts; rested re-draw is the point) + no seafood 48 h (heavy metals). **This draw's cutoffs: biotin out by June 12, last hard session June 12–13.**
 
 ## Previously
