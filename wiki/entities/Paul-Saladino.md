@@ -53,6 +53,9 @@ Avoids: grains, legumes, most vegetables beyond low-antinutrient options.
 
 ## Related Pages
 
+- [[Research - Paul Saladino Animal-Based Diet]] — full research synthesis (2026-06-11): why grass-fed, how to follow, pros/cons, vegetable views
+- [[Animal-Based Diet (Saladino)]] — the practical how-to guide for his current diet
+- [[Saladino Grass-Fed Meat Argument]] — his "best food for humans" case + evidence check
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — full claim-by-claim evidence review
 - [[Antinutrients-Plant-Defense-Compounds]] — the compounds he focuses on
 - [[Gut Health Foods]] — gut microbiome research that partially overlaps his claims
