@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 11, 2026]] — Semiconductor rebound on Oracle AI demand signal; TSMC capacity bottleneck warning; ASML Terafab + India 300mm expansion; 2D ferroelectric neuromorphic FeFETs (Fe₂Mo₃O₈, CuInP₂S₆); daily topic: GaN cascode architecture (SiC JFET + GaN HEMT)
 - [[EE Daily — June 10, 2026]] — NVIDIA RTX Spark (1 PFLOP Grace Blackwell, 128 GB, Apple AI client); China SiC 40 µm laser lift-off barrier; Apple WWDC Gemini-powered Siri + Tim Cook's final keynote; AI-designed thermoelectric generators record ZT; daily topic: SiC vs GaN data center power device selection
 - [[EE Daily — June 09, 2026]] — ASML Terafab $55B Texas fab (SpaceX-Tesla JV, triple analyst upgrade); Apple WWDC iOS 27 + Tim Cook exit (multi-model AI on iPhone); AMD hits 2030 EPS target two years early; 2D CuInP₂S₆ ferroelectric neuromorphic AI; daily topic: Silicon Photonics for AI Data Center Interconnects
 - [[EE Daily — June 08, 2026]] — Terafab $55–119B Texas fab (ASML EUV supply bottleneck); NVIDIA RTX Spark + TSMC AI-in-fab; HRL 40nm GaN-on-SiC MRL 6; QuiX Quantum FFCU photonic QC; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; daily topic: EUV Lithography fundamentals and scale-up constraints

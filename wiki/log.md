@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-11] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- World: US strikes Iran second consecutive day (tanker off Oman, 3 Indian sailors killed); US: House passes $70B ICE/border package 214-212; Technology: OpenAI $25B revenue + GPT-5.4 (1M token, autonomous workflows); Science/Health: GLP-1 drugs cut breast cancer risk 30% (large study); Wildcard: FIFA World Cup 2026 kicks off — South Africa vs Mexico at Estadio Azteca.
+
+## [2026-06-11] newsletter | EE Daily — June 11, 2026
+- Top stories: Semiconductor stocks rebound on Oracle AI demand (NVDA/AMD/SMCI rising); TSMC CEO warns global capacity will lag AI demand for years (30%+ growth guided); ASML PT raised to €1,921 (BofA) + Terafab/Tata India 300mm fab expansion; 2D Fe₂Mo₃O₈ ferroelectric 230 µC/cm² + CuInP₂S₆ neuromorphic FeFETs; daily topic: GaN Cascode Architecture (normally-on SiC JFET + normally-off GaN HEMT for >600V switching).
+
 ## [2026-06-10] autoresearch | How to Improve at League of Legends
 - Rounds: 2 | Sources fetched: 7 (run interrupted by token limit at ~10:55; synthesis + filing completed on resume)
 - Pages created: [[LoL Improvement Practice System]], [[Laning Fundamentals (LoL)]], [[Wave Management (LoL)]], [[LoL Macro Play]], [[Vision Control (LoL)]], [[Tilt (Esports)]] + sources [[Martončik 2024 — Psychological Predictors of Esports Success]], [[Bennett 2024 — Practice Behaviours of Expert LoL Players]], [[Hotspawn — How to Get Good at LoL]], [[Dignitas — LoL Ranked Climbing and Tilt Guides]], [[Boosteria — LoL Macro Play Guide]], [[Boosteria — LoL CSing Fundamentals]], [[WeCoach — Vision Control Ward Guide]]
