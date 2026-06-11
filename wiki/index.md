@@ -658,6 +658,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Podcasts / Audio Learning
+- [[Tobin Guadagno 2022 — Why People Listen (PLOS One)]] — preregistered, n=306; openness/curiosity/need-for-cognition predict listening; parasocial → relatedness; need-to-belong negative (high)
+- [[Daniel Woody 2010 — They Hear But Do Not Listen]] — podcast group worse than text readers on dense material; preference flipped after the quiz (high, dated)
+- [[Jabbari 2025 — Podcast Learning While Driving RCT]] — McMaster crossover; no recall difference seated vs driving, immediate or 1-month (high)
+- [[Edison Infinite Dial 2026]] — 80% ever / 58% monthly; YouTube #1 podcast platform (high)
+
 ### Habits / Lifestyle
 - [[Diet, Sleep and Exercise — Keystones of a Healthy Lifestyle]] — PMC 2022; sleep/diet/exercise are interdependent pillars; ≥30 min/day, 7–9h sleep, whole food (medium)
 - [[Gottman — Small Things Often]] — Gottman Institute; daily micro-connection beats grand gestures; turn toward bids; six-second kiss (high)
