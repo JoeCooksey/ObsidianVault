@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-11] autoresearch | Best Activities When Bored
+- Rounds: 2 | Searches: 7 | Sources fetched: 5 (1 full PDF read)
+- Pages created: [[Boredom Activity Playbook]], [[MAC Model of Boredom]], [[Interest vs Enjoyment]], [[Digital Switching]], [[Attention Restoration Theory]] + entities [[Erin Westgate]], [[Sandi Mann]] + sources [[Westgate 2020 - Why Boredom Is Interesting]], [[Tam 2024 - Digital Switching Study]], [[Mann and Cadman 2014 - Boredom and Creativity]]
+- Updated: index (new "Boredom / What to Do When Bored" section + 2 entity lines)
+- Synthesis: [[Research - Best Activities When Bored]]
+- Key finding: Boredom is a signal of attention/meaning deficits, not a problem to suppress; the default response (phone scrolling / digital switching) is the one response experimentally proven to INCREASE boredom; best default = phone-free walk (restores attention + hosts mind-wandering + crash-free dopamine); choose interesting-demanding over easy-enjoyable because only the former builds resources that prevent future boredom.
+
 ## [2026-06-11] autoresearch | Paul Saladino Animal-Based Diet
 - Rounds: 2 | Searches: 6 | Sources fetched: 6
 - Pages created: [[Animal-Based Diet (Saladino)]], [[Saladino Grass-Fed Meat Argument]] + sources [[Saladino Animal-Based Diet Official Guide]], [[Heart and Soil Plant Toxins and Food List Guide]], [[Saladino Is Grass-Fed Meat Really Worth It]], [[Carnivore and Animal-Based Diet Risk Reviews (PMC)]], [[Raw Milk Safety and H5N1 (CDC FDA)]], [[Saladino Diet Critiques (Gene Food + Hone Health)]]
