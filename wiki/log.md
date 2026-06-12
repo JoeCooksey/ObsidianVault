@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-12] autoresearch | Index Fund Tier List + Index Funds vs Stock Picking
+- Rounds: 2 | Searches: 9 | Sources fetched: 8 (2 blocked: spglobal.com, etf.com — SPIVA data recovered via IFA.com + search results)
+- Pages created: [[Index Fund Tier List]], [[Index Funds vs Stock Picking]] (first page in comparisons/), [[Skewness of Stock Returns]], [[Core-Satellite Portfolio]], [[Research - Index Funds vs Stock Picking (Tier List)]] + sources [[Bessembinder - Do Stocks Outperform Treasury Bills]], [[Barber and Odean - Individual Investor Performance]], [[Index Fund Comparison 2026 (FinanceWonk)]]
+- Pages updated: [[SPIVA Scorecard — Active vs Index]] (added YE 2025 data: 79% large-cap underperformance, 4th-worst year ever), [[Index Fund Investing]] (cross-links), index
+- Synthesis: [[Research - Index Funds vs Stock Picking (Tier List)]]
+- Key finding: the anti-picking evidence is a 3-layer stack — pros fail (SPIVA ~92%/20yr), the math is rigged (Bessembinder: top ~4% of stocks = ALL net wealth creation, median stock loses to T-bills), and retail behavior costs ~3.6%/yr on top (Barber & Odean); tier list S-tier = any broad fund ≤0.04% ER, F-tier = leveraged ETFs; the evidence-compatible way to keep Joe's 11-stock portfolio is a hard-capped core-satellite structure.
+
 ## [2026-06-12] newsletter | EE Daily — June 12, 2026
 - Top stories: SpaceX SPCX IPO largest in history ($1.75T, $75B raised, +30% on open); NVIDIA cuLitho + TSMC AI-in-fab (20-50% lithography efficiency); 2D molecular ferroelectric sub-10nm (Advanced Materials); PCIM 2026 SiC/GaN data center power architecture; ZnBr₂ sodium sulfamate scavenger breakthrough; daily topic: Ferroelectric Field-Effect Transistors (FeFET) — HZO polarization switching, depolarization retention physics, and embedded NVM design.
 
