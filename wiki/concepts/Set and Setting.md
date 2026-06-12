@@ -28,7 +28,7 @@ Originates with 1960s-era psychedelic research (Leary popularized the phrase); m
 - Cultivate **surrender**: trust, ease, relaxation, acceptance — resisting the experience is the main driver of distress (13 studies in the review)
 - Don't use while unstable, sleep-deprived, or in crisis (Source: [[TripSafe Psilocybin Guide]])
 - Set an intention; approach with curiosity rather than rigid expectations
-- Body prep: hydration, clean eating, light fasting 4–12 h before (Source: [[Psychedelic Support Shroom Safety Guide]])
+- Body prep: hydration, clean eating, light fasting 4–12 h before (Source: [[Things to Do on Shrooms (Aggregate Guides)]])
 
 ## Setting — what users actually do
 
