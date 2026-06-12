@@ -528,6 +528,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Psilocybin Legal Status (US)]] — federal Schedule I; CO home-grow only (12×12 ft); OR supervised-only; decrim ≠ legal (developing)
 - [[Research - Growing Psilocybin Mushrooms in All-in-One Grow Bags]] — synthesis: full 8-phase guide inoculation→colonize→break&shake→fruit→harvest→2nd flush→dry; legal caveat (developing)
 
+### Psychedelics / Harm Reduction
+- [[Psilocybin Trip Activities Tier List]] — **the deliverable**: S = curated lyric-free music / eyeshades-inward / safe familiar nature; A = meditation, journaling, trusted friends, walks; B = art, calm films; C = games, sex (light dose), mirrors; F = driving, heights, crowds, phone, mixing; dose is the master variable — at 3g+ the answer is the clinical inward protocol (developing)
+- [[Set and Setting]] — mindset + environment dominate psychedelic outcomes; the field's closest thing to a law; surrender > resistance; in-trip levers = music/light/location (developing)
+- [[Trip Sitter]] — most-cited safety practice (16 studies); scripts: "You're safe, I'm here," never "Calm down"; Fireside Project 62-FIRESIDE fallback (developing)
+- [[Psilocybin Session Protocol (Johns Hopkins)]] — couch + eyeshades + headphones + 7h40m phase-structured classical playlist (Bill Richards, lineage to Helen Bonny); monitors present but silent; the clinical answer to "what to do" = nothing, inwardly (developing)
+- [[Research - Mushroom Trip Activities Tier List]] — synthesis: research core (music/inward/nature/support) + community menu, ordered by dose; mirror contradiction (CISUR avoid vs Montclair mostly-positive); absolute contraindications (developing)
+- Sources: [[Dutton 2025 - Psychedelic Harm Reduction Scoping Review]] · [[Kaelen 2018 - The Hidden Therapist (Music in Psychedelic Therapy)]] · [[Psychedelics and Nature Relatedness Studies (Imperial College)]] · [[Johns Hopkins Psilocybin Playlist Articles]] · [[CISUR Safer Tripping Infosheet]] · [[TripSafe Psilocybin Guide]] · [[Montclair Mirror-Gazing Psilocybin Study (2024)]] · [[Things to Do on Shrooms (Aggregate Guides)]]
+
 ### Diet Science / Nutrition Research
 - [[Research - Paul Saladino Animal-Based Diet]] — **synthesis**: why he calls grass-fed meat the best food (bioavailability real, grass-fed edge tiny, contaminant case unquantified), full how-to-follow guide, reasons to/not to follow (zero fiber, LDL/KETO-CTA, raw-milk H5N1, COI), vegetable views (developing)
 - [[Animal-Based Diet (Saladino)]] — the practical guide: 1 lb meat/100 lb BW, 0.5 oz liver/day, fruit+honey carbs ×0.7–1.7 g/lb, 3 toxicity tiers; structurally = whole-food high-protein paleo-with-dairy minus vegetables (developing)
