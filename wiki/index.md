@@ -451,6 +451,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI Automation Agency]] — scale services into retainers: n8n workflows for businesses; projects $3K–100K+ by scope, retainers $500–8K/mo, 5 clients ≈ $15K–25K/mo recurring; real constraint = niche + client acquisition (developing)
 - [[Research - Making Money with Claude Code and AI (Tiered)]] — synthesis: tiered options, realistic 2026 income data, saturation/reality-check, why most fail (bucket-hopping), Joe's recommended stack (developing)
 
+### Index Funds vs Stock Picking (2026-06-12)
+- [[Index Fund Tier List]] — **the tier-list deliverable**: S = broad cap-weighted ≤0.04% (VTI/FSKAX/VOO/FXAIX/SWPPX/VT, pick by brokerage); A = international/ZERO/target-date; B = QQQ/SCHD satellites; D = thematic (ARKK −14.67%/yr over 5y); F = leveraged (TQQQ volatility decay) (developing)
+- [[Index Funds vs Stock Picking]] — **the comparison deliverable**: 3-layer evidence stack (SPIVA pros fail / Bessembinder skewness / Barber-Odean retail behavior gap ~3.6%/yr); honest pro-picking list; resolution = core-satellite; applies to Joe's 11-stock portfolio (developing)
+- [[Skewness of Stock Returns]] — the deep reason picking fails: ~4% of stocks = ALL net wealth creation since 1926; median stock loses to T-bills; indexing = guaranteed tail capture (developing)
+- [[Core-Satellite Portfolio]] — index core 80–90%+ on auto-DCA, hard-capped picking satellite; cap enforced by flow not willpower; benchmark satellite vs VTI annually (developing)
+- [[Research - Index Funds vs Stock Picking (Tier List)]] — synthesis: 8 findings, SPIVA-methodology contradiction, open questions (direct indexing, optimal satellite size) (developing)
+
 ### Stocks / Investing & Quant Finance
 - [[Fundamental Analysis Valuation Metrics]] — what to own & at what price: P/E (vs history/peers/market), PEG, P/B, P/S, FCF yield; moat/debt/management; value traps; no ratio alone (developing)
 - [[Technical Analysis Indicators]] — when to act: moving averages (50/200), RSI 70/30, MACD, support/resistance, volume; timing tool, weak standalone edge after costs (developing)
