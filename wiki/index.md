@@ -728,7 +728,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Renaissance Technologies — Wikipedia]] — Medallion returns (~71.8% gross / 39% net), 5/44 fees, history, $7B IRS settlement (high confidence)
 - [[Edward O. Thorp — Wikipedia]] — origin of statistical arbitrage; PNP ~20% net no down quarter; Ridgeline wound down 2002 as edge crowded out (high confidence)
 - [[2024 Hedge Fund Returns Reporting]] — Fortune/P&I/Institutional Investor (Jan 2025); D.E. Shaw / Citadel / Millennium 2024 figures (medium — self-reported)
-- [[SPIVA Scorecard — Active vs Index]] — S&P Dow Jones Indices (2025); ~90% of active managers underperform over 15 years (high confidence)
+- [[SPIVA Scorecard — Active vs Index]] — S&P Dow Jones Indices (YE 2025, updated 2026-06-12); 79% of large-cap active lost to S&P 500 in 2025 (4th-worst year ever); ~92% over 20 years (high confidence)
+- [[Bessembinder - Do Stocks Outperform Treasury Bills]] — JFE 2018 + global extension; 4 of 7 stocks lose to T-bills lifetime; top ~4% = all net wealth creation (high confidence)
+- [[Barber and Odean - Individual Investor Performance]] — canonical retail-behavior papers; ~3.6%/yr behavior gap; active traders lag buy-and-hold by ~7 pp/yr (high confidence)
+- [[Index Fund Comparison 2026 (FinanceWonk)]] — 2026 ER/minimums/returns for all major S&P 500/total-market/international funds across Fidelity/Vanguard/Schwab (medium confidence)
 
 ### Power Electronics (Project References)
 - [[STM32G4 Digital Power Buck Reference]] — STM32G4 HRTIM/FMAC 3p3z + TI C2000 TIDM-DC-DC-BUCK/CLA/SFRA; design-by-emulation, ADC-PWM sync, loop-gain injection, DPT (high — vendor docs)
