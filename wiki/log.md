@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-12] autoresearch | Mushroom Trip Activities Tier List
+- Rounds: 3 | Searches: 7 | Sources fetched: 9 (4 blocked 403: both hopkinsmedicine.org articles, tripsitter.com, psychedelic.support/shrooms-safely partially recovered — Hopkins details reconstructed from search excerpts)
+- Pages created: [[Psilocybin Trip Activities Tier List]], [[Set and Setting]], [[Trip Sitter]], [[Psilocybin Session Protocol (Johns Hopkins)]], [[Research - Mushroom Trip Activities Tier List]] + sources [[Dutton 2025 - Psychedelic Harm Reduction Scoping Review]], [[Kaelen 2018 - The Hidden Therapist (Music in Psychedelic Therapy)]], [[Psychedelics and Nature Relatedness Studies (Imperial College)]], [[Johns Hopkins Psilocybin Playlist Articles]], [[CISUR Safer Tripping Infosheet]], [[TripSafe Psilocybin Guide]], [[Montclair Mirror-Gazing Psilocybin Study (2024)]], [[Things to Do on Shrooms (Aggregate Guides)]]
+- Pages updated: index (new section: Psychedelics / Harm Reduction, beside Mycology / Mushroom Cultivation; cross-links [[Psilocybin Legal Status (US)]])
+- Synthesis: [[Research - Mushroom Trip Activities Tier List]]
+- Key finding: dose is the master variable — at medium/high doses the deepest-studied "activity" is none (Hopkins: couch + eyeshades + 7h40m phase-structured classical playlist, inward focus); at low–moderate doses S-tier = curated lyric-free music (Kaelen "hidden therapist") / safe familiar nature (Imperial: nature-relatedness persists 2 yrs) / inward focus, F-tier = driving, heights, crowds, phone, substance mixing; mirror-gazing lore contradicted by Montclair 2024 (mostly positive) → C-tier.
+
 ## [2026-06-12] autoresearch | Index Fund Tier List + Index Funds vs Stock Picking
 - Rounds: 2 | Searches: 9 | Sources fetched: 8 (2 blocked: spglobal.com, etf.com — SPIVA data recovered via IFA.com + search results)
 - Pages created: [[Index Fund Tier List]], [[Index Funds vs Stock Picking]] (first page in comparisons/), [[Skewness of Stock Returns]], [[Core-Satellite Portfolio]], [[Research - Index Funds vs Stock Picking (Tier List)]] + sources [[Bessembinder - Do Stocks Outperform Treasury Bills]], [[Barber and Odean - Individual Investor Performance]], [[Index Fund Comparison 2026 (FinanceWonk)]]
