@@ -158,6 +158,9 @@ From *The Psychology of Money* (Housel):
 ---
 
 ## See Also
+- [[Index Fund Tier List]] — S→F ranking of specific funds (2026 data)
+- [[Index Funds vs Stock Picking]] — full pros/cons vs individual stocks
+- [[Core-Satellite Portfolio]] — how to pick stocks anyway without breaking the plan
 - [[Financial Order of Operations]]
 - [[Financial Literacy Roadmap]]
 - [[Compounding Wealth]]
