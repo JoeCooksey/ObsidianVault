@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Index Fund Tier List",
+      "path": "wiki/concepts/Index Fund Tier List.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Index Funds vs Stock Picking (Tier List)",
+      "path": "wiki/questions/Research - Index Funds vs Stock Picking (Tier List).md"
+    },
+    {
+      "basename": "Index Funds vs Stock Picking",
+      "path": "wiki/comparisons/Index Funds vs Stock Picking.md"
     },
     {
       "basename": "Most Important Biomarkers (Priority Shortlist)",
@@ -187,18 +199,6 @@
     {
       "basename": "Self-Study Textbook List + NotebookLM Prompt",
       "path": "wiki/concepts/Self-Study Textbook List + NotebookLM Prompt.md"
-    },
-    {
-      "basename": "Claude Code loop Command",
-      "path": "wiki/concepts/Claude Code loop Command.md"
-    },
-    {
-      "basename": "Research - Claude Code loop Command",
-      "path": "wiki/questions/Research - Claude Code loop Command.md"
-    },
-    {
-      "basename": "ERP Peptide Catalog — Worth-It Tier for Joe",
-      "path": "wiki/concepts/ERP Peptide Catalog — Worth-It Tier for Joe.md"
     }
   ],
   "omittedPaths": [],
