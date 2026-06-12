@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-12] newsletter | EE Daily — June 12, 2026
+- Top stories: SpaceX SPCX IPO largest in history ($1.75T, $75B raised, +30% on open); NVIDIA cuLitho + TSMC AI-in-fab (20-50% lithography efficiency); 2D molecular ferroelectric sub-10nm (Advanced Materials); PCIM 2026 SiC/GaN data center power architecture; ZnBr₂ sodium sulfamate scavenger breakthrough; daily topic: Ferroelectric Field-Effect Transistors (FeFET) — HZO polarization switching, depolarization retention physics, and embedded NVM design.
+
+## [2026-06-12] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- World: Iran-US MOU imminent — Trump claims "great settlement" within days, Iran says "nothing finalized," IAEA declares breach, US shot down 2 Iranian drones near Hormuz; US: FISA Section 702 expires first time since 2008 — House failed 198-218, Democrats blocked over Pulte DNI appointment, Jay Clayton nominated as permanent DNI; Technology: SpaceX SPCX IPO rings Nasdaq bell ($1.75T valuation, $75B raised, largest IPO in history, +30% on open) + Anthropic Claude Fable 5 released publicly (June 9); Science/Health: GLP-1 drugs linked to 30% lower breast cancer risk in 112,000-woman ASCO 2026 retrospective study (JCO Oncology Practice); Wildcard: FIFA World Cup 2026 Day 2 — USA opens vs Paraguay at SoFi Stadium tonight, Los Angeles.
+
 ## [2026-06-11] autoresearch (resumed) | Improving at Top Lane (League of Legends)
 - Resumed an interrupted run: 5 concepts + 4 sources already existed but were never filed (no synthesis, index, log, or hot entry); this session completed the filing + 1 gap-fill search
 - Pages created: [[Research - Improving at Top Lane (League of Legends)]] (synthesis), [[Patch 26.x Top Lane Tier Lists (Aggregate)]] (the missing source the champion-pool page referenced)
