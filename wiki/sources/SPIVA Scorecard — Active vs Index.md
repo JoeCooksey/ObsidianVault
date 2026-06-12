@@ -3,10 +3,10 @@ type: source
 source_type: report
 title: "S&P SPIVA Scorecard — Active vs Index Performance"
 author: "S&P Dow Jones Indices"
-date_published: 2025
+date_published: 2026
 url: "https://www.spglobal.com/spdji/en/spiva/article/spiva-us/"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-12
 confidence: high
 status: developing
 tags:
