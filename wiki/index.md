@@ -43,6 +43,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[James Clear]] — *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
 - [[Keith Ferrazzi]] — *Never Eat Alone* (2014); generosity-first networking; RAP, pinging, follow-up formula; ⭐⭐⭐⭐⭐ (Joe)
+- [[Justin Sung]] — MD-turned-learning-coach; teaches higher order thinking as the AI-resistant skill; "apply from day zero," mental > physical organization
 - [[Andrew Huberman]] — Professor of Neurobiology, Stanford; Huberman Lab; coined Limbic Friction
 - [[Jan Helgerud]] — NTNU exercise physiologist; co-developer (with Jan Hoff) of the Norwegian 4x4 protocol; Myworkout co-founder; 200+ PubMed articles
 - [[Ulrik Wisløff]] — NTNU professor, head of CERG; clinical + longevity evidence for 4x4 HIIT; Generation 100 study; "Fitness Age" VO2max estimator
