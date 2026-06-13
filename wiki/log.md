@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-13] save | ML Surrogate Modeling — Week 1 Daily Plan (Physical EE)
+- Type: concept
+- Location: wiki/concepts/ML Surrogate Modeling — Week 1 Daily Plan (Physical EE).md
+- From: conversation building a machine-learning learning roadmap specific to the physical/hardware side of EE, narrowed to a runnable Week 1 daily practice plan
+- Pages created: [[ML Surrogate Modeling — Week 1 Daily Plan (Physical EE)]] (concept)
+- Pages updated: index (EE × AI cluster)
+- Key insight: for hardware EE, ML = surrogate modeling + inverse design, not classification on clean data. Datasets are tiny (one expensive sim/measurement per sample), so classical ML wins — Gaussian Processes (small data + uncertainty) and Bayesian optimization beat deep nets. Unfair advantage: script the simulator to generate your own training data. Week 1 builds the full loop (generate → model → design backwards) on an RC filter; the lesson that linear regression beats a random forest in log-space drives the principle "match the model to the physics." Seeds future concept pages: [[Surrogate Modeling]], [[Gaussian Processes]], [[Bayesian Optimization]], [[PySpice]].
+
 ## [2026-06-13] save | Higher Order Thinking
 - Type: concept
 - Location: wiki/concepts/Higher Order Thinking.md
