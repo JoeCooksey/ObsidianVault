@@ -704,6 +704,13 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Wellbeing / Positive Psychology (2026-06-13)
+- [[Dacher Keltner — Awe (2023)]] — *Awe* (book); awe 2–3×/week, the eight wonders, "moral beauty" most common, the "small self" (high)
+- [[Bryant Veroff — Savoring, A New Model of Positive Experience]] — foundational savoring text; 3 temporal forms; sharing amplifies; dampening = opposite (high)
+- [[Sheldon Lyubomirsky — Hedonic Adaptation Prevention Model]] — 2 erosion routes + 2 moderators (appreciation + variety); "variety is the spice of happiness" (high on structure)
+- [[Waldinger Schulz — The Good Life (Harvard Study)]] — 80+ yr longitudinal; relationship quality > money/fame/IQ/genes; loneliness ≈ smoking (high)
+- [[Cunha 2019 — Gratitude Interventions RCT (Frontiers)]] — n=1,337; gratitude raised wellbeing **but a neutral daily-events task matched it** on most outcomes (high)
+
 ### Machine Learning & AI Tutoring
 - [[OpenAI Study Mode 2025]] — ChatGPT mode that asks/hints instead of answering; built on active recall, spaced repetition, chunking, metacognition; names the no-cross-chat-memory limitation (medium)
 - [[Harvard AI Active Learning RCT 2025]] — 2025 RCT: AI tutoring on active-learning principles → 0.73–1.3 SD gains over traditional instruction (medium; verify primary)
