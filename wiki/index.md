@@ -205,6 +205,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[AI Applications in Electrical Engineering]] — domain map of all 8 EE×AI application areas: EDA/chip design, power electronics, TinyML/edge AI, EV/BMS, signal processing, digital twins, control systems, verification; opportunity matrix by EE track (developing)
 - [[AI Skills Roadmap for Electrical Engineers]] — 6-phase path: Python → ML fundamentals → deep learning → EE-specific track (TinyML, power electronics, EDA, grid, RF, battery) → MLOps; free resources ordered; job market demand; 56% salary premium (developing)
 - [[Research - EE AI Skills and Applications]] — source + synthesis: 8 EE×AI domains, all free resources, salary data, domain-by-domain ML tool stacks (complete)
+- [[ML Surrogate Modeling — Week 1 Daily Plan (Physical EE)]] — hands-on 5-day plan for the hardware side of EE: generate own data → model → inverse design; RC-filter surrogate with PySpice/scikit-learn/GPyTorch; classical ML + GPs > deep learning on small simulation data (developing)
 
 ### EE × Data Science
 - [[Data Science in Electrical Engineering]] — 8 application domains: predictive maintenance, SCADA/power quality, smart metering, renewable forecasting, BMS analytics, signal features, EDA, EMC; tool stack; career roles $90-220k (developing)
