@@ -863,6 +863,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Ironman Efficiency Guide (ironman.guide)]] — Oziris-lineage 569-step ordered route, 2026 update; "camp CG until 2 enhanced seeds" (medium-high)
 - [[Ironman Meta — Progression Guides]] — stage milestones, slayer ladder, time estimates (50–100 hr early, 100–200 hr slayer) (medium)
 - [[Ironman Meta — Varlamore Guide]] — hunter rumours, bone shards, Moons of Peril, Colosseum for irons (medium)
+- [[OSRS Wiki — Idle (AFK Methods)]] — official idle-duration catalogue (Infected Roots 30min, stars 63min, crabs/NMZ) (high)
+- [[OSRS Money Making Guide — Best AFK Methods 2025]] — AFK GP/hr table by skill + requirements; economy-estimate figures (medium)
+- [[Best GP Per Hour OSRS 2025]] — highest-hourly ranking: bossing, high RC, flipping (medium)
+- [[Theoatrix — 20 Mid-Game Goals OSRS]] — leverage-ordered mid-game goal list from established creator (medium)
 
 ### Gaming / League of Legends (Sources)
 - [[Martončik 2024 — Psychological Predictors of Esports Success]] — registered report, N=411 LoL: deliberate practice null (r=-.01), volume predicts rank (r=.26) (high)
