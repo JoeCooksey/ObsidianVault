@@ -43,7 +43,7 @@ This reframes much of the vault's learning cluster: [[Active Recall (Retrieval P
 
 ## The trap directly relevant to a second brain
 
-Sung explicitly names **color-coded notes, perfect tags, flashcards, citation software, the immaculate Notion/Obsidian template** as *physical organization* — and labels it **"productive procrastination"**: it produces the *feeling* of organization without the integrative thinking that creates value. The warning lands on any elaborate note system (this vault included). The HOT-aligned use of a wiki is not to perfect its structure but to **force connections** — make explicit claims about how concepts relate (the [[wikilinks]] themselves), then revise them as understanding matures. This is the same failure mode as [[Cognitive Offloading (Learning Risk)]]: the system can do the *filing* as long as the human keeps doing the *thinking*.
+Sung explicitly names **color-coded notes, perfect tags, flashcards, citation software, the immaculate Notion/Obsidian template** as *physical organization* — and labels it **"productive procrastination"**: it produces the *feeling* of organization without the integrative thinking that creates value. The warning lands on any elaborate note system (this vault included). The HOT-aligned use of a wiki is not to perfect its structure but to **force connections** — make explicit claims about how concepts relate (the wikilinks themselves), then revise them as understanding matures. This is the same failure mode as [[Cognitive Offloading (Learning Risk)]]: the system can do the *filing* as long as the human keeps doing the *thinking*.
 
 ## Why Joe cares
 
