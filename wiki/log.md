@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Log"
-updated: 2026-06-12
+updated: 2026-06-13
 tags:
   - meta
 ---
@@ -10,6 +10,19 @@ tags:
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
 ---
+
+## [2026-06-13] stock-briefing | Daily Stock Briefing — June 13, 2026
+- RED: 0 | YELLOW: 6 (AMD, TSLA, AAPL, GOOGL, LLY, ASML) | GREEN: 5 (NVDA, TSMC, META, MSFT, V)
+- AMD: Citi upgrade Buy $575 PT + BofA $560 PT; hit 2030 earnings target two years early. TSLA: SpaceX SPCX IPO debut (+19% first day, $1.75T), Musk premium compression risk. AAPL: stock -5% post-WWDC despite analyst PT wave ($350–$380). LLY: EVP sold $2.88M; retatrutide *Lancet* data positive vs payer headwind emerging. ASML: JPM PT EUR 1,515→1,900; Terafab/Musk conference surge. Market context: CPI 4.2% (highest since 2023), Fed hold expected June 16–17, Brent >$100.
+
+## [2026-06-13] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- World: US-Iran war — MOU framework finalized, signing expected "in days," but overnight strikes continued (GBU-39 on Iranian air defense, IRGC drones at Gulf bases); US: Kennedy Center workers remove Trump name early Saturday after appeals court rejects stay of federal court deadline; Technology: SpaceX SPCX IPO — largest in history ($1.75T, $75B raised, +19% first-day gain, TSLA intraday selloff recovered); Science/Health: Eli Lilly retatrutide Phase III (*The Lancet*) — triple-receptor GLP-1 improves weight + sleep apnea + OA + T2D, employers starting to cut GLP-1 coverage; Wildcard: FIFA World Cup 2026 — USA 4-1 Paraguay, Canada earns first-ever World Cup point (Larin vs Bosnia).
+
+## [2026-06-13] newsletter | EE Daily — June 13, 2026
+- Top stories: AMD Citi upgrade Buy $575 PT (hit 2030 earnings 2 years early, MI300X ramp); TSMC 3nm 15% H2 price hike + cuLitho AI-in-fab (20–50% litho efficiency); QuiX Quantum FFCU photonic feed-forward at 150 ns latency; valleytronics chip at room temperature (valleytronic binary DOF); SiC 14-inch single crystal (Tiancheng) + 8-inch laser lift-off at 40 µm (Zhongwei); 2D Fe₂Mo₃O₈ 230 µC/cm² + 4×10⁹ endurance; daily topic: HBM4 architecture and the AI memory wall (2,048-bit bus, ~2 TB/s per stack, arithmetic intensity math).
+
+## [2026-06-13] review | Daily Book Review — June 13, 2026
+- 8 cards selected (all box 1, most overdue first): pm_006 Psychology of Money, ne_001 Never Eat Alone, wf_005 How to Win Friends, h7_001 The 7 Habits, ah_004 Atomic Habits, ld_002 Leonardo da Vinci, sa_003 The Subtle Art, sv_004 Steve Jobs; all 8 cards from yesterday's review (2026-06-12) treated as Almost (no checked boxes) → next_review updated to 2026-06-13 for h7_007, pm_005, ne_005, ld_006, ah_003, sv_003, wf_004, sa_002.
 
 ## [2026-06-12] autoresearch | Index Fund Tier List + Index Funds vs Stock Picking
 - Rounds: 2 | Searches: 9 | Sources fetched: 8 (2 blocked: spglobal.com, etf.com — SPIVA data recovered via IFA.com + search results)

@@ -7,37 +7,61 @@
       "id": "sv_001",
       "question": "What is the Reality Distortion Field, and what were its costs?",
       "answer": "Jobs's ability to make the impossible seem expected — he could convince any team that 'can't do' was actually achievable. Named after Star Trek by Bud Tribble. It compressed timelines and forced breakthroughs (Mac, iPhone, iPad). Cost: delayed cancer surgery, damaged relationships, created a culture of fear. The RDF was inseparable from his greatness.",
-      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
+      "box": 2,
+      "interval": 3,
+      "next_review": "2026-05-30",
+      "last_reviewed": "2026-05-27",
+      "repetitions": 1
     },
     {
       "id": "sv_002",
       "question": "What is Jobs's principle of Simplicity by Subtraction?",
       "answer": "Simplicity is not removing decoration — it's deeply understanding complexity and eliminating everything extraneous. The iPod had one button. Focus means saying no to a hundred good ideas to say yes to one great one. Radical subtraction often requires more engineering, not less.",
-      "box": 2, "interval": 3, "next_review": "2026-05-30", "last_reviewed": "2026-05-27", "repetitions": 1
+      "box": 2,
+      "interval": 3,
+      "next_review": "2026-05-30",
+      "last_reviewed": "2026-05-27",
+      "repetitions": 1
     },
     {
       "id": "sv_003",
       "question": "What is the A-Player Principle?",
       "answer": "B-players hire C-players (to avoid being shown up). A-players hire A-players. One B-player infects a team — others tolerate lower standards, and the bar drops. Jobs maintained A-player density through radical honesty about performance. He believed this was respect, not cruelty.",
-      "box": 1, "interval": 1, "next_review": "2026-06-06", "last_reviewed": "2026-06-05", "repetitions": 2
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-13",
+      "last_reviewed": "2026-06-12",
+      "repetitions": 3
     },
     {
       "id": "sv_004",
       "question": "What was Jobs's philosophy on arts and technology, and where did it come from?",
       "answer": "'Technology alone is not enough — it's technology married with liberal arts and humanities that yields the results that make our hearts sing.' The calligraphy class at Reed College → Mac's beautiful typography → the aesthetic revolution in computing. Aesthetic sensitivity was an engineering requirement at Apple.",
-      "box": 1, "interval": 1, "next_review": "2026-06-07", "last_reviewed": "2026-06-06", "repetitions": 1
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-07",
+      "last_reviewed": "2026-06-06",
+      "repetitions": 1
     },
     {
       "id": "sv_005",
       "question": "What is Apple's Vertical Integration philosophy, and what does it trade off?",
       "answer": "End-to-end control of hardware + software + retail is essential to a perfect, cohesive experience. Opposite of the Gates/Microsoft 'open systems' model. Vindicated by iTunes → iPod → iPhone → App Store flywheel. Trade-off: closed systems lock users in but deliver coherence Windows cannot match.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": "2026-06-07", "repetitions": 1
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": "2026-06-07",
+      "repetitions": 1
     },
     {
       "id": "sv_006",
       "question": "What does 'taste as a skill' mean, according to Isaacson's portrait of Jobs?",
       "answer": "Jobs believed taste was cultivated through exposure to great art, music, design, and poetry — not inherited. He could walk away from a product and return days later with a clear verdict. Aesthetic judgment is a trainable discipline, not a gift. It requires sustained exposure and the courage to trust your judgment.",
-      "box": 1, "interval": 1, "next_review": "2026-06-09", "last_reviewed": "2026-06-08", "repetitions": 1
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-09",
+      "last_reviewed": "2026-06-08",
+      "repetitions": 1
     }
   ]
 }

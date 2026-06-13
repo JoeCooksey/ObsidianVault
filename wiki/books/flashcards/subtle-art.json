@@ -7,31 +7,51 @@
       "id": "sa_001",
       "question": "What is the 'Feedback Loop from Hell,' and what does it reveal about pursuing happiness?",
       "answer": "Feeling anxious → feeling anxious about feeling anxious → feeling worse about feeling worse. The pursuit of positive experience is itself a negative experience; accepting negative experience is itself a positive one. Manson's inversion: stop trying to feel good all the time. That pursuit is the trap.",
-      "box": 1, "interval": 1, "next_review": "2026-06-09", "last_reviewed": "2026-06-08", "repetitions": 1
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-09",
+      "last_reviewed": "2026-06-08",
+      "repetitions": 1
     },
     {
       "id": "sa_002",
       "question": "What is Manson's core argument about values and problems?",
       "answer": "Better values produce better problems. Problems never disappear — they upgrade. Choosing which problems you're willing to have (and work through) is more important than trying to eliminate problems. 'What are you willing to struggle for?' is a better life question than 'What do you want?'",
-      "box": 1, "interval": 1, "next_review": "2026-06-06", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-13",
+      "last_reviewed": "2026-06-12",
+      "repetitions": 1
     },
     {
       "id": "sa_003",
       "question": "What is Manson's Law of Avoidance?",
       "answer": "The more you try to avoid something, the more it defines you. If you try to avoid failure, failure defines your life — every decision is made to avoid it. If you try to avoid embarrassment, embarrassment defines your life. The thing you avoid always wins. Engage with it instead.",
-      "box": 1, "interval": 1, "next_review": "2026-06-06", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-06",
+      "last_reviewed": null,
+      "repetitions": 0
     },
     {
       "id": "sa_004",
       "question": "What does Manson mean by 'you are always choosing,' and how does it relate to responsibility?",
       "answer": "Even if you didn't cause a problem, you are responsible for how you respond to it. Responsibility is not blame — it's recognition that you always have a choice in how you engage with your circumstances. Blaming others is comfortable but leaves you powerless. Taking responsibility returns agency to you.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": null,
+      "repetitions": 0
     },
     {
       "id": "sa_005",
       "question": "What is Manson's argument about certainty and growth?",
       "answer": "Certainty is the enemy of growth. If you're sure you're right, you can't learn. The willingness to say 'I might be wrong' — and mean it — is not weakness, it's the prerequisite for improvement. Dogmatism is comfortable but terminal. Growth requires tolerating the discomfort of uncertainty.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": null,
+      "repetitions": 0
     }
   ]
 }
