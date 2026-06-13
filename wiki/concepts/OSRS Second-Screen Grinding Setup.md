@@ -8,38 +8,48 @@ tags:
   - gaming
   - osrs
   - afk
+  - second-screen
   - productivity
 related:
   - "[[Old School RuneScape]]"
   - "[[OSRS AFK Money-Making Methods]]"
   - "[[OSRS Wiki — Idle (AFK Methods)]]"
+  - "[[OSRS Wiki — Popular YouTube Series]]"
+  - "[[Feedspot — Best OSRS Podcasts]]"
   - "[[Best Podcasts Tier List (for Joe)]]"
 ---
 # OSRS Second-Screen Grinding Setup
 
-OSRS's long, low-input grinds make it a classic **second-monitor / background game**: run a high-AFK method on one screen and do something else on the other. The skill is matching the grind's idle window to how much attention you have to spare.
+What to put on the **other monitor** while a low-input OSRS grind runs. The grind only needs a click every few minutes (see [[OSRS Wiki — Idle (AFK Methods)]]), so the second screen is where the actual time goes. Pick by how much attention the grind leaves you.
 
-## The most idle methods (longest time-between-clicks)
-| Activity | Skill | Idle window | Requirements |
-|---|---|---|---|
-| Infected Roots | Woodcutting | up to 30 min | 80 WC, The Final Dawn |
-| Sailing (crew assignments) | Sailing | up to ~30 min | — |
-| Nightmare Zone | Combat | ~20 min | quest bosses unlocked |
-| Crashed Stars | Mining | 7 min/tier (~63 min total) | F2P-friendly |
-| Dark Crabs | Fishing | longest single stretch | Wilderness Resource Area |
-| Gemstone Crab | Combat | ~10 min | low requirements |
-| Ammonite Crabs | Combat | up to ~10 min | low combat |
-| Redwood trees | Woodcutting | ~4 min 24 s | 90 WC |
-| Cook/Craft/Fletch/Herblore "Make All" | Production | full inventory | varies |
+## The content menu
 
-(Source: [[OSRS Wiki — Idle (AFK Methods)]])
+### OSRS-on-OSRS (stay in the world without grinding)
+The most popular pairing — watch other people's accounts while yours trains:
+- **Progress / "locked account" series** — Settled's *Swampletics* (Morytania-locked UIM), B0aty's *One Man Army*, J1mmy's *By Release*, FullyOSRS *Fully Mobile*. Long-form, low-stakes, endlessly bingeable.
+- **Challenge / restriction runs** — *Xtreme Onechunk Ironman* (Limpwurt), *A Defence Saga* (Rendi), *PVP but HCIM* (C Engineer).
+- **Competitive / completion** — SoupRS *Gielinor Games*, Jcw *Max Cape Speedrun*, *Collection Log Completionist*.
+(Source: [[OSRS Wiki — Popular YouTube Series]])
 
-## How to choose
-- **Watching a show / coding / working** → pick the longest windows (Infected Roots, NMZ, stars, Sailing) so the character won't die or stall unnoticed.
-- **Light multitasking** → crabs (Gemstone/Ammonite) and barbarian fishing are forgiving.
-- **Never** run aggressive combat methods unattended if death drops gear — match risk to attention.
+### OSRS podcasts (audio-only — best when the grind needs occasional glances)
+- **Sae Bae Cast** — the deep-roots community/dev show, explicitly made to "enjoy the grind" to.
+- **The Wilderness Podcast** (Dilz, Deagin), **XP Waste** (Oxie, Michael), **BuneBape** (Rob, Michelle), **Lumbridge Lounge**, **Guthix Rest**, and **The Official OSRS Podcast** (devs).
+- **Cozy Old School Runescape Lore** (DriftArray) — relaxed lore for background listening.
+(Source: [[Feedspot — Best OSRS Podcasts]])
 
-## What to put on the other screen
-The OSRS community pairs grinds with podcasts/streams; the dedicated OSRS podcast is the **Sae Bae Cast** (weekly, community + dev topics). Pairs naturally with Joe's [[Best Podcasts Tier List (for Joe)]] for non-OSRS audio. *(confidence: low — community convention, not a measured claim)*
+### Non-OSRS background
+- **Shows / YouTube / Twitch** — the default; pick something you don't mind half-watching.
+- **Podcasts / audiobooks** — best ROI on dead grind time; pulls from Joe's [[Best Podcasts Tier List (for Joe)]].
+- **Another idle/turn-based game** — Slay the Spire, Civ, deck-builders, or another idle game tolerate interruption.
+- **Actual work / study** — feasible only on the longest-idle methods (below); the grind becomes a fidget, not a focus drain.
 
-> [!tip] A ~20-minute logout timer caps "true AFK" — the top methods are engineered to keep the character active right up to that limit.
+## How to choose (match content to the grind's idle window)
+| Grind idle window | Safe second-screen use |
+|---|---|
+| 20–63 min (Infected Roots, NMZ, Crashed Stars, Sailing) | Work, study, a movie, a focused task |
+| ~10 min (Gemstone/Ammonite Crabs, barbarian fishing) | A show, a podcast, light multitasking |
+| ~3–5 min (redwoods, most production) | Audio only — podcast/music; eyes mostly on OSRS |
+
+(Idle windows from [[OSRS Wiki — Idle (AFK Methods)]].)
+
+> [!tip] Two rules: (1) **never** run a death-risk combat method unattended on the side; (2) the ~20-min logout timer caps true AFK, so on long-idle methods set a glance reminder so the character doesn't time out mid-task.
