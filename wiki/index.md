@@ -687,6 +687,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Machine Learning & AI Tutoring
+- [[OpenAI Study Mode 2025]] — ChatGPT mode that asks/hints instead of answering; built on active recall, spaced repetition, chunking, metacognition; names the no-cross-chat-memory limitation (medium)
+- [[Harvard AI Active Learning RCT 2025]] — 2025 RCT: AI tutoring on active-learning principles → 0.73–1.3 SD gains over traditional instruction (medium; verify primary)
+- [[ML Roadmap Zero to Expert 2025]] — aggregated 2025 roadmaps; Phase 0–4 curriculum + math prereqs + 4–6 portfolio projects; ~12 mo zero→project-ready (high on order, low on timeline)
+- [[Karpathy Neural Networks Zero to Hero]] — Karpathy's from-scratch DL series; cited as the single best free DL resource; micrograd → makemore → GPT (high)
+
 ### Podcasts / Audio Learning
 - [[Tobin Guadagno 2022 — Why People Listen (PLOS One)]] — preregistered, n=306; openness/curiosity/need-for-cognition predict listening; parasocial → relatedness; need-to-belong negative (high)
 - [[Daniel Woody 2010 — They Hear But Do Not Listen]] — podcast group worse than text readers on dense material; preference flipped after the quiz (high, dated)
