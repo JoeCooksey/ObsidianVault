@@ -383,6 +383,11 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[OSRS Ironman Late Game and Endgame]] — SotE → camp Corrupted Gauntlet (bowfa) → solo boss circuit → ToA-first raid order → infernal/quiver/mega-rares (developing)
 - [[OSRS Ironman Slayer Ladder]] — 58 black mask → 85 whip → 87 trident → 91 primordials → 93 occult → 95 lance; the mid-game spine, 100–200 hrs (developing)
 - [[Varlamore Ironman Unlocks]] — what changed vs classic routes: hunter rumours, blessed bone shards prayer, Moons of Peril gear, Fortis Colosseum (developing)
+- [[Research - Best Things To Do While Playing OSRS]] — **synthesis**: what to do splits into make-GP / progress-account / background-play; deciding variable is *attention*, not GP/hr (developing)
+- [[OSRS AFK Money-Making Methods]] — GP with minimal clicks: Sacred Eels 300–440k, Brutal Blacks 300–500k, Amethyst, Miscellania (most passive) (developing)
+- [[OSRS High GP-Per-Hour Money Makers (Active)]] — bossing ceiling (ToB, Nex 12–16M, Vorkath 4.5M, Muspah), high RC, GE flipping (developing)
+- [[OSRS Mid-Game Progression Goals]] — leverage-ordered checklist: Barrows gloves → Dragon Defender → fire cape → base-90s → grandmaster quests → 83 Con (developing)
+- [[OSRS Second-Screen Grinding Setup]] — match idle window to attention: Infected Roots 30min, NMZ 20min, stars 63min, crabs 10min (developing)
 
 ### Gaming / League of Legends
 - [[LoL Improvement Practice System]] — volume-first practice system: one role / 2–3 champs, consistent schedule, warm-up, one focus goal, light VOD review, tilt protocol (developing)
