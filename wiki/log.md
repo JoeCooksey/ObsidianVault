@@ -11,14 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
-<<<<<<< HEAD
-## [2026-06-12] autoresearch | Mushroom Trip Activities Tier List
-- Rounds: 3 | Searches: 7 | Sources fetched: 9 (4 blocked 403: both hopkinsmedicine.org articles, tripsitter.com, psychedelic.support/shrooms-safely partially recovered — Hopkins details reconstructed from search excerpts)
-- Pages created: [[Psilocybin Trip Activities Tier List]], [[Set and Setting]], [[Trip Sitter]], [[Psilocybin Session Protocol (Johns Hopkins)]], [[Research - Mushroom Trip Activities Tier List]] + sources [[Dutton 2025 - Psychedelic Harm Reduction Scoping Review]], [[Kaelen 2018 - The Hidden Therapist (Music in Psychedelic Therapy)]], [[Psychedelics and Nature Relatedness Studies (Imperial College)]], [[Johns Hopkins Psilocybin Playlist Articles]], [[CISUR Safer Tripping Infosheet]], [[TripSafe Psilocybin Guide]], [[Montclair Mirror-Gazing Psilocybin Study (2024)]], [[Things to Do on Shrooms (Aggregate Guides)]]
-- Pages updated: index (new section: Psychedelics / Harm Reduction, beside Mycology / Mushroom Cultivation; cross-links [[Psilocybin Legal Status (US)]])
-- Synthesis: [[Research - Mushroom Trip Activities Tier List]]
-- Key finding: dose is the master variable — at medium/high doses the deepest-studied "activity" is none (Hopkins: couch + eyeshades + 7h40m phase-structured classical playlist, inward focus); at low–moderate doses S-tier = curated lyric-free music (Kaelen "hidden therapist") / safe familiar nature (Imperial: nature-relatedness persists 2 yrs) / inward focus, F-tier = driving, heights, crowds, phone, substance mixing; mirror-gazing lore contradicted by Montclair 2024 (mostly positive) → C-tier.
-=======
+## [2026-06-13] save | Higher Order Thinking
+- Type: concept
+- Location: wiki/concepts/Higher Order Thinking.md
+- From: conversation summarizing Justin Sung's YouTube video *How To Learn So Fast That AI Can Never Replace You* (transcript pulled via yt-dlp captions) and the question "how can I build the skills here?"
+- Pages created: [[Higher Order Thinking]] (concept), [[Justin Sung]] (entity)
+- Pages updated: index (Learning Science cluster + Entities)
+- Key insight: HOT = integrating contextual/multifactorial problems (what LLMs are worst at), NOT memorization; lower→higher order is NOT a ladder (different habits, only built by deliberately doing HOT); 3 practices = apply-from-day-zero (<5–10 min to application or the brain prunes it), mental>physical organization via revisable mind maps, think-on-paper. Sharp flag for this vault: elaborate note systems (tags, flashcards, perfect templates) = "productive procrastination" — value is in forcing connections, not perfecting structure ([[Cognitive Offloading (Learning Risk)]] failure mode).
+
 ## [2026-06-13] stock-briefing | Daily Stock Briefing — June 13, 2026
 - RED: 0 | YELLOW: 6 (AMD, TSLA, AAPL, GOOGL, LLY, ASML) | GREEN: 5 (NVDA, TSMC, META, MSFT, V)
 - AMD: Citi upgrade Buy $575 PT + BofA $560 PT; hit 2030 earnings target two years early. TSLA: SpaceX SPCX IPO debut (+19% first day, $1.75T), Musk premium compression risk. AAPL: stock -5% post-WWDC despite analyst PT wave ($350–$380). LLY: EVP sold $2.88M; retatrutide *Lancet* data positive vs payer headwind emerging. ASML: JPM PT EUR 1,515→1,900; Terafab/Musk conference surge. Market context: CPI 4.2% (highest since 2023), Fed hold expected June 16–17, Brent >$100.
@@ -31,7 +31,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ## [2026-06-13] review | Daily Book Review — June 13, 2026
 - 8 cards selected (all box 1, most overdue first): pm_006 Psychology of Money, ne_001 Never Eat Alone, wf_005 How to Win Friends, h7_001 The 7 Habits, ah_004 Atomic Habits, ld_002 Leonardo da Vinci, sa_003 The Subtle Art, sv_004 Steve Jobs; all 8 cards from yesterday's review (2026-06-12) treated as Almost (no checked boxes) → next_review updated to 2026-06-13 for h7_007, pm_005, ne_005, ld_006, ah_003, sv_003, wf_004, sa_002.
->>>>>>> origin/main
+
+## [2026-06-12] autoresearch | Mushroom Trip Activities Tier List
+- Rounds: 3 | Searches: 7 | Sources fetched: 9 (4 blocked 403: both hopkinsmedicine.org articles, tripsitter.com, psychedelic.support/shrooms-safely partially recovered — Hopkins details reconstructed from search excerpts)
+- Pages created: [[Psilocybin Trip Activities Tier List]], [[Set and Setting]], [[Trip Sitter]], [[Psilocybin Session Protocol (Johns Hopkins)]], [[Research - Mushroom Trip Activities Tier List]] + sources [[Dutton 2025 - Psychedelic Harm Reduction Scoping Review]], [[Kaelen 2018 - The Hidden Therapist (Music in Psychedelic Therapy)]], [[Psychedelics and Nature Relatedness Studies (Imperial College)]], [[Johns Hopkins Psilocybin Playlist Articles]], [[CISUR Safer Tripping Infosheet]], [[TripSafe Psilocybin Guide]], [[Montclair Mirror-Gazing Psilocybin Study (2024)]], [[Things to Do on Shrooms (Aggregate Guides)]]
+- Pages updated: index (new section: Psychedelics / Harm Reduction, beside Mycology / Mushroom Cultivation; cross-links [[Psilocybin Legal Status (US)]])
+- Synthesis: [[Research - Mushroom Trip Activities Tier List]]
+- Key finding: dose is the master variable — at medium/high doses the deepest-studied "activity" is none (Hopkins: couch + eyeshades + 7h40m phase-structured classical playlist, inward focus); at low–moderate doses S-tier = curated lyric-free music (Kaelen "hidden therapist") / safe familiar nature (Imperial: nature-relatedness persists 2 yrs) / inward focus, F-tier = driving, heights, crowds, phone, substance mixing; mirror-gazing lore contradicted by Montclair 2024 (mostly positive) → C-tier.
 
 ## [2026-06-12] autoresearch | Index Fund Tier List + Index Funds vs Stock Picking
 - Rounds: 2 | Searches: 9 | Sources fetched: 8 (2 blocked: spglobal.com, etf.com — SPIVA data recovered via IFA.com + search results)
