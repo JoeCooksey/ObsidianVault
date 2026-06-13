@@ -158,6 +158,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Learning Science / How to Learn Anything
 - [[Research: How to Learn Anything (The Science of Learning)]] — **master synthesis + step-by-step operating system**: two engines (memory + skill), the 5-phase protocol (map → understand → make-it-stick → build-skill → compound); feels-harder = learns-better (developing)
+- [[Higher Order Thinking]] — [[Justin Sung]]'s AI-proof skill: integrating contextual/multifactorial problems, NOT memorizing; no ladder from lower→higher order; build it via apply-from-day-zero, revisable mind maps, think-on-paper; warns elaborate note systems = "productive procrastination" (developing)
 - [[Most Self-Teachable High-Value Skills (Tier List for Joe)]] — applies the learning science as a *selection filter* (feedback loop + free resources + deconstructable); S-tier = math foundations, programming depth, AI/ML; A = LTSpice, FPGA, investing; one-line answer = **self-teach math first** (developing)
 - [[Self-Study Textbook List + NotebookLM Prompt]] — best self-study textbook per subject (Strang, Stewart, Blitzstein, Sedra & Smith, CLRS, Griffiths, Hull…) + a reusable NotebookLM study-coach prompt that maps any book into concepts/facts/procedures (stable)
 - [[Active Recall (Retrieval Practice)]] — the #1 evidence-based technique: produce the answer from memory, don't re-read; beats highlighting cold (developing)
