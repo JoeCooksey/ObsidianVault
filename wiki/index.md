@@ -88,6 +88,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Erin Westgate]] — University of Florida psychologist; MAC model of boredom (with Timothy Wilson); "boredom is a signal — what counts is the response"
 - [[Sandi Mann]] — UCLan psychologist; *The Upside of Downtime*; boredom-creativity studies; phone-free mind-wandering protocol
 - [[Old School RuneScape]] — grind-based MMORPG (Jagex, 2013); 23 skills + PvM; design makes "what to do while playing" a two-layer attention question
+- [[Dacher Keltner]] — UC Berkeley psychologist; Greater Good Science Center founder; modern science of awe; *Awe* (2023); "small self"
+- [[Fred Bryant]] — Loyola Chicago social psychologist; father of savoring research; 3 temporal forms; Savoring Beliefs Inventory
+- [[Robert Waldinger]] — Harvard psychiatrist; director, Harvard Study of Adult Development (1938–); *The Good Life* (2023); relationships = #1 predictor of a happy life
 
 ## Concepts
 
