@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-13] autoresearch | Best Things To Do While Playing OSRS
+- Rounds: 2 | Searches: 5 | Pages created: 9
+- From: Joe asked (via /autoresearch) for the best options to do while playing OSRS
+- Pages created: [[Research - Best Things To Do While Playing OSRS]] (synthesis), [[Old School RuneScape]] (entity), [[OSRS AFK Money-Making Methods]], [[OSRS High GP-Per-Hour Money Makers (Active)]], [[OSRS Mid-Game Progression Goals]], [[OSRS Second-Screen Grinding Setup]] (concepts), [[OSRS Wiki — Idle (AFK Methods)]], [[OSRS Money Making Guide — Best AFK Methods 2025]], [[Best GP Per Hour OSRS 2025]], [[Theoatrix — 20 Mid-Game Goals OSRS]] (sources)
+- Pages updated: index (Gaming/OSRS concept + source lines, Entities), hot
+- Synthesis: [[Research - Best Things To Do While Playing OSRS]]
+- Key finding: "what to do while playing OSRS" splits three ways — make GP (AFK or active), progress the account, or play in the background — and the deciding variable is *attention*, not GP/hr. Best AFK income: Sacred Eels (300–440k), Brutal Blacks (300–500k), Amethyst, plus Miscellania/herb runs (most passive). Active ceiling is ~10–50× higher (ToB, Nex 12–16M, Vorkath 4.5M, high RC, flipping). Most-idle methods (Infected Roots 30min, NMZ 20min, stars 63min, crabs 10min) define the best second-screen grinds. Highest-leverage progression: Barrows gloves → Dragon Defender → fire cape → base-90s → grandmaster quests → 83 Con. Note: existing vault OSRS content was Ironman-focused; these pages cover the general/main-game case. GP/hr figures are 2025 guide estimates (medium confidence); idle durations from official Wiki (high).
+
 ## [2026-06-13] autoresearch | ChatGPT as a Machine Learning Tutor
 - Rounds: 2 | Searches: 5 | Pages created: 6
 - From: Joe asked for a prompt to make ChatGPT tutor him from zero to pro at machine learning
