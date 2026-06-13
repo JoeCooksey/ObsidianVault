@@ -90,6 +90,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Learning & AI Tutoring
+- [[ChatGPT ML Tutor Prompt (Zero to Pro)]] — **deliverable**: copy-paste prompt turning ChatGPT into a Socratic, project-based ML tutor; built on active recall + spaced repetition + Socratic questioning + project-per-phase; Phase 0–4 curriculum (Python/math → classical ML → deep learning → transformers → MLOps); diagnostic placement + progress tracker + "pro" exit criteria; Joe-specific EE/small-data tweak (stable)
+
 ### Dopamine & Neuroscience
 - [[Dopamine Complete Guide]] — masterclass hub; dopamine = motivation not pleasure; peak→baseline-dip; low-dopamine symptoms; healthy maintenance (stable)
 - [[Dopamine Increases by Activity (Tier List)]] — **the quantitative centerpiece**: how much each activity/substance raises dopamine + crash profile; chocolate 1.5×→amphetamine 10×; cold 2.5× crash-free (stable)
