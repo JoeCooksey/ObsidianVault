@@ -296,6 +296,14 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Toxic Positivity]] — cultural suppression of difficult emotions causes burnout and lower resilience (developing)
 - [[Emotions as Functional]] — Darwin: emotions are adaptive signals pointing to values and needs (developing)
 
+### Wellbeing / Positive Psychology (Fall in Love with Your Life) (2026-06-13)
+- [[Research - How to Fall in Love with Your Life]] — **synthesis**: wellbeing = *frequency* of small attended moments, not intensity of big ones; adaptation makes it a maintained practice; 4 attentional levers + relationships + a guardrail (developing)
+- [[Romanticizing Your Life]] — the folk phrase decoded: directed attention + savoring + awe + gratitude; the line between it and [[Toxic Positivity]] is acceptance+addition vs denial+replacement (developing)
+- [[Savoring]] — the core trainable skill; 3 forms (anticipate / be present / reminisce); sharing amplifies; dampening is the opposite; Bryant (developing)
+- [[Awe (Everyday Wonder)]] — Keltner: awe 2–3×/week from ordinary sources ("extraordinary in the ordinary"); the "small self"; lowers inflammation, raises generosity (developing)
+- [[Gratitude Practice (Evidence Review)]] — real but **modest**; a neutral "daily events" task matched gratitude in a 1,337-person RCT → active ingredient may be structured attention, not gratitude (developing)
+- [[Hedonic Adaptation Prevention Model]] — Sheldon & Lyubomirsky: positive change erodes 2 ways; only **appreciation + variety** slow it; "variety is the spice of happiness" (developing)
+
 ### Neuroscience / Habits
 - [[Limbic Friction]] — activation energy to override anxious/lethargic states (developing)
 - [[Task Bracketing]] — dorsal lateral striatum; start+end neural fingerprint of habits (developing)
