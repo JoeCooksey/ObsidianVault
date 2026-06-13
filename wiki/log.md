@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-13] autoresearch | OSRS Second-Screen Content (refocus)
+- Rounds: 1 | Searches: 3 | Pages created: 2 | Pages updated: 3
+- From: Joe clarified the prior OSRS run — he meant what to put on his *second monitor* while already grinding, not in-game activities
+- Pages created: [[OSRS Wiki — Popular YouTube Series]], [[Feedspot — Best OSRS Podcasts]] (sources)
+- Pages updated: [[OSRS Second-Screen Grinding Setup]] (rewritten as a concrete content menu), index (2 source lines), hot
+- Key finding: the most popular OSRS second-screen pairing is OSRS-on-OSRS — long-form locked/progress series (Settled's *Swampletics*, B0aty *One Man Army*, J1mmy *By Release*, *Fully Mobile*) and challenge runs, which are low-stakes and bingeable. Audio-only options for glance-only grinds: Sae Bae Cast (made for grinding to), The Wilderness Podcast, XP Waste, BuneBape, Lumbridge Lounge, Guthix Rest, Cozy OSRS Lore, the Official OSRS Podcast. Non-OSRS: shows/Twitch, podcasts/audiobooks (best ROI), another idle/turn-based game, or real work/study — but only on the longest-idle methods. The selection rule = match content to the grind's idle window (20–63min → work/movie; ~10min → show/podcast; ~3–5min → audio only).
+
 ## [2026-06-13] autoresearch | Best Things To Do While Playing OSRS
 - Rounds: 2 | Searches: 5 | Pages created: 9
 - From: Joe asked (via /autoresearch) for the best options to do while playing OSRS
