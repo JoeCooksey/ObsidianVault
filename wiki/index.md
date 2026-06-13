@@ -87,6 +87,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[NotebookLM]] — Google Labs source-grounded AI study assistant; answers cited from YOUR uploaded sources; flashcards/quizzes/Socratic Learning Guide/audio overviews; the "AI second" engine for reading
 - [[Erin Westgate]] — University of Florida psychologist; MAC model of boredom (with Timothy Wilson); "boredom is a signal — what counts is the response"
 - [[Sandi Mann]] — UCLan psychologist; *The Upside of Downtime*; boredom-creativity studies; phone-free mind-wandering protocol
+- [[Old School RuneScape]] — grind-based MMORPG (Jagex, 2013); 23 skills + PvM; design makes "what to do while playing" a two-layer attention question
 
 ## Concepts
 
