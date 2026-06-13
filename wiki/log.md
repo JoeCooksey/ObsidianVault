@@ -11,6 +11,17 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-13] autoresearch | How to Fall in Love with Your Life
+- Rounds: 1 (depth reached) | Searches: 8 | Fetches: 2 (1 awe article OK, PNAS 403)
+- Pages created: 14 — 1 synthesis, 5 concepts, 3 entities, 5 sources
+- Synthesis: [[Research - How to Fall in Love with Your Life]]
+- Concepts: [[Romanticizing Your Life]], [[Savoring]], [[Awe (Everyday Wonder)]], [[Gratitude Practice (Evidence Review)]], [[Hedonic Adaptation Prevention Model]]
+- Entities: [[Dacher Keltner]], [[Fred Bryant]], [[Robert Waldinger]]
+- Sources: [[Dacher Keltner — Awe (2023)]], [[Bryant Veroff — Savoring, A New Model of Positive Experience]], [[Sheldon Lyubomirsky — Hedonic Adaptation Prevention Model]], [[Waldinger Schulz — The Good Life (Harvard Study)]], [[Cunha 2019 — Gratitude Interventions RCT (Frontiers)]]
+- Index: new Concepts section "Wellbeing / Positive Psychology (Fall in Love with Your Life)" + new Sources section + 3 entity lines
+- Cross-links: existing [[Hedonic Treadmill]], [[Toxic Positivity]], [[Interest vs Enjoyment]], [[Passion vs Purpose]], [[Memento Mori Practice]], [[Attention Restoration Theory]]
+- Key finding: "romanticize your life" decodes to 4 evidence-based attentional levers (savoring, awe, gratitude, appreciation+variety) + 1 investment (relationships). Wellbeing = FREQUENCY of small attended moments, not intensity of big ones; adaptation makes it a maintained practice not a one-time switch (only appreciation + variety slow it). Awe is ordinary (2–3×/week from moral beauty / nature / music). Gratitude is real but MODEST — a neutral daily-events task matched it in an n=1,337 RCT, so the active ingredient may be structured attention, not gratitude. The one thing that doesn't adapt is people: 80-yr Harvard study says relationship quality is the #1 predictor of a happy life. Guardrail: the practice ADDS attention to the good; the failure mode (toxic positivity) SUPPRESSES the bad — acceptance+addition, never denial+replacement.
+
 ## [2026-06-13] autoresearch | OSRS Second-Screen Content (refocus)
 - Rounds: 1 | Searches: 3 | Pages created: 2 | Pages updated: 3
 - From: Joe clarified the prior OSRS run — he meant what to put on his *second monitor* while already grinding, not in-game activities
