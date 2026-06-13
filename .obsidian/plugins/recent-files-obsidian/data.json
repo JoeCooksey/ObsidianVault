@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ChatGPT ML Tutor Prompt (Zero to Pro)",
-      "path": "wiki/concepts/ChatGPT ML Tutor Prompt (Zero to Pro).md"
+      "basename": "OSRS Second-Screen Grinding Setup",
+      "path": "wiki/concepts/OSRS Second-Screen Grinding Setup.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "ChatGPT ML Tutor Prompt (Zero to Pro)",
+      "path": "wiki/concepts/ChatGPT ML Tutor Prompt (Zero to Pro).md"
     },
     {
       "basename": "ML Surrogate Modeling — Week 1 Daily Plan (Physical EE)",
@@ -195,10 +199,6 @@
     {
       "basename": "EWG Shopper's Guide to Pesticides in Produce (2025)",
       "path": "wiki/sources/EWG Shopper's Guide to Pesticides in Produce (2025).md"
-    },
-    {
-      "basename": "Research - AI-Augmented Book Reading and Chapter Summaries",
-      "path": "wiki/questions/Research - AI-Augmented Book Reading and Chapter Summaries.md"
     }
   ],
   "omittedPaths": [],
