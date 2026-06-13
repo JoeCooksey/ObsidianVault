@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT ML Tutor Prompt (Zero to Pro)",
+      "path": "wiki/concepts/ChatGPT ML Tutor Prompt (Zero to Pro).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "ML Surrogate Modeling — Week 1 Daily Plan (Physical EE)",
       "path": "wiki/concepts/ML Surrogate Modeling — Week 1 Daily Plan (Physical EE).md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Index Fund Tier List",
       "path": "wiki/concepts/Index Fund Tier List.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Index Funds vs Stock Picking (Tier List)",
@@ -195,10 +199,6 @@
     {
       "basename": "Research - AI-Augmented Book Reading and Chapter Summaries",
       "path": "wiki/questions/Research - AI-Augmented Book Reading and Chapter Summaries.md"
-    },
-    {
-      "basename": "Research - Daily Habits Every Man Should Adopt",
-      "path": "wiki/questions/Research - Daily Habits Every Man Should Adopt.md"
     }
   ],
   "omittedPaths": [],
