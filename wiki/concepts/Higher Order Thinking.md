@@ -47,7 +47,7 @@ Sung explicitly names **color-coded notes, perfect tags, flashcards, citation so
 
 ## Why Joe cares
 
-This is the "what to aim learning *at*" companion to the vault's "how to learn" cluster. It argues the AI-proof target is integration and judgment — the same conclusion as [[Learning Agility (Meta-Skill)]] and [[Programming Skills AI Cannot Replace]] (architecture/debugging/taste outlast syntax). Concrete drill: pick one real problem, open a blank [[json-canvas|canvas]], dump the relevant points, and force the connections — revising as you go. That exercise *is* the skill.
+This is the "what to aim learning *at*" companion to the vault's "how to learn" cluster. It argues the AI-proof target is integration and judgment — the same conclusion as [[Learning Agility (Meta-Skill)]] and [[Programming Skills AI Cannot Replace]] (architecture/debugging/taste outlast syntax). Concrete drill: pick one real problem, open a blank canvas, dump the relevant points, and force the connections — revising as you go. That exercise *is* the skill.
 
 ## See Also
 
