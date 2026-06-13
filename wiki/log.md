@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-13] autoresearch | ChatGPT as a Machine Learning Tutor
+- Rounds: 2 | Searches: 5 | Pages created: 6
+- From: Joe asked for a prompt to make ChatGPT tutor him from zero to pro at machine learning
+- Pages created: [[ChatGPT ML Tutor Prompt (Zero to Pro)]] (concept/deliverable), [[Research - ChatGPT as a Machine Learning Tutor]] (synthesis), [[OpenAI Study Mode 2025]], [[Harvard AI Active Learning RCT 2025]], [[ML Roadmap Zero to Expert 2025]], [[Karpathy Neural Networks Zero to Hero]] (sources)
+- Pages updated: index (new Concepts/Sources/Synthesis entries), hot
+- Synthesis: [[Research - ChatGPT as a Machine Learning Tutor]]
+- Key finding: an LLM tutor works when it's configured for *active learning* — ask-before-tell, start-of-session recall, spaced review, explain-it-back, project-per-phase — not when it lectures. Harvard RCT (2025) found active-learning AI tutoring beat traditional instruction by 0.73–1.3 SD. The deliverable prompt bakes this loop in over a Phase 0–4 curriculum (Python/math → classical ML → deep learning → transformers → MLOps) with a diagnostic placement, progress tracker, and measurable "pro" exit criteria. Curriculum *order* is high-confidence; *timeline* (6–18 mo) is not, so the prompt replaces it with an adaptive diagnostic. Key limitation designed around: no cross-chat memory → paste-the-tracker workaround.
+
 ## [2026-06-13] save | ML Surrogate Modeling — Week 1 Daily Plan (Physical EE)
 - Type: concept
 - Location: wiki/concepts/ML Surrogate Modeling — Week 1 Daily Plan (Physical EE).md
