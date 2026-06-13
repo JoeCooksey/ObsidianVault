@@ -868,6 +868,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[OSRS Money Making Guide — Best AFK Methods 2025]] — AFK GP/hr table by skill + requirements; economy-estimate figures (medium)
 - [[Best GP Per Hour OSRS 2025]] — highest-hourly ranking: bossing, high RC, flipping (medium)
 - [[Theoatrix — 20 Mid-Game Goals OSRS]] — leverage-ordered mid-game goal list from established creator (medium)
+- [[OSRS Wiki — Popular YouTube Series]] — curated list of bingeable progress/challenge series (Swampletics, By Release, etc.) for second-screen watching (high)
+- [[Feedspot — Best OSRS Podcasts]] — active OSRS podcast directory (Sae Bae Cast, XP Waste, Wilderness Podcast) for audio-only grind pairing (medium)
 
 ### Gaming / League of Legends (Sources)
 - [[Martončik 2024 — Psychological Predictors of Esports Success]] — registered report, N=411 LoL: deliberate practice null (r=-.01), volume predicts rank (r=.26) (high)
