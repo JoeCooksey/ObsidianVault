@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-14] autoresearch | Barefoot Shoes — Benefits and Best Brands
+- Rounds: 2 | Searches: 8 (PubMed + web)
+- Sources found: 6 ([[Ridge 2019 - Minimalist Walking Strengthens Foot Muscles]], [[Chen 2016 - Minimalist Shoes Foot Muscle Volume]], [[Knapik 2021 - Update on Minimalist Running Shoes]], [[Coetzee 2017 - Minimalist Footwear Definition]], [[Yang 2020 - Gait Retraining Minimalist Shoes]], [[OutdoorGearLab 2026 - Best Barefoot Shoes]])
+- Pages created (15): synthesis [[Research - Barefoot Shoes Benefits and Best Brands]]; concepts [[Barefoot (Minimalist) Footwear]], [[Foot Muscle Strengthening via Minimalist Footwear]], [[Barefoot Shoe Transition Protocol]]; entities [[Vivobarefoot]], [[Xero Shoes]], [[Lems Shoes]], [[Vibram FiveFingers]], [[Merrell]]; 6 sources
+- Key finding: The best-evidenced benefit is stronger feet/lower legs (2 RCTs, ~60% foot-strength gain); injury *reduction* is NOT established and depends on a slow 2–3 month transition. Brand tiers: Vivobarefoot (premium), Xero (value), Lems (beginner), Merrell Glove (trail), Vibram FiveFingers (max ground feel).
+
+---
+
 ## [2026-06-14] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 US-Iran second-day airstrikes (49 Tomahawks, deal talks ongoing); Tren de Aragua founder Niño Guerrero killed in US-Venezuela joint strike; Apple WWDC 2026 Siri AI rebuilt on Google Gemini (Tim Cook final keynote); Eli Lilly retatrutide Phase 3 positive at ADA (obesity + comorbidities); Northern Ireland Belfast stabbing triggers multi-city anti-migrant riots (far-right network coordination flagged).
 
