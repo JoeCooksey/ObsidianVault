@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Rotator Cuff Tear and Recurrent Shoulder Instability",
+      "path": "wiki/questions/Research - Rotator Cuff Tear and Recurrent Shoulder Instability.md"
+    },
+    {
       "basename": "Research - Barefoot Shoes Benefits and Best Brands",
       "path": "wiki/questions/Research - Barefoot Shoes Benefits and Best Brands.md"
     },
     {
       "basename": "Vivobarefoot",
       "path": "wiki/entities/Vivobarefoot.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Romanticizing Your Life",
@@ -195,10 +199,6 @@
     {
       "basename": "Fiber Supplement Tier List",
       "path": "wiki/concepts/Fiber Supplement Tier List.md"
-    },
-    {
-      "basename": "Healthiest Cooking Methods — Master Guide",
-      "path": "wiki/concepts/Healthiest Cooking Methods — Master Guide.md"
     }
   ],
   "omittedPaths": [],
