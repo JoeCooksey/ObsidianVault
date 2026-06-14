@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-14T08:00:00
+updated: 2026-06-14T13:30:00
 tags:
   - meta
 ---
@@ -40,6 +40,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Hypertrophy Academy]] — fitness YouTube channel; hypertrophy training/nutrition/recovery for young high performers; source of the [[Sleepmaxxing Protocol]]
+- [[Oura Ring]] — smart-ring sleep/recovery tracker; finger-worn, less obtrusive than wrist wearables
+- [[Whoop]] — wrist-worn recovery/strain tracker; direct Oura competitor
 - [[Stephen Covey]] — *The 7 Habits of Highly Effective People* (1989); Maturity Continuum; Character Ethic; 40M+ copies sold
 - [[James Clear]] — *Atomic Habits* (2018); Four Laws of Behavior Change; 3M+ newsletter subscribers; ⭐⭐⭐⭐⭐ (Joe)
 - [[Dale Carnegie]] — *How to Win Friends and Influence People* (1936); human relations training pioneer; 30M+ copies sold
@@ -94,6 +97,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Robert Waldinger]] — Harvard psychiatrist; director, Harvard Study of Adult Development (1938–); *The Good Life* (2023); relationships = #1 predictor of a happy life
 
 ## Concepts
+
+### Sleep & Recovery (2026-06-14)
+- [[Sleepmaxxing Protocol]] — five-category framework (environment, lifestyle, supplements, food, tracking) for maximizing sleep quality; "health problems are usually multiple things"
+- [[Sleep Environment Optimization]] — ~19–21°C, darkness, neutral firm pillow; the hot-shower-lowers-core-temp trick
+- [[Bedroom Stimulus Control]] — bed/room only for sleep → Pavlovian cue → faster latency (a CBT-I pillar)
+- [[Circadian Rhythm Alignment]] — sun-aligned schedule, consistent wake time, ≤30 min weekend sleep-in
+- [[Pre-Bed Light Management]] — dim lamps + red-light glasses + night mode at night; sunlight in morning
+- [[Sleep Apnea and Nose Breathing]] — get an apnea test if you snore; mouth tape + nasal strips; apnea can hide behind insomnia
+- [[Liver Glycogen and Overnight Hypoglycemia]] — kiwi+honey (fructose) pre-bed to prevent overnight blood-sugar crash waking
+- [[Creatine for Acute Sleep Deprivation]] — 10–20 g bolus to blunt a bad night (GI caution)
 
 ### Learning & AI Tutoring
 - [[ChatGPT ML Tutor Prompt (Zero to Pro)]] — **deliverable**: copy-paste prompt turning ChatGPT into a Socratic, project-based ML tutor; built on active recall + spaced repetition + Socratic questioning + project-per-phase; Phase 0–4 curriculum (Python/math → classical ML → deep learning → transformers → MLOps); diagnostic placement + progress tracker + "pro" exit criteria; Joe-specific EE/small-data tweak (stable)
@@ -713,6 +726,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Health Wealth Family Framework]] — help someone with these three domains = deepest possible bond (developing)
 
 ## Sources
+
+### Health / Sleep (2026-06-14)
+- [[The Sleepmaxxing Protocol — Hypertrophy Academy]] — YouTube (~24 min); five-category sleep protocol (environment, lifestyle, supplements, food, tracking); cool dark single-purpose room, circadian anchoring + morning sun, glycine/magnesium/L-theanine stack, kiwi+honey for liver glycogen, get screened for apnea; "sleep first — no second chances" (medium)
 
 ### Wellbeing / Positive Psychology (2026-06-13)
 - [[Dacher Keltner — Awe (2023)]] — *Awe* (book); awe 2–3×/week, the eight wonders, "moral beauty" most common, the "small self" (high)

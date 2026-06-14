@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-14] ingest | The Sleepmaxxing Protocol (Hypertrophy Academy, YouTube)
+- Source: YouTube video NIBY5q1EAwM (~24 min, 4,649-word transcript) → [[The Sleepmaxxing Protocol — Hypertrophy Academy]]; transcript saved to `.raw/transcripts/`
+- Pages created (12): 8 concepts — [[Sleepmaxxing Protocol]], [[Sleep Environment Optimization]], [[Bedroom Stimulus Control]], [[Circadian Rhythm Alignment]], [[Pre-Bed Light Management]], [[Sleep Apnea and Nose Breathing]], [[Liver Glycogen and Overnight Hypoglycemia]], [[Creatine for Acute Sleep Deprivation]]; 3 entities — [[Hypertrophy Academy]], [[Oura Ring]], [[Whoop]]; 1 source
+- Updated: [[Sleep Optimization Supplements]] (added glycine + cross-links); index.md, hot.md
+- Key takeaway: Five-lever protocol — cool/dark/single-purpose bedroom, sun-anchored consistent schedule, glycine+magnesium+L-theanine stack, kiwi+honey to stabilize overnight liver glycogen, and apnea screening if you snore. Framed as priority #1: "with sleep there's no second chances." Creator content (medium confidence), not clinical guidance.
+
+---
+
 ## [2026-06-14] autoresearch | Rotator Cuff Tear & Recurrent Shoulder Instability ("pops out")
 - Rounds: 2 | Searches: 8 (PubMed + web)
 - Sources found: 6 ([[Hu et al 2023 — Bankart vs Conservative First-Time Dislocation Meta-analysis]], [[Hurley et al 2020 — Bankart vs Conservative Meta-analysis]], [[Delgado et al 2025 — Bankart vs Latarjet Long-Term Follow-up]], [[Narvani et al 2020 — Degenerative Rotator Cuff Tear Repair or Not]], [[GRASP Trial 2021 — Exercise vs Advice for Rotator Cuff Disorders]], [[Gasparini et al 2015 — Predictors of Recurrence After Arthroscopic Stabilization]])

@@ -2,7 +2,7 @@
 type: concept
 title: "Sleep Optimization Supplements"
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-06-14
 tags:
   - concept
   - domain/health
@@ -16,6 +16,9 @@ related:
   - "[[Foundational Health Supplements]]"
   - "[[Caffeine and L-Theanine Stack]]"
   - "[[Research - Supplements for Young Male Health and Learning]]"
+  - "[[Sleepmaxxing Protocol]]"
+  - "[[Creatine for Acute Sleep Deprivation]]"
+  - "[[Sleep Apnea and Nose Breathing]]"
 sources:
   - "[[PMC Cognitive Supplements Review 2024]]"
 ---
@@ -64,6 +67,12 @@ Melatonin is a hormone, not a sedative. It signals the brain that it is dark →
 
 ---
 
+## Glycine
+
+5 g of glycine before bed has a calming effect on the central nervous system and is a common addition to a sleep stack (it's the lead supplement in the [[Hypertrophy Academy]] [[Sleepmaxxing Protocol]] stack). Small studies link ~3 g glycine before bed to improved subjective sleep quality and faster sleep onset, partly via a mild drop in core body temperature.
+
+---
+
 ## L-Theanine (for Sleep)
 
 200–400 mg L-theanine alone (without caffeine) before bed promotes relaxation and may improve sleep quality — particularly sleep satisfaction and reduction of nighttime awakenings. Does not cause sedation.
@@ -87,3 +96,5 @@ Safe to use nightly. Low cost. Well-tolerated.
 3. No screens 60 minutes before bed (or blue light blocking glasses)
 4. Caffeine cutoff: no later than 2 PM (caffeine half-life 5–7 hours)
 5. Exercise during the day — one of the most reliable sleep quality improvers
+
+For a fuller behavioral protocol beyond supplements, see [[Sleepmaxxing Protocol]], [[Sleep Environment Optimization]], [[Circadian Rhythm Alignment]], and [[Bedroom Stimulus Control]].
