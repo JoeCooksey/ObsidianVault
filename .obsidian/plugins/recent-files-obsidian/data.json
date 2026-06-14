@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Sleepmaxxing Protocol",
+      "path": "wiki/concepts/Sleepmaxxing Protocol.md"
+    },
+    {
+      "basename": "Sleep Optimization Supplements",
+      "path": "wiki/concepts/Sleep Optimization Supplements.md"
+    },
+    {
+      "basename": "Liver Glycogen and Overnight Hypoglycemia",
+      "path": "wiki/concepts/Liver Glycogen and Overnight Hypoglycemia.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Shoulder Instability Conservative Rehab",
+      "path": "wiki/concepts/Shoulder Instability Conservative Rehab.md"
+    },
+    {
+      "basename": "Shoulder Instability vs Rotator Cuff Tear",
+      "path": "wiki/concepts/Shoulder Instability vs Rotator Cuff Tear.md"
     },
     {
       "basename": "Research - Rotator Cuff Tear and Recurrent Shoulder Instability",
@@ -47,10 +67,6 @@
     {
       "basename": "Foundational Health Supplements",
       "path": "wiki/concepts/Foundational Health Supplements.md"
-    },
-    {
-      "basename": "Sleep Optimization Supplements",
-      "path": "wiki/concepts/Sleep Optimization Supplements.md"
     },
     {
       "basename": "Supplement Tier List Complete",
@@ -183,22 +199,6 @@
     {
       "basename": "Research - Biohacking Masterclass (Every Habit by Frequency)",
       "path": "wiki/questions/Research - Biohacking Masterclass (Every Habit by Frequency).md"
-    },
-    {
-      "basename": "Signs of an Unhealthy Gut",
-      "path": "wiki/concepts/Signs of an Unhealthy Gut.md"
-    },
-    {
-      "basename": "Signs of a Healthy Gut",
-      "path": "wiki/concepts/Signs of a Healthy Gut.md"
-    },
-    {
-      "basename": "Bristol Stool Scale",
-      "path": "wiki/concepts/Bristol Stool Scale.md"
-    },
-    {
-      "basename": "Fiber Supplement Tier List",
-      "path": "wiki/concepts/Fiber Supplement Tier List.md"
     }
   ],
   "omittedPaths": [],
