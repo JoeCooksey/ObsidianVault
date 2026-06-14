@@ -435,6 +435,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Sleep Optimization Supplements]] — magnesium glycinate, melatonin dosing, sleep hygiene (developing)
 - [[Supplement Priority Stack for Young Males]] — practical 4-tier implementation guide (developing)
 
+### Health / Shoulder (Instability & Rotator Cuff) (2026-06-14)
+- [[Research - Rotator Cuff Tear and Recurrent Shoulder Instability]] — **synthesis**: a shoulder that "pops out" = instability (torn labrum/[[Bankart Lesion]]), NOT the cuff; strengthening helps symptoms but can't reattach a labrum; the durable fix is surgical stabilization; get an MRI + see a shoulder surgeon (developing)
+- [[Shoulder Instability vs Rotator Cuff Tear]] — the key distinction: cuff = pain/weakness; labrum/capsule = popping/giving way; they can coexist (~25.7%, mostly >40–60) (developing)
+- [[Bankart Lesion]] — anterior-inferior labral tear behind ~90% of traumatic anterior dislocations; bony Bankart / Hill-Sachs variants; why it keeps popping out (developing)
+- [[Arthroscopic Bankart Repair]] — re-attach labrum w/ anchors; recurrence ~8–10% vs ~53–67% conservative (first-time young/active); drifts to ~35% by 13 yrs (developing)
+- [[Latarjet Procedure]] — coracoid bone block for bone loss / failed repair / high-risk; ~90% stable vs ~64% Bankart at 15 yrs (developing)
+- [[Shoulder Instability Conservative Rehab]] — cuff + scapular + proprioception PT; first-line, definitive for atraumatic/MDI; can't fix a torn labrum (developing)
+- [[Shoulder Instability Recurrence Risk Factors]] — young age, male, contact sport, bone loss, hyperlaxity, # of prior dislocations (2+ → ~3.8× failure); ISIS score (developing)
+
 ### Health / Testosterone
 - [[Testosterone-Boosting Habits to Include]] — beneficial habits ranked S→B by effect×evidence: fat loss (BMI 30→25 ≈ +13–15%), sleep 7–9h, resistance training, adequate dietary fat, protein/calories, fix zinc/vit-D/Mg deficiency, manage stress; "remove suppressors > chase boosters" (developing)
 - [[Testosterone-Lowering Habits to Avoid]] — damaging habits worst-first: obesity/sedentary, chronic short sleep/apnea (−10–15%), heavy alcohol (−7% to −50%), chronic stress, plastics/phthalates/BPA, very-low-fat dieting, endurance overtraining, smoking, cannabis (developing)
