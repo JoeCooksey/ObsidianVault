@@ -6,7 +6,7 @@
     {
       "id": "ah_001",
       "question": "What does 1.01^365 equal, and what does it prove about habits?",
-      "answer": "≈37.78. Improving 1% every day for a year makes you 37× better. Conversely, 0.99^365 ≈ 0.03 — you nearly disappear. Tiny daily choices compound dramatically in both directions. This is why systems beat goals: goals end; systems keep compounding.",
+      "answer": "\u224837.78. Improving 1% every day for a year makes you 37\u00d7 better. Conversely, 0.99^365 \u2248 0.03 \u2014 you nearly disappear. Tiny daily choices compound dramatically in both directions. This is why systems beat goals: goals end; systems keep compounding.",
       "box": 2,
       "interval": 3,
       "next_review": "2026-05-30",
@@ -16,7 +16,7 @@
     {
       "id": "ah_002",
       "question": "What are the four steps of the Habit Loop, in order?",
-      "answer": "Cue → Craving → Response → Reward. All habits follow this neurological cycle. Remove any step and the habit won't form. To build a habit: make the cue obvious, the craving attractive, the response easy, the reward satisfying. To break one: invert each.",
+      "answer": "Cue \u2192 Craving \u2192 Response \u2192 Reward. All habits follow this neurological cycle. Remove any step and the habit won't form. To build a habit: make the cue obvious, the craving attractive, the response easy, the reward satisfying. To break one: invert each.",
       "box": 2,
       "interval": 3,
       "next_review": "2026-05-30",
@@ -26,7 +26,7 @@
     {
       "id": "ah_003",
       "question": "What are the Four Laws of Behavior Change?",
-      "answer": "(1) Make it Obvious — design the cue. (2) Make it Attractive — pair it with something desired. (3) Make it Easy — reduce friction. (4) Make it Satisfying — reward immediately. To break a bad habit, invert all four: invisible, unattractive, difficult, unsatisfying.",
+      "answer": "(1) Make it Obvious \u2014 design the cue. (2) Make it Attractive \u2014 pair it with something desired. (3) Make it Easy \u2014 reduce friction. (4) Make it Satisfying \u2014 reward immediately. To break a bad habit, invert all four: invisible, unattractive, difficult, unsatisfying.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-13",
@@ -39,14 +39,14 @@
       "answer": "Every action is a vote for the person you are becoming. Rather than 'I want to run a marathon,' say 'I am a runner' and act accordingly. Identity-based habits are durable because they're self-confirming; goal-based habits collapse after the goal is hit.",
       "box": 1,
       "interval": 1,
-      "next_review": "2026-06-06",
-      "last_reviewed": "2026-06-05",
-      "repetitions": 4
+      "next_review": "2026-06-14",
+      "last_reviewed": "2026-06-13",
+      "repetitions": 5
     },
     {
       "id": "ah_005",
       "question": "What is the Two-Minute Rule, and why does it work?",
-      "answer": "Any new habit should start as something completable in under two minutes. 'Read before bed' becomes 'open the book.' You're not building the habit — you're building the ritual of showing up. Once you've started, continuation is easy. The entry is the entire barrier.",
+      "answer": "Any new habit should start as something completable in under two minutes. 'Read before bed' becomes 'open the book.' You're not building the habit \u2014 you're building the ritual of showing up. Once you've started, continuation is easy. The entry is the entire barrier.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-09",
@@ -66,7 +66,7 @@
     {
       "id": "ah_007",
       "question": "What is the Goldilocks Rule, and why is boredom the real enemy of habits?",
-      "answer": "Peak motivation occurs when a task is at the edge of your current ability — not too easy (boring), not too hard (discouraging). Boredom, not failure, is the biggest threat to long-term habits. The most successful people show up even when the work feels tedious.",
+      "answer": "Peak motivation occurs when a task is at the edge of your current ability \u2014 not too easy (boring), not too hard (discouraging). Boredom, not failure, is the biggest threat to long-term habits. The most successful people show up even when the work feels tedious.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-08",

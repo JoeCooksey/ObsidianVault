@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Log"
-updated: 2026-06-13
+updated: 2026-06-14
 tags:
   - meta
 ---
@@ -10,6 +10,12 @@ tags:
 Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | title`
 
 ---
+
+## [2026-06-14] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+US-Iran second-day airstrikes (49 Tomahawks, deal talks ongoing); Tren de Aragua founder Niño Guerrero killed in US-Venezuela joint strike; Apple WWDC 2026 Siri AI rebuilt on Google Gemini (Tim Cook final keynote); Eli Lilly retatrutide Phase 3 positive at ADA (obesity + comorbidities); Northern Ireland Belfast stabbing triggers multi-city anti-migrant riots (far-right network coordination flagged).
+
+## [2026-06-14] newsletter | EE Daily — June 14, 2026
+NVIDIA+TSMC AI-in-fab cuLitho at production scale (20–50% cycle-time gain); AMD MI450 Meta six-gigawatt deal + Citi upgrade to Buy $575; TSMC 3nm +15% H2 price hike; HBM4 SK Hynix–NVIDIA locked through 2030 at 11 Gbps/2.8 TB/s; China SiC 40 µm laser lift-off breakthrough; 2D Fe₂Mo₃O₈ 230 µC/cm² ferroelectric; daily topic: Memristors and Neuromorphic Computing.
 
 ## [2026-06-13] autoresearch | How to Fall in Love with Your Life
 - Rounds: 1 (depth reached) | Searches: 8 | Fetches: 2 (1 awe article OK, PNAS 403)
