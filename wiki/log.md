@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-14] autoresearch | Rotator Cuff Tear & Recurrent Shoulder Instability ("pops out")
+- Rounds: 2 | Searches: 8 (PubMed + web)
+- Sources found: 6 ([[Hu et al 2023 — Bankart vs Conservative First-Time Dislocation Meta-analysis]], [[Hurley et al 2020 — Bankart vs Conservative Meta-analysis]], [[Delgado et al 2025 — Bankart vs Latarjet Long-Term Follow-up]], [[Narvani et al 2020 — Degenerative Rotator Cuff Tear Repair or Not]], [[GRASP Trial 2021 — Exercise vs Advice for Rotator Cuff Disorders]], [[Gasparini et al 2015 — Predictors of Recurrence After Arthroscopic Stabilization]])
+- Pages created (13): synthesis [[Research - Rotator Cuff Tear and Recurrent Shoulder Instability]]; concepts [[Shoulder Instability vs Rotator Cuff Tear]], [[Bankart Lesion]], [[Arthroscopic Bankart Repair]], [[Latarjet Procedure]], [[Shoulder Instability Conservative Rehab]], [[Shoulder Instability Recurrence Risk Factors]]; 6 sources
+- Key finding: A shoulder that "pops out" is INSTABILITY (a torn labrum/Bankart lesion), not a rotator cuff tear — strengthening eases symptoms but cannot reattach a labrum. The real long-term fix is surgical stabilization (Bankart repair ~8–10% recurrence vs ~53–67% conservative in young/active; Latarjet ~90% stable at 15 yrs for bone loss). Waiting raises failure (2+ dislocations → ~3.8× failure odds). Needs MRI + shoulder surgeon — not self-diagnosable.
+
+---
+
 ## [2026-06-14] autoresearch | Barefoot Shoes — Benefits and Best Brands
 - Rounds: 2 | Searches: 8 (PubMed + web)
 - Sources found: 6 ([[Ridge 2019 - Minimalist Walking Strengthens Foot Muscles]], [[Chen 2016 - Minimalist Shoes Foot Muscle Volume]], [[Knapik 2021 - Update on Minimalist Running Shoes]], [[Coetzee 2017 - Minimalist Footwear Definition]], [[Yang 2020 - Gait Retraining Minimalist Shoes]], [[OutdoorGearLab 2026 - Best Barefoot Shoes]])
