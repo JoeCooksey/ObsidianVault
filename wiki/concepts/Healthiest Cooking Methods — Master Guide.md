@@ -101,6 +101,7 @@ Both nutrient loss *and* toxin formation rise with heat, dryness, and char. So t
 | **Avoid for frying** | Reused oil, heavily heated seed oils | Oxidation → harmful aldehydes |
 - Myth-check: **EVOO is fine for most sautéing/roasting** — its antioxidants make it more stable than its modest smoke point suggests. Don't *deep-fry* in it (cost + flavor), but everyday cooking is good.
 - Never reuse frying oil; discard oil that smokes.
+- **Full breakdown:** see [[Cooking Oils — Master Guide]] for best oil per method, a smoke-point chart, and the best toppings/finishing oils.
 
 ---
 

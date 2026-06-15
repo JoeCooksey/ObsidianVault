@@ -635,6 +635,12 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Healthiest Cooking Methods — Master Guide]] — **master guide**: how to cook every food on the tier lists for max nutrition + min harm; per-food playbook (veg/meat/fish/eggs/potatoes/grains/legumes/nuts/dairy/oils); 3 dials = lower heat, more moisture, less browning; marinate meat, keep the broth (stable)
 - [[Heat-Formed Food Toxins (HCAs, PAHs, AGEs, Acrylamide)]] — the 4 heat-created harms + evidence-graded mitigation; marinate 30min cuts HCAs 90%+; golden-not-brown for acrylamide; moist/low-heat for AGEs (stable)
 - [[Nutrient Retention by Cooking Method]] — steam/microwave keep >90% vit C; boiling leaches water-soluble vitamins (keep the broth); some foods (tomato/carrot) are better cooked; 4 dials to minimize loss (stable)
+- [[Cooking Oils — Master Guide]] — **master guide**: best oil per cooking method + best toppings/finishing oils; smoke-point chart; EVOO everyday + refined avocado for high heat covers ~95% of a kitchen; never reuse oil (stable)
+- [[Smoke Point (Cooking Oils)]] — smoke point is a weak guide; driven by free fatty acids; does NOT track stability or harmful-compound formation (stable)
+- [[Oxidative Stability of Cooking Oils]] — the property that actually matters: low PUFA + antioxidants = stable; polar compounds mark degradation; EVOO degrades less than canola/grapeseed (stable)
+- [[Finishing Oils (Cold-Use Oils)]] — best raw/topping oils: EVOO, flax (highest plant omega-3, never heat), walnut, toasted sesame; buy cold-pressed, store cold (stable)
+- [[Seed Oils Health Debate]] — omega-6 not the villain; higher linoleic acid → lower mortality & diabetes risk; real issue is ultra-processed food; EVOO still the better default (developing)
+- [[Research: Best Cooking Oils by Method]] — synthesis: oxidative stability > smoke point; per-method + toppings; seed-oil debate resolved (developing)
 
 ### Biohacking / Optimization
 - [[Research - Biohacking Masterclass (Every Habit by Frequency)]] — **master checklist**: every evidence-graded habit organized by what it optimizes (sleep / exercise / diet / light / temperature / stress / lifestyle / supplements / tracking), each with frequency + dose + 🟢🟡🔵 evidence grade; 2026 backing (7–9k steps plateau, Attia 4 pillars, cyclic sighing RCT, social-connection mortality); "minimum effective everything-day" for Joe (developing)

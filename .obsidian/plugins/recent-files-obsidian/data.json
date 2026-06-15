@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "hot",
+      "path": "wiki/hot.md"
+    },
+    {
       "basename": "Ironman Meta — Progression Guides",
       "path": "wiki/sources/Ironman Meta — Progression Guides.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Shoulder Instability Conservative Rehab",
       "path": "wiki/concepts/Shoulder Instability Conservative Rehab.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Sleepmaxxing Protocol",
@@ -195,10 +199,6 @@
     {
       "basename": "Stock Briefing 2026-06-10",
       "path": "wiki/questions/Stock Briefing 2026-06-10.md"
-    },
-    {
-      "basename": "Research - Math and Physics Pipeline to Electrical Engineering",
-      "path": "wiki/questions/Research - Math and Physics Pipeline to Electrical Engineering.md"
     }
   ],
   "omittedPaths": [],

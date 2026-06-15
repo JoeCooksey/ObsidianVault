@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-15] autoresearch | Best Cooking Oils by Method (+ Toppings)
+- Rounds: 2 | Searches: 8 | Sources fetched: 4
+- Pages created (9): [[Cooking Oils — Master Guide]], [[Smoke Point (Cooking Oils)]], [[Oxidative Stability of Cooking Oils]], [[Finishing Oils (Cold-Use Oils)]], [[Seed Oils Health Debate]], [[De Alzaa 2018 — Chemical and Physical Changes in Oils During Heating]], [[Foods 2025 — Smoke Point Predictive Models for Virgin Olive Oils]], [[AHA 2024 — No Reason to Avoid Seed Oils]], [[Research: Best Cooking Oils by Method]]
+- Cross-linked from [[Healthiest Cooking Methods — Master Guide]]
+- Synthesis: [[Research: Best Cooking Oils by Method]]
+- Key finding: oxidative stability (low PUFA + antioxidants), not smoke point, decides how safely an oil cooks — making EVOO a top everyday + roasting oil; refined avocado/peanut for high heat; flax/walnut/sesame for raw toppings only; seed oils are not the villain.
+
 ## [2026-06-15] create | Shoulder Instability Rehab Exercise Program
 - Joe asked for specific exercises for his shoulder; vault already held the [[Research - Rotator Cuff Tear and Recurrent Shoulder Instability]] dossier (instability / "pops out" pattern).
 - Page created (1): concept [[Shoulder Instability Rehab Exercise Program]] — 3-phase home program (Phase 1 Calm/Activate isometrics → Phase 2 cuff+scapular strength → Phase 3 proprioception/overhead), exercise tables with sets×reps×cues, pain rules (≤3/10, settle in 24 h), danger-zone (abduction+ER) avoidance, band + light-DB kit.
