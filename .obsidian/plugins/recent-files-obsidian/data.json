@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Cooking Oils — Master Guide",
-      "path": "wiki/concepts/Cooking Oils — Master Guide.md"
+      "basename": "C and C++ Embedded Tutor Prompt (Power-Focused)",
+      "path": "wiki/concepts/C and C++ Embedded Tutor Prompt (Power-Focused).md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Cooking Oils — Master Guide",
+      "path": "wiki/concepts/Cooking Oils — Master Guide.md"
     },
     {
       "basename": "Healthiest Cooking Methods — Master Guide",
@@ -195,10 +199,6 @@
     {
       "basename": "Research - How to Improve at League of Legends",
       "path": "wiki/questions/Research - How to Improve at League of Legends.md"
-    },
-    {
-      "basename": "Research - OSRS Ironman Progression Guide",
-      "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
     }
   ],
   "omittedPaths": [],
