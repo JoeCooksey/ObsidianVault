@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Cooking Oils — Master Guide",
+      "path": "wiki/concepts/Cooking Oils — Master Guide.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Healthiest Cooking Methods — Master Guide",
+      "path": "wiki/concepts/Healthiest Cooking Methods — Master Guide.md"
     },
     {
       "basename": "hot",
@@ -191,14 +199,6 @@
     {
       "basename": "Research - OSRS Ironman Progression Guide",
       "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
-    },
-    {
-      "basename": "OSRS Ironman Early Game",
-      "path": "wiki/concepts/OSRS Ironman Early Game.md"
-    },
-    {
-      "basename": "Stock Briefing 2026-06-10",
-      "path": "wiki/questions/Stock Briefing 2026-06-10.md"
     }
   ],
   "omittedPaths": [],
