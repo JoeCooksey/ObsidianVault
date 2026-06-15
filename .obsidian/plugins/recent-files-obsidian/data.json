@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ironman Meta — Progression Guides",
+      "path": "wiki/sources/Ironman Meta — Progression Guides.md"
+    },
+    {
+      "basename": "OSRS Ironman Late Game and Endgame",
+      "path": "wiki/concepts/OSRS Ironman Late Game and Endgame.md"
+    },
+    {
       "basename": "OSRS Ironman Mid Game",
       "path": "wiki/concepts/OSRS Ironman Mid Game.md"
     },
@@ -177,10 +185,6 @@
       "path": "wiki/questions/Research - How to Improve at League of Legends.md"
     },
     {
-      "basename": "OSRS Ironman Late Game and Endgame",
-      "path": "wiki/concepts/OSRS Ironman Late Game and Endgame.md"
-    },
-    {
       "basename": "Research - OSRS Ironman Progression Guide",
       "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Research - Math and Physics Pipeline to Electrical Engineering",
       "path": "wiki/questions/Research - Math and Physics Pipeline to Electrical Engineering.md"
-    },
-    {
-      "basename": "The Let Them Theory - Mel Robbins",
-      "path": "wiki/books/The Let Them Theory - Mel Robbins.md"
     }
   ],
   "omittedPaths": [],
