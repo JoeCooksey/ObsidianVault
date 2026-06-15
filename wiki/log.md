@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-15] create | C/C++ Embedded Tutor Prompt (Power-Focused)
+- Joe asked for a ChatGPT tutor prompt to learn C/C++ for power-focused EE (after a thread on learn-to-code: structure + AI tutor + cognitive-offloading risk, concluding programming is the foundation layer under ML for hardware EE).
+- Page created: [[C and C++ Embedded Tutor Prompt (Power-Focused)]] — modeled on [[ChatGPT ML Tutor Prompt (Zero to Pro)]]; Phase 0–6 embedded curriculum building to closed-loop buck firmware on STM32G4; Master + short prompt, "why each piece" table, limitations.
+- Cross-linked to [[Project - Digitally Controlled Synchronous Buck Converter]], [[STM32G4 Digital Power Buck Reference]], [[C++ Self-Teaching Roadmap for EE]].
+- Filed in index **Learning & AI Tutoring**.
+- Key point: embedded C/C++ is the programming foundation hardware power-EE actually runs on; verify the model against the reference manual + real hardware (it hallucinates register details).
+
 ## [2026-06-15] autoresearch | Best Cooking Oils by Method (+ Toppings)
 - Rounds: 2 | Searches: 8 | Sources fetched: 4
 - Pages created (9): [[Cooking Oils — Master Guide]], [[Smoke Point (Cooking Oils)]], [[Oxidative Stability of Cooking Oils]], [[Finishing Oils (Cold-Use Oils)]], [[Seed Oils Health Debate]], [[De Alzaa 2018 — Chemical and Physical Changes in Oils During Heating]], [[Foods 2025 — Smoke Point Predictive Models for Virgin Olive Oils]], [[AHA 2024 — No Reason to Avoid Seed Oils]], [[Research: Best Cooking Oils by Method]]

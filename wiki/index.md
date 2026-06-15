@@ -111,6 +111,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Learning & AI Tutoring
 - [[ChatGPT ML Tutor Prompt (Zero to Pro)]] — **deliverable**: copy-paste prompt turning ChatGPT into a Socratic, project-based ML tutor; built on active recall + spaced repetition + Socratic questioning + project-per-phase; Phase 0–4 curriculum (Python/math → classical ML → deep learning → transformers → MLOps); diagnostic placement + progress tracker + "pro" exit criteria; Joe-specific EE/small-data tweak (stable)
+- [[C and C++ Embedded Tutor Prompt (Power-Focused)]] — **deliverable**: copy-paste prompt for a Socratic embedded-C/C++ tutor aimed at power electronics; same engine as the ML prompt; Phase 0–6 (C fundamentals/bitwise → pointers/memory → embedded C/registers → MCU peripherals → real-time fixed-point control loop → embedded C++ → pro firmware skills); final project = Joe's STM32G4 buck firmware; verify against the reference manual (stable)
 
 ### Dopamine & Neuroscience
 - [[Dopamine Complete Guide]] — masterclass hub; dopamine = motivation not pleasure; peak→baseline-dip; low-dopamine symptoms; healthy maintenance (stable)
