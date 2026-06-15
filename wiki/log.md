@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-15] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+US-Iran framework deal signed (Strait of Hormuz reopening); Anthropic coordinated global AI pause proposal + IPO filing; ~10% US employers dropping GLP-1 weight-loss drug coverage in 2027; FIFA World Cup 2026 underway (Day 5, Mexico City).
+
+## [2026-06-15] newsletter | EE Daily — June 15, 2026
+AI chip stocks surge 2–4% on US-Iran Strait of Hormuz peace deal; Google Icefish confirmed at TSMC 1.4nm; α-In₂Se₃ reconfigurable ferroelectric Schottky photodiodes (Advanced Materials 2026); SIA/Deloitte: semiconductors = 95% of AI server rack value ($1.2T by 2028); daily topic: 2D Ferroelectric Semiconductor FeFET Device Physics.
+
 ## [2026-06-14] ingest | The Sleepmaxxing Protocol (Hypertrophy Academy, YouTube)
 - Source: YouTube video NIBY5q1EAwM (~24 min, 4,649-word transcript) → [[The Sleepmaxxing Protocol — Hypertrophy Academy]]; transcript saved to `.raw/transcripts/`
 - Pages created (12): 8 concepts — [[Sleepmaxxing Protocol]], [[Sleep Environment Optimization]], [[Bedroom Stimulus Control]], [[Circadian Rhythm Alignment]], [[Pre-Bed Light Management]], [[Sleep Apnea and Nose Breathing]], [[Liver Glycogen and Overnight Hypoglycemia]], [[Creatine for Acute Sleep Deprivation]]; 3 entities — [[Hypertrophy Academy]], [[Oura Ring]], [[Whoop]]; 1 source

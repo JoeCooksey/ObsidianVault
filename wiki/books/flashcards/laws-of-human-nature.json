@@ -7,31 +7,51 @@
       "id": "ln_001",
       "question": "What is Greene's Law of Irrationality, and why is it the foundation for all other laws?",
       "answer": "Emotions color everything we perceive and reason, often without our awareness. We believe we're being rational, but emotion is the dominant force. Mastering others starts with mastering yourself — recognizing where your emotions are distorting your thinking. You can't read others accurately if you can't read yourself.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": "2026-06-07", "repetitions": 2
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-15",
+      "last_reviewed": "2026-06-14",
+      "repetitions": 3
     },
     {
       "id": "ln_002",
       "question": "What is the Law of Role-playing?",
       "answer": "Everyone wears a social mask — a persona crafted for public consumption. People rarely reveal their real motivations. Learn to read what's beneath the mask: body language, microexpressions, behavioral patterns under pressure, how someone acts when they think no one is watching. Take the presentation as a starting point, not the truth.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": null,
+      "repetitions": 0
     },
     {
       "id": "ln_003",
       "question": "What is the Law of Envy, and why is it rarely acknowledged?",
       "answer": "Envy is one of the most common and least admitted emotions. It disguises itself as criticism ('I'm just being honest'), advice ('for your own good'), or negativity. People rarely say 'I'm envious' — they rationalize it. Detecting envy (in others and yourself) is social intelligence because it reveals what someone truly values.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": null,
+      "repetitions": 0
     },
     {
       "id": "ln_004",
       "question": "What is the Law of Compulsive Behavior?",
       "answer": "Character is revealed through patterns, not individual acts. Watch what someone does repeatedly under pressure, not what they say they'll do. Compulsive patterns from youth predict patterns in adulthood — character is hard to change. The implication: judge people's futures by their behavioral history, not their promises.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": null,
+      "repetitions": 0
     },
     {
       "id": "ln_005",
       "question": "What is the Law of Self-Sabotage?",
       "answer": "Our life circumstances are largely the product of our own character and worldview — not external events. People who feel like victims create victim situations through their choices and interpretations. Those who see opportunities create them. Change the deep story you tell about your life, and the circumstances gradually follow.",
-      "box": 1, "interval": 1, "next_review": "2026-06-08", "last_reviewed": null, "repetitions": 0
+      "box": 1,
+      "interval": 1,
+      "next_review": "2026-06-08",
+      "last_reviewed": null,
+      "repetitions": 0
     }
   ]
 }

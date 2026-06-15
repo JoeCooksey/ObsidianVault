@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 15, 2026]] — AI chip stocks +2–4% on US-Iran Strait of Hormuz deal; Google Icefish at TSMC 1.4nm; α-In₂Se₃ reconfigurable ferroelectric photodiodes (Advanced Materials 2026); SIA/Deloitte $1.2T AI chip market by 2028; QuiX FFCU 150 ns photonic feed-forward; daily topic: 2D Ferroelectric Semiconductor FeFET Device Physics
 - [[EE Daily — June 14, 2026]] — NVIDIA+TSMC AI-in-fab cuLitho (20–50% cycle gain); AMD MI450 Meta 6GW deal + Citi upgrade Buy $575; TSMC 3nm +15% H2 price hike; HBM4 SK Hynix–NVIDIA locked 2030 at 2.8 TB/s; China SiC 40 µm laser lift-off; 2D Fe₂Mo₃O₈ 230 µC/cm²; daily topic: Memristors and Neuromorphic Computing
 - [[EE Daily — June 13, 2026]] — AMD Citi upgrade Buy $575 (2030 earnings early); TSMC 3nm +15% H2 price hike + cuLitho AI-in-fab; QuiX Quantum FFCU photonic feed-forward 150 ns; valleytronics room-temperature chip; SiC 14-inch crystal + 8-inch 40 µm laser lift-off; 2D Fe₂Mo₃O₈ 230 µC/cm²; daily topic: HBM4 architecture and the AI memory wall
 - [[EE Daily — June 12, 2026]] — SpaceX SPCX IPO largest in history ($1.75T, $75B) + Terafab EUV implications; NVIDIA cuLitho AI-in-fab (20-50% efficiency gain); 2D molecular ferroelectric sub-10nm (Advanced Materials 2026); PCIM 2026 SiC/GaN 800V data center power; ZnBr₂ sodium sulfamate breakthrough; daily topic: FeFET HZO polarization switching, depolarization retention, embedded NVM design
