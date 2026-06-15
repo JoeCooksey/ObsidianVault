@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "OSRS Ironman Mid Game",
+      "path": "wiki/concepts/OSRS Ironman Mid Game.md"
+    },
+    {
+      "basename": "OSRS Mid-Game Progression Goals",
+      "path": "wiki/concepts/OSRS Mid-Game Progression Goals.md"
+    },
+    {
+      "basename": "OSRS AFK Money-Making Methods",
+      "path": "wiki/concepts/OSRS AFK Money-Making Methods.md"
+    },
+    {
       "basename": "Shoulder Instability Conservative Rehab",
       "path": "wiki/concepts/Shoulder Instability Conservative Rehab.md"
     },
@@ -173,10 +185,6 @@
       "path": "wiki/questions/Research - OSRS Ironman Progression Guide.md"
     },
     {
-      "basename": "OSRS Ironman Mid Game",
-      "path": "wiki/concepts/OSRS Ironman Mid Game.md"
-    },
-    {
       "basename": "OSRS Ironman Early Game",
       "path": "wiki/concepts/OSRS Ironman Early Game.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The Let Them Theory - Mel Robbins",
       "path": "wiki/books/The Let Them Theory - Mel Robbins.md"
-    },
-    {
-      "basename": "Book View",
-      "path": "wiki/Book View.base"
-    },
-    {
-      "basename": "Research - Biohacking Masterclass (Every Habit by Frequency)",
-      "path": "wiki/questions/Research - Biohacking Masterclass (Every Habit by Frequency).md"
     }
   ],
   "omittedPaths": [],
