@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-15] autoresearch | Signs of High vs Low Testosterone
+- Rounds: 2 | Searches: 7 (4 PubMed + 3 web) | Sources fetched: 3
+- Pages created (7): [[Research - Signs of High vs Low Testosterone]] (synthesis), [[Low Testosterone Signs and Symptoms (Men)]], [[High Testosterone Signs (Men)]], [[Testosterone Signs in Women (High and Low)]], [[Specific vs Non-Specific Symptoms of Low Testosterone]], [[Endocrine Society 2018 — Testosterone Therapy Guideline]], [[Hirschberg 2023 — Hyperandrogenism in Postmenopausal Women]]
+- Cross-linked into the existing Health/Testosterone cluster ([[Testosterone Physiology Fundamentals]], [[Testosterone-Lowering Habits to Avoid]])
+- Synthesis: [[Research - Signs of High vs Low Testosterone]]
+- Key finding: symptoms decide *when to test*, not the diagnosis — only the 3 sexual symptoms track reliably with low T in men; symptomatic high T is almost always exogenous (steroids/TRT) and paradoxically causes the same shrinking-testes/infertility/gynecomastia as low T; in women the signal that matters is high T (hirsutism → virilization, PCOS), and "low T in women" is not an established syndrome.
+
 ## [2026-06-15] create | C/C++ Embedded Tutor Prompt (Power-Focused)
 - Joe asked for a ChatGPT tutor prompt to learn C/C++ for power-focused EE (after a thread on learn-to-code: structure + AI tutor + cognitive-offloading risk, concluding programming is the foundation layer under ML for hardware EE).
 - Page created: [[C and C++ Embedded Tutor Prompt (Power-Focused)]] — modeled on [[ChatGPT ML Tutor Prompt (Zero to Pro)]]; Phase 0–6 embedded curriculum building to closed-loop buck firmware on STM32G4; Master + short prompt, "why each piece" table, limitations.

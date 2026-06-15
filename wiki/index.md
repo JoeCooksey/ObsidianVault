@@ -464,6 +464,10 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Testosterone-Boosting Habits to Include]] — beneficial habits ranked S→B by effect×evidence: fat loss (BMI 30→25 ≈ +13–15%), sleep 7–9h, resistance training, adequate dietary fat, protein/calories, fix zinc/vit-D/Mg deficiency, manage stress; "remove suppressors > chase boosters" (developing)
 - [[Testosterone-Lowering Habits to Avoid]] — damaging habits worst-first: obesity/sedentary, chronic short sleep/apnea (−10–15%), heavy alcohol (−7% to −50%), chronic stress, plastics/phthalates/BPA, very-low-fat dieting, endurance overtraining, smoking, cannabis (developing)
 - [[Testosterone Physiology Fundamentals]] — HPG axis, aromatase (fat→estradiol), cholesterol precursor, free vs total T + SHBG, morning/REM circadian rhythm, normal-ceiling principle, secular decline (developing)
+- [[Low Testosterone Signs and Symptoms (Men)]] — specific signs (↓libido, ED, ↓morning erections, small testes, gynecomastia, low bone density) vs non-specific (fatigue, mood, muscle); diagnosis = symptoms + 2 low morning bloods; normal ~300–1000 ng/dL (developing)
+- [[High Testosterone Signs (Men)]] — almost always exogenous (TRT/steroids); acne, muscle gain, aggression, polycythemia/↑BP — plus the paradox: shrinking testes, infertility, gynecomastia from axis suppression (developing)
+- [[Testosterone Signs in Women (High and Low)]] — high T (hyperandrogenism/PCOS): hirsutism, acne, alopecia, irregular periods → virilization; >5 nmol/L rule out tumor. "Low T in women" not an established syndrome (developing)
+- [[Specific vs Non-Specific Symptoms of Low Testosterone]] — only the 3 sexual symptoms (libido, morning erections, ED) track reliably with low T (EMAS/Wu 2010); fatigue/mood mislead → symptoms decide *whether to test*, not the diagnosis (developing)
 
 ### Health / Cortisol & Stress
 - [[Cortisol Complete Guide]] — **masterclass hub**: cortisol = stress/energy hormone; the whole game is RHYTHM (high AM, low PM) not absolute level; CAR rises 50–156% post-waking; two opposite burnout signatures; Cushing vs Addison's clinical extremes (stable)
@@ -896,6 +900,8 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Micronutrients and Testosterone]] — zinc/vit-D/Mg correct deficiency only; vit-D RCT null in non-deficient men (medium)
 - [[Smoking Cannabis and Testosterone]] — mixed/conflicting; net harmful to reproductive health (low)
 - [[Harvard Health Testosterone Lifestyle]] — clinical overview, consistent with primary literature (high)
+- [[Endocrine Society 2018 — Testosterone Therapy Guideline]] — Bhasin et al., *JCEM* (PMID 29562364); the authority on diagnosing male hypogonadism: symptoms + 2 low morning total-T, free T if SHBG altered, find the cause (high)
+- [[Hirschberg 2023 — Hyperandrogenism in Postmenopausal Women]] — *JCEM* (PMID 36409990); signs of androgen excess in women, hirsutism the most reliable, T >5 nmol/L → rule out tumor (high)
 
 ### Health / Fitness (VO2max & Intervals)
 - [[Myworkout — The Norwegian 4x4 Protocol]] — Helgerud & Hoff (developers); canonical protocol params: 6-min warm-up, 4×4 @ 85–95% HRmax, 3-min active recoveries, 2×/week (medium)
@@ -1016,3 +1022,4 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Joe's Supplement Stack Audit]] — audit of Joe's ~25-supplement stack: S/A/B/C ranking, timing verdict by block, one real error (Bacopa fasted → move to after-breakfast), zinc gap, low-priority trims (Lion's Mane/astaxanthin) (developing)
 - [[Research - Data Science in Electrical Engineering]] — 8 findings; 8 application domains (predictive maintenance, SCADA/PMU, BMS, renewable forecasting, MCSA, EMC); tool table; 7-project EE-DS ladder; career roles; ASU MS program; 5 open questions (complete)
 - [[Research - Habits That Impact Testosterone]] — beneficial (include) vs damaging (avoid) habit lists ranked by effect×evidence; "remove suppressors > chase boosters"; fat loss + sleep + low alcohol are the big levers; exercise/vit-D myths flagged; 10 sources (developing)
+- [[Research - Signs of High vs Low Testosterone]] — **synthesis**: high-vs-low signs by sex; comparison tables; the paradox that exogenous high T causes "low-T" signs (shrinking testes, infertility, gynecomastia); only 3 sexual symptoms reliable in men; hirsutism the key sign in women; symptoms decide *when to test*, not the diagnosis (developing)
