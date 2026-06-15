@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-15] create | Shoulder Instability Rehab Exercise Program
+- Joe asked for specific exercises for his shoulder; vault already held the [[Research - Rotator Cuff Tear and Recurrent Shoulder Instability]] dossier (instability / "pops out" pattern).
+- Page created (1): concept [[Shoulder Instability Rehab Exercise Program]] — 3-phase home program (Phase 1 Calm/Activate isometrics → Phase 2 cuff+scapular strength → Phase 3 proprioception/overhead), exercise tables with sets×reps×cues, pain rules (≤3/10, settle in 24 h), danger-zone (abduction+ER) avoidance, band + light-DB kit.
+- Filed under index "Health / Shoulder" section; cross-linked to [[Shoulder Instability Conservative Rehab]], [[Shoulder Instability Recurrence Risk Factors]], [[GRASP Trial 2021 — Exercise vs Advice for Rotator Cuff Disorders]].
+- Caveat carried through: rehab manages symptoms but can't reattach a torn labrum; if it keeps popping despite ~3 months → discuss stabilization surgery, not more reps.
+
+---
+
 ## [2026-06-15] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 US-Iran framework deal signed (Strait of Hormuz reopening); Anthropic coordinated global AI pause proposal + IPO filing; ~10% US employers dropping GLP-1 weight-loss drug coverage in 2027; FIFA World Cup 2026 underway (Day 5, Mexico City).
 
