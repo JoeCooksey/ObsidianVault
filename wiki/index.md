@@ -456,6 +456,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Arthroscopic Bankart Repair]] — re-attach labrum w/ anchors; recurrence ~8–10% vs ~53–67% conservative (first-time young/active); drifts to ~35% by 13 yrs (developing)
 - [[Latarjet Procedure]] — coracoid bone block for bone loss / failed repair / high-risk; ~90% stable vs ~64% Bankart at 15 yrs (developing)
 - [[Shoulder Instability Conservative Rehab]] — cuff + scapular + proprioception PT; first-line, definitive for atraumatic/MDI; can't fix a torn labrum (developing)
+- [[Shoulder Instability Rehab Exercise Program]] — **the practical routine**: 3-phase home program (Calm/Activate → Strengthen → Control/Proprioception), exercise tables w/ sets-reps-cues, pain rules, danger-zone avoidance; band + light DB only (developing)
 - [[Shoulder Instability Recurrence Risk Factors]] — young age, male, contact sport, bone loss, hyperlaxity, # of prior dislocations (2+ → ~3.8× failure); ISIS score (developing)
 
 ### Health / Testosterone
