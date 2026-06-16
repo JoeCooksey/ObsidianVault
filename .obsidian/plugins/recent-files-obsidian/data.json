@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Problem-Solving Practice Activities (Concrete Menu)",
+      "path": "wiki/concepts/Problem-Solving Practice Activities (Concrete Menu).md"
+    },
+    {
+      "basename": "Problem-Solving Skill-Building Protocol",
+      "path": "wiki/concepts/Problem-Solving Skill-Building Protocol.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "C and C++ Embedded Tutor Prompt (Power-Focused)",
       "path": "wiki/concepts/C and C++ Embedded Tutor Prompt (Power-Focused).md"
     },
     {
       "basename": "High Testosterone Signs (Men)",
       "path": "wiki/concepts/High Testosterone Signs (Men).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Low Testosterone Signs and Symptoms (Men)",
@@ -191,14 +199,6 @@
     {
       "basename": "Function Health Prep Guidance",
       "path": "wiki/sources/Function Health Prep Guidance.md"
-    },
-    {
-      "basename": "Contradict My Summary — AI Reading Prompt",
-      "path": "wiki/concepts/Contradict My Summary — AI Reading Prompt.md"
-    },
-    {
-      "basename": "ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06)",
-      "path": "wiki/sources/ChatGPT — Ego Is the Enemy Part 1 Sparring (2026-06).md"
     }
   ],
   "omittedPaths": [],

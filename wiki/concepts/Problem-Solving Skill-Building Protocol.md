@@ -16,6 +16,7 @@ related:
   - "[[Analogical Encoding (Comparing Cases)]]"
   - "[[Deliberate Practice]]"
   - "[[Interleaving (Learning)]]"
+  - "[[Problem-Solving Practice Activities (Concrete Menu)]]"
   - "[[Research: Best Way to Develop Problem-Solving Skills]]"
 ---
 
@@ -26,6 +27,8 @@ The evidence assembled into a routine you can run. Designed for self-study domai
 ## The non-negotiable prerequisite
 
 **Pick real domains and go deep.** There is no general skill to train in the abstract ([[Domain-Specific Knowledge vs General Problem-Solving Skill]], [[Near vs Far Transfer]]). Better problem solving = more organized domain knowledge + a deliberate process. Choose where it pays off — for Joe that's **math foundations, programming, and EE** (cf. [[Most Self-Teachable High-Value Skills (Tier List for Joe)]]).
+
+For the **specific problems and platforms** to run this on (LeetCode, Project Euler, EE problem sets, etc.), see [[Problem-Solving Practice Activities (Concrete Menu)]].
 
 ## The per-problem loop
 

@@ -10,6 +10,7 @@ tags:
 status: developing
 related:
   - "[[Problem-Solving Skill-Building Protocol]]"
+  - "[[Problem-Solving Practice Activities (Concrete Menu)]]"
   - "[[Pólya's Problem-Solving Method]]"
   - "[[Expert–Novice Differences in Problem Solving]]"
   - "[[Domain-Specific Knowledge vs General Problem-Solving Skill]]"
@@ -59,6 +60,7 @@ The cognitive science is clear and slightly counterintuitive: there is **no gene
 - [[Worked Examples and Productive Failure]] — match worked examples vs struggle to your level.
 - [[Metacognition in Problem Solving]] — plan, monitor, post-mortem.
 - [[Problem-Solving Skill-Building Protocol]] — the whole thing as a runnable routine.
+- [[Problem-Solving Practice Activities (Concrete Menu)]] — specific problems/platforms by domain (LeetCode, Project Euler, EE problem sets) + a sample week.
 
 ## Contradictions
 
