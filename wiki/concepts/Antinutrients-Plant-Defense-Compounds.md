@@ -87,3 +87,7 @@ The compounds plants contain to defend themselves also contain many of the same 
 - [[Paul-Saladino-Oats-Vegetables-Claims]] — full evidence review of carnivore MD claims
 - [[Paul Saladino]] — entity profile
 - [[Gut Health Foods]] — gut microbiome and fermented foods research
+- [[Dietary Fiber and Gut Health]] — the fiber/microbiome half of the anti-vegetable case
+- [[Do Vegetables Slow Metabolism (Claim Review)]] — the metabolism half
+- [[Research - Do Vegetables Destroy Metabolism and Gut Health]] — master synthesis
+- [[Perceived Problematic Plant Compounds (Narrative Review)]] · [[Harvard Nutrition Source - Are Anti-Nutrients Harmful]] — sources

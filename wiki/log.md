@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-16] autoresearch | Do Vegetables Destroy Metabolism and Gut Health?
+- Rounds: 2 | Searches: 7 | Sources fetched: 3
+- Existing cluster found ([[Antinutrients-Plant-Defense-Compounds]], [[Paul Saladino]], [[Research - Paul Saladino Animal-Based Diet]]) → updated, not duplicated; new pages cover the under-served fiber/gut + metabolism angles
+- Pages created: [[Research - Do Vegetables Destroy Metabolism and Gut Health]] (synthesis), [[Dietary Fiber and Gut Health]], [[Do Vegetables Slow Metabolism (Claim Review)]] (concepts)
+- Sources: [[Perceived Problematic Plant Compounds (Narrative Review)]], [[Harvard Nutrition Source - Are Anti-Nutrients Harmful]], [[Fiber Gut Microbiome and SCFA Research]], [[Ho 2012 - Reducing Dietary Fiber and Constipation]], [[Low-FODMAP Diet for IBS Evidence]], [[Fruit and Vegetable Intake and Mortality]]
+- 9 pages total (1 synthesis + 2 concepts + 6 sources) + cross-linked [[Antinutrients-Plant-Defense-Compounds]]; index + log + hot updated
+- Key finding: the strong "vegetables destroy metabolism/gut" claim is mostly BS — the food matrix neutralizes anti-nutrients, fiber→butyrate maintains the gut mucus barrier, goitrogens don't slow the thyroid at normal/cooked intake with iodine, and population data are INVERTED (more veg = less diabetes/CVD/obesity). The 2 real kernels: stopping fiber relieves idiopathic constipation (Ho 2012: bloating 100%→0%) and low-FODMAP relieves IBS (~70–76%). The error is generalizing sick-gut symptom relief into "plants are toxic for everyone."
+
 ## [2026-06-16] autoresearch | Best Way to Develop Problem-Solving Skills
 - Rounds: 2 | Searches: 7 | Sources fetched: 3
 - Pages created: [[Research: Best Way to Develop Problem-Solving Skills]] (synthesis), [[Problem-Solving Skill-Building Protocol]], [[Pólya's Problem-Solving Method]], [[Expert–Novice Differences in Problem Solving]], [[Domain-Specific Knowledge vs General Problem-Solving Skill]], [[Near vs Far Transfer]], [[Analogical Encoding (Comparing Cases)]], [[Worked Examples and Productive Failure]], [[Metacognition in Problem Solving]], [[George Polya]] (entity)
