@@ -88,6 +88,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Nous Research]] — open-source AI lab; Hermes LLMs (2 Pro/3/4.x), the Hermes function-calling standard, and [[Hermes Agent]]; MIT-licensed, no-lock-in philosophy
 - [[Hermes Agent]] — Nous Research's open-source self-hosted autonomous agent (MIT, v0.15.2, ~177k stars); 24/7 learning assistant with skills + persistent memory; Telegram-first, 40+ tools, BYO LLM
 - [[Anders Ericsson]] — psychologist (1947–2020); originated **deliberate practice**; *Peak* (2016); debunked the 10,000-hour rule
+- [[George Polya]] — mathematician (1887–1985); *How to Solve It* (1945); reframed problem solving as a teachable process (understand → plan → execute → look back) + heuristics
 - [[Scott Young]] — *Ultralearning* (2019); 9 principles; the MIT Challenge (4-yr CS degree in ~1 yr) + Year Without English
 - [[Barbara Oakley]] — engineering prof; co-created *Learning How to Learn* (biggest MOOC ever); focused/diffuse mode, chunking; *A Mind for Numbers*
 - [[NotebookLM]] — Google Labs source-grounded AI study assistant; answers cited from YOUR uploaded sources; flashcards/quizzes/Socratic Learning Guide/audio overviews; the "AI second" engine for reading
@@ -200,6 +201,17 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Generation Effect (Handwriting)]] — you remember what you produce; handwriting is slow → forces select+paraphrase → deep processing; this is why the handwritten chapter summary is the part to protect from AI (developing)
 - [[NotebookLM Study Workflow]] — running a book through NotebookLM chapter by chapter (source-grounded, cited): verify-don't-generate, quiz, Socratic Learning-Guide teach-back, audio review; guardrails against offloading (developing)
 - [[Contradict My Summary — AI Reading Prompt]] — **copy-paste prompt**: paste your hand-written chapter summary, AI plays blunt skeptic (contradict / what-I-missed / where-I'm-vague / steel-man / 3 questions); variants for unknown books + live Feynman mode (stable)
+
+### Problem-Solving Skill (How to Get Better at Solving Problems) (2026-06-16)
+- [[Research: Best Way to Develop Problem-Solving Skills]] — **synthesis**: no general content-free skill exists; better problem solving = deep domain knowledge + a deliberate process (Pólya) + metacognition; brain training fails (no far transfer); build it on real problems in real domains (developing)
+- [[Problem-Solving Skill-Building Protocol]] — **the runnable routine**: pick real domains → understand-before-solving → struggle first (timeboxed) → study worked solution → compare two examples → look-back post-mortem; interleave + space + weakest-link drill (developing)
+- [[Pólya's Problem-Solving Method]] — understand → devise a plan → carry out → **look back**; heuristics: work backwards, solve a simpler problem, analogy, auxiliary elements; spend effort on the steps everyone skips (developing)
+- [[Expert–Novice Differences in Problem Solving]] — experts *recognize* via stored schemas (chess/physics studies); novices use weak means–end analysis that overloads WM; expertise = organized knowledge, not better logic (developing)
+- [[Domain-Specific Knowledge vs General Problem-Solving Skill]] — the central debate reconciled: domain knowledge dominates (Sweller/Kirschner), process+metacognition multiply *on top*; generic skill taught without content doesn't transfer (developing)
+- [[Near vs Far Transfer]] — near transfer is real, far transfer is rare; 87-study meta-analysis = brain training gives **no** far transfer to IQ/reasoning; force abstraction to buy what little transfer exists (developing)
+- [[Analogical Encoding (Comparing Cases)]] — Gick & Holyoak: compare **two** examples → strip surface, extract deep schema → far better transfer than studying one; "what's the same underneath?" (developing)
+- [[Worked Examples and Productive Failure]] — expertise-reversal: novices study worked examples (cuts load); advanced learners struggle first then check (productive failure → deeper, durable learning) (developing)
+- [[Metacognition in Problem Solving]] — plan before, monitor during, post-mortem after; predicts performance even controlling for IQ; must be practiced explicitly; the externalized form of Pólya (developing)
 
 ### EE Topic Depth Map
 - [[EE Topic Depth Priority Map]] — 6-level leverage stack for first-year EE student targeting WBG power: Circuit Theory → Digital Logic → Semiconductor Devices → Signals/Laplace → Control → EM; year-by-year targets (developing)
@@ -740,6 +752,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Health Wealth Family Framework]] — help someone with these three domains = deepest possible bond (developing)
 
 ## Sources
+
+### Problem-Solving / Learning Science (2026-06-16)
+- [[Polya 1945 — How to Solve It]] — Pólya's classic; four-step method + ~67 heuristics; problem solving as teachable guided discovery (high)
+- [[Maries & Singh 2023 — Physics Problem-Solving Review]] — arXiv review; three pillars = knowledge organization + cognitive load + metacognition/heuristics (high)
+- [[Teaching Discipline-Based Problem Solving (CBE-LSE 2022)]] — CBE-LSE essay; I→PS vs PS→I sequences; worked examples, contrasting cases, productive failure; both beat lecture (high)
+- [[Neelen & Kirschner 2018 — Domain-Specific Knowledge 1, Generic Skills 0]] — generic content-free problem-solving skill doesn't exist; domain knowledge in LTM may be the only factor (Tricot & Sweller) (medium)
+- [[Melby-Lervag Redick Hulme 2016 — WM Training No Far Transfer]] — 87-study meta-analysis; brain/WM training = near transfer only, no far transfer to IQ/reasoning (high)
 
 ### Health / Sleep (2026-06-14)
 - [[The Sleepmaxxing Protocol — Hypertrophy Academy]] — YouTube (~24 min); five-category sleep protocol (environment, lifestyle, supplements, food, tracking); cool dark single-purpose room, circadian anchoring + morning sun, glycine/magnesium/L-theanine stack, kiwi+honey for liver glycogen, get screened for apnea; "sleep first — no second chances" (medium)

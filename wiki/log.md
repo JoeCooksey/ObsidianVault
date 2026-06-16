@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-16] autoresearch | Best Way to Develop Problem-Solving Skills
+- Rounds: 2 | Searches: 7 | Sources fetched: 3
+- Pages created: [[Research: Best Way to Develop Problem-Solving Skills]] (synthesis), [[Problem-Solving Skill-Building Protocol]], [[Pólya's Problem-Solving Method]], [[Expert–Novice Differences in Problem Solving]], [[Domain-Specific Knowledge vs General Problem-Solving Skill]], [[Near vs Far Transfer]], [[Analogical Encoding (Comparing Cases)]], [[Worked Examples and Productive Failure]], [[Metacognition in Problem Solving]], [[George Polya]] (entity)
+- Sources: [[Polya 1945 — How to Solve It]], [[Maries & Singh 2023 — Physics Problem-Solving Review]], [[Teaching Discipline-Based Problem Solving (CBE-LSE 2022)]], [[Neelen & Kirschner 2018 — Domain-Specific Knowledge 1, Generic Skills 0]], [[Melby-Lervag Redick Hulme 2016 — WM Training No Far Transfer]]
+- 14 pages total (1 synthesis + 7 concepts + 1 entity + 5 sources); filed into index "Learning Science → Problem-Solving Skill"; index + log + hot updated
+- Key finding: there is NO general content-free problem-solving skill — better problem solving = deep domain knowledge + a deliberate process (Pólya) + metacognition; brain training shows no far transfer; build it by solving real problems in real domains, struggling first then comparing examples and running a post-mortem.
+
 ## [2026-06-16] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
 - World: US-Iran interim MOU signed June 15 (Strait of Hormuz reopening, 60-day ceasefire, Switzerland formal signing June 19); Sudan: 1,000+ civilians killed by drone strikes in 5 months (UN rights chief Türk). US: Secure America Act (S.2) passed Senate June 5; reconciliation bill signed June 10. Technology: Meta AI search real-time posts update; Visa integrated into OpenAI for AI agent commerce. Science/Health: GLP-1 users significantly less active (first large wearable study, ENDO 2026 Chicago). Wildcard: FIFA World Cup 2026 Day 6 — France vs. Senegal, Argentina vs. Algeria.
 
