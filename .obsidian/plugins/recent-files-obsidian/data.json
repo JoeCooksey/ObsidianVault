@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Do Vegetables Destroy Metabolism and Gut Health",
+      "path": "wiki/questions/Research - Do Vegetables Destroy Metabolism and Gut Health.md"
+    },
+    {
+      "basename": "Dietary Fiber and Gut Health",
+      "path": "wiki/concepts/Dietary Fiber and Gut Health.md"
+    },
+    {
       "basename": "Problem-Solving Practice Activities (Concrete Menu)",
       "path": "wiki/concepts/Problem-Solving Practice Activities (Concrete Menu).md"
     },
     {
       "basename": "Problem-Solving Skill-Building Protocol",
       "path": "wiki/concepts/Problem-Solving Skill-Building Protocol.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "C and C++ Embedded Tutor Prompt (Power-Focused)",
@@ -191,14 +199,6 @@
     {
       "basename": "Blood Test Preparation Protocol",
       "path": "wiki/concepts/Blood Test Preparation Protocol.md"
-    },
-    {
-      "basename": "Exercise Effects on Blood Test Results",
-      "path": "wiki/sources/Exercise Effects on Blood Test Results.md"
-    },
-    {
-      "basename": "Function Health Prep Guidance",
-      "path": "wiki/sources/Function Health Prep Guidance.md"
     }
   ],
   "omittedPaths": [],
