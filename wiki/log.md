@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-16] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+- World: US-Iran interim MOU signed June 15 (Strait of Hormuz reopening, 60-day ceasefire, Switzerland formal signing June 19); Sudan: 1,000+ civilians killed by drone strikes in 5 months (UN rights chief Türk). US: Secure America Act (S.2) passed Senate June 5; reconciliation bill signed June 10. Technology: Meta AI search real-time posts update; Visa integrated into OpenAI for AI agent commerce. Science/Health: GLP-1 users significantly less active (first large wearable study, ENDO 2026 Chicago). Wildcard: FIFA World Cup 2026 Day 6 — France vs. Senegal, Argentina vs. Algeria.
+
+## [2026-06-16] newsletter | EE Daily — June 16, 2026
+- Top stories: (1) NVIDIA $25B high-grade bond offering, shares +3.5%; (2) HBM4 certified by all three memory makers, NVIDIA–SK Hynix multi-year MOU signed; (3) ASML up 77% YTD, analysts raise targets to €1,900, 1,000 W EUV + High-NA demonstrated; (4) 2D CuInP₂S₆ CIPS ferroelectric neuromorphic AI (Advanced Functional Materials 2026); (5) TSMC May revenue +30.1% YoY. Daily topic: AI Data Center Power Architecture — 48V Bus, Liquid Cooling, and the Road to 1 MW GPU Clusters.
+
 ## [2026-06-15] autoresearch | Signs of High vs Low Testosterone
 - Rounds: 2 | Searches: 7 (4 PubMed + 3 web) | Sources fetched: 3
 - Pages created (7): [[Research - Signs of High vs Low Testosterone]] (synthesis), [[Low Testosterone Signs and Symptoms (Men)]], [[High Testosterone Signs (Men)]], [[Testosterone Signs in Women (High and Low)]], [[Specific vs Non-Specific Symptoms of Low Testosterone]], [[Endocrine Society 2018 — Testosterone Therapy Guideline]], [[Hirschberg 2023 — Hyperandrogenism in Postmenopausal Women]]
