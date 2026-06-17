@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] save | Daily Learning — Sites and Activities Toolkit
+- Type: synthesis
+- Location: wiki/questions/Daily Learning — Sites and Activities Toolkit.md
+- From: conversation asking for actual activities and sites to learn something each day
+- Links to [[Daily Learning Habit (Operating System)]] and [[Research: How to Learn Something Every Day (The Daily Learning Habit)]]; indexed under Daily Learning Habit
+
 ## [2026-06-17] autoresearch | How to Learn Something Every Day (The Daily Learning Habit)
 - Rounds: 2 | Searches: 6 | Sources fetched: 2 (Frontiers microlearning study + NIU reflective-journals .edu)
 - Found two existing clusters (Learning Science: [[Research: How to Learn Anything (The Science of Learning)]], [[Active Recall (Retrieval Practice)]], [[Spaced Repetition]]…; Habits: [[Habit Loop]], [[Limbic Friction]], [[Linchpin Habits]]) → the under-served angle was their **intersection**: the daily *habit* that carries the techniques. Built that bridge instead of duplicating either cluster.
