@@ -789,6 +789,9 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Habits / Self-Improvement (2026-06-17)
+- [[101 Habits — Dan Zakaria]] — YouTube; 101 habits in 7 categories; systems > goals, identity drives habits; derivative of Atomic Habits (medium)
+
 ### Food Sourcing / Pesticides (2026-06-17)
 - [[Organic Diet Intervention Reduces Urinary Pesticides (Hyland 2019)]] — crossover trial; organic diet cut urinary pesticide metabolites 60–95% within days; exposure-reduction, not disease outcome (high)
 - [[Cooking Reduces Pesticide Residues — Boiling, Blanching, Stir-Frying (2022)]] — blanching/boiling/stir-frying each remove a large but pesticide-dependent fraction of residue; commercial freezing blanches first (medium)
