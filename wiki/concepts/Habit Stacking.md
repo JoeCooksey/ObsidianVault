@@ -82,3 +82,4 @@ Both are [[Four Laws of Behavior Change]] — Law 1 (Make It Obvious) tools.
 - [[Two-Minute Rule]] — use for the stacked (new) habit
 - [[Linchpin Habits]] — linchpin habits are ideal anchor habits for stacking
 - [[Three-Phase Day Framework]] — stack habits within the same circadian phase for coherence
+- [[Daily Learning Habit (Operating System)]] — stacking is the primary install mechanism for a daily learning block
