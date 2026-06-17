@@ -5,6 +5,10 @@
       "path": "wiki/log.md"
     },
     {
+      "basename": "Daily Learning Habit (Operating System)",
+      "path": "wiki/concepts/Daily Learning Habit (Operating System).md"
+    },
+    {
       "basename": "Research - Do Vegetables Destroy Metabolism and Gut Health",
       "path": "wiki/questions/Research - Do Vegetables Destroy Metabolism and Gut Health.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Food Health Tier List — Macronutrients",
       "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
-    },
-    {
-      "basename": "Blood Test Preparation Protocol",
-      "path": "wiki/concepts/Blood Test Preparation Protocol.md"
     }
   ],
   "omittedPaths": [],
