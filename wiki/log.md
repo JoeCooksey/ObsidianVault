@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] ingest | How To Increase Your Intelligence — Craig Perry
+- Source: `.raw/transcripts/how-to-increase-your-intelligence-craig-perry-2026-06-17.md` (YouTube, ~42 min, 8,768 words)
+- Summary: [[How To Increase Your Intelligence — Craig Perry]]
+- Concepts created (6): [[Good Explanations (Hard-to-Vary)]], [[AQAL Model (Integral Theory)]], [[Four Quadrants (AQAL)]], [[Nine Levels of Thinking]], [[Lines of Development]], [[Explanation-Building Writing Practice]]
+- People created (7): [[Craig Perry]], [[David Deutsch]], [[Ken Wilber]], [[Carl Jung]], [[Albert Einstein]], [[Alan Watts]], [[Terence McKenna]]
+- Pages updated: [[index]]
+- Key insight: Video reframes "intelligence" as the quality of your [[Good Explanations (Hard-to-Vary)|explanations]], then layers [[Ken Wilber]]'s [[AQAL Model (Integral Theory)|Integral Theory]] (quadrants → levels → lines) into a daily [[Explanation-Building Writing Practice|writing practice]]. Filed **medium confidence** — Integral Theory is influential but contested integral philosophy, not validated science; population %s are illustrative. Deutsch's hard-to-vary idea is the soundest piece; writing practice is the most actionable. yt-dlp Chrome cookies failed (DPAPI); public video worked cookie-less ([[ytdlp-location]]). Vault is wiki-structured (CLAUDE.md), so filed into wiki/sources + wiki/concepts + wiki/entities rather than the summarize skill's default 08 Summaries layout. (14 pages created; index + log + hot updated.)
+
 ## [2026-06-17] ingest | 101 Habits — Dan Zakaria
 - Source: `.raw/transcripts/101-habits-dan-zakaria-2026-06-17.md` (YouTube transcript, 30 min, 6,011 words)
 - Summary: [[101 Habits — Dan Zakaria]]
