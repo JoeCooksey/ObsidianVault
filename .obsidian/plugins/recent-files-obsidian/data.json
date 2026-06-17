@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
+      "basename": "20-Minute Rule for Nighttime Awakenings",
+      "path": "wiki/concepts/20-Minute Rule for Nighttime Awakenings.md"
+    },
+    {
       "basename": "Daily Learning — Sites and Activities Toolkit",
       "path": "wiki/questions/Daily Learning — Sites and Activities Toolkit.md"
     },
     {
       "basename": "Daily Learning Habit (Operating System)",
       "path": "wiki/concepts/Daily Learning Habit (Operating System).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Do Vegetables Destroy Metabolism and Gut Health",
@@ -195,10 +199,6 @@
     {
       "basename": "Boredom Activity Playbook",
       "path": "wiki/concepts/Boredom Activity Playbook.md"
-    },
-    {
-      "basename": "Research - Paul Saladino Animal-Based Diet",
-      "path": "wiki/questions/Research - Paul Saladino Animal-Based Diet.md"
     }
   ],
   "omittedPaths": [],

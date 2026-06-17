@@ -112,6 +112,16 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Liver Glycogen and Overnight Hypoglycemia]] — kiwi+honey (fructose) pre-bed to prevent overnight blood-sugar crash waking
 - [[Creatine for Acute Sleep Deprivation]] — 10–20 g bolus to blunt a bad night (GI caution)
 
+#### Midnight Wakeups / Insomnia (clinical) (2026-06-17)
+- [[Research: Avoiding Midnight Wakeups]] — **the full guide**: midnight wakeup = sleep maintenance insomnia, usually secondary; night-of 20-min rule → kill triggers (esp. evening alcohol) → optimize room → lock schedule → CBT-I if persistent → rule out medical causes
+- [[Sleep Maintenance Insomnia]] — difficulty *returning* to sleep after a night awakening; a 3 a.m. arousal is normal, the inability to return is the disorder; almost always secondary
+- [[CBT-I (Cognitive Behavioral Therapy for Insomnia)]] — gold-standard first-line treatment (not pills); 5 components; 6–8 sessions, ~50% reduction, durable to 24 mo; sleep hygiene alone is weakest
+- [[20-Minute Rule for Nighttime Awakenings]] — stimulus control: if awake >~20 min, get out of bed, calm activity in dim light, return when sleepy; don't clock-watch
+- [[Sleep Restriction Therapy]] — limit time in bed to actual sleep ability → raises sleep drive → consolidates sleep (CBT-I core)
+- [[Alcohol and Sleep Fragmentation]] — REM-suppression-then-rebound fragments the 2nd half of the night; stop ≥4 h before bed; the #1 single fix
+- [[Nocturia]] — nighttime urination; cut evening fluids/caffeine/alcohol, elevate legs late-day, treat prostate/bladder/apnea
+- [[Menopause and Sleep Disruption]] — falling estradiol/progesterone + melatonin + hot flashes drive awakenings; CBT-I still first-line
+
 ### Learning & AI Tutoring
 - [[ChatGPT ML Tutor Prompt (Zero to Pro)]] — **deliverable**: copy-paste prompt turning ChatGPT into a Socratic, project-based ML tutor; built on active recall + spaced repetition + Socratic questioning + project-per-phase; Phase 0–4 curriculum (Python/math → classical ML → deep learning → transformers → MLOps); diagnostic placement + progress tracker + "pro" exit criteria; Joe-specific EE/small-data tweak (stable)
 - [[C and C++ Embedded Tutor Prompt (Power-Focused)]] — **deliverable**: copy-paste prompt for a Socratic embedded-C/C++ tutor aimed at power electronics; same engine as the ML prompt; Phase 0–6 (C fundamentals/bitwise → pointers/memory → embedded C/registers → MCU peripherals → real-time fixed-point control loop → embedded C++ → pro firmware skills); final project = Joe's STM32G4 buck firmware; verify against the reference manual (stable)
@@ -778,6 +788,11 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Health / Sleep (2026-06-14)
 - [[The Sleepmaxxing Protocol — Hypertrophy Academy]] — YouTube (~24 min); five-category sleep protocol (environment, lifestyle, supplements, food, tracking); cool dark single-purpose room, circadian anchoring + morning sun, glycine/magnesium/L-theanine stack, kiwi+honey for liver glycogen, get screened for apnea; "sleep first — no second chances" (medium)
+- [[Harvard Health — Awake at 3 a.m.]] — Harvard Health Publishing (Julie Corliss); the 20-minute rule, cool/dark/quiet room, caffeine cutoff, exercise, CBT-I; SHUTi cut mid-sleep awakenings ~50% (high)
+- [[Cleveland Clinic — Managing Sleep Maintenance Insomnia]] — Dr. Alicia Roth; three steps (provider → behavioral sleep specialist → sleep diary); CBT-I gold standard; avoid late caffeine, naps, sleeping pills (high)
+- [[CBT-I Primer — Walker et al. 2022]] — PMC primer; the 5 CBT-I components + mechanisms; 6–8 sessions, effect sizes 1.0–1.2 (~50% reduction), stable to 24 mo; sleep hygiene weak alone (high)
+- [[Jackson Heart Sleep Study — Evening Substances 2019]] — PMC; evening alcohol increases awakenings/fragmentation day-to-day; REM-rebound mechanism (medium, observational)
+- [[Sleep and the Menopausal Transition — PMC Reviews]] — NIH/PMC review cluster; declining estradiol/progesterone + melatonin degrade consolidation; hot flashes ~3× awakenings (high)
 
 ### Wellbeing / Positive Psychology (2026-06-13)
 - [[Dacher Keltner — Awe (2023)]] — *Awe* (book); awe 2–3×/week, the eight wonders, "moral beauty" most common, the "small self" (high)

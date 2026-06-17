@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] autoresearch | Avoiding Midnight Wakeups
+- Rounds: 3 | Searches: 7 | Sources fetched: Harvard Health, Cleveland Clinic, PMC CBT-I primer
+- Pages created (11): [[Sleep Maintenance Insomnia]], [[CBT-I (Cognitive Behavioral Therapy for Insomnia)]], [[20-Minute Rule for Nighttime Awakenings]], [[Sleep Restriction Therapy]], [[Alcohol and Sleep Fragmentation]], [[Nocturia]], [[Menopause and Sleep Disruption]]; sources [[Harvard Health — Awake at 3 a.m.]], [[Cleveland Clinic — Managing Sleep Maintenance Insomnia]], [[CBT-I Primer — Walker et al. 2022]], [[Jackson Heart Sleep Study — Evening Substances 2019]], [[Sleep and the Menopausal Transition — PMC Reviews]]
+- Synthesis: [[Research: Avoiding Midnight Wakeups]]
+- Cross-linked to existing [[Sleep Environment Optimization]] / [[Circadian Rhythm Alignment]] / [[Sleepmaxxing Protocol]] cluster
+- Key finding: midnight wakeups = sleep maintenance insomnia, usually secondary; first-line fix is behavioral (CBT-I: sleep restriction + 20-min stimulus-control rule), not sleeping pills. Highest-yield single change is cutting evening alcohol.
+
 ## [2026-06-17] save | Daily Learning — Sites and Activities Toolkit
 - Type: synthesis
 - Location: wiki/questions/Daily Learning — Sites and Activities Toolkit.md
