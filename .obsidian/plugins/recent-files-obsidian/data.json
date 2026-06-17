@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "log",
-      "path": "wiki/log.md"
+      "basename": "Daily Learning — Sites and Activities Toolkit",
+      "path": "wiki/questions/Daily Learning — Sites and Activities Toolkit.md"
     },
     {
       "basename": "Daily Learning Habit (Operating System)",
       "path": "wiki/concepts/Daily Learning Habit (Operating System).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Do Vegetables Destroy Metabolism and Gut Health",
@@ -195,10 +199,6 @@
     {
       "basename": "Research - Paul Saladino Animal-Based Diet",
       "path": "wiki/questions/Research - Paul Saladino Animal-Based Diet.md"
-    },
-    {
-      "basename": "Food Health Tier List — Macronutrients",
-      "path": "wiki/concepts/Food Health Tier List — Macronutrients.md"
     }
   ],
   "omittedPaths": [],
