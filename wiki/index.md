@@ -103,6 +103,15 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Intelligence & Thinking — How to Increase Your Intelligence (Craig Perry) (2026-06-17)
+Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence = the quality of your [[Good Explanations (Hard-to-Vary)|explanations]]; mapped via [[Ken Wilber]]'s [[AQAL Model (Integral Theory)|Integral Theory]].
+- [[Good Explanations (Hard-to-Vary)]] — Deutsch's "hard-to-vary" test; bad explanations are invisible and run your life; free to rebuild anytime
+- [[AQAL Model (Integral Theory)]] — Wilber's "map of all knowledge": quadrants (what) → levels (how clearly) → lines (where you're uneven)
+- [[Four Quadrants (AQAL)]] — I / it / we / its; a complete explanation checks all four; one-quadrant thinking = "stupid thinking"
+- [[Nine Levels of Thinking]] — altitude of awareness in 3 chunks (subconscious 1–3, conscious 4–5, integrated 6–9); higher sees lower
+- [[Lines of Development]] — uneven growth across cognitive/emotional/interpersonal… lines; level 7 on one, level 3 on another; regression under stress
+- [[Explanation-Building Writing Practice]] — daily 10–20 min: write an explanation, run it through 4 quadrants, name the line, find 1 piece of counter-evidence
+
 ### Habits — 101 Habits (Dan Zakaria) (2026-06-17)
 - [[Discipline & Action Habits]] — habits 1–20: act regardless of mood, close loops, discipline > motivation
 - [[Mindset & Growth Habits]] — habits 21–40: read daily, reframe failure, stay a lifelong student
