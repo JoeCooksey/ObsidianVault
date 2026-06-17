@@ -205,6 +205,7 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ### Daily Learning Habit (How to Learn Something Every Day) (2026-06-17)
 - [[Research: How to Learn Something Every Day (The Daily Learning Habit)]] — **synthesis**: the best way to learn daily is a *habit that carries the techniques*, not a technique; distribution beats volume, consistency beats intensity; joins the learning-science engine to the habit-formation engine (developing)
+- [[Daily Learning — Sites and Activities Toolkit]] — **the concrete layer**: specific sites + activities to fill the daily block (Anki, Brilliant, Exercism, MIT OCW…), pick-one-track table, daily-delivery cues, and the non-negotiable retrieval add-on (developing)
 - [[Daily Learning Habit (Operating System)]] — **the runnable routine**: make it small → anchor it → make the session real → close with reflection → protect the chain; the join between [[Research: How to Learn Anything (The Science of Learning)]] and [[Habit Loop]] (developing)
 - [[Microlearning]] — short (5–20 min) spaced daily sessions; *is* distributed practice by construction; format ≠ method — must contain a real difficulty (developing)
 - [[Never Miss Twice]] — lapse-tolerant consistency; missing once barely dents the curve, the all-or-nothing spiral is the real killer; track gaps not streaks; minimum-viable day (developing)
