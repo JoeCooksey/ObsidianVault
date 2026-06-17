@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] autoresearch | Organic Frozen Vegetables & the Costco Stir-Fry Blend
+- Rounds: 3 | Searches: 7 | Sources fetched: PMC stir-fry/blanching study, mdlifespan EWG 2025 full list, ScienceDirect Hyland 2019
+- Pages created: [[Research - Organic Frozen Vegetables & the Costco Stir-Fry Blend]] (synthesis), [[Kirkland Signature Stir-Fry Vegetable Blend]] (entity), [[Organic Diet Intervention Reduces Urinary Pesticides (Hyland 2019)]], [[Cooking Reduces Pesticide Residues — Boiling, Blanching, Stir-Frying (2022)]]
+- Updated: [[Organic vs Conventional — Worth-It Decision]] (added mixed-blend caveat)
+- Synthesis: [[Research - Organic Frozen Vegetables & the Costco Stir-Fry Blend]]
+- Key finding: Skip organic on the Kirkland Stir-Fry blend — ~6 of 8 ingredients (onions, peas, carrots, mushrooms, broccoli, water chestnuts) are Clean Fifteen / low-residue, and freezing+cooking strips residue twice; organic buys exposure reduction (Hyland −60–95% urinary biomarkers), not nutrition.
+
 ## [2026-06-17] autoresearch | Avoiding Midnight Wakeups
 - Rounds: 3 | Searches: 7 | Sources fetched: Harvard Health, Cleveland Clinic, PMC CBT-I primer
 - Pages created (11): [[Sleep Maintenance Insomnia]], [[CBT-I (Cognitive Behavioral Therapy for Insomnia)]], [[20-Minute Rule for Nighttime Awakenings]], [[Sleep Restriction Therapy]], [[Alcohol and Sleep Fragmentation]], [[Nocturia]], [[Menopause and Sleep Disruption]]; sources [[Harvard Health — Awake at 3 a.m.]], [[Cleveland Clinic — Managing Sleep Maintenance Insomnia]], [[CBT-I Primer — Walker et al. 2022]], [[Jackson Heart Sleep Study — Evening Substances 2019]], [[Sleep and the Menopausal Transition — PMC Reviews]]

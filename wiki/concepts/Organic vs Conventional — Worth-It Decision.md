@@ -3,7 +3,7 @@ type: concept
 title: "Organic vs Conventional — Worth-It Decision"
 status: developing
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-17
 tags:
   - health
   - nutrition
@@ -46,6 +46,7 @@ Pineapple · Sweet corn · Avocados · Papaya · Onions · Sweet peas · Asparag
 1. **The biggest win is eating more produce, period** — conventional fruit/veg beats skipping it over a theoretical residue. Don't let "can't afford organic" become "didn't eat the vegetable."
 2. **Wash everything** (organic included) — rinsing + scrubbing removes a meaningful fraction of surface residue, dirt, and microbes.
 3. **Frozen organic is the value play** for berries/greens — cheaper, equal nutrition (see [[Frozen vs Fresh Produce]]), and hits the Dirty Dozen items.
+   - But for a **mixed stir-fry/veg blend** (e.g. [[Kirkland Signature Stir-Fry Vegetable Blend]]), organic is low-value: most ingredients are Clean Fifteen, and freezing + cooking strips residue twice. See [[Research - Organic Frozen Vegetables & the Costco Stir-Fry Blend]].
 4. **"Organic" ≠ "healthy."** Organic cookies are still cookies. The label only addresses how it was *grown*, not whether the food is good for you.
 5. **EWG is an advocate, not a regulator** — conventional residues are usually well below EPA safety limits; treat the list as a *prioritization* tool, not a fear signal.
 

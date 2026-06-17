@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-14T13:30:00
+updated: 2026-06-17T14:00:00
 tags:
   - meta
 ---
@@ -43,6 +43,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[Kirkland Signature Stir-Fry Vegetable Blend]] — Costco frozen stir-fry mix (conventional); ~6 of 8 ingredients are Clean Fifteen → poor candidate for the organic premium
 - [[Hypertrophy Academy]] — fitness YouTube channel; hypertrophy training/nutrition/recovery for young high performers; source of the [[Sleepmaxxing Protocol]]
 - [[Oura Ring]] — smart-ring sleep/recovery tracker; finger-worn, less obtrusive than wrist wearables
 - [[Whoop]] — wrist-worn recovery/strain tracker; direct Oura competitor
@@ -779,6 +780,10 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Sources
 
+### Food Sourcing / Pesticides (2026-06-17)
+- [[Organic Diet Intervention Reduces Urinary Pesticides (Hyland 2019)]] — crossover trial; organic diet cut urinary pesticide metabolites 60–95% within days; exposure-reduction, not disease outcome (high)
+- [[Cooking Reduces Pesticide Residues — Boiling, Blanching, Stir-Frying (2022)]] — blanching/boiling/stir-frying each remove a large but pesticide-dependent fraction of residue; commercial freezing blanches first (medium)
+
 ### Problem-Solving / Learning Science (2026-06-16)
 - [[Polya 1945 — How to Solve It]] — Pólya's classic; four-step method + ~67 heuristics; problem solving as teachable guided discovery (high)
 - [[Maries & Singh 2023 — Physics Problem-Solving Review]] — arXiv review; three pillars = knowledge organization + cognitive load + metacognition/heuristics (high)
@@ -1017,6 +1022,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Organic Frozen Vegetables & the Costco Stir-Fry Blend]] — **synthesis**: skip organic on the Kirkland Stir-Fry blend — most ingredients are Clean Fifteen, freezing+cooking strips residue twice, and organic buys exposure reduction (Hyland: −60–95% biomarkers) not nutrition; redirect organic spend to Dirty Dozen berries/greens (developing)
 - [[Research - ChatGPT as a Machine Learning Tutor]] — **synthesis**: grounds a zero-to-pro ML curriculum + what makes an LLM an effective tutor (not an answer machine); Harvard RCT shows active-learning AI tutoring beats lecture by 0.73–1.3 SD; deliverable = [[ChatGPT ML Tutor Prompt (Zero to Pro)]]; curriculum order is high-confidence, timeline is not (developing)
 - [[Research - How to Improve at League of Legends]] — **synthesis**: volume of play beats deliberate practice (registered report) + Challenger consistency signature; skill ladder = laning → wave management → macro → vision; one role / 2–3 champs; tilt = biggest limiter below Diamond (developing)
 - [[Research - OSRS Ironman Progression Guide]] — **synthesis + master checklist**: 4-stage model (early → mid → late → endgame) with per-stage unlock checklists; slayer = mid-game spine, Corrupted Gauntlet/bowfa = highest-leverage grind, ToA = first raid; Varlamore reroutes prayer + mid-game gear (developing)
