@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "101 Habits — Dan Zakaria",
+      "path": "wiki/sources/101 Habits — Dan Zakaria.md"
+    },
+    {
+      "basename": "Success Multiplier Habits",
+      "path": "wiki/concepts/Success Multiplier Habits.md"
+    },
+    {
+      "basename": "Focus & Deep Work Habits",
+      "path": "wiki/concepts/Focus & Deep Work Habits.md"
+    },
+    {
+      "basename": "Time Management Habits",
+      "path": "wiki/concepts/Time Management Habits.md"
+    },
+    {
+      "basename": "Identity & Self-Respect Habits",
+      "path": "wiki/concepts/Identity & Self-Respect Habits.md"
+    },
+    {
+      "basename": "Mindset & Growth Habits",
+      "path": "wiki/concepts/Mindset & Growth Habits.md"
+    },
+    {
+      "basename": "Discipline & Action Habits",
+      "path": "wiki/concepts/Discipline & Action Habits.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Index Fund Tier List",
       "path": "wiki/concepts/Index Fund Tier List.md"
-    },
-    {
-      "basename": "Research - Index Funds vs Stock Picking (Tier List)",
-      "path": "wiki/questions/Research - Index Funds vs Stock Picking (Tier List).md"
-    },
-    {
-      "basename": "Index Funds vs Stock Picking",
-      "path": "wiki/comparisons/Index Funds vs Stock Picking.md"
-    },
-    {
-      "basename": "Most Important Biomarkers (Priority Shortlist)",
-      "path": "wiki/concepts/Most Important Biomarkers (Priority Shortlist).md"
-    },
-    {
-      "basename": "Health Biomarkers Complete Panel",
-      "path": "wiki/concepts/Health Biomarkers Complete Panel.md"
-    },
-    {
-      "basename": "Gut Health Tests",
-      "path": "wiki/concepts/Gut Health Tests.md"
-    },
-    {
-      "basename": "Best Podcasts Tier List (for Joe)",
-      "path": "wiki/concepts/Best Podcasts Tier List (for Joe).md"
-    },
-    {
-      "basename": "Boredom Activity Playbook",
-      "path": "wiki/concepts/Boredom Activity Playbook.md"
     }
   ],
   "omittedPaths": [],
