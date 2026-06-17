@@ -203,6 +203,15 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[NotebookLM Study Workflow]] — running a book through NotebookLM chapter by chapter (source-grounded, cited): verify-don't-generate, quiz, Socratic Learning-Guide teach-back, audio review; guardrails against offloading (developing)
 - [[Contradict My Summary — AI Reading Prompt]] — **copy-paste prompt**: paste your hand-written chapter summary, AI plays blunt skeptic (contradict / what-I-missed / where-I'm-vague / steel-man / 3 questions); variants for unknown books + live Feynman mode (stable)
 
+### Daily Learning Habit (How to Learn Something Every Day) (2026-06-17)
+- [[Research: How to Learn Something Every Day (The Daily Learning Habit)]] — **synthesis**: the best way to learn daily is a *habit that carries the techniques*, not a technique; distribution beats volume, consistency beats intensity; joins the learning-science engine to the habit-formation engine (developing)
+- [[Daily Learning Habit (Operating System)]] — **the runnable routine**: make it small → anchor it → make the session real → close with reflection → protect the chain; the join between [[Research: How to Learn Anything (The Science of Learning)]] and [[Habit Loop]] (developing)
+- [[Microlearning]] — short (5–20 min) spaced daily sessions; *is* distributed practice by construction; format ≠ method — must contain a real difficulty (developing)
+- [[Never Miss Twice]] — lapse-tolerant consistency; missing once barely dents the curve, the all-or-nothing spiral is the real killer; track gaps not streaks; minimum-viable day (developing)
+- [[Learning Log (Daily Reflection)]] — three-line daily close (learned / fuzzy / connects-to); reflection turns experience into learning; the "fuzzy" line feeds tomorrow's target (developing)
+- [[Habit Stacking]] — *(updated)* anchor the daily learning block to an existing habit; the cue solution
+- Sources: [[Lally 2009 - How Habits Are Formed (66 Days)]] · [[Cepeda 2006 - Distributed Practice Meta-Analysis]] · [[Frontiers 2025 - Microlearning and Soft Skills]] · [[NIU - Reflective Journals and Learning Logs]]
+
 ### Problem-Solving Skill (How to Get Better at Solving Problems) (2026-06-16)
 - [[Research: Best Way to Develop Problem-Solving Skills]] — **synthesis**: no general content-free skill exists; better problem solving = deep domain knowledge + a deliberate process (Pólya) + metacognition; brain training fails (no far transfer); build it on real problems in real domains (developing)
 - [[Problem-Solving Skill-Building Protocol]] — **the runnable routine**: pick real domains → understand-before-solving → struggle first (timeboxed) → study worked solution → compare two examples → look-back post-mortem; interleave + space + weakest-link drill (developing)
