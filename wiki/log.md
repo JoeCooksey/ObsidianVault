@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] autoresearch | How to Learn Something Every Day (The Daily Learning Habit)
+- Rounds: 2 | Searches: 6 | Sources fetched: 2 (Frontiers microlearning study + NIU reflective-journals .edu)
+- Found two existing clusters (Learning Science: [[Research: How to Learn Anything (The Science of Learning)]], [[Active Recall (Retrieval Practice)]], [[Spaced Repetition]]…; Habits: [[Habit Loop]], [[Limbic Friction]], [[Linchpin Habits]]) → the under-served angle was their **intersection**: the daily *habit* that carries the techniques. Built that bridge instead of duplicating either cluster.
+- Pages created: [[Research: How to Learn Something Every Day (The Daily Learning Habit)]] (synthesis), [[Daily Learning Habit (Operating System)]], [[Microlearning]], [[Never Miss Twice]], [[Learning Log (Daily Reflection)]] (concepts)
+- Sources: [[Lally 2009 - How Habits Are Formed (66 Days)]], [[Cepeda 2006 - Distributed Practice Meta-Analysis]], [[Frontiers 2025 - Microlearning and Soft Skills]], [[NIU - Reflective Journals and Learning Logs]]
+- Updated: [[Habit Stacking]] (added daily-learning cross-link)
+- 10 pages total (1 synthesis + 4 new concepts + 4 sources + 1 concept updated); filed into index "Daily Learning Habit"; index + log + hot updated
+- Key finding: the best way to learn daily is NOT a technique but a **habit that carries the techniques** — distribution beats volume ([[Cepeda 2006 - Distributed Practice Meta-Analysis|spacing wins 259/271]], even a 1-day gap beats massing), so "a little every day" wins by mechanism, not motivation. The routine: make it small ([[Microlearning]]) → anchor it ([[Habit Stacking]]) → fill it with a real difficulty (retrieval, not consumption) → close with a 3-line [[Learning Log (Daily Reflection)|log]] → protect the chain ([[Never Miss Twice]] — missing once barely dents [[Lally 2009 - How Habits Are Formed (66 Days)|the ~66-day curve]], the all-or-nothing spiral is the real killer). "21 days" is a myth.
+
 ## [2026-06-17] morning-routine | Daily Stock Briefing, EE Newsletter, News Debrief, Book Review
 - Stock Briefing: 11 tickers researched (AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML). Dashboard: RED 0 / YELLOW 8 / GREEN 3. Key events: NVDA $25B bond offering, Morgan Stanley downgraded TSLA, Citi upgraded AMD to Buy, GOOGL $84.75B equity raise, META $125–145B capex guidance.
 - EE Newsletter: 7 top stories (TSMC 2nm GAA volume production, AMD 46.2% server CPU share, Samsung HBM4 mass production, Monash valleytronic chip, 10.2 W/mm GaN-on-Si HEMTs, 2D molecular ferroelectric sub-10nm, polariton neuromorphic computing). Deep dive: HBM4 Architecture, Packaging, and the DRAM Supply Crisis.
