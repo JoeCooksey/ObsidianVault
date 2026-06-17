@@ -106,6 +106,25 @@
         "wiki/log.md",
         "wiki/hot.md"
       ]
+    },
+    ".raw/transcripts/101-habits-dan-zakaria-2026-06-17.md": {
+      "hash": "1ed8a1d61e380332591b30063ec89b7d",
+      "ingested_at": "2026-06-17",
+      "pages_created": [
+        "wiki/sources/101 Habits — Dan Zakaria.md",
+        "wiki/concepts/Discipline & Action Habits.md",
+        "wiki/concepts/Mindset & Growth Habits.md",
+        "wiki/concepts/Identity & Self-Respect Habits.md",
+        "wiki/concepts/Focus & Deep Work Habits.md",
+        "wiki/concepts/Time Management Habits.md",
+        "wiki/concepts/Health & Energy Habits.md",
+        "wiki/concepts/Success Multiplier Habits.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md"
+      ]
     }
   }
 }
