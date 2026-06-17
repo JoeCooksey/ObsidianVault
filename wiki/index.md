@@ -103,6 +103,15 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Habits — 101 Habits (Dan Zakaria) (2026-06-17)
+- [[Discipline & Action Habits]] — habits 1–20: act regardless of mood, close loops, discipline > motivation
+- [[Mindset & Growth Habits]] — habits 21–40: read daily, reframe failure, stay a lifelong student
+- [[Identity & Self-Respect Habits]] — habits 41–55: vote for your future self; habits follow identity
+- [[Focus & Deep Work Habits]] — habits 56–70: kill distraction, single-task, protect focus blocks
+- [[Time Management Habits]] — habits 71–82: plan the week, batch, 80/20, close open loops, routines
+- [[Health & Energy Habits]] — habits 83–95: sleep is #1, walk, strength train, sunlight, protein, breathing
+- [[Success Multiplier Habits]] — habits 96–101: invest in self, network, teach to learn, 1% daily = 37×/yr
+
 ### Sleep & Recovery (2026-06-14)
 - [[Sleepmaxxing Protocol]] — five-category framework (environment, lifestyle, supplements, food, tracking) for maximizing sleep quality; "health problems are usually multiple things"
 - [[Sleep Environment Optimization]] — ~19–21°C, darkness, neutral firm pillow; the hot-shower-lowers-core-temp trick
