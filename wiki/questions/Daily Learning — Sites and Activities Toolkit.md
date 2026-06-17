@@ -31,13 +31,13 @@ Each row is a real difficulty done in 15–20 minutes — the [[Microlearning]] 
 
 | Goal | Site / app | The actual daily activity |
 |---|---|---|
-| **A language** | Anki (apps.ankiweb.net) or Duolingo (duolingo.com) | Anki: review due cards + add 5 new. Duo for streak pressure, but Anki is the real [[Spaced Repetition]] engine. |
-| **General knowledge / facts** | Anki | Make 3 cards from anything you read that day; review the deck. This *is* [[Active Recall (Retrieval Practice)]] + spacing in one tool. |
-| **Math** | Brilliant (brilliant.org) or Khan Academy (khanacademy.org) | One interactive lesson. Brilliant forces you to *solve*, not watch — the "real difficulty" the research flagged. |
-| **CS / programming** | Exercism (exercism.org) or Advent of Code (adventofcode.com) | One small exercise/kata with a mentor or auto-tests. Output beats tutorials. |
-| **Coding by doing** | LeetCode (leetcode.com) / Codewars (codewars.com) | One problem/day. Codewars is gentler for ramping. |
-| **A real academic subject** | MIT OpenCourseWare (ocw.mit.edu), edX (edx.org), Coursera (coursera.org) | One lecture segment + do the problem set, not just watch. |
-| **Wide curiosity** | Wikipedia "random article" or r/todayilearned | Read one thing, then write 2 sentences explaining it from memory (teach-back). |
+| **A language** | [Anki](https://apps.ankiweb.net) · [Duolingo](https://duolingo.com) | Anki: review due cards + add 5 new. Duo for streak pressure, but Anki is the real [[Spaced Repetition]] engine. |
+| **General knowledge / facts** | [Anki](https://apps.ankiweb.net) | Make 3 cards from anything you read that day; review the deck. This *is* [[Active Recall (Retrieval Practice)]] + spacing in one tool. |
+| **Math** | [Brilliant](https://brilliant.org) · [Khan Academy](https://khanacademy.org) | One interactive lesson. Brilliant forces you to *solve*, not watch — the "real difficulty" the research flagged. |
+| **CS / programming** | [Exercism](https://exercism.org) · [Advent of Code](https://adventofcode.com) | One small exercise/kata with a mentor or auto-tests. Output beats tutorials. |
+| **Coding by doing** | [LeetCode](https://leetcode.com) · [Codewars](https://codewars.com) | One problem/day. Codewars is gentler for ramping. |
+| **A real academic subject** | [MIT OpenCourseWare](https://ocw.mit.edu) · [edX](https://edx.org) · [Coursera](https://coursera.org) | One lecture segment + do the problem set, not just watch. |
+| **Wide curiosity** | [Wikipedia: Random](https://en.wikipedia.org/wiki/Special:Random) · [r/todayilearned](https://reddit.com/r/todayilearned) | Read one thing, then write 2 sentences explaining it from memory (teach-back). |
 
 ## Daily-delivery sources (the built-in cue)
 
