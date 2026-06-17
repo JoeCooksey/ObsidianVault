@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] ingest | 101 Habits — Dan Zakaria
+- Source: `.raw/transcripts/101-habits-dan-zakaria-2026-06-17.md` (YouTube transcript, 30 min, 6,011 words)
+- Summary: [[101 Habits — Dan Zakaria]]
+- Pages created: [[Discipline & Action Habits]], [[Mindset & Growth Habits]], [[Identity & Self-Respect Habits]], [[Focus & Deep Work Habits]], [[Time Management Habits]], [[Health & Energy Habits]], [[Success Multiplier Habits]]
+- Pages updated: [[index]]
+- Key insight: User chose 1 source + 7 category notes (not 101 atomic files). Video's spine is Atomic Habits — systems > goals, identity drives habits, 1% daily = 37×/yr; cross-linked to existing [[Identity-Based vs Goal-Based Habits]] / [[Atomic Habits - James Clear]] cluster.
+
 ## [2026-06-17] autoresearch | Organic Frozen Vegetables & the Costco Stir-Fry Blend
 - Rounds: 3 | Searches: 7 | Sources fetched: PMC stir-fry/blanching study, mdlifespan EWG 2025 full list, ScienceDirect Hyland 2019
 - Pages created: [[Research - Organic Frozen Vegetables & the Costco Stir-Fry Blend]] (synthesis), [[Kirkland Signature Stir-Fry Vegetable Blend]] (entity), [[Organic Diet Intervention Reduces Urinary Pesticides (Hyland 2019)]], [[Cooking Reduces Pesticide Residues — Boiling, Blanching, Stir-Frying (2022)]]
