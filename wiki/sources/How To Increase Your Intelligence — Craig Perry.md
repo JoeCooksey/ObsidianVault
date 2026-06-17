@@ -30,6 +30,10 @@ key_claims:
 
 ```vid
 https://www.youtube.com/watch?v=8Gb4ly9uha8
+Title: How To Increase your Intelligence (In-Depth Guide)
+Author: Craig Perry
+Thumbnail: https://i.ytimg.com/vi/8Gb4ly9uha8/mqdefault.jpg
+AuthorUrl: https://www.youtube.com/@profound_ideas
 ```
 
 > [!tldr]
