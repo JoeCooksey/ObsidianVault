@@ -100,6 +100,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Dacher Keltner]] — UC Berkeley psychologist; Greater Good Science Center founder; modern science of awe; *Awe* (2023); "small self"
 - [[Fred Bryant]] — Loyola Chicago social psychologist; father of savoring research; 3 temporal forms; Savoring Beliefs Inventory
 - [[Robert Waldinger]] — Harvard psychiatrist; director, Harvard Study of Adult Development (1938–); *The Good Life* (2023); relationships = #1 predictor of a happy life
+- [[Craig Perry]] — Substack writer/YouTuber on thinking & self-education; creator of [[How To Increase Your Intelligence — Craig Perry]]; popularizes Wilber + Deutsch
+- [[David Deutsch]] — Oxford physicist (quantum computation) & philosopher of science; *The Beginning of Infinity*; "good explanations are hard to vary"
+- [[Ken Wilber]] — American philosopher; founder of Integral Theory & the [[AQAL Model (Integral Theory)|AQAL]] "map of all knowledge"
+- [[Carl Jung]] — Swiss psychiatrist; analytical psychology; "the world will ask you who you are, and if you don't know, it will tell you"
+- [[Albert Einstein]] — theoretical physicist (relativity); quoted: can't solve a problem with the thinking that created it
+- [[Alan Watts]] — British philosopher; popularized Zen/Taoism in the West; pointed at "unitive" egoless awareness
+- [[Terence McKenna]] — ethnobotanist/psychedelics lecturer; described the boundary-dissolving "unitive" state
 
 ## Concepts
 
