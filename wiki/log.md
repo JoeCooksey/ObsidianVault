@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] morning-routine | Daily Stock Briefing, EE Newsletter, News Debrief, Book Review
+- Stock Briefing: 11 tickers researched (AMD, NVDA, TSLA, AAPL, TSMC, META, GOOGL, MSFT, LLY, V, ASML). Dashboard: RED 0 / YELLOW 8 / GREEN 3. Key events: NVDA $25B bond offering, Morgan Stanley downgraded TSLA, Citi upgraded AMD to Buy, GOOGL $84.75B equity raise, META $125–145B capex guidance.
+- EE Newsletter: 7 top stories (TSMC 2nm GAA volume production, AMD 46.2% server CPU share, Samsung HBM4 mass production, Monash valleytronic chip, 10.2 W/mm GaN-on-Si HEMTs, 2D molecular ferroelectric sub-10nm, polariton neuromorphic computing). Deep dive: HBM4 Architecture, Packaging, and the DRAM Supply Crisis.
+- News Debrief: 7 stories filed (World: US-Iran ceasefire implementation + Haiti UN visit; US: Trump 80th birthday UFC + Pacific drug interdiction; Technology: G7 AI model access restrictions / Anthropic Fable 5 blocked; Science/Health: osteoarthritis + ML physics embedding; Wildcard: Messi hat trick ties Klose's 16 WC goals).
+- Book Review: 8 flashcards selected from 8 books (Laws of Human Nature, Atomic Habits, The 7 Habits, How to Win Friends, Psychology of Money, Steve Jobs, Never Eat Alone, The Subtle Art). Leitner box updates applied for yesterday's session.
+- Pages created: [[Stock Briefing 2026-06-17]], [[EE Daily — June 17, 2026]], [[News Debrief 2026-06-17]], review file 2026-06-17
+- Flashcard JSONs updated: atomic-habits, seven-habits, how-to-win-friends, psychology-of-money, laws-of-human-nature, never-eat-alone, subtle-art, leonardo-da-vinci
+
 ## [2026-06-16] autoresearch | Do Vegetables Destroy Metabolism and Gut Health?
 - Rounds: 2 | Searches: 7 | Sources fetched: 3
 - Existing cluster found ([[Antinutrients-Plant-Defense-Compounds]], [[Paul Saladino]], [[Research - Paul Saladino Animal-Based Diet]]) → updated, not duplicated; new pages cover the under-served fiber/gut + metabolism angles
