@@ -43,10 +43,10 @@ Each row is a real difficulty done in 15–20 minutes — the [[Microlearning]] 
 
 These remove the "what should I learn today?" decision by pushing something to you — solving the cue problem in the [[Habit Loop]]:
 
-- **Brilliant** — daily problem, push-notification driven, gamified streak. Best single paid pick for math/science/CS.
-- **Britannica / Wikipedia "On This Day"** — history, free.
-- **Newsletters** (one short read with morning coffee): Farnam Street / fs.blog (mental models), Atlas Obscura (geography/curiosity), Quanta Magazine (math/physics, deep but readable).
-- **Video** — Veritasium, 3Blue1Brown (math), Kurzgesagt — but *only* paired with a retrieval step, or it's passive consumption.
+- **[Brilliant](https://brilliant.org)** — daily problem, push-notification driven, gamified streak. Best single paid pick for math/science/CS.
+- **[Britannica On This Day](https://www.britannica.com/on-this-day)** · **[Wikipedia On This Day](https://en.wikipedia.org/wiki/Wikipedia:On_this_day)** — history, free.
+- **Newsletters** (one short read with morning coffee): [Farnam Street](https://fs.blog) (mental models), [Atlas Obscura](https://atlasobscura.com) (geography/curiosity), [Quanta Magazine](https://quantamagazine.org) (math/physics, deep but readable).
+- **Video** — [Veritasium](https://youtube.com/@veritasium), [3Blue1Brown](https://youtube.com/@3blue1brown) (math), [Kurzgesagt](https://youtube.com/@kurzgesagt) — but *only* paired with a retrieval step, or it's passive consumption.
 
 ## The non-negotiable add-on: retrieval, not just input
 
