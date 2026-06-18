@@ -29,26 +29,26 @@ The "best" jump rope depends on goal, not price — a $15 speed rope outperforms
 ## Bottom Line by Budget
 
 ### 💲 Budget Tier (Under $20) — start here
-| Rank | Rope | Price | Best for | Source |
-|------|------|-------|----------|--------|
-| 1 | **REP Fitness Speed Cable** | $11.99 | Best beginner all-rounder; light handles, tangle-resistant | [[BarBend - Best Jump Ropes for Beginners (2026)]] |
-| 2 | **DEGOL Ball-Bearing Rope** | $8.99 | Best cheap ball-bearing spin; great value | [[BarBend - Best Jump Ropes for Beginners (2026)]] |
-| 3 | **WOD Nation Adjustable Speed** | $15 | Best cheap speed rope; 4-ball-bearing system, double-unders | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
-| 4 | **Rogue Thai-Style 3.0** | $16 | Cheapest way to get a *heavy* rope (13.6 oz) for power/endurance | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
-| 5 | **Amazon Basics Jump Rope** | $6 | Cheapest functional rope; ball bearings, no-frills HIIT | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
-| — | **Rogue Licorice Rope** | $8.50 | Best for kids / outdoor; thick PVC, multiple lengths | [[BarBend - Best Jump Ropes for Beginners (2026)]] |
+| Rank | Rope                            | Price  | Best for                                                         | Source                                                   |
+| ---- | ------------------------------- | ------ | ---------------------------------------------------------------- | -------------------------------------------------------- |
+| 1    | **REP Fitness Speed Cable**     | $11.99 | Best beginner all-rounder; light handles, tangle-resistant       | [[BarBend - Best Jump Ropes for Beginners (2026)]]       |
+| 2    | **DEGOL Ball-Bearing Rope**     | $8.99  | Best cheap ball-bearing spin; great value                        | [[BarBend - Best Jump Ropes for Beginners (2026)]]       |
+| 3    | **WOD Nation Adjustable Speed** | $15    | Best cheap speed rope; 4-ball-bearing system, double-unders      | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
+| 4    | **Rogue Thai-Style 3.0**        | $16    | Cheapest way to get a *heavy* rope (13.6 oz) for power/endurance | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
+| 5    | **Amazon Basics Jump Rope**     | $6     | Cheapest functional rope; ball bearings, no-frills HIIT          | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
+| —    | **Rogue Licorice Rope**         | $8.50  | Best for kids / outdoor; thick PVC, multiple lengths             | [[BarBend - Best Jump Ropes for Beginners (2026)]]       |
 
 > [!tip] If you only buy one rope and aren't sure: **REP Fitness Speed Cable ($12)** or **WOD Nation ($15)**. They cover 90% of needs.
 
 ### 💲💲 Mid-Range ($20–$70) — the value sweet spot
-| Rank | Rope | Price | Best for | Source |
-|------|------|-------|----------|--------|
-| 1 | **Rogue Fitness SR-2 3.0** | $46.50 | **Best overall.** Knurled aluminum handles, fast, two handle sizes | [[BarBend - Best CrossFit Jump Ropes (2026)]] |
-| 2 | **RPM Comp 4** | $70 | Best pure speed; dual-axis (no torque), CrossFit Games staple | [[BarBend - Best CrossFit Jump Ropes (2026)]] |
-| 3 | **WOD Nation Atlas Weighted** | $27.99 | Best mid weighted; removable ½-lb handle weights, great grip | [[BarBend - Best Jump Ropes for Beginners (2026)]] |
-| 4 | **Elite SRS Beaded** | $22.97 | Best beaded; audible rhythm feedback, outdoor-capable, up to 6'4" | [[BarBend - Best CrossFit Jump Ropes (2026)]] |
-| 5 | **WeGym J1 Smart Rope** | $35 | Best budget smart rope; LED display, jump counter, haptics | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
-| — | **Champion Sports Weighted** | $33.77 | Soft foam grips, 4 weight options (non-adjustable cable) | [[BarBend - Best Jump Ropes for Beginners (2026)]] |
+| Rank | Rope                          | Price  | Best for                                                           | Source                                                   |
+| ---- | ----------------------------- | ------ | ------------------------------------------------------------------ | -------------------------------------------------------- |
+| 1    | **Rogue Fitness SR-2 3.0**    | $46.50 | **Best overall.** Knurled aluminum handles, fast, two handle sizes | [[BarBend - Best CrossFit Jump Ropes (2026)]]            |
+| 2    | **RPM Comp 4**                | $70    | Best pure speed; dual-axis (no torque), CrossFit Games staple      | [[BarBend - Best CrossFit Jump Ropes (2026)]]            |
+| 3    | **WOD Nation Atlas Weighted** | $27.99 | Best mid weighted; removable ½-lb handle weights, great grip       | [[BarBend - Best Jump Ropes for Beginners (2026)]]       |
+| 4    | **Elite SRS Beaded**          | $22.97 | Best beaded; audible rhythm feedback, outdoor-capable, up to 6'4"  | [[BarBend - Best CrossFit Jump Ropes (2026)]]            |
+| 5    | **WeGym J1 Smart Rope**       | $35    | Best budget smart rope; LED display, jump counter, haptics         | [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] |
+| —    | **Champion Sports Weighted**  | $33.77 | Soft foam grips, 4 weight options (non-adjustable cable)           | [[BarBend - Best Jump Ropes for Beginners (2026)]]       |
 
 ### 💲💲💲 Premium ($70+) — diminishing returns
 | Rank | Rope | Price | Best for | Source |
