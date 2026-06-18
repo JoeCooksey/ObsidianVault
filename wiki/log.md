@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-18] autoresearch | Health Cheat Codes — What Works vs What Doesn't (2026 Verdict)
+- Rounds: 2 | Searches: 8 web + 2 fetches (PLOS One, The Conversation)
+- Sources found: 3 new source pages + ~10 cited references
+- Pages created: [[Research - Health Cheat Codes — What Works vs What Doesn't (2026 Verdict)]] (synthesis), [[Cold-Water Immersion Meta-Analysis (PLOS One 2025)]], [[Laukkanen Sauna Cohort Studies (KIHD)]], [[NMN-NR NAD+ Clinical Evidence (2025 Reviews)]]
+- Synthesis: [[Research - Health Cheat Codes — What Works vs What Doesn't (2026 Verdict)]]
+- Key finding: The highest-ROI cheat codes are free (sleep, sunlight, lifting+cardio, whole food, social connection); paid gadgets/pills (NAD+, CGMs, grounding, microdosing, cryo) are mostly biomarker-only or placebo. Built as the "verdict" layer on top of existing [[Biohacking Tier List]] rather than duplicating it.
+
 ## [2026-06-18] autoresearch | Most Important Cells in the Human Body
 - Rounds: 2 | Searches: ~9 (PubMed + web)
 - Sources found: 4 filed ([[Mattson 2016 — Intermittent Fasting on Health and Disease]], [[Halling 2020 — PGC-1alpha and Mitochondrial Function]], [[de Sousa Fernandes 2020 — Exercise and Neuroplasticity]], [[Moreau 2023 — Exercise and Vascular Function with Aging]])
