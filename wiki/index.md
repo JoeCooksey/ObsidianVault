@@ -111,6 +111,16 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Biology / Cell Health — Most Important Cells (2026-06-18)
+- [[Neurons]] — non-regenerating; optimize via aerobic exercise → BDNF, sleep, learning
+- [[Cardiomyocytes]] — ~1%/yr renewal; optimize via endurance exercise + BP control
+- [[Stem Cells]] — regenerate all tissue; optimize via periodic fasting / FMD + autophagy
+- [[Endothelial Cells]] — cardiovascular master switch; optimize via aerobic exercise + dietary nitrates
+- [[Immune Cells]] — defense + cancer surveillance; most modifiable; optimize via sleep 7–9 h
+- [[Mitochondria]] — organelle, highest optimization leverage; Zone 2 + HIIT (PGC-1α), fasting
+- [[BDNF]] — exercise-driven "brain fertilizer" neurotrophin
+- [[Autophagy]] — cellular recycling; shared mechanism behind fasting benefits
+
 ### Intelligence & Thinking — How to Increase Your Intelligence (Craig Perry) (2026-06-17)
 Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence = the quality of your [[Good Explanations (Hard-to-Vary)|explanations]]; mapped via [[Ken Wilber]]'s [[AQAL Model (Integral Theory)|Integral Theory]].
 - [[Good Explanations (Hard-to-Vary)]] — Deutsch's "hard-to-vary" test; bad explanations are invisible and run your life; free to rebuild anytime
@@ -809,6 +819,12 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 
 ## Sources
 
+### Biology / Cell Health (2026-06-18)
+- [[Mattson 2016 — Intermittent Fasting on Health and Disease]] — IF activates autophagy, mitochondrial health, DNA repair; periodic fasting → stem-cell regeneration (high)
+- [[Halling 2020 — PGC-1alpha and Mitochondrial Function]] — PGC-1α = master regulator of mitochondrial biogenesis + quality control (high)
+- [[de Sousa Fernandes 2020 — Exercise and Neuroplasticity]] — exercise raises BDNF/GDNF/NGF → learning + memory; systematic review (high)
+- [[Moreau 2023 — Exercise and Vascular Function with Aging]] — aerobic exercise preserves endothelial nitric oxide; benefits blunted in postmenopausal women (high)
+
 ### Habits / Self-Improvement (2026-06-17)
 - [[101 Habits — Dan Zakaria]] — YouTube; 101 habits in 7 categories; systems > goals, identity drives habits; derivative of Atomic Habits (medium)
 
@@ -1054,6 +1070,7 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Most Important Cells in the Human Body]] — **synthesis + ranking**: ranks the 6 most critical cell types by irreplaceability + criticality + leverage (neurons → cardiomyocytes → stem cells → endothelial → immune; mitochondria as ★ highest-leverage organelle); unified action plan — exercise, sleep, fasting, metabolic control optimize all at once (developing)
 - [[Research - Organic Frozen Vegetables & the Costco Stir-Fry Blend]] — **synthesis**: skip organic on the Kirkland Stir-Fry blend — most ingredients are Clean Fifteen, freezing+cooking strips residue twice, and organic buys exposure reduction (Hyland: −60–95% biomarkers) not nutrition; redirect organic spend to Dirty Dozen berries/greens (developing)
 - [[Research - ChatGPT as a Machine Learning Tutor]] — **synthesis**: grounds a zero-to-pro ML curriculum + what makes an LLM an effective tutor (not an answer machine); Harvard RCT shows active-learning AI tutoring beats lecture by 0.73–1.3 SD; deliverable = [[ChatGPT ML Tutor Prompt (Zero to Pro)]]; curriculum order is high-confidence, timeline is not (developing)
 - [[Research - How to Improve at League of Legends]] — **synthesis**: volume of play beats deliberate practice (registered report) + Challenger consistency signature; skill ladder = laning → wave management → macro → vision; one role / 2–3 champs; tilt = biggest limiter below Diamond (developing)

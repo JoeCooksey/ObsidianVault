@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Alive Time vs Dead Time",
+      "path": "Alive Time vs Dead Time.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "How To Increase Your Intelligence — Craig Perry",
       "path": "wiki/sources/How To Increase Your Intelligence — Craig Perry.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Discipline & Action Habits",
       "path": "wiki/concepts/Discipline & Action Habits.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "20-Minute Rule for Nighttime Awakenings",
@@ -191,14 +195,6 @@
     {
       "basename": "Psilocybin Trip Activities Tier List",
       "path": "wiki/concepts/Psilocybin Trip Activities Tier List.md"
-    },
-    {
-      "basename": "Alive Time vs Dead Time",
-      "path": "Alive Time vs Dead Time.md"
-    },
-    {
-      "basename": "2026-06-06-ee-daily",
-      "path": "wiki/newsletters/2026-06-06-ee-daily.md"
     }
   ],
   "omittedPaths": [],
