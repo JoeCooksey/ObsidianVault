@@ -317,6 +317,9 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[AI-Assisted Programming Learning Roadmap]] — 5-phase AI-native learning roadmap: fundamentals → Git/debugging → AI tool onboarding → real projects → systems thinking (developing)
 - [[Programming Skills AI Cannot Replace]] — architecture, domain knowledge, debugging instinct, code review taste, security mindset, communication (developing)
 
+### Deep Work Projects (Build Your Own X)
+- [[Build Your Own X Picks — Summer Deep Work]] — **the picks**: from `build-your-own-x`, best daily deep-work builds for Joe (EE×AI). Main = Karpathy's *Neural Networks: Zero to Hero* (→ SlowTorch → tiny C inference engine); embedded warm-up = *Write Your Own Virtual Machine* (LC-3) in C (CHIP-8/C++ alt for graphics); implement-before-peeking; skip browser/frontend/search/template (developing)
+
 ### Vibe Coding & Building Profitable Projects
 - [[Vibe Coding]] — describe in English, LLM writes code; coined by Karpathy (Feb 2025); the SPECTRUM model: pure vibing (no review) → AI-assisted engineering (reviewed); "vibe to validate, spec to ship" (developing)
 - [[Spec-Driven Development]] — the disciplined production end: *what → plan → code* with review between each; Claude Code native support (CLAUDE.md, subagents, Tasks) (developing)
