@@ -9,6 +9,10 @@
       "path": "wiki/concepts/Mitochondria.md"
     },
     {
+      "basename": "BDNF",
+      "path": "wiki/concepts/BDNF.md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Supplement Timing Rules",
       "path": "wiki/concepts/Supplement Timing Rules.md"
-    },
-    {
-      "basename": "High-Dose Isolated Supplement Harms",
-      "path": "wiki/concepts/High-Dose Isolated Supplement Harms.md"
     }
   ],
   "omittedPaths": [],
