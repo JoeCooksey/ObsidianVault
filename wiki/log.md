@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-18] newsletter | EE Daily — June 18, 2026
+Intel 18A-P risk production, NVIDIA/TSMC cuLitho in production fabs, QuiX Quantum 150 ns photonic feed-forward; daily topic: Thin-Film Lithium Niobate (TFLN) Photonic Integration.
+
+## [2026-06-18] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+Israel Lebanon security zone expansion, US housing bill HR 6644, SpaceX acquires Cursor for $60B, NOAA El Nino declaration, Midwest tornado outbreak.
+
 ## [2026-06-17] save | Build Your Own X Picks — Summer Deep Work
 - Type: synthesis
 - Location: wiki/questions/Build Your Own X Picks — Summer Deep Work.md
