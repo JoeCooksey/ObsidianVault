@@ -596,6 +596,13 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Core-Satellite Portfolio]] — index core 80–90%+ on auto-DCA, hard-capped picking satellite; cap enforced by flow not willpower; benchmark satellite vs VTI annually (developing)
 - [[Research - Index Funds vs Stock Picking (Tier List)]] — synthesis: 8 findings, SPIVA-methodology contradiction, open questions (direct indexing, optimal satellite size) (developing)
 
+### Best Index Funds (Fidelity & Robinhood) + Allocation (2026-06-18)
+- [[Research - Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation]] — **synthesis**: which funds on each broker + index-vs-stocks split; Fidelity = mutual funds incl. 0.00% ZERO, Robinhood = ETFs only; young allocation ~70–80% US / 20–30% intl / 0% bonds; satellite ≤10–20% (developing)
+- [[Fidelity Index Fund Lineup]] — exact tickers + ER: FZROX/FNILX/FZILX (0.00%), FXAIX/FSKAX (0.015%), FTIHX, FXNAX; the ZERO-fund non-portability catch (perfect in a Roth IRA) (developing)
+- [[Brokerage Choice — Fidelity vs Robinhood for Index Funds]] — decisive difference: Fidelity has index mutual funds (incl. ZERO), Robinhood ETFs only (VOO/VTI/VXUS); Robinhood = satellite venue not the core (developing)
+- [[Three-Fund Portfolio]] — Bogleheads default: total US + total intl + total US bond (FZROX/FZILX/FXNAX or VTI/VXUS/BND); set two ratios (stock-bond, US-intl) (developing)
+- [[Asset Allocation by Age]] — stock % rules of thumb (100/110/120 − age); ≤5% bonds in 20s–40s; glide path; at 19 run ~90–100% equities (developing)
+
 ### Stocks / Investing & Quant Finance
 - [[Fundamental Analysis Valuation Metrics]] — what to own & at what price: P/E (vs history/peers/market), PEG, P/B, P/S, FCF yield; moat/debt/management; value traps; no ratio alone (developing)
 - [[Technical Analysis Indicators]] — when to act: moving averages (50/200), RSI 70/30, MACD, support/resistance, volume; timing tool, weak standalone edge after costs (developing)
@@ -934,6 +941,11 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Bessembinder - Do Stocks Outperform Treasury Bills]] — JFE 2018 + global extension; 4 of 7 stocks lose to T-bills lifetime; top ~4% = all net wealth creation (high confidence)
 - [[Barber and Odean - Individual Investor Performance]] — canonical retail-behavior papers; ~3.6%/yr behavior gap; active traders lag buy-and-hold by ~7 pp/yr (high confidence)
 - [[Index Fund Comparison 2026 (FinanceWonk)]] — 2026 ER/minimums/returns for all major S&P 500/total-market/international funds across Fidelity/Vanguard/Schwab (medium confidence)
+- [[Fidelity Index Funds Lineup (Fidelity.com)]] — primary source: Fidelity ZERO funds (FZROX/FNILX/FZILX/FZIPX) at 0.00%, core indexed funds 0.015–0.06% (high confidence)
+- [[White Coat Investor — FSKAX vs FXAIX]] — both 0.015% ER; FSKAX ~4,000 stocks vs FXAIX 500; near-tie, FSKAX marginally preferred (high confidence)
+- [[NerdWallet — Top S&P 500 ETFs 2026]] — VOO/IVV cheapest at 0.03%, SPY 0.095%; one S&P 500 ETF is enough (high confidence)
+- [[NerdWallet — Robinhood Review 2026]] — Robinhood has no mutual funds; ~2,300 ETFs, fractional from $1, commission-free (high confidence)
+- [[Asset Allocation by Age (Optimized Portfolio)]] — stock % rules of thumb (100/110/120 − age); ≤5% bonds in 20s–40s; intl 20–40% of equity (high confidence)
 
 ### Power Electronics (Project References)
 - [[STM32G4 Digital Power Buck Reference]] — STM32G4 HRTIM/FMAC 3p3z + TI C2000 TIDM-DC-DC-BUCK/CLA/SFRA; design-by-emulation, ADC-PWM sync, loop-gain injection, DPT (high — vendor docs)

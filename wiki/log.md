@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-18] autoresearch | Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation
+- Rounds: 2 | Searches: 4 web + 4 fetches (WCI, Fidelity.com [primary], NerdWallet S&P 500 ETFs, NerdWallet Robinhood; Bogleheads wiki paywalled 402)
+- Sources found: 5 source pages (Fidelity primary, WCI, NerdWallet ×2, OptimizedPortfolio)
+- Pages created: [[Research - Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation]] (synthesis), [[Fidelity Index Fund Lineup]], [[Brokerage Choice — Fidelity vs Robinhood for Index Funds]], [[Three-Fund Portfolio]], [[Asset Allocation by Age]], + 5 sources (10 created); updated [[Robinhood]]
+- Synthesis: [[Research - Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation]]
+- Key finding: Fidelity = index mutual funds incl. 0.00% ZERO (FZROX/FNILX/FZILX) — best for a Roth IRA; Robinhood = ETFs only (VOO/VTI/VXUS @ 0.03%) — best as satellite, not core. FXAIX vs FSKAX is a near-tie. Index-vs-stocks split = core-satellite: ~80–90%+ index core, ≤10–20% individual stocks; 100% index is a valid answer. At 19, run ~90–100% equities (no bonds yet), ~20–30% of stocks international.
+
 ## [2026-06-18] autoresearch | Best Jump Ropes to Buy (Ranked by Budget)
 - Rounds: 2 | Searches: 4 web + 5 fetches (BarBend ×2, Yahoo/Health, Tom's Guide [paywalled], Crossrope/GGR via search)
 - Sources found: 3 source pages + multiple cross-validated roundups
