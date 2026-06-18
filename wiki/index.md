@@ -819,6 +819,11 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 
 ## Sources
 
+### Biohacking / Evidence Verdict (2026-06-18)
+- [[Cold-Water Immersion Meta-Analysis (PLOS One 2025)]] — ~3,177 participants: cold plunge is acutely PRO-inflammatory; stress relief is delayed (~12h) and transient; post-lift CWI blunts hypertrophy (high)
+- [[Laukkanen Sauna Cohort Studies (KIHD)]] — Finnish cohort: 4–7 saunas/week → 40% lower all-cause mortality, 63% lower sudden cardiac death; dose-responsive (high)
+- [[NMN-NR NAD+ Clinical Evidence (2025 Reviews)]] — NAD+ precursors raise the biomarker but 2025 meta of 10 RCTs found no benefit for muscle/strength/function; mouse longevity didn't replicate (high)
+
 ### Biology / Cell Health (2026-06-18)
 - [[Mattson 2016 — Intermittent Fasting on Health and Disease]] — IF activates autophagy, mitochondrial health, DNA repair; periodic fasting → stem-cell regeneration (high)
 - [[Halling 2020 — PGC-1alpha and Mitochondrial Function]] — PGC-1α = master regulator of mitochondrial biogenesis + quality control (high)
