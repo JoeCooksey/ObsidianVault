@@ -2,7 +2,7 @@
 type: concept
 title: "YouTube Channels for Humanities Learning"
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-06-18
 tags:
   - concept
   - domain/research
@@ -130,6 +130,38 @@ The single most important economics video on YouTube. 30 minutes. Dalio explains
 | **OverSimplified** | History | Humor-driven animated summaries; good for narrative history |
 | **Real Engineering** | Engineering + economics + policy | Bridges STEM and economics well; energy policy, technology tradeoffs |
 | **Wendover Productions** | Economics, logistics, geography | Systems-level thinking on global industries |
+
+---
+
+## 2026-06 Refresh — Channels Confirmed & Added
+
+A June 2026 survey re-confirmed Vsauce, Kurzgesagt, CrashCourse, CGP Grey, TED-Ed, and Big Think as the recurring top recommendations across independent lists (**high confidence**). Additions that recur but were missing:
+
+### Philosophy & History
+| Channel | Best For |
+|---------|----------|
+| **Then & Now** | Philosophy + history at their intersection; closer to a university seminar than most channels |
+| **Sisyphus 55** | Existentialism, absurdism, and close readings of Camus, Nietzsche, Kierkegaard |
+| **Philosophy Tube** | Olly Thorn; theatrical, essay-length treatments of ethics and political philosophy |
+| **Carneades.org** | Logic, epistemology, philosophy of science/religion — rigorous and systematic |
+
+### Economics & Finance (additions)
+| Channel | Best For |
+|---------|----------|
+| **The Plain Bagel** | Unbiased investing, markets, and personal-finance education; debunks finance hype |
+| **How Money Works** | Central banking, taxation, and how financial systems actually operate; graphical and practical |
+| **Two Cents (PBS)** | Personal finance for Gen-Z/millennials; accessible household-finance fundamentals |
+
+### Geopolitics & International Affairs
+| Channel | Best For |
+|---------|----------|
+| **CaspianReport** | The depth standard — well-researched geopolitical analysis with maps and historical context; beginner-to-expert |
+| **PolyMatter** | Technology, economics, and geopolitics intersection; the "China, Actually" series is exceptional |
+| **Asianometry** | Business/economic history with a focus on semiconductors and high-tech industry — bridges geopolitics + EE (relevant to Joe) |
+| **RealLifeLore** | Storytelling + animation; geography-driven explainers and hypotheticals; accessible entry point |
+| **Neo** | Short documentary essays on politics, geography, media, and society |
+
+> [!note] Additions are aggregated-list recommendations (medium confidence individually) recurring across many independent 2026 lists. The S/A tiers above are unchanged. For **music, art/design, writing, languages, and business**, see the companion page [[YouTube Channels for Creative and Professional Skills]].
 
 ---
 

@@ -3,7 +3,7 @@ type: research
 title: "Research - YouTube Channels and Learning Media"
 status: developing
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-06-18
 tags:
   - education
   - youtube
@@ -100,6 +100,20 @@ Given the EE + math focus, these are highest ROI in order:
 4. **Cosmos (Carl Sagan)** — watch during Year 1; essential cultural and intellectual foundation for any scientist
 5. **Oppenheimer** — watch the film, then read the Kai Bird biography for deeper context on the ethical dimension
 6. **Particle Fever** — watch before touching any quantum physics coursework; makes the abstract stakes real
+
+---
+
+## 2026-06 Update (autoresearch re-run)
+
+A fresh web survey (June 2026) re-confirmed the S-tier and A-tier rankings — the same channels recur across nearly every independent "best of" list, which raises confidence from "single curated opinion" to **high**. New channels surfaced and folded into the tier-list pages:
+- **STEM**: The Organic Chemistry Tutor, Professor Leonard, Professor Dave Explains, NileRed, Ninja Nerd, Physics Girl, CS50 (David Malan), Traversy Media, Yannic Kilcher, DeepLearning.AI
+- **Humanities**: Then & Now, Sisyphus 55, Philosophy Tube, Carneades.org, The Plain Bagel, How Money Works, Two Cents
+
+New entity page created: [[Grant Sanderson]] (3Blue1Brown), the single most-recommended creator across all subjects.
+
+**Subjects expanded (2026-06-18b):** added 8 more subject areas. New companion page [[YouTube Channels for Creative and Professional Skills]] covers **music** (Rick Beato, Adam Neely), **art/design** (Proko, Bobby Chiu), **writing** (Brandon Sanderson, Hello Future Me), **languages** (Langfocus, Easy Languages, Dreaming Spanish), and **business/marketing** (Y Combinator, HubSpot). Added to [[YouTube Channels for STEM Learning]]: **data science** (StatQuest, Ken Jee, Krish Naik, Corey Schafer) + **cybersecurity** (NetworkChuck, TCM, John Hammond, IppSec, LiveOverflow). Added to [[YouTube Channels for Humanities Learning]]: **geopolitics** (CaspianReport, PolyMatter, Asianometry, RealLifeLore, Neo).
+
+> [!note] The strongest signal from the re-run is consensus, not novelty: the original picks held up. For maximum-ROI single channels per subject, the answer is unchanged — math: [[Grant Sanderson|3Blue1Brown]]; physics depth: PBS Space Time; AI: [[Andrej Karpathy]]; broad curiosity: Vsauce + Kurzgesagt.
 
 ---
 

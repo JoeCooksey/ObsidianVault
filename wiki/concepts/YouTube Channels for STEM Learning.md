@@ -2,7 +2,7 @@
 type: concept
 title: "YouTube Channels for STEM Learning"
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-06-18
 tags:
   - concept
   - domain/engineering
@@ -20,7 +20,7 @@ related:
 ---
 # YouTube Channels for STEM Learning
 
-Ranked by **depth × accuracy × accessibility** for self-directed learners. Focus: mathematics, physics, engineering, computer science, AI/ML, biology, and neuroscience.
+Ranked by **depth × accuracy × accessibility** for self-directed learners. Focus: mathematics, physics, engineering, computer science, AI/ML, data science, cybersecurity, biology, and neuroscience. For music, art, writing, languages, and business see [[YouTube Channels for Creative and Professional Skills]]; for philosophy, history, economics, and geopolitics see [[YouTube Channels for Humanities Learning]].
 
 ---
 
@@ -125,6 +125,53 @@ Ranked by **depth × accuracy × accessibility** for self-directed learners. Foc
 | **Practical Engineering** | Civil, mechanical engineering | Real infrastructure explained clearly |
 | **ElectroBOOM** | Electrical engineering basics | Entertaining safety-fail format; covers components and circuits |
 | **Ben Eater** | Digital electronics, computer architecture | Builds an 8-bit computer from scratch on breadboard; excellent for EE foundation |
+
+---
+
+## 2026-06 Refresh — Channels Confirmed & Added
+
+A June 2026 survey across multiple independent "best channels" lists re-confirmed every S-tier and A-tier ranking above (3Blue1Brown, Veritasium, PBS Space Time, Andrej Karpathy, Kurzgesagt, freeCodeCamp, CrashCourse, Two Minute Papers all appear on nearly every list — **high confidence**). The following channels recur across lists but were missing here and are now added:
+
+### Math & Problem-Solving (lecture/worked-example style)
+| Channel | Best For |
+|---------|----------|
+| **The Organic Chemistry Tutor** | 5000+ worked-problem videos spanning algebra → calc III, linear algebra, diff eq, statistics, and physics/chemistry; best for exam prep and "watch someone solve it" learning (3M+ subs, despite the name covers far more than chemistry) |
+| **Professor Leonard** | Full-length, lecture-hall calculus, trig, and diff-eq courses (Calc 1–3); best for a complete from-scratch course when you want a real professor pacing |
+| **Professor Dave Explains** | Direct-teaching coverage of biology, chemistry, physics, and math in organized playlists; strong foundation builder |
+
+### Chemistry & Life Sciences
+| Channel | Best For |
+|---------|----------|
+| **NileRed** | Hands-on synthesis and reaction chemistry; best for chemistry intuition and motivation |
+| **Ninja Nerd** | Whiteboard anatomy, physiology, biochemistry, and medical science; the depth standard for life-science/pre-med material |
+| **Physics Girl** | Dianna Cowern; demonstration-driven physics (black holes, space, at-home experiments); strong accessible entry point |
+
+### Computer Science & AI (additions)
+| Channel | Best For |
+|---------|----------|
+| **CS50 (Harvard, David Malan)** | The benchmark intro CS course — data structures, algorithms, memory; best single CS foundation on YouTube |
+| **Traversy Media** | Practical web development (HTML/CSS/JS + frameworks); best for shipping real projects |
+| **Yannic Kilcher** | Deep dives into AI papers and model architectures; pairs with Two Minute Papers for research literacy |
+| **DeepLearning.AI** | Andrew Ng's org; structured ML/AI course content and interviews |
+
+### Data Science & Statistics
+| Channel | Best For |
+|---------|----------|
+| **StatQuest (Josh Starmer)** | Already S/A above for ML math — also the #1 data-science/statistics channel; "clearly explained" SVMs, random forests, regression |
+| **Ken Jee** | Data-science *careers* — portfolios, interviews, project walkthroughs |
+| **Krish Naik** | End-to-end practical ML/DL projects (data → deployment); strong for hands-on application |
+| **Corey Schafer** | The Python tooling standard — Python, pandas, Git, SQL; clean, foundational tutorials |
+
+### Cybersecurity & Ethical Hacking
+| Channel | Best For |
+|---------|----------|
+| **NetworkChuck** | Best beginner on-ramp — networking, Linux, Kali, and hacking basics with energy |
+| **The Cyber Mentor (Heath Adams)** | Structured, methodical practical ethical-hacking / pentest path |
+| **John Hammond** | Hands-on malware analysis, CTFs, and scripting for pentesting |
+| **IppSec** | Hack The Box / CTF walkthroughs — the standard for leveling up pentesting |
+| **LiveOverflow** | Advanced binary exploitation, reverse engineering, buffer overflows |
+
+> [!note] All additions are aggregated-list recommendations (medium confidence individually) but recur across many independent 2026 lists, raising the practical confidence. Tier placement above (S/A) remains driven by depth × accuracy × accessibility.
 
 ---
 

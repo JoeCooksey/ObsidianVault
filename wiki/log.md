@@ -11,6 +11,19 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-18] autoresearch | YouTube Channels — More Subjects (music, art, writing, languages, business, data science, cybersecurity, geopolitics)
+- Rounds: 1 | Searches: 8 web (languages/linguistics, music, art/design, business/marketing, data science, cybersecurity, geopolitics, writing)
+- Pages created: [[YouTube Channels for Creative and Professional Skills]] (music/art/writing/languages/business)
+- Pages updated: [[YouTube Channels for STEM Learning]] (+data science, +cybersecurity), [[YouTube Channels for Humanities Learning]] (+geopolitics), [[Research - YouTube Channels and Learning Media]]
+- Key finding: Music = Rick Beato (breadth) + Adam Neely (depth); Art = Proko (fundamentals); Writing = Brandon Sanderson (free degree); Languages = Langfocus (understand) + Dreaming Spanish/Easy Languages (acquire); Business = Y Combinator (substance); Data science = StatQuest + Ken Jee + Corey Schafer; Cybersecurity = NetworkChuck → IppSec/LiveOverflow; Geopolitics = CaspianReport + Asianometry (semiconductors, EE-relevant)
+
+## [2026-06-18] autoresearch | Top YouTube Videos & Channels to Learn High-Level Subjects (re-run)
+- Rounds: 1 | Searches: 8 web (math, physics, CS, AI/ML, econ/finance, philosophy/history, general-education, bio/chem)
+- Existing coverage found (2026-04-24): [[YouTube Channels for STEM Learning]], [[YouTube Channels for Humanities Learning]], [[Research - YouTube Channels and Learning Media]] → updated, not duplicated
+- Pages updated: [[YouTube Channels for STEM Learning]], [[YouTube Channels for Humanities Learning]], [[Research - YouTube Channels and Learning Media]]
+- Pages created: [[Grant Sanderson]] (3Blue1Brown entity)
+- Key finding: June 2026 survey CONFIRMS the prior S/A tiers (3Blue1Brown, Veritasium, PBS Space Time, Karpathy, Kurzgesagt, CrashCourse, freeCodeCamp recur on nearly every list = high confidence); added missing channels — Organic Chemistry Tutor, Professor Leonard, Professor Dave Explains, NileRed, Ninja Nerd, Physics Girl, CS50/David Malan, Yannic Kilcher, DeepLearning.AI (STEM); Then & Now, Sisyphus 55, Philosophy Tube, The Plain Bagel, How Money Works (Humanities)
+
 ## [2026-06-18] autoresearch | Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation
 - Rounds: 2 | Searches: 4 web + 4 fetches (WCI, Fidelity.com [primary], NerdWallet S&P 500 ETFs, NerdWallet Robinhood; Bogleheads wiki paywalled 402)
 - Sources found: 5 source pages (Fidelity primary, WCI, NerdWallet ×2, OptimizedPortfolio)

@@ -85,6 +85,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[D.E. Shaw]] — quant firm (David Shaw, 1988); where Jeff Bezos worked; ~22%/yr 1988–2000; 2024 #1 hedge fund by $ ($11.1B, Oculus +36%)
 - [[Naval Ravikant]] — AngelList co-founder; *Almanack* (2020); four-leverage framework, permissionless code/media, specific knowledge, "earn with your mind not your time"
 - [[Andrej Karpathy]] — OpenAI co-founder, ex-Tesla AI; coined "vibe coding" (Feb 2025); "the hottest new programming language is English"; also originated the autoresearch loop pattern
+- [[Grant Sanderson]] — "3Blue1Brown"; ex-Khan Academy; #1 channel for math intuition (Essence of Calculus/Linear Algebra) + best free intro to neural networks; built the Manim animation engine
 - [[Pieter Levels]] — "@levelsio" solo founder; ~$3M/yr ARR, zero employees (Nomad List, RemoteOK, PhotoAI); vanilla PHP/jQuery/SQLite; ship-before-ready; vibe-coding indie-hacker archetype
 - [[Simon Willison]] — Django co-creator; drew the vibe-coding-vs-engineering line; "don't commit code you can't explain to someone else"
 - [[Joshua Grubbs]] — clinical psychologist; moral incongruence / PPMI model; showed religiosity (not use level) predicts self-reported "porn addiction"
@@ -796,8 +797,9 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Zero Cost Computer Skills — Tier List]] — S–C tier list of 16 skills buildable today at a computer for free; touch typing/Python/Git/LTSpice S-tier; Verilog/SQL/Linux A-tier; Joe's start-today action stack (developing)
 
 ### Education / Learning Media
-- [[YouTube Channels for STEM Learning]] — S–B tier list; 3Blue1Brown/Veritasium/PBS Space Time S-tier; Andrej Karpathy AI; Joe watch order mapped to EE coursework (developing)
-- [[YouTube Channels for Humanities Learning]] — S–B tier list; Vsauce/Kurzgesagt S-tier; philosophy, history, economics channels; Ray Dalio economics video (developing)
+- [[YouTube Channels for STEM Learning]] — S–B tier list; 3Blue1Brown/Veritasium/PBS Space Time S-tier; Andrej Karpathy AI; math/physics/CS/bio + data science (StatQuest, Ken Jee) + cybersecurity (NetworkChuck, IppSec); Joe watch order mapped to EE coursework (developing)
+- [[YouTube Channels for Humanities Learning]] — S–B tier list; Vsauce/Kurzgesagt S-tier; philosophy, history, economics + geopolitics (CaspianReport, PolyMatter, Asianometry); Ray Dalio economics video (developing)
+- [[YouTube Channels for Creative and Professional Skills]] — music (Rick Beato, Adam Neely), art/design (Proko), writing (Brandon Sanderson, Hello Future Me), languages (Langfocus, Dreaming Spanish), business (Y Combinator, HubSpot) (developing)
 - [[Educational Documentaries]] — S–B tier list; Cosmos (Sagan) S-tier; Particle Fever, Story of Math, Social Dilemma, Becoming Warren Buffett; Joe watch order (developing)
 - [[Intellectual Films]] — S–B tier list; Oppenheimer/The Big Short S-tier; science, philosophy, business films; Joe watch order (developing)
 
