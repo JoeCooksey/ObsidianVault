@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-17] save | Build Your Own X Picks — Summer Deep Work
+- Type: synthesis
+- Location: wiki/questions/Build Your Own X Picks — Summer Deep Work.md
+- From: conversation on best daily deep-work projects for freshman summer → narrowed to picks from the `build-your-own-x` repo
+- Picks: **main = Karpathy's *Neural Networks: Zero to Hero*** (→ SlowTorch → tiny C inference engine; hits the EE×AI frontier + the linear-algebra gap); **embedded warm-up = *Write Your Own Virtual Machine* (LC-3) in C** (real fetch→decode→execute, transfers to STM32 firmware; CHIP-8/C++ as graphics-first alternative). Discipline = implement-before-peeking. Skip browser/frontend/search/template. Cross-linked to [[Freshman Summer Project Plan (Tier List)]], [[Andrej Karpathy]], [[Physical AI Build Guide (Roadmap for Joe)]], [[Linear Algebra for AI and Quant]]. (1 page created; index + log + hot updated.)
+
 ## [2026-06-17] ingest | How To Increase Your Intelligence — Craig Perry
 - Source: `.raw/transcripts/how-to-increase-your-intelligence-craig-perry-2026-06-17.md` (YouTube, ~42 min, 8,768 words)
 - Summary: [[How To Increase Your Intelligence — Craig Perry]]
