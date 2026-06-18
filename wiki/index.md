@@ -108,8 +108,17 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Albert Einstein]] — theoretical physicist (relativity); quoted: can't solve a problem with the thinking that created it
 - [[Alan Watts]] — British philosopher; popularized Zen/Taoism in the West; pointed at "unitive" egoless awareness
 - [[Terence McKenna]] — ethnobotanist/psychedelics lecturer; described the boundary-dissolving "unitive" state
+- [[Crossrope]] — premium weighted *modular* jump rope system (interchangeable ¼–2 lb ropes + app); the default "best weighted" pick
+- [[Rogue Fitness Jump Ropes]] — SR-2 3.0 (best overall ~$46), Thai-Style (cheap heavy $16), Licorice (kids/outdoor $8.50)
+- [[RPM Fitness]] — Comp 4 speed rope ($70); dual-axis bearing; CrossFit Games standard for double-unders
+- [[WOD Nation]] — best-value brand; Adjustable Speed rope (~$15) + Atlas weighted ($27.99)
 
 ## Concepts
+
+### Fitness Gear — Jump Ropes (2026-06-18)
+- [[Research - Best Jump Ropes to Buy (Ranked by Budget)]] — **the deliverable**: three ranked budget tables (under $20 / $20–70 / $70+). Match rope to GOAL not price. Best overall = [[Rogue Fitness Jump Ropes|Rogue SR-2]] $46; best value = [[WOD Nation]] $15; best weighted = [[Crossrope]] $129+; best speed = [[RPM Fitness|RPM Comp 4]] $70
+- [[Jump Rope Buying Guide (Types and How to Choose)]] — speed vs weighted vs beaded vs smart vs PVC; bearings matter most for feel; sizing (handles to armpit/chest); thin speed cables are indoor-only
+- Sources: [[BarBend - Best CrossFit Jump Ropes (2026)]] · [[BarBend - Best Jump Ropes for Beginners (2026)]] · [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]]
 
 ### Biology / Cell Health — Most Important Cells (2026-06-18)
 - [[Neurons]] — non-regenerating; optimize via aerobic exercise → BDNF, sleep, learning
