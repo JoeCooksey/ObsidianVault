@@ -37,23 +37,23 @@ A blunt, evidence-graded split of popular "health cheat codes": the ones with re
 
 ## ✅ Cheat Codes That Actually Work (S–A tier)
 
-| Cheat code | Why it works | Evidence | Cost |
-|---|---|---|---|
-| **Consistent wake time, 7 days/week** | Strongest circadian anchor; stabilizes cortisol/melatonin rhythm | High (decades of RCTs) | Free |
-| **7–9 h sleep** | Master variable; nothing compensates for chronic deprivation | High | Free |
-| **Morning sunlight, 10–30 min** | Resets master clock, improves mood/alertness; ~20–30% serotonin-turnover bump in trials | High | Free |
-| **Resistance training 2–4×/week** | Muscle = metabolic reserve; strongest longevity signal alongside VO2 max | High | Low |
-| **Zone 2 cardio + VO2 max intervals** | VO2 max is the single strongest predictor of all-cause mortality | High | Free–Low |
-| **Daily walking (7–10k steps)** | Linear dose-response with all-cause mortality | High | Free |
-| **Whole-food diet + adequate protein (1.6–2.2 g/kg)** | Cutting ultra-processed food beats any supplement on mortality | High | Low |
-| **30+ plants/week + fermented foods** | Microbiome diversity; Stanford RCT: fermented foods beat fiber alone for diversity | High | Low |
-| **Sauna 4–7×/week** | 40% lower all-cause mortality, 63% lower sudden cardiac death (dose-responsive) | High (large cohort) | Med |
-| **Meditation / breathwork** | 8-week structural brain changes (MBSR); immediate HRV effect from cyclic sighing | High / Med | Free |
-| **Social connection** | After smoking cessation, the strongest longevity predictor known | High | Free |
-| **Caffeine + L-theanine** | Best-validated acute cognitive stack; theanine smooths the jitter | High | Low |
-| **Creatine monohydrate (5 g/day)** | Strength/power proven; modest cognitive benefit (SMD ~0.31), bigger for vegetarians/sleep-deprived | High | Low |
-| **Omega-3 (EPA/DHA)** | Lowers systemic inflammation; mood/cardiometabolic support | Med–High | Low |
-| **Magnesium glycinate (300–400 mg)** | Sleep onset/depth, nervous-system calm; corrects a common shortfall | Med | Low |
+| Cheat code                                            | Why it works                                                                                       | Evidence               | Cost     |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------- | -------- |
+| **Consistent wake time, 7 days/week**                 | Strongest circadian anchor; stabilizes cortisol/melatonin rhythm                                   | High (decades of RCTs) | Free     |
+| **7–9 h sleep**                                       | Master variable; nothing compensates for chronic deprivation                                       | High                   | Free     |
+| **Morning sunlight, 10–30 min**                       | Resets master clock, improves mood/alertness; ~20–30% serotonin-turnover bump in trials            | High                   | Free     |
+| **Resistance training 2–4×/week**                     | Muscle = metabolic reserve; strongest longevity signal alongside VO2 max                           | High                   | Low      |
+| **Zone 2 cardio + VO2 max intervals**                 | VO2 max is the single strongest predictor of all-cause mortality                                   | High                   | Free–Low |
+| **Daily walking (7–10k steps)**                       | Linear dose-response with all-cause mortality                                                      | High                   | Free     |
+| **Whole-food diet + adequate protein (1.6–2.2 g/kg)** | Cutting ultra-processed food beats any supplement on mortality                                     | High                   | Low      |
+| **30+ plants/week + fermented foods**                 | Microbiome diversity; Stanford RCT: fermented foods beat fiber alone for diversity                 | High                   | Low      |
+| **Sauna 4–7×/week**                                   | 40% lower all-cause mortality, 63% lower sudden cardiac death (dose-responsive)                    | High (large cohort)    | Med      |
+| **Meditation / breathwork**                           | 8-week structural brain changes (MBSR); immediate HRV effect from cyclic sighing                   | High / Med             | Free     |
+| **Social connection**                                 | After smoking cessation, the strongest longevity predictor known                                   | High                   | Free     |
+| **Caffeine + L-theanine**                             | Best-validated acute cognitive stack; theanine smooths the jitter                                  | High                   | Low      |
+| **Creatine monohydrate (5 g/day)**                    | Strength/power proven; modest cognitive benefit (SMD ~0.31), bigger for vegetarians/sleep-deprived | High                   | Low      |
+| **Omega-3 (EPA/DHA)**                                 | Lowers systemic inflammation; mood/cardiometabolic support                                         | Med–High               | Low      |
+| **Magnesium glycinate (300–400 mg)**                  | Sleep onset/depth, nervous-system calm; corrects a common shortfall                                | Med                    | Low      |
 
 Detail on cold exposure (a B-tier "works, but oversold" case): see [[Cold-Water Immersion Meta-Analysis (PLOS One 2025)]] — real for **transient stress relief, mood, and fewer sick days**, but acutely *pro*-inflammatory and it **blunts muscle growth if done right after lifting**.
 

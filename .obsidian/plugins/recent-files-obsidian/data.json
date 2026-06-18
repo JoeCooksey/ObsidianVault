@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Health Cheat Codes — What Works vs What Doesn't (2026 Verdict)",
+      "path": "wiki/questions/Research - Health Cheat Codes — What Works vs What Doesn't (2026 Verdict).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Research - Most Important Cells in the Human Body",
       "path": "wiki/questions/Research - Most Important Cells in the Human Body.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "BDNF",
       "path": "wiki/concepts/BDNF.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Alive Time vs Dead Time",
@@ -195,10 +199,6 @@
     {
       "basename": "Supplement Priority Stack for Young Males",
       "path": "wiki/concepts/Supplement Priority Stack for Young Males.md"
-    },
-    {
-      "basename": "Supplement Timing Rules",
-      "path": "wiki/concepts/Supplement Timing Rules.md"
     }
   ],
   "omittedPaths": [],
