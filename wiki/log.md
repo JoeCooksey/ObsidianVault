@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-18] autoresearch | Best Jump Ropes to Buy (Ranked by Budget)
+- Rounds: 2 | Searches: 4 web + 5 fetches (BarBend ×2, Yahoo/Health, Tom's Guide [paywalled], Crossrope/GGR via search)
+- Sources found: 3 source pages + multiple cross-validated roundups
+- Pages created: [[Research - Best Jump Ropes to Buy (Ranked by Budget)]] (synthesis), [[Jump Rope Buying Guide (Types and How to Choose)]], [[Crossrope]], [[Rogue Fitness Jump Ropes]], [[RPM Fitness]], [[WOD Nation]], [[BarBend - Best CrossFit Jump Ropes (2026)]], [[BarBend - Best Jump Ropes for Beginners (2026)]], [[Yahoo Health - Best Jump Ropes 2026 (Trainer-Tested)]] (9 pages)
+- Synthesis: [[Research - Best Jump Ropes to Buy (Ranked by Budget)]]
+- Key finding: Match rope to goal, not budget. Budget (<$20): REP Speed Cable $12 / DEGOL $9 / WOD Nation $15 / Rogue Thai $16 (cheap heavy). Mid ($20–70): Rogue SR-2 $46 = best overall, RPM Comp 4 $70 = best speed, WOD Nation Atlas $28 = best weighted. Premium ($70+): Crossrope Get Lean $129–149 = best weighted system, RX Smart Gear EVO G2 $165. Most people are best served in the $10–50 range.
+
 ## [2026-06-18] autoresearch | Health Cheat Codes — What Works vs What Doesn't (2026 Verdict)
 - Rounds: 2 | Searches: 8 web + 2 fetches (PLOS One, The Conversation)
 - Sources found: 3 new source pages + ~10 cited references
