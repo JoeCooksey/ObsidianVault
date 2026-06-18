@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Alive Time vs Dead Time",
-      "path": "Alive Time vs Dead Time.md"
+      "basename": "Research - Most Important Cells in the Human Body",
+      "path": "wiki/questions/Research - Most Important Cells in the Human Body.md"
+    },
+    {
+      "basename": "Mitochondria",
+      "path": "wiki/concepts/Mitochondria.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Alive Time vs Dead Time",
+      "path": "Alive Time vs Dead Time.md"
     },
     {
       "basename": "How To Increase Your Intelligence — Craig Perry",
@@ -191,10 +199,6 @@
     {
       "basename": "High-Dose Isolated Supplement Harms",
       "path": "wiki/concepts/High-Dose Isolated Supplement Harms.md"
-    },
-    {
-      "basename": "Psilocybin Trip Activities Tier List",
-      "path": "wiki/concepts/Psilocybin Trip Activities Tier List.md"
     }
   ],
   "omittedPaths": [],

@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-18] autoresearch | Most Important Cells in the Human Body
+- Rounds: 2 | Searches: ~9 (PubMed + web)
+- Sources found: 4 filed ([[Mattson 2016 — Intermittent Fasting on Health and Disease]], [[Halling 2020 — PGC-1alpha and Mitochondrial Function]], [[de Sousa Fernandes 2020 — Exercise and Neuroplasticity]], [[Moreau 2023 — Exercise and Vascular Function with Aging]])
+- Pages created (13): synthesis [[Research - Most Important Cells in the Human Body]]; concepts [[Neurons]], [[Cardiomyocytes]], [[Stem Cells]], [[Endothelial Cells]], [[Immune Cells]], [[Mitochondria]], [[BDNF]], [[Autophagy]]; 4 sources above
+- Key finding: Ranking by irreplaceability + criticality + leverage → neurons #1, cardiomyocytes #2, stem cells #3, endothelial #4, immune #5; mitochondria = highest-leverage organelle. The same 4 levers (exercise, sleep, fasting, metabolic control) optimize all of them.
+
 ## [2026-06-18] newsletter | EE Daily — June 18, 2026
 Intel 18A-P risk production, NVIDIA/TSMC cuLitho in production fabs, QuiX Quantum 150 ns photonic feed-forward; daily topic: Thin-Film Lithium Niobate (TFLN) Photonic Integration.
 
