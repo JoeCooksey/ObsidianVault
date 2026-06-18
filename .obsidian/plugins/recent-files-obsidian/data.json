@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Asset Allocation by Age (Optimized Portfolio)",
+      "path": "wiki/sources/Asset Allocation by Age (Optimized Portfolio).md"
+    },
+    {
+      "basename": "Research - Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation",
+      "path": "wiki/questions/Research - Best Index Funds (Fidelity & Robinhood) and Portfolio Allocation.md"
+    },
+    {
       "basename": "Research - Best Jump Ropes to Buy (Ranked by Budget)",
       "path": "wiki/questions/Research - Best Jump Ropes to Buy (Ranked by Budget).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "AI Money-Making Methods Tier List",
       "path": "wiki/concepts/AI Money-Making Methods Tier List.md"
-    },
-    {
-      "basename": "Research - Joe's Supplement Stack Audit",
-      "path": "wiki/questions/Research - Joe's Supplement Stack Audit.md"
-    },
-    {
-      "basename": "Foundational Health Supplements",
-      "path": "wiki/concepts/Foundational Health Supplements.md"
     }
   ],
   "omittedPaths": [],
