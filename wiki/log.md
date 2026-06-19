@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-19] autoresearch | Best Daily Exercises for Flexibility, Mobility & Longevity
+- Rounds: 2 | Searches: ~8 (PubMed + web) | Pages created: 12
+- Sources found: exercise-snacks meta (27 trials), Sitting-Rising Test (Brito 2014 / Araújo 2025), handgrip dose-response meta (López-Bueno 2022), trunk flexibility↔arterial stiffness (Yamamoto 2009); reused existing Attia Four-Pillar + Daily Steps sources
+- Created: [[Research - Best Daily Exercises for Flexibility, Mobility, and Longevity]] (synthesis) + [[Daily Movement Routine (Flexibility, Mobility, Longevity)]] (deliverable) + concepts [[Exercise Snacks]], [[Breaking Up Sedentary Time]], [[Controlled Articular Rotations (CARs)]], [[Stretching and Flexibility for Longevity]], [[Sitting-Rising Test]], [[Grip Strength and Longevity]] + 4 source pages
+- Key finding: three layers (daily mobility flow + move-often + weekly strength/intensity); flexibility/mobility buy *function*, while strength, VO₂max & ~7,000 steps/day do the *lifespan* work — don't mistake stretching for the longevity engine
+
 ## [2026-06-19] newsletter | EE Daily — June 19, 2026
 Top stories: EPFL chip-scale femtosecond laser (Nature), Monash room-temp valleytronic circuit (Nature Photonics), Coherent $50M CHIPS Act InP expansion; daily topic: Chip-Scale Mamyshev Oscillators.
 

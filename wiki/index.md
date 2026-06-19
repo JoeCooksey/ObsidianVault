@@ -132,6 +132,17 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[BDNF]] — exercise-driven "brain fertilizer" neurotrophin
 - [[Autophagy]] — cellular recycling; shared mechanism behind fasting benefits
 
+### Movement, Mobility & Longevity — Exercises Throughout the Day (2026-06-19)
+- [[Research - Best Daily Exercises for Flexibility, Mobility, and Longevity]] — **synthesis**: three layers (daily mobility flow + all-day movement + weekly strength/intensity); flexibility/mobility buy *function*, strength/VO₂max/steps do the *lifespan* work
+- [[Daily Movement Routine (Flexibility, Mobility, Longevity)]] — **the runnable deliverable**: 5–10 min morning mobility, move 1–5 min every 30–60 min, ~7,000 steps, strength 2–4×/wk + intervals 1–2×/wk; priority order if short on time
+- [[Exercise Snacks]] — ≤1-min vigorous bursts ≥2×/day (stairs, squats, calf raises); raised VO₂max (SMD 0.63) across 27 trials
+- [[Breaking Up Sedentary Time]] — interrupt sitting every 30–60 min; independent cardiometabolic risk; exact dose still being trialed (BREAK2)
+- [[Controlled Articular Rotations (CARs)]] — Spina/FRC daily joint-by-joint mobility flow; mobility (active range) > flexibility (passive range)
+- [[Stretching and Flexibility for Longevity]] — static vs dynamic; flexibility is a function goal, weakest direct longevity evidence
+- [[Sitting-Rising Test]] — floor self-test bundling strength+flexibility+balance; each +1 point ≈ 21% better survival
+- [[Grip Strength and Longevity]] — cheap whole-body-strength proxy; each −5 kg ≈ +16% all-cause mortality
+- Sources: [[Exercise Snacks Cardiometabolic Meta-Analysis (2025)]] · [[Sitting-Rising Test and Mortality (Brito Araujo)]] · [[Handgrip Strength Dose-Response Meta-Analysis (Lopez-Bueno 2022)]] · [[Poor Trunk Flexibility and Arterial Stiffness (Yamamoto 2009)]] · [[Daily Steps and Mortality Meta-Analysis (Lancet 2025)]] · [[Attia Four-Pillar Exercise Framework]]
+
 ### Intelligence & Thinking — How to Increase Your Intelligence (Craig Perry) (2026-06-17)
 Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence = the quality of your [[Good Explanations (Hard-to-Vary)|explanations]]; mapped via [[Ken Wilber]]'s [[AQAL Model (Integral Theory)|Integral Theory]].
 - [[Good Explanations (Hard-to-Vary)]] — Deutsch's "hard-to-vary" test; bad explanations are invisible and run your life; free to rebuild anytime
