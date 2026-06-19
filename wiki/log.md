@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-19] newsletter | EE Daily — June 19, 2026
+Top stories: EPFL chip-scale femtosecond laser (Nature), Monash room-temp valleytronic circuit (Nature Photonics), Coherent $50M CHIPS Act InP expansion; daily topic: Chip-Scale Mamyshev Oscillators.
+
+## [2026-06-19] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+US-Iran Geneva MoU signing; Hegseth 6-month European troop review; Anthropic Fable 5 export ban week 2; first human fentanyl vaccine trial; FIFA World Cup USA vs Australia.
+
 ## [2026-06-18] autoresearch | YouTube Channels — More Subjects (music, art, writing, languages, business, data science, cybersecurity, geopolitics)
 - Rounds: 1 | Searches: 8 web (languages/linguistics, music, art/design, business/marketing, data science, cybersecurity, geopolitics, writing)
 - Pages created: [[YouTube Channels for Creative and Professional Skills]] (music/art/writing/languages/business)

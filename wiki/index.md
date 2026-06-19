@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 19, 2026]] — EPFL chip-scale femtosecond laser; Monash valleytronic circuit; Coherent CHIPS Act InP expansion; daily topic: Chip-Scale Mamyshev Oscillators
 - [[EE Daily — June 18, 2026]] — Intel 18A-P risk production; NVIDIA/TSMC cuLitho deployment; QuiX Quantum photonic feed-forward; β-Ga₂O₃ substrates shipping; imec TFLN on silicon photonics; daily topic: TFLN Photonic Integration
 - [[EE Daily — June 17, 2026]] — TSMC 2nm GAA volume production; AMD 46.2% server CPU share (highest ever); Samsung HBM4 mass production + DDR5 4× price spike; Monash room-temp valleytronic chip (Nature Photonics); record 10.2 W/mm GaN-on-Si HEMTs; 2D molecular ferroelectric sub-10nm; polariton neuromorphic computing; daily topic: HBM4 Architecture, Packaging, and the DRAM Supply Crisis
 - [[EE Daily — June 16, 2026]] — NVIDIA $25B bond offering (+3.5% shares); HBM4 certified by SK Hynix/Samsung/Micron, NVIDIA MOU signed; ASML +77% YTD, €1,900 analyst targets, 1,000 W High-NA EUV demonstrated; 2D CuInP₂S₆ CIPS neuromorphic AI (Adv. Func. Mat. 2026); TSMC May +30.1% YoY; daily topic: AI Data Center Power Architecture — 48V bus, liquid cooling, 1 MW GPU clusters
