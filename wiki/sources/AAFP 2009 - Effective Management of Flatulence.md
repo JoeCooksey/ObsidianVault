@@ -46,4 +46,4 @@ Confirms the **odor vs volume split** clinically and ranks interventions. Key pr
 - For **volume/bloating**: alpha-galactosidase (gas from beans/bran), low-FODMAP diet, rifaximin or probiotics if SIBO/IBS-driven.
 - **Oral charcoal and simethicone are popular but not evidence-supported** for this purpose.
 
-Related: [[Reducing Flatulence Odor (Protocol)]] · [[Bismuth Subsalicylate for Flatus Odor]] · [[Research: What Makes Farts Stinky and How to Prevent It]]
+Related: [[Reducing Flatulence Odor (Protocol)]] · [[Bismuth Subsalicylate for Flatus Odor]] · [[Research - What Makes Farts Stinky and How to Prevent It]]

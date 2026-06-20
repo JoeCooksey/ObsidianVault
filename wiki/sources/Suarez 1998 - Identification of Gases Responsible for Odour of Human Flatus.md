@@ -43,4 +43,4 @@ Flatus was quantitatively collected via rectal tube from **16 healthy subjects**
 ## Contribution to the Topic
 Establishes the central thesis: **odor ≠ volume**. The bulk gases (N₂, CO₂, H₂, CH₄) are odorless; the smell comes from trace sulfur gases, dominated by H₂S. Drives the whole prevention strategy → reduce sulfur substrate / bind H₂S.
 
-Related: [[Flatus Composition and the Chemistry of Odor]] · [[Hydrogen Sulfide and Flatus Odor]] · [[Research: What Makes Farts Stinky and How to Prevent It]]
+Related: [[Flatus Composition and the Chemistry of Odor]] · [[Hydrogen Sulfide and Flatus Odor]] · [[Research - What Makes Farts Stinky and How to Prevent It]]

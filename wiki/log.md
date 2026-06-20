@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-20] autoresearch | What Makes Farts Stinky and How to Prevent It
+- Rounds: 2 | Searches: ~8 (PubMed + web)
+- Sources found: 6 (3 primary Suarez/Levitt studies, AAFP review, Chemistry World, Cary Gastro)
+- Pages created (13): [[Research - What Makes Farts Stinky and How to Prevent It]] (synthesis) · concepts [[Flatus Composition and the Chemistry of Odor]], [[Hydrogen Sulfide and Flatus Odor]], [[Sulfate-Reducing Bacteria (Desulfovibrio)]], [[High-Sulfur Foods and Flatus Odor]], [[Bismuth Subsalicylate for Flatus Odor]], [[Reducing Flatulence Odor (Protocol)]] · sources [[Suarez 1998 - Identification of Gases Responsible for Odour of Human Flatus]], [[Suarez 1998 - Bismuth Subsalicylate Decreases Hydrogen Sulfide]], [[Suarez 1999 - Failure of Activated Charcoal to Reduce Gas]], [[AAFP 2009 - Effective Management of Flatulence]], [[Chemistry World - The Chemistry of Farts]], [[Cary Gastroenterology - Why Do My Farts Smell So Bad]]
+- Key finding: Odor ≠ volume. Smell = trace sulfur gases (<1%) dominated by hydrogen sulfide, made by gut sulfate-reducing bacteria from dietary sulfur; best fixes are cutting sulfur foods and bismuth subsalicylate (>95% H₂S reduction). Oral charcoal and simethicone don't work.
+
 ## [2026-06-20] newsletter | EE Daily — June 20, 2026
 Top stories: Intel 18A-P risk production, SK Hynix 12-layer HBM4E samples shipped, imec/Ghent heterogeneous LiNbO₃/LiTaO₃ on silicon photonics; daily topic: Heterogeneous Integration of Electro-Optic Materials on Silicon Photonics via Micro-Transfer Printing.
 

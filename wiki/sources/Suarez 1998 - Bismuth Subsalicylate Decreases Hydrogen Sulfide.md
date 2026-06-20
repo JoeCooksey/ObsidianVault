@@ -40,4 +40,4 @@ Gives the single most effective *odor-specific* intervention an evidence base. B
 
 > [!warning] Episodic use only. Bismuth subsalicylate carries salicylate, and chronic/high-dose bismuth is linked to reversible neurotoxicity (tremor, confusion). Reserve for social situations, not daily use.
 
-Related: [[Bismuth Subsalicylate for Flatus Odor]] · [[Reducing Flatulence Odor (Protocol)]] · [[Research: What Makes Farts Stinky and How to Prevent It]]
+Related: [[Bismuth Subsalicylate for Flatus Odor]] · [[Reducing Flatulence Odor (Protocol)]] · [[Research - What Makes Farts Stinky and How to Prevent It]]

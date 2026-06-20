@@ -118,6 +118,16 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Flatulence — What Makes Farts Stinky & How to Prevent It (2026-06-20)
+- [[Research - What Makes Farts Stinky and How to Prevent It]] — **synthesis**: odor ≠ volume; smell = trace sulfur gases (<1%) dominated by **hydrogen sulfide**, made by gut bacteria from dietary sulfur; prevent by cutting sulfur + bismuth subsalicylate (>95% H₂S cut)
+- [[Reducing Flatulence Odor (Protocol)]] — **the runnable answer**: cut sulfur foods → eat slower/less carbonation → bismuth for events; oral charcoal & Gas-X don't work
+- [[Flatus Composition and the Chemistry of Odor]] — bulk gases (N₂/CO₂/H₂/CH₄) odorless; 3 odorants = H₂S (rotten egg), methanethiol (cabbage), dimethyl sulfide (garlic)
+- [[Hydrogen Sulfide and Flatus Odor]] — the dominant malodorant; correlates with smell (p ≤ 0.001); detectable at ppb
+- [[Sulfate-Reducing Bacteria (Desulfovibrio)]] — gut microbes that turn H₂ + sulfate → H₂S; compete with methanogens for hydrogen
+- [[High-Sulfur Foods and Flatus Odor]] — sulfur foods (cruciferous, allium, meat, eggs) → smell; FODMAPs → volume
+- [[Bismuth Subsalicylate for Flatus Odor]] — Pepto-Bismol binds H₂S as bismuth sulfide, >95% reduction; episodic use only
+- Sources: [[Suarez 1998 - Identification of Gases Responsible for Odour of Human Flatus]] · [[Suarez 1998 - Bismuth Subsalicylate Decreases Hydrogen Sulfide]] · [[Suarez 1999 - Failure of Activated Charcoal to Reduce Gas]] · [[AAFP 2009 - Effective Management of Flatulence]] · [[Chemistry World - The Chemistry of Farts]] · [[Cary Gastroenterology - Why Do My Farts Smell So Bad]]
+
 ### Fitness Gear — Jump Ropes (2026-06-18)
 - [[Research - Best Jump Ropes to Buy (Ranked by Budget)]] — **the deliverable**: three ranked budget tables (under $20 / $20–70 / $70+). Match rope to GOAL not price. Best overall = [[Rogue Fitness Jump Ropes|Rogue SR-2]] $46; best value = [[WOD Nation]] $15; best weighted = [[Crossrope]] $129+; best speed = [[RPM Fitness|RPM Comp 4]] $70
 - [[Jump Rope Buying Guide (Types and How to Choose)]] — speed vs weighted vs beaded vs smart vs PVC; bearings matter most for feel; sizing (handles to armpit/chest); thin speed cables are indoor-only

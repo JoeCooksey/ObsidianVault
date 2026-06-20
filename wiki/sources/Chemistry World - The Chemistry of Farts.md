@@ -36,4 +36,4 @@ A clean, citable summary of the odor-vs-volume distinction and the three named o
 
 > [!gap] Secondary/popular source. For quantitative claims defer to [[Suarez 1998 - Identification of Gases Responsible for Odour of Human Flatus]].
 
-Related: [[Flatus Composition and the Chemistry of Odor]] · [[Research: What Makes Farts Stinky and How to Prevent It]]
+Related: [[Flatus Composition and the Chemistry of Odor]] · [[Research - What Makes Farts Stinky and How to Prevent It]]

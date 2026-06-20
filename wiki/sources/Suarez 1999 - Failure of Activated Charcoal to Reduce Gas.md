@@ -37,4 +37,4 @@ The study that debunks **oral** activated charcoal for gas.
 ## Contribution to the Topic
 Resolves a common contradiction: charcoal *does* adsorb sulfur gas (so charcoal-lined cushions/underwear work, per [[Suarez 1998 - Identification of Gases Responsible for Odour of Human Flatus]]), but **swallowing charcoal does not** because it saturates en route. Practical takeaway: use charcoal in **external garments**, not as an oral supplement.
 
-Related: [[Reducing Flatulence Odor (Protocol)]] · [[Research: What Makes Farts Stinky and How to Prevent It]]
+Related: [[Reducing Flatulence Odor (Protocol)]] · [[Research - What Makes Farts Stinky and How to Prevent It]]
