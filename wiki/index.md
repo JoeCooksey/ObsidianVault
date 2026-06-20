@@ -215,6 +215,16 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Attention Restoration Theory]] — nature restores depleted directed attention (Berman 2008 + 2024 RCTs); why the walk is the #1 default (developing)
 - Sources: [[Westgate 2020 - Why Boredom Is Interesting]] · [[Tam 2024 - Digital Switching Study]] · [[Mann and Cadman 2014 - Boredom and Creativity]]
 
+### Killing Time / Idle Pockets & Leisure Quality (2026-06-20)
+- [[Research - What To Do Instead of Just Killing Time]] — **synthesis**: every idle pocket is [[Alive Time vs Dead Time|alive or dead time]]; default to active/effortful over passive; engineer the easy choice instead of fighting willpower
+- [[Killing Time Substitution Playbook]] — **the runnable answer**: catch the reflex → match the pocket to its size (micro/short/open) → pick the option with a skill in it → engineer defaults
+- [[Time Confetti]] — Schulte/Whillans: the real enemy is *fragmentation* not scarcity; shredded leisure feels worse and manufactures felt time-poverty
+- [[Active vs Passive Leisure]] — active/skill-using leisure → more happiness & meaning, mediated by flow; passive helps a little but is low-density
+- [[Effortful Leisure (Meaning vs Enjoyment)]] — effort makes time meaningful and (in real life) doesn't cost enjoyment; people systematically under-choose it
+- [[Phone-Reflex in Idle Moments]] — the conditioned phone-grab is reward-anticipation (often masking anxiety/loneliness); break it with friction + a pre-loaded substitute
+- People: [[Ashley Whillans]] · [[Brigid Schulte]]
+- Sources: [[Whillans - Time Confetti and the Broken Promise of Leisure]] · [[Campbell 2025 - Effortful Leisure Is a Source of Meaning]]
+
 ### Operating Systems / Tech Decisions
 - [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
 - [[Pop-OS-Dual-Boot-Setup-Guide]] — full dual-boot guide for gaming PC + Nvidia GPU: Windows prep, Rufus USB, BIOS setup, partition, install, first boot, CS2 + RuneLite gaming setup, troubleshooting checklist (complete)
