@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - What Makes Farts Stinky and How to Prevent It",
+      "path": "wiki/questions/Research - What Makes Farts Stinky and How to Prevent It.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Exercise Snacks",
       "path": "wiki/concepts/Exercise Snacks.md"
     },
     {
       "basename": "Daily Movement Routine (Flexibility, Mobility, Longevity)",
       "path": "wiki/concepts/Daily Movement Routine (Flexibility, Mobility, Longevity).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "YouTube Channels for Humanities Learning",
@@ -195,10 +199,6 @@
     {
       "basename": "Romanticizing Your Life",
       "path": "wiki/concepts/Romanticizing Your Life.md"
-    },
-    {
-      "basename": "OSRS Second-Screen Grinding Setup",
-      "path": "wiki/concepts/OSRS Second-Screen Grinding Setup.md"
     }
   ],
   "omittedPaths": [],
