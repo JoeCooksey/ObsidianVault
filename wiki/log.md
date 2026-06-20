@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-20] autoresearch | What To Do Instead of Just Killing Time
+- Rounds: 2 | Searches: 5 (4 web + 3 fetches)
+- Sources found: 2 primary ([[Whillans - Time Confetti and the Broken Promise of Leisure]], [[Campbell 2025 - Effortful Leisure Is a Source of Meaning]])
+- Pages created (10): [[Research - What To Do Instead of Just Killing Time]] (synthesis) · concepts [[Killing Time Substitution Playbook]], [[Time Confetti]], [[Active vs Passive Leisure]], [[Effortful Leisure (Meaning vs Enjoyment)]], [[Phone-Reflex in Idle Moments]] · entities [[Ashley Whillans]], [[Brigid Schulte]] · sources [[Whillans - Time Confetti and the Broken Promise of Leisure]], [[Campbell 2025 - Effortful Leisure Is a Source of Meaning]]. Built on existing boredom/free-time cluster ([[Alive Time vs Dead Time]], [[Boredom Activity Playbook]], [[Digital Switching]], [[Free Time Tier List]]) — updated/linked, did not duplicate.
+- Key finding: "Killing time" is the reflexive (phone) filling of idle pockets. Cure isn't more discipline — it's a reframe + default-swap: treat each pocket as alive-or-dead time, default to active/effortful leisure over passive (active leisure → more happiness/meaning via flow; effortful leisure feels more meaningful and in real-life sampling doesn't cost enjoyment, N=2,569; people systematically under-choose it), recognize the real enemy is *fragmentation* not scarcity ("time confetti" — a leisure hour cut by 14 notifications loses ~10% + becomes useless 5–6 min scraps), and engineer the easy choice rather than win a willpower fight. Deliverable = [[Killing Time Substitution Playbook]] (catch reflex → size the pocket → pick the option with a skill in it → engineer defaults).
+
 ## [2026-06-20] autoresearch | What Makes Farts Stinky and How to Prevent It
 - Rounds: 2 | Searches: ~8 (PubMed + web)
 - Sources found: 6 (3 primary Suarez/Levitt studies, AAFP review, Chemistry World, Cary Gastro)
