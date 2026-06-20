@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Research - What Makes Farts Stinky and How to Prevent It",
-      "path": "wiki/questions/Research - What Makes Farts Stinky and How to Prevent It.md"
+      "basename": "Killing Time Substitution Playbook",
+      "path": "wiki/concepts/Killing Time Substitution Playbook.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - What Makes Farts Stinky and How to Prevent It",
+      "path": "wiki/questions/Research - What Makes Farts Stinky and How to Prevent It.md"
     },
     {
       "basename": "Exercise Snacks",
@@ -195,10 +199,6 @@
     {
       "basename": "Vivobarefoot",
       "path": "wiki/entities/Vivobarefoot.md"
-    },
-    {
-      "basename": "Romanticizing Your Life",
-      "path": "wiki/concepts/Romanticizing Your Life.md"
     }
   ],
   "omittedPaths": [],
