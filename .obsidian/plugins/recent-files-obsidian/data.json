@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Exercise Snacks",
+      "path": "wiki/concepts/Exercise Snacks.md"
+    },
+    {
       "basename": "Daily Movement Routine (Flexibility, Mobility, Longevity)",
       "path": "wiki/concepts/Daily Movement Routine (Flexibility, Mobility, Longevity).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OSRS Second-Screen Grinding Setup",
       "path": "wiki/concepts/OSRS Second-Screen Grinding Setup.md"
-    },
-    {
-      "basename": "ChatGPT ML Tutor Prompt (Zero to Pro)",
-      "path": "wiki/concepts/ChatGPT ML Tutor Prompt (Zero to Pro).md"
     }
   ],
   "omittedPaths": [],
