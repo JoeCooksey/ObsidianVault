@@ -6,7 +6,7 @@
     {
       "id": "ld_001",
       "question": "What is Isaacson's core argument about what made Leonardo exceptional?",
-      "answer": "Not talent — curiosity. Leonardo had no formal education beyond basic reading, writing, and math. His 7,200+ surviving notebook pages show relentless, methodical questioning: 'Describe the tongue of the woodpecker,' 'Observe the goose's foot.' Curiosity was his practice, not just his personality.",
+      "answer": "Not talent \u2014 curiosity. Leonardo had no formal education beyond basic reading, writing, and math. His 7,200+ surviving notebook pages show relentless, methodical questioning: 'Describe the tongue of the woodpecker,' 'Observe the goose's foot.' Curiosity was his practice, not just his personality.",
       "box": 2,
       "interval": 3,
       "next_review": "2026-05-30",
@@ -16,7 +16,7 @@
     {
       "id": "ld_002",
       "question": "What is Sfumato, and what is its philosophical meaning beyond painting?",
-      "answer": "Sfumato (Italian: 'gone up in smoke') — Leonardo's painting technique of blurring edges, avoiding hard outlines, letting forms emerge from shadow. The Mona Lisa's smile is sfumato — it shifts as you look. Philosophically: the willingness to live in uncertainty without forcing premature resolution. Hold contradictions simultaneously.",
+      "answer": "Sfumato (Italian: 'gone up in smoke') \u2014 Leonardo's painting technique of blurring edges, avoiding hard outlines, letting forms emerge from shadow. The Mona Lisa's smile is sfumato \u2014 it shifts as you look. Philosophically: the willingness to live in uncertainty without forcing premature resolution. Hold contradictions simultaneously.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-14",
@@ -26,7 +26,7 @@
     {
       "id": "ld_003",
       "question": "How did Leonardo synthesize arts and sciences, and what does the Mona Lisa require?",
-      "answer": "He believed you could not paint a great human figure without understanding anatomy, optics, geometry, and fluid dynamics — and vice versa. The Mona Lisa required: anatomy of facial muscles, how light hits curved surfaces, perspective geometry, and the psychology of emotion. His flying machines required bird anatomy, aerodynamics, and materials science.",
+      "answer": "He believed you could not paint a great human figure without understanding anatomy, optics, geometry, and fluid dynamics \u2014 and vice versa. The Mona Lisa required: anatomy of facial muscles, how light hits curved surfaces, perspective geometry, and the psychology of emotion. His flying machines required bird anatomy, aerodynamics, and materials science.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-15",
@@ -36,7 +36,7 @@
     {
       "id": "ld_004",
       "question": "How did Leonardo train himself to observe?",
-      "answer": "He trained himself to see what others looked past: how water spirals when poured, how light diffuses through an eyelid, how lips form a smile. Spent four years dissecting corpses far beyond any contemporary artist's need. Would stare at a painting for hours to make one tiny change. Observation was an active, deliberate discipline — not passive looking.",
+      "answer": "He trained himself to see what others looked past: how water spirals when poured, how light diffuses through an eyelid, how lips form a smile. Spent four years dissecting corpses far beyond any contemporary artist's need. Would stare at a painting for hours to make one tiny change. Observation was an active, deliberate discipline \u2014 not passive looking.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-16",
@@ -46,7 +46,7 @@
     {
       "id": "ld_005",
       "question": "How does Isaacson reframe Leonardo's legendary procrastination?",
-      "answer": "Leonardo's procrastination was often productive incubation — gathering more data, more observations, more connections. The Mona Lisa took 16 years. The distinction: some delays are evasion; some are incubation. Knowing the difference in your own work is a metacognitive skill. Don't mistake gathering for avoiding.",
+      "answer": "Leonardo's procrastination was often productive incubation \u2014 gathering more data, more observations, more connections. The Mona Lisa took 16 years. The distinction: some delays are evasion; some are incubation. Knowing the difference in your own work is a metacognitive skill. Don't mistake gathering for avoiding.",
       "box": 1,
       "interval": 1,
       "next_review": "2026-06-17",
@@ -56,12 +56,12 @@
     {
       "id": "ld_006",
       "question": "How did Leonardo's 'outsider' status contribute to his creativity?",
-      "answer": "Born illegitimate, left-handed, gay, self-taught — he had no guild loyalty, no institutional allegiance, no disciplinary blinders. He approached every domain fresh, with no received wisdom to defer to. Isaacson's argument: the greatest cross-domain thinkers often sit outside the institutions that would otherwise constrain them.",
+      "answer": "Born illegitimate, left-handed, gay, self-taught \u2014 he had no guild loyalty, no institutional allegiance, no disciplinary blinders. He approached every domain fresh, with no received wisdom to defer to. Isaacson's argument: the greatest cross-domain thinkers often sit outside the institutions that would otherwise constrain them.",
       "box": 1,
       "interval": 1,
-      "next_review": "2026-06-13",
-      "last_reviewed": "2026-06-12",
-      "repetitions": 1
+      "next_review": "2026-06-20",
+      "last_reviewed": "2026-06-19",
+      "repetitions": 2
     }
   ]
 }

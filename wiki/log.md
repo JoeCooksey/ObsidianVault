@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-20] newsletter | EE Daily — June 20, 2026
+Top stories: Intel 18A-P risk production, SK Hynix 12-layer HBM4E samples shipped, imec/Ghent heterogeneous LiNbO₃/LiTaO₃ on silicon photonics; daily topic: Heterogeneous Integration of Electro-Optic Materials on Silicon Photonics via Micro-Transfer Printing.
+
+## [2026-06-20] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+DR Congo Ebola outbreak (837 cases); Qatar Boeing 747 Air Force One gift controversy; SpaceX acquires Cursor ($60B); ozone chemicals creating forever pollution (TFA); US-Iran MOU signed at Versailles.
+
 ## [2026-06-19] autoresearch | Best Daily Exercises for Flexibility, Mobility & Longevity
 - Rounds: 2 | Searches: ~8 (PubMed + web) | Pages created: 12
 - Sources found: exercise-snacks meta (27 trials), Sitting-Rising Test (Brito 2014 / Araújo 2025), handgrip dose-response meta (López-Bueno 2022), trunk flexibility↔arterial stiffness (Yamamoto 2009); reused existing Attia Four-Pillar + Daily Steps sources
