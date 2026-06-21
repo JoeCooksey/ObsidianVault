@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 21, 2026]] — SK Hynix 12-layer HBM4E (16 Gbps, 48 GB); Intel 18A-P risk production (+9% perf); PsiQuantum $940M quantum groundbreaking; Duke/IonQ tripartite entanglement; Bosch Roseville SiC 200mm; Monash valleytronics; NVIDIA RTX Spark 1 PFLOP; daily topic: Distributed Quantum Networking via Photonic Interconnects
 - [[EE Daily — June 20, 2026]] — Intel 18A-P risk production; SK Hynix HBM4E 12-layer samples; imec/Ghent LiNbO₃ on silicon photonics; daily topic: Heterogeneous EO Integration via Micro-Transfer Printing
 - [[EE Daily — June 19, 2026]] — EPFL chip-scale femtosecond laser; Monash valleytronic circuit; Coherent CHIPS Act InP expansion; daily topic: Chip-Scale Mamyshev Oscillators
 - [[EE Daily — June 18, 2026]] — Intel 18A-P risk production; NVIDIA/TSMC cuLitho deployment; QuiX Quantum photonic feed-forward; β-Ga₂O₃ substrates shipping; imec TFLN on silicon photonics; daily topic: TFLN Photonic Integration

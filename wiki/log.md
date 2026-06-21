@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-21] newsletter | EE Daily — June 21, 2026
+Top stories: SK Hynix 12-layer HBM4E samples (16 Gbps, 48 GB); Intel 18A-P risk production (+9% perf, Apple/Google interest); PsiQuantum $940M quantum groundbreaking (Australia); Duke/IonQ tripartite entanglement (84–88% fidelity); Bosch Roseville SiC 200mm production ($1.9B); Monash valleytronics nanocircuit (Nature Photonics); NVIDIA RTX Spark 1 PFLOP laptop. Daily topic: Distributed Quantum Networking via Photonic Interconnects.
+
+## [2026-06-21] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+Iran declares Strait of Hormuz closed (CENTCOM denies, Vance in Switzerland for talks); Qatar Boeing 747 Air Force One gift (emoluments debate); Anthropic Fable 5 export ban week 2; screwworm outbreak in TX/NM (first US cases since 1960s, CDC Level 3); FIFA World Cup 2026 mandatory hydration breaks + Germany 2–1 Ivory Coast.
+
 ## [2026-06-20] autoresearch | What To Do Instead of Just Killing Time
 - Rounds: 2 | Searches: 5 (4 web + 3 fetches)
 - Sources found: 2 primary ([[Whillans - Time Confetti and the Broken Promise of Leisure]], [[Campbell 2025 - Effortful Leisure Is a Source of Meaning]])
