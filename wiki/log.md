@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-22] newsletter | EE Daily — June 22, 2026
+Top stories: TSMC CoWoS 130k wafers/month capacity ramp; TEGNet AI-designed thermoelectric generators (~9% efficiency); Architect Labs $24M AI chip design seed; CMOS-driven enzymatic DNA synthesis (256-electrode 180nm); 2D magnetoelectric CuCrP2S6/Fe3GeTe2 heterostructure; β-Ga₂O₃ UWBG landscape. Daily topic: TEGNet and AI-Driven Thermoelectric Generator Design.
+
+## [2026-06-22] news-debrief | Daily News Debrief — 5 stories filed (World, US, Technology, Science/Health, Wildcard)
+Colombia presidential runoff (De la Espriella vs Cepeda, <1% margin); US screwworm outbreak (11 cases TX/NM, $1.8B threat); Noam Shazeer leaves Google for OpenAI; T. rex growth study (40 years not 25); US-Iran Switzerland talks (60-day final deal roadmap).
+
 ## [2026-06-21] newsletter | EE Daily — June 21, 2026
 Top stories: SK Hynix 12-layer HBM4E samples (16 Gbps, 48 GB); Intel 18A-P risk production (+9% perf, Apple/Google interest); PsiQuantum $940M quantum groundbreaking (Australia); Duke/IonQ tripartite entanglement (84–88% fidelity); Bosch Roseville SiC 200mm production ($1.9B); Monash valleytronics nanocircuit (Nature Photonics); NVIDIA RTX Spark 1 PFLOP laptop. Daily topic: Distributed Quantum Networking via Photonic Interconnects.
 

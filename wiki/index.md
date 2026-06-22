@@ -10,6 +10,7 @@ tags:
 Master catalog of all wiki pages. Update on every ingest.
 
 ## Newsletters
+- [[EE Daily — June 22, 2026]] — TSMC CoWoS 130k wafers/month ramp; TEGNet AI thermoelectric generators; Architect Labs $24M AI chip design; CMOS enzymatic DNA synthesis; 2D magnetoelectric heterostructure; β-Ga₂O₃ UWBG; daily topic: TEGNet AI-Driven TEG Design
 - [[EE Daily — June 21, 2026]] — SK Hynix 12-layer HBM4E (16 Gbps, 48 GB); Intel 18A-P risk production (+9% perf); PsiQuantum $940M quantum groundbreaking; Duke/IonQ tripartite entanglement; Bosch Roseville SiC 200mm; Monash valleytronics; NVIDIA RTX Spark 1 PFLOP; daily topic: Distributed Quantum Networking via Photonic Interconnects
 - [[EE Daily — June 20, 2026]] — Intel 18A-P risk production; SK Hynix HBM4E 12-layer samples; imec/Ghent LiNbO₃ on silicon photonics; daily topic: Heterogeneous EO Integration via Micro-Transfer Printing
 - [[EE Daily — June 19, 2026]] — EPFL chip-scale femtosecond laser; Monash valleytronic circuit; Coherent CHIPS Act InP expansion; daily topic: Chip-Scale Mamyshev Oscillators
