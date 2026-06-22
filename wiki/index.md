@@ -227,6 +227,14 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - People: [[Ashley Whillans]] · [[Brigid Schulte]]
 - Sources: [[Whillans - Time Confetti and the Broken Promise of Leisure]] · [[Campbell 2025 - Effortful Leisure Is a Source of Meaning]]
 
+### Downtime at a Low-Demand / Interruption-Heavy Job (2026-06-22)
+- [[Research - Best Things To Do During Downtime at a Low-Demand Job]] — **synthesis**: the hourly customer call is a *scheduled interruption*; the answer is a filter, not a list — do work interruption can't damage, bank deep work for off-clock
+- [[Low-Demand Job Downtime Playbook]] — **the runnable answer**: match activity to resumption cost; Tier S (effortful+interruptible: Anki/language/one-problem), A (passive: audiobooks/podcasts), B (admin), C (recovery); never start deep work between calls
+- [[Interruption Resumption Cost]] — Gloria Mark's ~23-min resumption lag; cost is asymmetric — deep work gets shredded, atomic chunks survive
+- [[Fragmentation-Tolerant Activities]] — the selection filter: low resumption cost + medium holds state + self-contained chunks; the happy overlap with [[Microlearning]] + [[Spaced Repetition]]
+- Person: [[Gloria Mark]] (UC Irvine; interruption/attention research)
+- Sources: [[Gloria Mark - The Cost of Interrupted Work]] · [[Indeed - Productive Things To Do During Slow Days at Work]]
+
 ### Operating Systems / Tech Decisions
 - [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
 - [[Pop-OS-Dual-Boot-Setup-Guide]] — full dual-boot guide for gaming PC + Nvidia GPU: Windows prep, Rufus USB, BIOS setup, partition, install, first boot, CS2 + RuneLite gaming setup, troubleshooting checklist (complete)

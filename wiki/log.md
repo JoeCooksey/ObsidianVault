@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-22] autoresearch | Best Things To Do During Downtime at a Low-Demand Job
+- Rounds: 2
+- Sources found: 2 cited ([[Gloria Mark - The Cost of Interrupted Work]], [[Indeed - Productive Things To Do During Slow Days at Work]]) + existing leisure/learning clusters
+- Pages created: [[Gloria Mark]], [[Gloria Mark - The Cost of Interrupted Work]], [[Indeed - Productive Things To Do During Slow Days at Work]], [[Interruption Resumption Cost]], [[Fragmentation-Tolerant Activities]], [[Low-Demand Job Downtime Playbook]]
+- Synthesis: [[Research - Best Things To Do During Downtime at a Low-Demand Job]]
+- Key finding: the hourly customer call is a scheduled *interruption*; the answer is a selection filter, not a list — fill gaps with fragmentation-tolerant work (flashcards/language/one-problem/audiobooks), never start deep work between calls, engineer the default.
+
 ## [2026-06-22] newsletter | EE Daily — June 22, 2026
 Top stories: TSMC CoWoS 130k wafers/month capacity ramp; TEGNet AI-designed thermoelectric generators (~9% efficiency); Architect Labs $24M AI chip design seed; CMOS-driven enzymatic DNA synthesis (256-electrode 180nm); 2D magnetoelectric CuCrP2S6/Fe3GeTe2 heterostructure; β-Ga₂O₃ UWBG landscape. Daily topic: TEGNet and AI-Driven Thermoelectric Generator Design.
 

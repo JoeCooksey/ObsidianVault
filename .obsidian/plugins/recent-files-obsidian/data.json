@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Killing Time Substitution Playbook",
-      "path": "wiki/concepts/Killing Time Substitution Playbook.md"
+      "basename": "Low-Demand Job Downtime Playbook",
+      "path": "wiki/concepts/Low-Demand Job Downtime Playbook.md"
+    },
+    {
+      "basename": "Research - Best Things To Do During Downtime at a Low-Demand Job",
+      "path": "wiki/questions/Research - Best Things To Do During Downtime at a Low-Demand Job.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Index Fund Tier List",
+      "path": "wiki/concepts/Index Fund Tier List.md"
+    },
+    {
+      "basename": "Killing Time Substitution Playbook",
+      "path": "wiki/concepts/Killing Time Substitution Playbook.md"
     },
     {
       "basename": "Research - What Makes Farts Stinky and How to Prevent It",
@@ -187,18 +199,6 @@
     {
       "basename": "Shoulder Instability vs Rotator Cuff Tear",
       "path": "wiki/concepts/Shoulder Instability vs Rotator Cuff Tear.md"
-    },
-    {
-      "basename": "Research - Rotator Cuff Tear and Recurrent Shoulder Instability",
-      "path": "wiki/questions/Research - Rotator Cuff Tear and Recurrent Shoulder Instability.md"
-    },
-    {
-      "basename": "Research - Barefoot Shoes Benefits and Best Brands",
-      "path": "wiki/questions/Research - Barefoot Shoes Benefits and Best Brands.md"
-    },
-    {
-      "basename": "Vivobarefoot",
-      "path": "wiki/entities/Vivobarefoot.md"
     }
   ],
   "omittedPaths": [],
