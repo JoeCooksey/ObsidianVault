@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef",
+      "path": "wiki/questions/Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef.md"
+    },
+    {
+      "basename": "Ground Beef Seasoning and Pairings",
+      "path": "wiki/concepts/Ground Beef Seasoning and Pairings.md"
+    },
+    {
+      "basename": "Ground Beef Browning Science",
+      "path": "wiki/concepts/Ground Beef Browning Science.md"
+    },
+    {
+      "basename": "Scrambled Egg Pairings and Add-Ins",
+      "path": "wiki/concepts/Scrambled Egg Pairings and Add-Ins.md"
+    },
+    {
+      "basename": "Scrambled Egg Science",
+      "path": "wiki/concepts/Scrambled Egg Science.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Low-Demand Job Downtime Playbook",
       "path": "wiki/concepts/Low-Demand Job Downtime Playbook.md"
     },
     {
       "basename": "Research - Best Things To Do During Downtime at a Low-Demand Job",
       "path": "wiki/questions/Research - Best Things To Do During Downtime at a Low-Demand Job.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Index Fund Tier List",
@@ -179,26 +199,6 @@
     {
       "basename": "OSRS AFK Money-Making Methods",
       "path": "wiki/concepts/OSRS AFK Money-Making Methods.md"
-    },
-    {
-      "basename": "Shoulder Instability Conservative Rehab",
-      "path": "wiki/concepts/Shoulder Instability Conservative Rehab.md"
-    },
-    {
-      "basename": "Sleepmaxxing Protocol",
-      "path": "wiki/concepts/Sleepmaxxing Protocol.md"
-    },
-    {
-      "basename": "Sleep Optimization Supplements",
-      "path": "wiki/concepts/Sleep Optimization Supplements.md"
-    },
-    {
-      "basename": "Liver Glycogen and Overnight Hypoglycemia",
-      "path": "wiki/concepts/Liver Glycogen and Overnight Hypoglycemia.md"
-    },
-    {
-      "basename": "Shoulder Instability vs Rotator Cuff Tear",
-      "path": "wiki/concepts/Shoulder Instability vs Rotator Cuff Tear.md"
     }
   ],
   "omittedPaths": [],
