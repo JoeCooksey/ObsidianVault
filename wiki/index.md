@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-17T15:35:00
+updated: 2026-06-22T15:00:00
 tags:
   - meta
 ---
@@ -117,8 +117,13 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Rogue Fitness Jump Ropes]] — SR-2 3.0 (best overall ~$46), Thai-Style (cheap heavy $16), Licorice (kids/outdoor $8.50)
 - [[RPM Fitness]] — Comp 4 speed rope ($70); dual-axis bearing; CrossFit Games standard for double-unders
 - [[WOD Nation]] — best-value brand; Adjustable Speed rope (~$15) + Atlas weighted ($27.99)
+- [[Cal Newport]] — Georgetown CS prof; *So Good They Can't Ignore You* + *Deep Work*; career capital, "don't follow your passion," deep work
 
 ## Concepts
+
+### Investing in Yourself (2026-06-22)
+- [[Investing in Yourself (Self-Investment)]] — umbrella concept: allocate time/money/attention into skills, health, relationships, habits that compound and can't be taxed/taken; 4 buckets + compounding mechanism
+- [[Career Capital]] — Newport's rare-and-valuable skills as the highest-leverage non-financial asset; build it via deliberate practice, become good first then cash in
 
 ### Hormones & Organs — Function, Optimization, Ranking (2026-06-22)
 - [[Human Hormones Master Reference and Ranking]] — every major hormone (~40): source gland, function, how to optimize, importance tier; S-tier = insulin, cortisol, thyroid, aldosterone, ADH; 5 levers (sleep, exercise, protein+fiber, light, stress) move most at once
@@ -896,6 +901,9 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 
 ## Sources
 
+### Investing in Yourself (2026-06-22)
+- [[Tamborini Kim Sakamoto 2015 — Education and Lifetime Earnings]] — *Demography* peer-reviewed; net BA premium ~$655K (men)/$445K (women); ~14%/yr return; selection bias = over half the raw gap (high)
+
 ### Hormones & Organs (2026-06-22)
 - [[Cleveland Clinic — Hormones Overview]] — gland-by-gland catalog of 50+ hormones; fat/gut/kidney/liver are endocrine organs too (high)
 - [[UF Physiology — Organs You Can Live Without]] — expendable vs vital organ split; 5 vital organs = brain/heart/lungs/liver/kidneys (high)
@@ -1162,6 +1170,7 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Research - Full Agent Stack Team Guide]] — complete guide: 5-role team, CrewAI + LangGraph + Claude Code code examples, MCP tool stack, memory/state handoffs, cost optimization, quick-start checklist (complete)
 
 ## Questions / Synthesis
+- [[Research - Best Way to Invest in Yourself]] — **master synthesis**: the highest-ROI self-investments ranked. Priority stack = health → relationships → skills/career capital → habits/mindset → money. Skills can't be taxed/taken (Buffett); BA premium ~$655K but conditional; relationships = #1 predictor of happy/healthy life (Harvard Study, ~50% higher survival ≈ quitting smoking); health ~80% lifestyle; compounding beats intensity; build career capital then cash in (Newport) (developing)
 - [[Research- Every Hormone and Organ — Function, Optimization, and Importance]] — **synthesis + ranking**: full sweep of ~40 hormones and ~20 organs. Organs ranked by survivability (brain > heart > lungs > liver > kidneys; brain wins because irreplaceable); hormones ranked by criticality (insulin/cortisol/thyroid/aldosterone/ADH S-tier). Pairs with [[Research - Most Important Cells in the Human Body]]; same 5 lifestyle levers optimize both systems (developing)
 - [[Research - Health Cheat Codes — What Works vs What Doesn't (2026 Verdict)]] — **synthesis + verdict**: evidence-graded split of health cheat codes. WORKS (free wins): consistent wake time, morning sun, lifting + Zone 2/VO2max, whole foods + protein/fiber, sauna, social connection, caffeine+L-theanine, creatine. HYPE: NAD+/NMN pills, microdosing (placebo), grounding mats, CGMs for healthy people, cryo chambers, high-dose melatonin, detox cleanses, brain-training apps, young-blood. Tell of a fake: expensive device/pill + no/placebo RCT (developing)
 - [[Research - Most Important Cells in the Human Body]] — **synthesis + ranking**: ranks the 6 most critical cell types by irreplaceability + criticality + leverage (neurons → cardiomyocytes → stem cells → endothelial → immune; mitochondria as ★ highest-leverage organelle); unified action plan — exercise, sleep, fasting, metabolic control optimize all at once (developing)

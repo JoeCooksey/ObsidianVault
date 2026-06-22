@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-22] autoresearch | Best Way to Invest in Yourself
+- Rounds: 2 | Searches: 6 + 3 fetches
+- Sources found: 3 new cited ([[Tamborini Kim Sakamoto 2015 — Education and Lifetime Earnings]] + reused [[Waldinger Schulz — The Good Life (Harvard Study)]], [[Deep Work — Cal Newport]])
+- Pages created: [[Research - Best Way to Invest in Yourself]], [[Investing in Yourself (Self-Investment)]], [[Career Capital]], [[Cal Newport]], [[Tamborini Kim Sakamoto 2015 — Education and Lifetime Earnings]]
+- Reused existing: [[Robert Waldinger]], Harvard Study source, dozens of existing concept/synthesis pages (mature vault — synthesis weaves rather than duplicates)
+- Synthesis: [[Research - Best Way to Invest in Yourself]]
+- Key finding: Priority stack = health → relationships → skills/career capital → habits → money; you are the asset that can't be taxed or taken; compounding beats intensity
+
 ## [2026-06-22] autoresearch | Every Hormone and Organ — Function, Optimization, Importance
 - Rounds: 2 | Searches: 4 + 4 fetches
 - Sources found: 3 filed ([[Cleveland Clinic — Hormones Overview]], [[UF Physiology — Organs You Can Live Without]], [[Healthline — Balance Hormones Naturally]])

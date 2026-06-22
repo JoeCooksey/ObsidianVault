@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Human Organs Master Reference and Ranking",
-      "path": "wiki/concepts/Human Organs Master Reference and Ranking.md"
+      "basename": "Research - Best Way to Invest in Yourself",
+      "path": "wiki/questions/Research - Best Way to Invest in Yourself.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Human Organs Master Reference and Ranking",
+      "path": "wiki/concepts/Human Organs Master Reference and Ranking.md"
     },
     {
       "basename": "Human Hormones Master Reference and Ranking",
@@ -195,10 +199,6 @@
     {
       "basename": "OSRS Ironman Late Game and Endgame",
       "path": "wiki/concepts/OSRS Ironman Late Game and Endgame.md"
-    },
-    {
-      "basename": "OSRS Ironman Mid Game",
-      "path": "wiki/concepts/OSRS Ironman Mid Game.md"
     }
   ],
   "omittedPaths": [],
