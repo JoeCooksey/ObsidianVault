@@ -120,6 +120,10 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Hormones & Organs — Function, Optimization, Ranking (2026-06-22)
+- [[Human Hormones Master Reference and Ranking]] — every major hormone (~40): source gland, function, how to optimize, importance tier; S-tier = insulin, cortisol, thyroid, aldosterone, ADH; 5 levers (sleep, exercise, protein+fiber, light, stress) move most at once
+- [[Human Organs Master Reference and Ranking]] — every major organ: system, function, optimization, tier; the 5 vital organs (brain > heart > lungs > liver > kidneys) vs expendable (spleen, gallbladder, appendix, tonsils); brain tops list because it's the only one with no replacement
+
 ### Flatulence — What Makes Farts Stinky & How to Prevent It (2026-06-20)
 - [[Research - What Makes Farts Stinky and How to Prevent It]] — **synthesis**: odor ≠ volume; smell = trace sulfur gases (<1%) dominated by **hydrogen sulfide**, made by gut bacteria from dietary sulfur; prevent by cutting sulfur + bismuth subsalicylate (>95% H₂S cut)
 - [[Reducing Flatulence Odor (Protocol)]] — **the runnable answer**: cut sulfur foods → eat slower/less carbonation → bismuth for events; oral charcoal & Gas-X don't work
