@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-22] autoresearch | Every Hormone and Organ — Function, Optimization, Importance
+- Rounds: 2 | Searches: 4 + 4 fetches
+- Sources found: 3 filed ([[Cleveland Clinic — Hormones Overview]], [[UF Physiology — Organs You Can Live Without]], [[Healthline — Balance Hormones Naturally]])
+- Pages created: [[Human Hormones Master Reference and Ranking]], [[Human Organs Master Reference and Ranking]], 3 sources, 1 synthesis (6 total)
+- Synthesis: [[Research- Every Hormone and Organ — Function, Optimization, and Importance]]
+- Key finding: organs rank by survivability (brain > heart > lungs > liver > kidneys; brain wins because irreplaceable), hormones by criticality (insulin/cortisol/thyroid/aldosterone/ADH S-tier); the SAME 5 levers (sleep, exercise, protein+fiber, light, stress) optimize most of both systems. Leveraged existing Cortisol/Dopamine/Testosterone/cells pages instead of duplicating.
+
 ## [2026-06-22] autoresearch | Cooking Best-Tasting Scrambled Eggs and Ground Beef
 - Rounds: 2
 - Sources found: Christopher Kimball (creamiest eggs), ATK/The Kitchn (baking soda), MasterClass (Ramsay), The Kitchn (Kenji starch hack), Food Republic (water vs milk), Tasting Table + Amanda's Cookin' (browning), RawSpiceBar/Seasoned Mom (seasoning), ATK + Live Simply (pairings)
