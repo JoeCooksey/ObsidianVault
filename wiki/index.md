@@ -896,6 +896,11 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 
 ## Sources
 
+### Hormones & Organs (2026-06-22)
+- [[Cleveland Clinic — Hormones Overview]] — gland-by-gland catalog of 50+ hormones; fat/gut/kidney/liver are endocrine organs too (high)
+- [[UF Physiology — Organs You Can Live Without]] — expendable vs vital organ split; 5 vital organs = brain/heart/lungs/liver/kidneys (high)
+- [[Healthline — Balance Hormones Naturally]] — lifestyle levers mapped to hormones they affect (medium)
+
 ### Biohacking / Evidence Verdict (2026-06-18)
 - [[Cold-Water Immersion Meta-Analysis (PLOS One 2025)]] — ~3,177 participants: cold plunge is acutely PRO-inflammatory; stress relief is delayed (~12h) and transient; post-lift CWI blunts hypertrophy (high)
 - [[Laukkanen Sauna Cohort Studies (KIHD)]] — Finnish cohort: 4–7 saunas/week → 40% lower all-cause mortality, 63% lower sudden cardiac death; dose-responsive (high)
