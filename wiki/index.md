@@ -235,6 +235,18 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - Person: [[Gloria Mark]] (UC Irvine; interruption/attention research)
 - Sources: [[Gloria Mark - The Cost of Interrupted Work]] · [[Indeed - Productive Things To Do During Slow Days at Work]]
 
+### Cooking — Scrambled Eggs & Ground Beef Masterclass (2026-06-22)
+- [[Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef]] — **synthesis**: two foods, two opposite heat philosophies — eggs cook *gentle and below browning* (don't over-tighten protein), beef cooks *hot and dry above 300°F* (maximize the [[Maillard Reaction]])
+- [[Scrambled Eggs — Masterclass]] — **the runnable guide**: 3 styles (soft French/Ramsay on-off-heat ★ best; American fluffy w/ water; Kenji starch hack) + universal rules
+- [[Scrambled Egg Science]] — the levers: low heat, fat coats proteins, water=fluffy/dairy=creamy, salt-timing debate, carryover, Kenji's starch
+- [[Scrambled Egg Pairings and Add-Ins]] — cheese/herbs at the end; sides (sourdough, avocado, smoked salmon, salsa)
+- [[Ground Beef Browning — Masterclass]] — **the runnable guide**: hot pan, ¼ tsp baking soda/12 oz, don't crowd, leave undisturbed 3–4 min, drain, bloom spices in fond
+- [[Ground Beef Browning Science]] — brown vs steam: Maillard needs ~300°F + dry surface; crowding/grease/wet meat = steaming; baking soda = crust cheat code
+- [[Ground Beef Seasoning and Pairings]] — bloom spices in fat, blends (taco/bolognese/burger), what to serve (tacos, pasta, mash)
+- [[Maillard Reaction]] — the browning chemistry (amino acids + sugars, >300°F, alkalinity speeds it); goal for beef, enemy for eggs
+- Person: [[J. Kenji López-Alt]] (science-based cooking; starch-slurry egg hack)
+- Sources: [[Christopher Kimball — Creamiest Scrambled Eggs]] · [[ATK — Baking Soda for Ground Beef]]
+
 ### Operating Systems / Tech Decisions
 - [[Windows-to-Linux-Complete-Guide]] — full pros/cons analysis + step-by-step migration guide; distro recommendations; software alternatives; gaming on Linux; dual-boot vs full switch (complete)
 - [[Pop-OS-Dual-Boot-Setup-Guide]] — full dual-boot guide for gaming PC + Nvidia GPU: Windows prep, Rufus USB, BIOS setup, partition, install, first boot, CS2 + RuneLite gaming setup, troubleshooting checklist (complete)
