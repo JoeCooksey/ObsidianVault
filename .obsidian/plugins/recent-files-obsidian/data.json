@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Human Hormones Master Reference and Ranking",
+      "path": "wiki/concepts/Human Hormones Master Reference and Ranking.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef",
       "path": "wiki/questions/Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Scrambled Egg Science",
       "path": "wiki/concepts/Scrambled Egg Science.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Low-Demand Job Downtime Playbook",
@@ -195,10 +199,6 @@
     {
       "basename": "OSRS Mid-Game Progression Goals",
       "path": "wiki/concepts/OSRS Mid-Game Progression Goals.md"
-    },
-    {
-      "basename": "OSRS AFK Money-Making Methods",
-      "path": "wiki/concepts/OSRS AFK Money-Making Methods.md"
     }
   ],
   "omittedPaths": [],
