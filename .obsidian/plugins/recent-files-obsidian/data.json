@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Human Hormones Master Reference and Ranking",
-      "path": "wiki/concepts/Human Hormones Master Reference and Ranking.md"
+      "basename": "Human Organs Master Reference and Ranking",
+      "path": "wiki/concepts/Human Organs Master Reference and Ranking.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Human Hormones Master Reference and Ranking",
+      "path": "wiki/concepts/Human Hormones Master Reference and Ranking.md"
     },
     {
       "basename": "Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef",
@@ -195,10 +199,6 @@
     {
       "basename": "OSRS Ironman Mid Game",
       "path": "wiki/concepts/OSRS Ironman Mid Game.md"
-    },
-    {
-      "basename": "OSRS Mid-Game Progression Goals",
-      "path": "wiki/concepts/OSRS Mid-Game Progression Goals.md"
     }
   ],
   "omittedPaths": [],
