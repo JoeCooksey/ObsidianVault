@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-22] autoresearch | Cooking Best-Tasting Scrambled Eggs and Ground Beef
+- Rounds: 2
+- Sources found: Christopher Kimball (creamiest eggs), ATK/The Kitchn (baking soda), MasterClass (Ramsay), The Kitchn (Kenji starch hack), Food Republic (water vs milk), Tasting Table + Amanda's Cookin' (browning), RawSpiceBar/Seasoned Mom (seasoning), ATK + Live Simply (pairings)
+- Pages created: [[Maillard Reaction]], [[Scrambled Egg Science]], [[Scrambled Eggs — Masterclass]], [[Scrambled Egg Pairings and Add-Ins]], [[Ground Beef Browning Science]], [[Ground Beef Browning — Masterclass]], [[Ground Beef Seasoning and Pairings]], [[J. Kenji López-Alt]], [[Christopher Kimball — Creamiest Scrambled Eggs]], [[ATK — Baking Soda for Ground Beef]]
+- Synthesis: [[Research - Cooking Best-Tasting Scrambled Eggs and Ground Beef]]
+- Key finding: two foods, two opposite heat philosophies — eggs cook *gentle and below browning temp* (slow protein coagulation: low heat, fat, gentle stir, salt timing, pull early) while beef cooks *hot and dry above ~300°F* to maximize the [[Maillard Reaction]] (hot pan, ¼ tsp baking soda/12 oz, don't crowd, leave undisturbed 3–4 min, drain grease, bloom spices in the fond). Best egg style = soft French/Ramsay on-off-heat finished with cold crème fraîche; baking soda is the single biggest beef-browning trick.
+
 ## [2026-06-22] autoresearch | Best Things To Do During Downtime at a Low-Demand Job
 - Rounds: 2
 - Sources found: 2 cited ([[Gloria Mark - The Cost of Interrupted Work]], [[Indeed - Productive Things To Do During Slow Days at Work]]) + existing leisure/learning clusters
