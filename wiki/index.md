@@ -123,6 +123,15 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Breadboard Electronics — Getting Started, Coolest Projects, Project Ladder (2026-06-23)
+- [[Research - Breadboard Electronics (Getting Started + Coolest Projects + Ladder)]] — **synthesis**: what you need (~$40–70 kit, no soldering), how the board works, the coolest builds (theremin → Ben Eater 8-bit computer), and the LED→555→transistor→MCU→CPU ladder
+- [[How a Breadboard Works]] — anatomy: 0.1" tie points, 5-hole terminal rows, center ravine for DIP chips, `+`/`–` power rails; board sizes (170/400/830/2000+)
+- [[Breadboard Starter Kit (What You Need)]] — 3-tier gear list: Tier 1 board+jumpers+power+multimeter+component bag; Tier 2 microcontroller/sensors; Tier 3 soldering (buy-later)
+- [[Coolest Breadboard Projects]] — showcase by impressiveness: 555 flashers/sirens/roulette → theremin/synth/LM386 amp → Ben Eater 8-bit computer / Snake / 4-bit transistor CPU
+- [[Breadboard Project Ladder]] — 17-rung progression in 5 tiers (first LED → 555 timing → transistor/analog → microcontroller → discrete logic → 8-bit computer)
+- Entities: [[555 Timer IC]] (the gateway timing chip) · [[Raspberry Pi Pico]] ($4 breadboard MCU vs Arduino) · [[Ben Eater]] (8-bit breadboard computer educator)
+- Sources: [[SparkFun — How to Use a Breadboard]] · [[Starting Electronics — Beginner's Tools]] · [[Science Buddies — 10 Breadboard Projects to Get Started]] · [[Ben Eater — Build an 8-bit Computer]]
+
 ### Homemade Ice Cream — Ninja CREAMi Health & "Ice Cream for Bears" Honey Custard (2026-06-22)
 - [[Research - How Healthy Are Ninja CREAMis]] — **synthesis**: a CREAMi is an *appliance*, so health = the recipe; a typical RD protein base is genuinely good (20–40g protein, 235–400 cal/pint vs ~478 cal/cup store), caveats = clean powder + light toppings
 - [[Research - Mimicking Ice Cream for Bears (Honey Custard)]] — **synthesis**: "Ice Cream for Bears" is a St. Louis honey-custard *brand*, not bear food; mimic with a 3-ingredient French custard
