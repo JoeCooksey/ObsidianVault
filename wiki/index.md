@@ -126,6 +126,14 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Shopping — Best Prime Day 2026 Deals (Cross-Retailer) (2026-06-23)
+- [[Research - Best Prime Day 2026 Deals (Cross-Retailer)]] — **synthesis**: four US sale events run the same week (Amazon Jun 23–26, Walmart Jun 22–28, Target Jun 23–26, Best Buy thru Jun 28); only Amazon needs paid membership; best buys = Apple audio/wearables, premium ANC headphones, OLED TVs at Best Buy, power stations — several at all-time lows
+- [[Retail Deal-Event Convergence (2026)]] — why all four events collide in one June week; shop by item not store; price-matching is limited
+- [[Price-Tracking Tools (Keepa and Camelizer)]] — verify a "deal" is a real low before buying
+- Events: [[Amazon Prime Day 2026]] · [[Walmart Deals Event (June 2026)]] · [[Target Circle Deal Days (June 2026)]] · [[Best Buy Tech Fest (June 2026)]]
+- Sources: [[9to5Mac — Best Apple Prime Day 2026 Deals]] · [[Rolling Stone — Prime Day 2026 Audio Deals]] · [[Electrek — Prime Day 2026 Green Deals]] · [[The Krazy Coupon Lady — Walmart Deals 2026]] · [[The Krazy Coupon Lady — Target Circle Deal Days 2026]]
+- > [!info] Time-sensitive — deals live Jun 23–28, 2026; prices verified on research date, confirm at checkout
+
 ### Breadboard Electronics — Getting Started, Coolest Projects, Project Ladder (2026-06-23)
 - [[Research - Breadboard Electronics (Getting Started + Coolest Projects + Ladder)]] — **synthesis**: what you need (~$40–70 kit, no soldering), how the board works, the coolest builds (theremin → Ben Eater 8-bit computer), and the LED→555→transistor→MCU→CPU ladder
 - [[How a Breadboard Works]] — anatomy: 0.1" tie points, 5-hole terminal rows, center ravine for DIP chips, `+`/`–` power rails; board sizes (170/400/830/2000+)

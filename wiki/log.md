@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-23] autoresearch | Best Prime Day 2026 Deals (Cross-Retailer)
+- Rounds: 3 | Searches: 7 + 7 fetches (NBC/CNN/TechRadar/Tom's Hardware bodies blocked 403/451/truncated)
+- Sources found: 9to5Mac, Rolling Stone, Electrek, KCL (Walmart + Target), plus search-confirmed NBC/TechTimes (Best Buy)
+- Pages created (12): [[Research - Best Prime Day 2026 Deals (Cross-Retailer)]], [[Amazon Prime Day 2026]], [[Walmart Deals Event (June 2026)]], [[Target Circle Deal Days (June 2026)]], [[Best Buy Tech Fest (June 2026)]], [[Retail Deal-Event Convergence (2026)]], [[Price-Tracking Tools (Keepa and Camelizer)]] + sources [[9to5Mac — Best Apple Prime Day 2026 Deals]], [[Rolling Stone — Prime Day 2026 Audio Deals]], [[Electrek — Prime Day 2026 Green Deals]], [[The Krazy Coupon Lady — Walmart Deals 2026]], [[The Krazy Coupon Lady — Target Circle Deal Days 2026]]
+- Synthesis: [[Research - Best Prime Day 2026 Deals (Cross-Retailer)]]
+- Key finding: Four US sale events overlap the week of Jun 22–28, 2026 — Amazon Prime Day (Jun 23–26, paid Prime), Walmart Deals (Jun 22–28, no membership), Target Circle Deal Days (Jun 23–26, free Circle), Best Buy Tech Fest (thru Jun 28, no membership). Only Amazon gates behind paid membership. Best buys: AirPods Pro 3 $179 (all-time low), Sony WH-1000XM5 $198 (50% off), Apple Watch 11 from $279 (all-time low), LG 48" B5 OLED $599.99 at Best Buy (54% off), Jackery Explorer 1000 V2 $400 (50% off). Shop by item not store; verify lows with Keepa/Camelizer.
+
 ## [2026-06-23] autoresearch | Breadboard Electronics — Getting Started, Coolest Projects, Project Ladder
 - Rounds: 3 | Searches: 6 + 3 fetches (2 blocked: Science Buddies 403, Instructables body)
 - Pages created (12): [[Research - Breadboard Electronics (Getting Started + Coolest Projects + Ladder)]], [[How a Breadboard Works]], [[Breadboard Starter Kit (What You Need)]], [[Coolest Breadboard Projects]], [[Breadboard Project Ladder]], [[555 Timer IC]], [[Raspberry Pi Pico]], [[Ben Eater]] + sources [[SparkFun — How to Use a Breadboard]], [[Starting Electronics — Beginner's Tools]], [[Science Buddies — 10 Breadboard Projects to Get Started]], [[Ben Eater — Build an 8-bit Computer]]
