@@ -53,7 +53,8 @@
       "Bash(del conflict-files-obsidian-git.md)",
       "Bash(git push *)",
       "Bash(git pull *)",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "WebFetch(domain:thelearnerlab.com)"
     ]
   },
   "enabledPlugins": {}
