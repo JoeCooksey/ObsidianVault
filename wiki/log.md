@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-22] autoresearch | How Healthy Are Ninja CREAMis + Mimicking Ice Cream for Bears
+- Rounds: 2 | Searches: 6 + 5 fetches
+- Two distinct topics filed as two syntheses
+- Pages created (11): [[Research - How Healthy Are Ninja CREAMis]], [[Research - Mimicking Ice Cream for Bears (Honey Custard)]], [[Ninja CREAMi]], [[Ice Cream for Bears]], [[Protein Ice Cream (Ninja CREAMi) Health Profile]], [[Honey-Sweetened Custard Ice Cream]] + sources [[Maria Lucey — Ninja CREAMi Protein Ice Cream]], [[Forks Over Knives — Ninja CREAMi Comparison]], [[Feast Magazine — Ice Cream for Bears]], [[Ice Cream for Bears (official site)]], [[The Cook's Treat — Vanilla Honey Custard Ice Cream]]
+- Synthesis: [[Research - How Healthy Are Ninja CREAMis]] · [[Research - Mimicking Ice Cream for Bears (Honey Custard)]]
+- Key finding: (1) "Ninja CREAMi" is an appliance — health is 100% recipe-dependent; a typical RD protein base is genuinely good (20–40g protein, 235–400 cal/pint vs ~478 cal/cup store) with clean-powder + light-toppings caveats. (2) "Ice Cream for Bears" is a St. Louis honey-custard BRAND, not bear food; mimic it with a 3-ingredient French custard — grass-fed milk + raw honey + egg yolks (3 yolks:½c honey:1c milk:2c cream), no gums; honey is hygroscopic → stays scoopable.
+
 ## [2026-06-22] autoresearch | Best Way to Invest in Yourself
 - Rounds: 2 | Searches: 6 + 3 fetches
 - Sources found: 3 new cited ([[Tamborini Kim Sakamoto 2015 — Education and Lifetime Earnings]] + reused [[Waldinger Schulz — The Good Life (Harvard Study)]], [[Deep Work — Cal Newport]])

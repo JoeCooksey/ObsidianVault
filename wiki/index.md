@@ -118,8 +118,18 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[RPM Fitness]] — Comp 4 speed rope ($70); dual-axis bearing; CrossFit Games standard for double-unders
 - [[WOD Nation]] — best-value brand; Adjustable Speed rope (~$15) + Atlas weighted ($27.99)
 - [[Cal Newport]] — Georgetown CS prof; *So Good They Can't Ignore You* + *Deep Work*; career capital, "don't follow your passion," deep work
+- [[Ninja CREAMi]] — freeze-then-shave countertop dessert maker (~$250); nutritionally neutral — health depends entirely on the base you put in
+- [[Ice Cream for Bears]] — St. Louis "farm-to-cone" ice cream brand (founder Timothy Berg); 3-ingredient honey custard (grass-fed milk + raw honey + egg yolks), no gums/refined sugar
 
 ## Concepts
+
+### Homemade Ice Cream — Ninja CREAMi Health & "Ice Cream for Bears" Honey Custard (2026-06-22)
+- [[Research - How Healthy Are Ninja CREAMis]] — **synthesis**: a CREAMi is an *appliance*, so health = the recipe; a typical RD protein base is genuinely good (20–40g protein, 235–400 cal/pint vs ~478 cal/cup store), caveats = clean powder + light toppings
+- [[Research - Mimicking Ice Cream for Bears (Honey Custard)]] — **synthesis**: "Ice Cream for Bears" is a St. Louis honey-custard *brand*, not bear food; mimic with a 3-ingredient French custard
+- [[Protein Ice Cream (Ninja CREAMi) Health Profile]] — the health answer: numbers, why it's healthy, the honest caveats (sugar isn't zero, sweetener GI/aftertaste, powder quality)
+- [[Honey-Sweetened Custard Ice Cream]] — **the runnable recipe**: 3 yolks : ½c raw honey : 1c milk : 2c cream + honey science (hygroscopic → scoopable; ~1.25–1.5× sweetness)
+- Entities: [[Ninja CREAMi]] (freeze-then-shave dessert maker) · [[Ice Cream for Bears]] (Timothy Berg's farm-to-cone honey-custard brand)
+- Sources: [[Maria Lucey — Ninja CREAMi Protein Ice Cream]] · [[Forks Over Knives — Ninja CREAMi Comparison]] · [[Feast Magazine — Ice Cream for Bears]] · [[Ice Cream for Bears (official site)]] · [[The Cook's Treat — Vanilla Honey Custard Ice Cream]]
 
 ### Investing in Yourself (2026-06-22)
 - [[Investing in Yourself (Self-Investment)]] — umbrella concept: allocate time/money/attention into skills, health, relationships, habits that compound and can't be taxed/taken; 4 buckets + compounding mechanism
