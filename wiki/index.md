@@ -48,6 +48,9 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
 ## Entities
+- [[555 Timer IC]] — the 8-pin gateway timing chip (1972); astable/monostable/bistable; LED flashers, sirens, timers with no code
+- [[Raspberry Pi Pico]] — ~$4 RP2040 microcontroller; breadboard-friendly DIP, MicroPython, ~8.3× perf/watt of an Arduino Uno
+- [[Ben Eater]] — educator behind the iconic 8-bit breadboard computer (74-series TTL); Snake/VGA offshoots; logic→CPU bridge
 - [[Kirkland Signature Stir-Fry Vegetable Blend]] — Costco frozen stir-fry mix (conventional); ~6 of 8 ingredients are Clean Fifteen → poor candidate for the organic premium
 - [[Hypertrophy Academy]] — fitness YouTube channel; hypertrophy training/nutrition/recovery for young high performers; source of the [[Sleepmaxxing Protocol]]
 - [[Oura Ring]] — smart-ring sleep/recovery tracker; finger-worn, less obtrusive than wrist wearables
