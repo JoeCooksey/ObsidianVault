@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-23] autoresearch | Breadboard Electronics — Getting Started, Coolest Projects, Project Ladder
+- Rounds: 3 | Searches: 6 + 3 fetches (2 blocked: Science Buddies 403, Instructables body)
+- Pages created (12): [[Research - Breadboard Electronics (Getting Started + Coolest Projects + Ladder)]], [[How a Breadboard Works]], [[Breadboard Starter Kit (What You Need)]], [[Coolest Breadboard Projects]], [[Breadboard Project Ladder]], [[555 Timer IC]], [[Raspberry Pi Pico]], [[Ben Eater]] + sources [[SparkFun — How to Use a Breadboard]], [[Starting Electronics — Beginner's Tools]], [[Science Buddies — 10 Breadboard Projects to Get Started]], [[Ben Eater — Build an 8-bit Computer]]
+- Synthesis: [[Research - Breadboard Electronics (Getting Started + Coolest Projects + Ladder)]]
+- Key finding: Starting is cheap and solder-free (~$40–70: breadboard + jumpers + 5 V source + multimeter + component grab-bag, or one bundled kit). The board = 0.1" tie points, 5-hole terminal rows, center ravine for DIP chips, `+`/`–` power rails. The [[555 Timer IC]] is the no-code gateway chip. Coolest builds scale from 555 flashers/sirens to a theremin/synth up to [[Ben Eater]]'s 8-bit breadboard computer. Ladder = LED → 555 timing → transistor/analog → microcontroller ([[Raspberry Pi Pico]] ~$4 vs Arduino) → discrete logic → 8-bit CPU (17 rungs, 5 tiers).
+
 ## [2026-06-22] autoresearch | How Healthy Are Ninja CREAMis + Mimicking Ice Cream for Bears
 - Rounds: 2 | Searches: 6 + 5 fetches
 - Two distinct topics filed as two syntheses
