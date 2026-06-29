@@ -2,7 +2,7 @@
 type: synthesis
 title: "Research: Norwegian 4x4 HIIT Masterclass (Running and Rowing)"
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-29
 tags:
   - research
   - fitness
@@ -16,6 +16,7 @@ related:
   - "[[Norwegian 4x4 Interval Protocol]]"
   - "[[4x4 Intervals for Running]]"
   - "[[4x4 Intervals for Rowing]]"
+  - "[[Getting Your Heart Rate Up on the Rower]]"
   - "[[Jan Helgerud]]"
   - "[[Ulrik Wisløff]]"
   - "[[VO2 Max Interval Training]]"
@@ -27,6 +28,7 @@ sources:
   - "[[Generation 100 Study — HIIT and Mortality 2020]]"
   - "[[Norwegian 4x4 — PureGym Practical Guide]]"
   - "[[Rowing VO2max Intervals — Erg Practical Notes]]"
+  - "[[Yoshiga 2002 — HR Lower in Rowing than Running]]"
 ---
 
 # Research: Norwegian 4x4 HIIT Masterclass (Running and Rowing)
