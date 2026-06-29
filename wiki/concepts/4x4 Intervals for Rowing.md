@@ -14,6 +14,7 @@ tags:
 related:
   - "[[Norwegian 4x4 Interval Protocol]]"
   - "[[4x4 Intervals for Running]]"
+  - "[[Getting Your Heart Rate Up on the Rower]]"
 ---
 
 # 4x4 Intervals for Rowing
