@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-29] autoresearch | Norwegian 4x4 Tips + Getting HR Up on the Rower
+- Rounds: 1 (topic already heavily researched — gap-fill, not new build) | Searches: 2 + 3 fetches (coachbergenroth + c2forum blocked 403; Yoshiga PubMed + rowingrelated fetched)
+- Existing coverage reused: [[Research - Norwegian 4x4 HIIT Masterclass (Running and Rowing)]] + [[Norwegian 4x4 Interval Protocol]] + [[4x4 Intervals for Rowing]] + [[4x4 Intervals for Running]] already answer "how to do the 4x4"
+- Pages created (2): [[Getting Your Heart Rate Up on the Rower]] (concept), [[Yoshiga 2002 — HR Lower in Rowing than Running]] (source); updated masterclass synthesis + 4x4-rowing concept + index
+- Synthesis: [[Research - Norwegian 4x4 HIIT Masterclass (Running and Rowing)]] (updated)
+- Key finding: The 4x4 = 4×4 min @ 85–95% HRmax / 3 min easy ×4, 2×/wk, build to the 4th rep. For the "HR won't go up on the rower" question: ~4–6 bpm of it is *normal* (rowing HR < running at matched intensity — seated position + big muscle mass → better venous return → higher stroke volume, Yoshiga 2002); the rest is fixable — drive with legs (60/30/10), power-per-stroke > stroke rate, drag 120–130 (higher ≠ harder), pace by split/watts from stroke 1 since HR lags 60–90 s.
+
 ## [2026-06-29] autoresearch | Best EE Student Skills + Fiction Reading Roadmaps
 - Rounds: 2 | Searches: 4 + 2 fetches (EIT.edu.au blocked 403; Public Books fetched)
 - Sources found: Research.com (2026 EE skills), Siemens (2024 hiring survey), Public Books (engineer fiction essay); reused existing First-Year ASU EE + Fiction Must-Reads pages
