@@ -64,6 +64,12 @@ The Norwegian 4x4 is the most-studied HIIT protocol for raising VO2 max — **fo
 - **Drag factor ~120–130** (damper ~3–5). If you can't hold 28–32 spm, drag is too high.
 - Program Concept2 monitor: Intervals: Time → 4:00 / 3:00 ×4. Hold technique on rep 4. Lower-impact alternative to running 4x4.
 
+### Can't get your HR up on the erg? → [[Getting Your Heart Rate Up on the Rower]]
+The most common rowing-4x4 problem. Three things to know:
+- **Part of it is normal.** At matched intensity, rowing HR runs ~4–6 bpm *below* running (seated position + big muscle mass → better venous return → higher stroke volume). Don't chase your running HR; pace by **split/watts**. (Source: [[Yoshiga 2002 — HR Lower in Rowing than Running]])
+- **#1 fix = drive with the legs (60/30/10 legs/trunk/arms), power per stroke > stroke rate.** Arms-first rowing is the classic HR-killer. If split stays flat while rate climbs, that's a technique/power problem.
+- **Pace hard from stroke 1** (HR lags 60–90 s) and **set drag ~120–130 (damper 3–5)** — higher drag is *not* harder, it just rewards bad technique.
+
 ## Key Entities
 - [[Jan Helgerud]]: NTNU physiologist, co-developer (with Jan Hoff) of the 4x4 format.
 - [[Ulrik Wisløff]]: head of CERG (NTNU); clinical + longevity evidence base, "Fitness Age" estimator.
