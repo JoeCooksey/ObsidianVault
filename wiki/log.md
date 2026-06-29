@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-06-29] autoresearch | Best EE Student Skills + Fiction Reading Roadmaps
+- Rounds: 2 | Searches: 4 + 2 fetches (EIT.edu.au blocked 403; Public Books fetched)
+- Sources found: Research.com (2026 EE skills), Siemens (2024 hiring survey), Public Books (engineer fiction essay); reused existing First-Year ASU EE + Fiction Must-Reads pages
+- Pages created (6): [[Research - Best EE Student Skills + Fiction Reading Roadmaps]] (synthesis), [[EE Student Skill Stack (Ranked)]], [[Fiction Roadmap for EE Skills (Sci-Fi to Skill Map)]], [[Andy Weir]], [[Research.com — Most Valuable EE Degree Skills]], [[Siemens — 7 In-Demand EE Skills]], [[Public Books — 16 Books That Make You Want to Be an Engineer]]
+- Synthesis: [[Research - Best EE Student Skills + Fiction Reading Roadmaps]]
+- Key finding: Skills rank math → circuit intuition → one language → lab tools → specialty → communication (communication is the #1 employer-ranked skill). On "fiction to learn these skills": no novel teaches the math — fiction trains the *engineering mind* (constraint solving, systems thinking, ethics, motivation). Andy Weir (The Martian / Project Hail Mary) is the on-ramp; reading order Weir → Ender's Game → Rocket Boys → Dune → Cat's Cradle. Skills come from textbooks/labs; fiction is the mindset layer underneath.
+
 ## [2026-06-23] autoresearch | Best Prime Day 2026 Deals (Cross-Retailer)
 - Rounds: 3 | Searches: 7 + 7 fetches (NBC/CNN/TechRadar/Tom's Hardware bodies blocked 403/451/truncated)
 - Sources found: 9to5Mac, Rolling Stone, Electrek, KCL (Walmart + Target), plus search-confirmed NBC/TechTimes (Best Buy)
