@@ -3,7 +3,7 @@ type: concept
 title: "4x4 Intervals for Rowing"
 status: developing
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-29
 tags:
   - fitness
   - rowing
