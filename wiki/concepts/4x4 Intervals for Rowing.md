@@ -50,7 +50,11 @@ Total ≈ 35–40 min.
 - A common simpler erg variant uses **4 × 4 min with 2 min rest, building pace each rep** — slightly shorter rest than the 3-min Norwegian standard but the same negative-split intent. Use 3 min rest to stay true to the protocol. (Source: [[Rowing VO2max Intervals — Erg Practical Notes]])
 - Lower impact than running 4x4 — good option on days legs are beat up from running or lifting.
 
+## Can't get your HR into zone?
+The most common erg complaint. Short version: part of it is normal (rowing HR runs a few bpm below running at the same intensity), and the rest is almost always **arm-pulling instead of leg-driving** or **too little power per stroke**. Full troubleshooting → [[Getting Your Heart Rate Up on the Rower]].
+
 ## Related
 - [[Norwegian 4x4 Interval Protocol]]
 - [[4x4 Intervals for Running]]
+- [[Getting Your Heart Rate Up on the Rower]]
 - [[VO2 Max Interval Training]]
