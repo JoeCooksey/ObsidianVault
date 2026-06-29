@@ -123,6 +123,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Cal Newport]] — Georgetown CS prof; *So Good They Can't Ignore You* + *Deep Work*; career capital, "don't follow your passion," deep work
 - [[Ninja CREAMi]] — freeze-then-shave countertop dessert maker (~$250); nutritionally neutral — health depends entirely on the base you put in
 - [[Ice Cream for Bears]] — St. Louis "farm-to-cone" ice cream brand (founder Timothy Berg); 3-ingredient honey custard (grass-fed milk + raw honey + egg yolks), no gums/refined sugar
+- [[Andy Weir]] — hard-SF author (The Martian, Project Hail Mary); defining "engineering-joy" fiction; best fiction on-ramp for an EE student
 
 ## Concepts
 
