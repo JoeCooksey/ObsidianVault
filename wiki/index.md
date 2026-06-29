@@ -126,6 +126,12 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### EE Student Skills + Fiction Reading Roadmaps (2026-06-29)
+- [[Research - Best EE Student Skills + Fiction Reading Roadmaps]] — **synthesis**: best EE skills rank math → circuit intuition → one language → lab tools → specialty → communication (#1 employer skill); "fiction to learn these skills" reframed — fiction builds the *engineering mind* (constraint solving, systems thinking, ethics, motivation), not the math
+- [[EE Student Skill Stack (Ranked)]] — full-degree ranked skill tiers (S foundational → C multipliers), folds in 2026 AI/WBG frontier
+- [[Fiction Roadmap for EE Skills (Sci-Fi to Skill Map)]] — book → mindset map; Weir (constraint solving) → Dune/Seveneves (systems) → Rocket Boys (build-from-scraps) → Ender's Game (strategy) → Cat's Cradle/Frankenstein (ethics); phased reading order
+- Source pages: [[Research.com — Most Valuable EE Degree Skills]] · [[Siemens — 7 In-Demand EE Skills]] · [[Public Books — 16 Books That Make You Want to Be an Engineer]]
+
 ### Shopping — Best Prime Day 2026 Deals (Cross-Retailer) (2026-06-23)
 - [[Research - Best Prime Day 2026 Deals (Cross-Retailer)]] — **synthesis**: four US sale events run the same week (Amazon Jun 23–26, Walmart Jun 22–28, Target Jun 23–26, Best Buy thru Jun 28); only Amazon needs paid membership; best buys = Apple audio/wearables, premium ANC headphones, OLED TVs at Best Buy, power stations — several at all-time lows
 - [[Retail Deal-Event Convergence (2026)]] — why all four events collide in one June week; shop by item not store; price-matching is limited
