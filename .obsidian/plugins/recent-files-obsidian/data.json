@@ -5,6 +5,10 @@
       "path": "wiki/concepts/Getting Your Heart Rate Up on the Rower.md"
     },
     {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "4x4 Intervals for Rowing",
       "path": "wiki/concepts/4x4 Intervals for Rowing.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "EE Student Skill Stack (Ranked)",
       "path": "wiki/concepts/EE Student Skill Stack (Ranked).md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - Best Prime Day 2026 Deals (Cross-Retailer)",
