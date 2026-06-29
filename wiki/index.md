@@ -587,6 +587,7 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[Norwegian 4x4 Interval Protocol]] — **masterclass hub**: 4×4 min @ 85–95% HRmax / 3 min active recovery, 2×/week; ~7–13% VO2max in 8 wk (≈2× MICT); NTNU Helgerud/Hoff + Wisløff; pace for the 4th rep, HR peaks ~93% (stable)
 - [[4x4 Intervals for Running]] — run harder than 5K pace; treadmill ≥5% incline or speed; outdoor flat/hill; commit to pace (HR lags 60–90 s) (developing)
 - [[4x4 Intervals for Rowing]] — target watts/500m split ≈ 2K + 2–5 s; 28–32 spm work / 18–20 recovery; drag factor 120–130; Concept2 interval program (developing)
+- [[Getting Your Heart Rate Up on the Rower]] — why erg HR won't climb + fixes: ~4–6 bpm naturally lower than running ([[Yoshiga 2002 — HR Lower in Rowing than Running]]); #1 fix = leg drive (60/30/10), power-per-stroke > rate, drag 120–130, pace from stroke 1 (HR lags 60–90 s) (developing)
 - [[Strength Training for Cyclists]] — 4-phase off-season gym arc: Adaptation → Hypertrophy → Strength → Power (developing)
 - [[Bulk and Cut Decision Framework]] — BF%-based decision rule; lean bulk/cut/recomp protocols; calorie math; cycle structure (developing)
 - [[FFMI Natural Muscle Potential]] — FFMI formula, scale 16–25+, 5'9" reference table, natural ceiling ~25 (developing)
