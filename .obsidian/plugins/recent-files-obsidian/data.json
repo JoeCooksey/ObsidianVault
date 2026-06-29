@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Fiction Roadmap for EE Skills (Sci-Fi to Skill Map)",
+      "path": "wiki/concepts/Fiction Roadmap for EE Skills (Sci-Fi to Skill Map).md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
+    },
+    {
       "basename": "Research - Best Prime Day 2026 Deals (Cross-Retailer)",
       "path": "wiki/questions/Research - Best Prime Day 2026 Deals (Cross-Retailer).md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Amazon Prime Day 2026",
       "path": "wiki/entities/Amazon Prime Day 2026.md"
-    },
-    {
-      "basename": "log",
-      "path": "wiki/log.md"
     },
     {
       "basename": "Research - How Healthy Are Ninja CREAMis",
@@ -195,10 +199,6 @@
     {
       "basename": "High Testosterone Signs (Men)",
       "path": "wiki/concepts/High Testosterone Signs (Men).md"
-    },
-    {
-      "basename": "Low Testosterone Signs and Symptoms (Men)",
-      "path": "wiki/concepts/Low Testosterone Signs and Symptoms (Men).md"
     }
   ],
   "omittedPaths": [],
