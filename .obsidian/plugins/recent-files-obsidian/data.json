@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting Your Heart Rate Up on the Rower",
+      "path": "wiki/concepts/Getting Your Heart Rate Up on the Rower.md"
+    },
+    {
+      "basename": "4x4 Intervals for Rowing",
+      "path": "wiki/concepts/4x4 Intervals for Rowing.md"
+    },
+    {
       "basename": "Fiction Roadmap for EE Skills (Sci-Fi to Skill Map)",
       "path": "wiki/concepts/Fiction Roadmap for EE Skills (Sci-Fi to Skill Map).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Problem-Solving Practice Activities (Concrete Menu)",
       "path": "wiki/concepts/Problem-Solving Practice Activities (Concrete Menu).md"
-    },
-    {
-      "basename": "Problem-Solving Skill-Building Protocol",
-      "path": "wiki/concepts/Problem-Solving Skill-Building Protocol.md"
-    },
-    {
-      "basename": "C and C++ Embedded Tutor Prompt (Power-Focused)",
-      "path": "wiki/concepts/C and C++ Embedded Tutor Prompt (Power-Focused).md"
     }
   ],
   "omittedPaths": [],
