@@ -5,6 +5,10 @@
       "path": "wiki/concepts/Fiction Roadmap for EE Skills (Sci-Fi to Skill Map).md"
     },
     {
+      "basename": "EE Student Skill Stack (Ranked)",
+      "path": "wiki/concepts/EE Student Skill Stack (Ranked).md"
+    },
+    {
       "basename": "log",
       "path": "wiki/log.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "C and C++ Embedded Tutor Prompt (Power-Focused)",
       "path": "wiki/concepts/C and C++ Embedded Tutor Prompt (Power-Focused).md"
-    },
-    {
-      "basename": "High Testosterone Signs (Men)",
-      "path": "wiki/concepts/High Testosterone Signs (Men).md"
     }
   ],
   "omittedPaths": [],
