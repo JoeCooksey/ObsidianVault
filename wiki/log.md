@@ -11,6 +11,13 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-07-16] autoresearch | Artificial Sweeteners — Studies & Merit in Diet Sodas
+- Rounds: 2 | Searches: 7 PubMed + 2 web | Sources found: 9 landmark studies (WHO 2023 guideline, Debras/NutriNet-Santé BMJ 2022, Sun/UK Biobank 2024, Suez/Cell 2022, Witkowski/Nat Med 2023, IARC-JECFA aspartame 2023, Harrold RCT 2023, Azad 2017 + Toews 2019 meta-analyses)
+- Pages created: 15 — Sources: [[WHO 2023 Guideline on Non-Sugar Sweeteners]], [[Debras 2022 - Artificial Sweeteners and Cardiovascular Disease (NutriNet-Sante)]], [[Sun 2024 - Artificial Sweeteners and CVD (UK Biobank)]], [[Suez 2022 - Sweeteners Alter Human Glucose Tolerance (Cell)]], [[Witkowski 2023 - Erythritol and Cardiovascular Risk (Nature Medicine)]], [[IARC-JECFA 2023 Aspartame Assessment]], [[Harrold 2023 - NNS Beverages vs Water RCT]], [[Meta-Analyses of Nonsugar Sweeteners (Azad 2017 + Toews 2019)]]; Concepts: [[Non-Nutritive Sweeteners and Diet Soda Merit Verdict]], [[RCT vs Cohort Evidence Split (Nonsugar Sweeteners)]], [[Reverse Causation in Sweetener Cohort Studies]], [[Personalized Glycemic Response to Sweeteners]], [[Non-Nutritive Sweeteners Overview]]; Entity: [[Aspartame]]
+- Synthesis: [[Research - Artificial Sweeteners (Studies and Merit in Diet Sodas)]]
+- Updated existing [[Artificial Sweeteners Gut Review]] with back-links
+- Key finding: evidence is genuinely split — short-term RCTs favor sweeteners vs sugar, long-term cohorts flag CVD/diabetes (mostly reverse causation, ~70% mediated by pre-existing diabetes in UK Biobank); diet soda beats sugar soda, loses to water; aspartame IARC 2B is hazard-not-risk (ADI ≈ 9–14 cans/day, JECFA reaffirmed safe)
+
 ## [2026-06-29] autoresearch | Norwegian 4x4 Tips + Getting HR Up on the Rower
 - Rounds: 1 (topic already heavily researched — gap-fill, not new build) | Searches: 2 + 3 fetches (coachbergenroth + c2forum blocked 403; Yoshiga PubMed + rowingrelated fetched)
 - Existing coverage reused: [[Research - Norwegian 4x4 HIIT Masterclass (Running and Rowing)]] + [[Norwegian 4x4 Interval Protocol]] + [[4x4 Intervals for Rowing]] + [[4x4 Intervals for Running]] already answer "how to do the 4x4"
