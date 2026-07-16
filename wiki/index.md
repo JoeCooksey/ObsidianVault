@@ -127,6 +127,16 @@ Master catalog of all wiki pages. Update on every ingest.
 
 ## Concepts
 
+### Artificial Sweeteners — Studies & Merit in Diet Sodas (2026-07-16)
+- [[Research - Artificial Sweeteners (Studies and Merit in Diet Sodas)]] — **synthesis**: the literature is split — short-term RCTs favor sweeteners over sugar, long-term cohorts flag CVD/diabetes associations (mostly reverse causation); diet soda is better than sugar soda, worse than water; aspartame's cancer flag is hazard-not-risk
+- [[Non-Nutritive Sweeteners and Diet Soda Merit Verdict]] — **the answer**: merit scorecard by claim (cancer=low, better-than-sugar=high, weight-loss-vs-water=low/moderate, harmless=low, causes-heart-disease=weak)
+- [[RCT vs Cohort Evidence Split (Nonsugar Sweeteners)]] — the two best study designs point opposite ways; know which one a headline cites
+- [[Reverse Causation in Sweetener Cohort Studies]] — sick/dieting people pick diet drinks; Sun 2024 shows ~70% of the CVD link is mediated by pre-existing diabetes
+- [[Personalized Glycemic Response to Sweeteners]] — your microbiome decides if a sweetener moves your glucose (Suez 2022)
+- [[Non-Nutritive Sweeteners Overview]] — the molecule matters: aspartame/stevia (cleanest) vs sucralose/saccharin (clearest signal) vs erythritol (clot risk, not in most sodas)
+- Entity: [[Aspartame]] (IARC 2B "possible carcinogen" but reassuring on dose; ADI ≈ 9–14 cans/day)
+- Sources: [[WHO 2023 Guideline on Non-Sugar Sweeteners]] · [[Debras 2022 - Artificial Sweeteners and Cardiovascular Disease (NutriNet-Sante)]] · [[Sun 2024 - Artificial Sweeteners and CVD (UK Biobank)]] · [[Suez 2022 - Sweeteners Alter Human Glucose Tolerance (Cell)]] · [[Witkowski 2023 - Erythritol and Cardiovascular Risk (Nature Medicine)]] · [[IARC-JECFA 2023 Aspartame Assessment]] · [[Harrold 2023 - NNS Beverages vs Water RCT]] · [[Meta-Analyses of Nonsugar Sweeteners (Azad 2017 + Toews 2019)]]
+
 ### EE Student Skills + Fiction Reading Roadmaps (2026-06-29)
 - [[Research - Best EE Student Skills + Fiction Reading Roadmaps]] — **synthesis**: best EE skills rank math → circuit intuition → one language → lab tools → specialty → communication (#1 employer skill); "fiction to learn these skills" reframed — fiction builds the *engineering mind* (constraint solving, systems thinking, ethics, motivation), not the math
 - [[EE Student Skill Stack (Ranked)]] — full-degree ranked skill tiers (S foundational → C multipliers), folds in 2026 AI/WBG frontier
