@@ -31,6 +31,9 @@ key_claims:
 - **Caveats:** effects are person-, dose-, and compound-dependent; saccharin and sucralose show the clearest signal, **aspartame less so**; human RCT evidence is still thinner than mechanistic/animal work. Hence "double-edged" — not a blanket condemnation.
 
 ## Related
+- [[Research - Artificial Sweeteners (Studies and Merit in Diet Sodas)]]
+- [[Suez 2022 - Sweeteners Alter Human Glucose Tolerance (Cell)]]
+- [[Personalized Glycemic Response to Sweeteners]]
 - [[Gut-Harmful Foods and Actions Tier List]]
 - [[Human Gut Emulsifiers Study 2021]]
 - [[Caffeinated Drinks Health Tier List]]
