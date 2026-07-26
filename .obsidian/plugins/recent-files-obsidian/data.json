@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Crime and Punishment - Fyodor Dostoevsky",
+      "path": "wiki/books/Crime and Punishment - Fyodor Dostoevsky.md"
+    },
+    {
       "basename": "Book List — Fiction Must-Reads",
       "path": "wiki/concepts/Book List — Fiction Must-Reads.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Daily Learning — Sites and Activities Toolkit",
       "path": "wiki/questions/Daily Learning — Sites and Activities Toolkit.md"
-    },
-    {
-      "basename": "Daily Learning Habit (Operating System)",
-      "path": "wiki/concepts/Daily Learning Habit (Operating System).md"
     }
   ],
   "omittedPaths": [],

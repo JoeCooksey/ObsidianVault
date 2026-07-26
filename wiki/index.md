@@ -43,7 +43,7 @@ Master catalog of all wiki pages. Update on every ingest.
 ## Domains
 - [[Engineering]] — software, systems, hardware, power electronics (6 sources, 2 syntheses)
 - [[Mathematics]] — pure math, applied math, statistics (0 sources)
-- [[Books]] — literature, non-fiction, key ideas from reading (11 book summaries in [[Book View]], 10 book list pages)
+- [[Books]] — literature, non-fiction, key ideas from reading (12 book summaries in [[Book View]], 10 book list pages)
 - [[Research]] — deep-dive research topics and synthesis (2 syntheses)
 - [[Theology]] — Bible study, theology, apologetics (0 sources)
 
@@ -69,6 +69,7 @@ Master catalog of all wiki pages. Update on every ingest.
 - [[Ryan Holiday]] — *Ego Is the Enemy* (2016), *The Obstacle Is the Way*; modern Stoicism popularizer
 - [[Mel Robbins]] — *The Let Them Theory* (2024), *The 5 Second Rule*; "Let Them / Let Me" tool
 - [[Yuval Noah Harari]] — historian; *Sapiens* (2011/2014), *Homo Deus*, *Nexus*; shared fictions / imagined orders
+- [[Fyodor Dostoevsky]] — Russian novelist; *Crime and Punishment* (1866), *The Brothers Karamazov*; psychology of guilt, redemption through suffering, anti-nihilism
 - [[Robert B. Cialdini]] — social psychologist; *Influence* (1984), *Pre-Suasion*; the 6+1 principles of persuasion
 - [[Morgan Housel]] — *The Psychology of Money* (2020) & *The Art of Spending Money* (2025); behavioral finance
 - [[Sönke Ahrens]] — *How to Take Smart Notes* (2017); proceduralized the Zettelkasten; "writing notes IS thinking"
@@ -576,6 +577,12 @@ Source: [[How To Increase Your Intelligence — Craig Perry]] — intelligence =
 - [[The Wheat Trap]] · [[Luxury Trap]] · [[The Other Humans]] · [[Writing and Numbers]] — progress ≠ well-being; bureaucracy's origin
 - [[Money as Trust]] · [[Empire]] · [[Religion as Unifier]] · [[Humanism]] · [[The Arrow of History]] — the three unifiers + history's direction
 - [[The Discovery of Ignorance]] · [[Science, Empire, Capitalism Feedback Loop]] · [[Credit and the Future]] · [[The End of Homo Sapiens]] · [[Are We Happier|Are We Happier?]] — the modern power engine and its open question
+
+### Crime and Punishment (Dostoevsky)
+- [[The Extraordinary Man Theory]] · [[Rational Egoism]] · [[Russian Nihilism]] — the ideology Raskolnikov murders to test, and the 1860s currents Dostoevsky wrote against
+- [[Psychology of Guilt]] · [[Alienation and Isolation]] · [[Raskolnikov's Dreams]] · [[St. Petersburg as Setting]] — the internal punishment and its atmosphere
+- [[Redemption Through Suffering]] — the counter-thesis: renewal through confession, suffering, and love, not logic
+- Characters: [[Rodion Raskolnikov]] · [[Sonya Marmeladov]] · [[Porfiry Petrovich]] · [[Arkady Svidrigailov]] · [[Dunya (Avdotya Raskolnikova)]] · [[Dmitri Razumikhin]]
 
 ### Persuasion (Influence)
 - [[Reciprocity]] · [[Commitment and Consistency]] · [[Social Proof]] · [[Liking]] · [[Authority]] · [[Scarcity]] · [[Unity]] — Cialdini's 6+1 weapons of influence

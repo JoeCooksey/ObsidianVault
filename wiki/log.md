@@ -11,6 +11,14 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-07-26] book summary | Crime and Punishment — Fyodor Dostoevsky
+- Created book note [[Crime and Punishment - Fyodor Dostoevsky]] in `wiki/books/` — house style, 6 parts + epilogue, part-by-part breakdown with concepts and reflections
+- New author entity: [[Fyodor Dostoevsky]]
+- New character entities (subtype: character): [[Rodion Raskolnikov]], [[Sonya Marmeladov]], [[Porfiry Petrovich]], [[Arkady Svidrigailov]], [[Dunya (Avdotya Raskolnikova)]], [[Dmitri Razumikhin]]
+- New concepts: [[The Extraordinary Man Theory]], [[Rational Egoism]], [[Russian Nihilism]], [[Redemption Through Suffering]], [[Psychology of Guilt]], [[Raskolnikov's Dreams]], [[St. Petersburg as Setting]], [[Alienation and Isolation]]
+- Updated [[Wiki Index]]: Books count 11→12, added Dostoevsky entity + "Crime and Punishment (Dostoevsky)" concept cluster
+- Link audit: 0 dangling links
+
 ## [2026-07-16] autoresearch | Artificial Sweeteners — Studies & Merit in Diet Sodas
 - Rounds: 2 | Searches: 7 PubMed + 2 web | Sources found: 9 landmark studies (WHO 2023 guideline, Debras/NutriNet-Santé BMJ 2022, Sun/UK Biobank 2024, Suez/Cell 2022, Witkowski/Nat Med 2023, IARC-JECFA aspartame 2023, Harrold RCT 2023, Azad 2017 + Toews 2019 meta-analyses)
 - Pages created: 15 — Sources: [[WHO 2023 Guideline on Non-Sugar Sweeteners]], [[Debras 2022 - Artificial Sweeteners and Cardiovascular Disease (NutriNet-Sante)]], [[Sun 2024 - Artificial Sweeteners and CVD (UK Biobank)]], [[Suez 2022 - Sweeteners Alter Human Glucose Tolerance (Cell)]], [[Witkowski 2023 - Erythritol and Cardiovascular Risk (Nature Medicine)]], [[IARC-JECFA 2023 Aspartame Assessment]], [[Harrold 2023 - NNS Beverages vs Water RCT]], [[Meta-Analyses of Nonsugar Sweeteners (Azad 2017 + Toews 2019)]]; Concepts: [[Non-Nutritive Sweeteners and Diet Soda Merit Verdict]], [[RCT vs Cohort Evidence Split (Nonsugar Sweeteners)]], [[Reverse Causation in Sweetener Cohort Studies]], [[Personalized Glycemic Response to Sweeteners]], [[Non-Nutritive Sweeteners Overview]]; Entity: [[Aspartame]]
