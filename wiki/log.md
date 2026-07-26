@@ -11,6 +11,12 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-07-26] autoresearch | Habits That Raise and Lower hs-CRP
+- Rounds: 2 | Searches: ~15 PubMed queries + metadata pulls | Sources found: 10 landmark studies (Fedewa 2016 exercise meta, Irwin 2016 sleep meta, Koelman 2022 diet-pattern meta, Ge 2020 BMJ 14-diet network meta, Choi & Je 2024 coffee meta, Kavyani 2022 omega-3 umbrella, Bakhru 2005 NHANES III smoking, Xu 2016 alcohol cohort, Pascoe 2017 meditation meta, Bastos 2024 DII)
+- Pages created (13): synthesis [[Research - Habits That Raise and Lower hs-CRP]]; concepts [[hs-CRP (High-Sensitivity C-Reactive Protein)]], [[Dietary Inflammatory Index]]; 10 source pages
+- Updated [[Wiki Index]]: new "Inflammation / hs-CRP" subsection under Concepts
+- Key finding: adiposity is the master variable, but exercise + diet pattern lower hs-CRP independently of weight; ⬇️ exercise/fat loss/Mediterranean/omega-3/coffee/sleep/quit smoking/stress reduction, ⬆️ body fat/smoking/poor sleep/pro-inflammatory diet/heavy alcohol/stress/sedentary. Coffee is anti-inflammatory (counterintuitive); sleep is U-shaped. Open: direct added-sugar/SSB→CRP link unsettled
+
 ## [2026-07-26] book summary | Crime and Punishment — Fyodor Dostoevsky
 - Created book note [[Crime and Punishment - Fyodor Dostoevsky]] in `wiki/books/` — house style, 6 parts + epilogue, part-by-part breakdown with concepts and reflections
 - New author entity: [[Fyodor Dostoevsky]]
