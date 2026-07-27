@@ -1,0 +1,315 @@
+- generic [active] [ref=f34e1]:
+  - generic [ref=f34e3]:
+    - generic [ref=f34e4]:
+      - banner [ref=f34e5]:
+        - navigation "Skip to content":
+          - link "Skip to content":
+            - /url: "#main-content-anchor"
+        - link [ref=f34e7] [cursor=pointer]:
+          - /url: /
+          - img "Udemy" [ref=f34e8]
+        - generic [ref=f34e9]:
+          - generic [ref=f34e10]: Search for anything
+          - generic [ref=f34e11]:
+            - combobox "Search for anything" [ref=f34e12]
+            - button [disabled] [ref=f34e13]:
+              - img "Submit search" [ref=f34e14]
+      - navigation [ref=f34e16]
+    - main [ref=f34e17]:
+      - status
+      - heading "PCB Design Courses" [level=1] [ref=f34e22]
+      - generic [ref=f34e23]:
+        - generic [ref=f34e25]:
+          - generic [ref=f34e26]:
+            - heading "Looking to advance your skills in PCB Design? We've got you." [level=2] [ref=f34e27]
+            - heading "Get everything you need to reach your goals in one convenient bundle." [level=3] [ref=f34e28]
+            - list [ref=f34e29]:
+              - listitem [ref=f34e30]:
+                - generic [ref=f34e31]: Top-rated courses
+              - listitem [ref=f34e35]:
+                - generic [ref=f34e36]: Popular with learners just like you
+              - listitem [ref=f34e40]:
+                - generic [ref=f34e41]: Guidance from real-world experts
+            - generic [ref=f34e45]:
+              - generic [ref=f34e46]: "Total:"
+              - img "Loading" [ref=f34e48]
+            - generic [ref=f34e50]:
+              - button "Add all to cart" [disabled] [ref=f34e51]
+              - status [ref=f34e52]
+          - generic [ref=f34e53]:
+            - generic [ref=f34e60]:
+              - heading [level=3] [ref=f34e63]:
+                - link "Crash Course Arduino and Microcontroller Development" [ref=f34e64] [cursor=pointer]:
+                  - /url: /course/crash-course-arduino-and-microcontroller-development/
+                  - text: Crash Course Arduino and Microcontroller Development
+                  - generic [ref=f34e65]: "Master the Essentials of Embedded Systems, Electronics, Firmware Design and Arduino C/C++ ProgrammingRating: 4.7 out of 51611 reviews111.5 total hours128 lecturesAll Levels"
+              - generic [ref=f34e66]:
+                - generic [ref=f34e67]: "Instructor:"
+                - generic [ref=f34e68]: Andre LaMothe
+              - generic [ref=f34e69]:
+                - generic [ref=f34e70]:
+                  - generic [ref=f34e71]: "Rating: 4.7 out of 5"
+                  - generic [ref=f34e72]: "4.7"
+                - generic "1611 reviews" [ref=f34e86]: (1,611)
+              - img "Loading" [ref=f34e89]
+              - generic [ref=f34e93]:
+                - generic [ref=f34e94]: Premium
+                - generic [ref=f34e97]: Bestseller
+            - generic [ref=f34e101]:
+              - heading [level=3] [ref=f34e104]:
+                - link "Crash Course Electronics and PCB Design" [ref=f34e105] [cursor=pointer]:
+                  - /url: /course/crash-course-electronics-and-pcb-design/
+                  - text: Crash Course Electronics and PCB Design
+                  - generic [ref=f34e106]: "Learn Analog / Digital Electronics and PCB Design from the Ground up with Altium CircuitMaker and Labcenter ProteusRating: 4.7 out of 519309 reviews112 total hours161 lecturesAll Levels"
+              - generic [ref=f34e107]:
+                - generic [ref=f34e108]: "Instructor:"
+                - generic [ref=f34e109]: Andre LaMothe
+              - generic [ref=f34e110]:
+                - generic [ref=f34e111]:
+                  - generic [ref=f34e112]: "Rating: 4.7 out of 5"
+                  - generic [ref=f34e113]: "4.7"
+                - generic "19309 reviews" [ref=f34e127]: (19,309)
+              - img "Loading" [ref=f34e130]
+              - generic [ref=f34e134]:
+                - generic [ref=f34e135]: Premium
+                - generic [ref=f34e138]: Bestseller
+        - generic [ref=f34e198]:
+          - heading "Learn more about PCB Design" [level=2] [ref=f34e199]
+          - paragraph [ref=f34e200]: Electronic circuits power our lives. Cars, appliances, smart home systems, computers, and mobile phones all function in some part thanks to circuitry. Learning how to design circuits is essential for fabricating new computers and electronic systems.
+    - contentinfo [ref=f34e201]:
+      - generic [ref=f34e202]:
+        - generic [ref=f34e204]:
+          - text: Top companies choose
+          - link "Udemy Business" [ref=f34e205] [cursor=pointer]:
+            - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+          - text: to build in-demand career skills.
+        - generic [ref=f34e206]:
+          - img "Nasdaq" [ref=f34e207]
+          - img "Volkswagen" [ref=f34e208]
+          - img "NetApp" [ref=f34e209]
+          - img "Eventbrite" [ref=f34e210]
+      - generic [ref=f34e213]:
+        - heading "Explore top skills and certifications" [level=2] [ref=f34e215]
+        - generic [ref=f34e216]:
+          - generic [ref=f34e218]:
+            - heading "In-demand Careers" [level=2] [ref=f34e219]
+            - list [ref=f34e220]:
+              - listitem [ref=f34e221]:
+                - link "Data Scientist" [ref=f34e222] [cursor=pointer]:
+                  - /url: /career/data-scientist/
+              - listitem [ref=f34e223]:
+                - link "Full Stack Web Developer" [ref=f34e224] [cursor=pointer]:
+                  - /url: /career/full-stack-web-developer/
+              - listitem [ref=f34e225]:
+                - link "Cloud Engineer" [ref=f34e226] [cursor=pointer]:
+                  - /url: /career/cloud-engineer/
+              - listitem [ref=f34e227]:
+                - link "Project Manager" [ref=f34e228] [cursor=pointer]:
+                  - /url: /career/project-manager/
+              - listitem [ref=f34e229]:
+                - link "Game Developer" [ref=f34e230] [cursor=pointer]:
+                  - /url: /career/game-developer/
+              - listitem [ref=f34e231]:
+                - link "All Career Accelerators" [ref=f34e232] [cursor=pointer]:
+                  - /url: /career-accelerators/
+          - generic [ref=f34e234]:
+            - heading "Web Development" [level=2] [ref=f34e235]
+            - list [ref=f34e236]:
+              - listitem [ref=f34e237]:
+                - link "Web Development" [ref=f34e238] [cursor=pointer]:
+                  - /url: /topic/web-development/
+              - listitem [ref=f34e239]:
+                - link "JavaScript" [ref=f34e240] [cursor=pointer]:
+                  - /url: /topic/javascript/
+              - listitem [ref=f34e241]:
+                - link "React JS" [ref=f34e242] [cursor=pointer]:
+                  - /url: /topic/react/
+              - listitem [ref=f34e243]:
+                - link "Angular" [ref=f34e244] [cursor=pointer]:
+                  - /url: /topic/angular/
+              - listitem [ref=f34e245]:
+                - link "Java" [ref=f34e246] [cursor=pointer]:
+                  - /url: /topic/java/
+          - generic [ref=f34e248]:
+            - heading "IT Certifications" [level=2] [ref=f34e249]
+            - list [ref=f34e250]:
+              - listitem [ref=f34e251]:
+                - link "Amazon AWS" [ref=f34e252] [cursor=pointer]:
+                  - /url: /topic/amazon-aws/
+              - listitem [ref=f34e253]:
+                - link "AWS Certified Cloud Practitioner" [ref=f34e254] [cursor=pointer]:
+                  - /url: /topic/aws-certified-cloud-practitioner/
+              - listitem [ref=f34e255]:
+                - 'link "AZ-900: Microsoft Azure Fundamentals" [ref=f34e256] [cursor=pointer]':
+                  - /url: /topic/microsoft-az-900/
+              - listitem [ref=f34e257]:
+                - link "AWS Certified Solutions Architect - Associate" [ref=f34e258] [cursor=pointer]:
+                  - /url: /topic/aws-certified-solutions-architect-associate/
+              - listitem [ref=f34e259]:
+                - link "Kubernetes" [ref=f34e260] [cursor=pointer]:
+                  - /url: /topic/kubernetes/
+          - generic [ref=f34e262]:
+            - heading "Leadership" [level=2] [ref=f34e263]
+            - list [ref=f34e264]:
+              - listitem [ref=f34e265]:
+                - link "Leadership" [ref=f34e266] [cursor=pointer]:
+                  - /url: /topic/leadership/
+              - listitem [ref=f34e267]:
+                - link "Management Skills" [ref=f34e268] [cursor=pointer]:
+                  - /url: /topic/management-skills/
+              - listitem [ref=f34e269]:
+                - link "Project Management" [ref=f34e270] [cursor=pointer]:
+                  - /url: /topic/project-management/
+              - listitem [ref=f34e271]:
+                - link "Personal Productivity" [ref=f34e272] [cursor=pointer]:
+                  - /url: /topic/personal-productivity/
+              - listitem [ref=f34e273]:
+                - link "Emotional Intelligence" [ref=f34e274] [cursor=pointer]:
+                  - /url: /topic/emotional-intelligence/
+          - generic [ref=f34e276]:
+            - heading "Certifications by Skill" [level=2] [ref=f34e277]
+            - list [ref=f34e278]:
+              - listitem [ref=f34e279]:
+                - link "Cybersecurity Certification" [ref=f34e280] [cursor=pointer]:
+                  - /url: /browse/certification/cybersecurity-certifications/
+              - listitem [ref=f34e281]:
+                - link "Project Management Certification" [ref=f34e282] [cursor=pointer]:
+                  - /url: /browse/certification/project-management-certifications/
+              - listitem [ref=f34e283]:
+                - link "Cloud Certification" [ref=f34e284] [cursor=pointer]:
+                  - /url: /browse/certification/cloud-certifications/
+              - listitem [ref=f34e285]:
+                - link "Data Analytics Certification" [ref=f34e286] [cursor=pointer]:
+                  - /url: /browse/certification/data-analytics-certifications/
+              - listitem [ref=f34e287]:
+                - link "HR Management Certification" [ref=f34e288] [cursor=pointer]:
+                  - /url: /browse/certification/hr-management-certifications/
+              - listitem [ref=f34e289]:
+                - link "See all Certifications" [ref=f34e290] [cursor=pointer]:
+                  - /url: /browse/certification/
+          - generic [ref=f34e292]:
+            - heading "Data Science" [level=2] [ref=f34e293]
+            - list [ref=f34e294]:
+              - listitem [ref=f34e295]:
+                - link "Data Science" [ref=f34e296] [cursor=pointer]:
+                  - /url: /topic/data-science/
+              - listitem [ref=f34e297]:
+                - link "Python" [ref=f34e298] [cursor=pointer]:
+                  - /url: /topic/python/
+              - listitem [ref=f34e299]:
+                - link "Machine Learning" [ref=f34e300] [cursor=pointer]:
+                  - /url: /topic/machine-learning/
+              - listitem [ref=f34e301]:
+                - link "ChatGPT" [ref=f34e302] [cursor=pointer]:
+                  - /url: /topic/chatgpt/
+              - listitem [ref=f34e303]:
+                - link "Deep Learning" [ref=f34e304] [cursor=pointer]:
+                  - /url: /topic/deep-learning/
+          - generic [ref=f34e306]:
+            - heading "Communication" [level=2] [ref=f34e307]
+            - list [ref=f34e308]:
+              - listitem [ref=f34e309]:
+                - link "Communication Skills" [ref=f34e310] [cursor=pointer]:
+                  - /url: /topic/communication-skills/
+              - listitem [ref=f34e311]:
+                - link "Presentation Skills" [ref=f34e312] [cursor=pointer]:
+                  - /url: /topic/presentation-skills/
+              - listitem [ref=f34e313]:
+                - link "Public Speaking" [ref=f34e314] [cursor=pointer]:
+                  - /url: /topic/public-speaking/
+              - listitem [ref=f34e315]:
+                - link "Writing" [ref=f34e316] [cursor=pointer]:
+                  - /url: /topic/writing/
+              - listitem [ref=f34e317]:
+                - link "PowerPoint" [ref=f34e318] [cursor=pointer]:
+                  - /url: /topic/powerpoint/
+          - generic [ref=f34e320]:
+            - heading "Business Analytics & Intelligence" [level=2] [ref=f34e321]
+            - list [ref=f34e322]:
+              - listitem [ref=f34e323]:
+                - link "Microsoft Excel" [ref=f34e324] [cursor=pointer]:
+                  - /url: /topic/excel/
+              - listitem [ref=f34e325]:
+                - link "SQL" [ref=f34e326] [cursor=pointer]:
+                  - /url: /topic/sql/
+              - listitem [ref=f34e327]:
+                - link "Microsoft Power BI" [ref=f34e328] [cursor=pointer]:
+                  - /url: /topic/microsoft-power-bi/
+              - listitem [ref=f34e329]:
+                - link "Data Analysis" [ref=f34e330] [cursor=pointer]:
+                  - /url: /topic/data-analysis/
+              - listitem [ref=f34e331]:
+                - link "Business Analysis" [ref=f34e332] [cursor=pointer]:
+                  - /url: /topic/business-analysis/
+      - generic [ref=f34e337]:
+        - generic [ref=f34e339]:
+          - heading "About" [level=2] [ref=f34e340]
+          - list [ref=f34e341]:
+            - listitem [ref=f34e342]:
+              - link "About us" [ref=f34e343] [cursor=pointer]:
+                - /url: https://about.udemy.com/?locale=en-us
+            - listitem [ref=f34e344]:
+              - link "Careers" [ref=f34e345] [cursor=pointer]:
+                - /url: https://about.udemy.com/careers?locale=en-us
+            - listitem [ref=f34e346]:
+              - link "Contact us" [ref=f34e347] [cursor=pointer]:
+                - /url: https://about.udemy.com/company?locale=en-us#offices
+            - listitem [ref=f34e348]:
+              - link "Blog" [ref=f34e349] [cursor=pointer]:
+                - /url: https://blog.udemy.com/?ref=footer
+            - listitem [ref=f34e350]:
+              - link "Investors" [ref=f34e351] [cursor=pointer]:
+                - /url: https://investors.udemy.com
+            - listitem [ref=f34e352]:
+              - link "Find more on Coursera" [ref=f34e353] [cursor=pointer]:
+                - /url: https://www.coursera.org/
+        - generic [ref=f34e355]:
+          - heading "Discover Udemy" [level=2] [ref=f34e356]
+          - list [ref=f34e357]:
+            - listitem [ref=f34e358]:
+              - link "Get the app" [ref=f34e359] [cursor=pointer]:
+                - /url: /mobile/
+            - listitem [ref=f34e360]:
+              - link "Teach on Udemy" [ref=f34e361] [cursor=pointer]:
+                - /url: /teaching/?ref=teach_footer
+            - listitem [ref=f34e362]:
+              - link "Plans and Pricing" [ref=f34e363] [cursor=pointer]:
+                - /url: https://www.udemy.com/pricing/?ref=footer
+            - listitem [ref=f34e364]:
+              - link "Affiliate" [ref=f34e365] [cursor=pointer]:
+                - /url: /affiliate/
+            - listitem [ref=f34e366]:
+              - link "Help and Support" [ref=f34e367] [cursor=pointer]:
+                - /url: /support/
+        - generic [ref=f34e369]:
+          - heading "Udemy for Business" [level=2] [ref=f34e370]
+          - list [ref=f34e371]:
+            - listitem [ref=f34e372]:
+              - link "Udemy Business" [ref=f34e373] [cursor=pointer]:
+                - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - generic [ref=f34e375]:
+          - heading "Legal & Accessibility" [level=2] [ref=f34e376]
+          - list [ref=f34e377]:
+            - listitem [ref=f34e378]:
+              - link "Accessibility statement" [ref=f34e379] [cursor=pointer]:
+                - /url: https://about.udemy.com/accessibility-statement?locale=en-us
+            - listitem [ref=f34e380]:
+              - link "Privacy policy" [ref=f34e381] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/privacy/
+            - listitem [ref=f34e382]:
+              - link "Sitemap" [ref=f34e383] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=f34e384]:
+              - link "Terms" [ref=f34e385] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/terms-of-use/
+      - generic [ref=f34e387]:
+        - generic [ref=f34e388]:
+          - link [ref=f34e390] [cursor=pointer]:
+            - /url: /
+            - img "Udemy" [ref=f34e391]
+          - generic [ref=f34e392]: © 2026 Udemy, Inc.
+        - generic:
+          - list
+        - button "English" [ref=f34e394] [cursor=pointer]
+    - status
+  - alert [ref=f34e398]

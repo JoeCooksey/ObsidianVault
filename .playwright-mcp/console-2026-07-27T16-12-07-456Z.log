@@ -1,0 +1,2 @@
+[     527ms] [ERROR] Not signed in with the identity provider. @ https://www.udemy.com/topic/ltspice/:0
+[    2389ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://frontends.udemycdn.com/frontends-marketplace-experience/_next/static/chunks/pages/_app-a0262328b0baa7f2.js:0

@@ -1,0 +1,1120 @@
+- generic [active] [ref=f66e1]:
+  - generic [ref=f66e3]:
+    - generic [ref=f66e4]:
+      - banner [ref=f66e5]:
+        - navigation "Skip to content":
+          - link "Skip to content":
+            - /url: "#main-content-anchor"
+        - link [ref=f66e7] [cursor=pointer]:
+          - /url: /
+          - img "Udemy" [ref=f66e8]
+        - navigation "Explore" [ref=f66e9]:
+          - button "Explore" [ref=f66e10] [cursor=pointer]
+        - link "Subscribe" [ref=f66e13] [cursor=pointer]:
+          - /url: /personal-plan
+        - generic [ref=f66e15]:
+          - generic [ref=f66e16]: Search for anything
+          - generic [ref=f66e17]:
+            - combobox "Search for anything" [ref=f66e18]
+            - button [disabled] [ref=f66e19]:
+              - img "Submit search" [ref=f66e20]
+        - link "Udemy Business" [ref=f66e23] [cursor=pointer]:
+          - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - link "Teach on Udemy" [ref=f66e26] [cursor=pointer]:
+          - /url: /teaching/?ref=teach_header
+        - link [ref=f66e29] [cursor=pointer]:
+          - /url: /cart/
+          - img "Shopping cart with 0 items" [ref=f66e30]
+        - link "Log in" [ref=f66e33] [cursor=pointer]:
+          - /url: https://www.udemy.com/join/login-popup/?locale=en_US&response_type=html&next=https%3A%2F%2Fwww.udemy.com%2Ftopic%2Fembedded-systems%2F
+        - link "Sign up" [ref=f66e36] [cursor=pointer]:
+          - /url: https://www.udemy.com/join/signup-popup/?locale=en_US&response_type=html&next=https%3A%2F%2Fwww.udemy.com%2Ftopic%2Fembedded-systems%2F
+        - generic [ref=f66e38]:
+          - button [ref=f66e39] [cursor=pointer]:
+            - img "Choose a language" [ref=f66e40]
+          - generic [ref=f66e42]:
+            - link [ref=f66e43] [cursor=pointer]:
+              - /url: /topic/embedded-systems/
+              - text: English
+            - link [ref=f66e44] [cursor=pointer]:
+              - /url: /ar/topic/embedded-systems/
+              - text: العربية
+            - link [ref=f66e45] [cursor=pointer]:
+              - /url: /de/topic/embedded-systems/
+              - text: Deutsch
+            - link [ref=f66e46] [cursor=pointer]:
+              - /url: /es/topic/embedded-systems/
+              - text: Español
+            - link [ref=f66e47] [cursor=pointer]:
+              - /url: /fr/topic/embedded-systems/
+              - text: Français
+            - link [ref=f66e48] [cursor=pointer]:
+              - /url: /id/topic/embedded-systems/
+              - text: Bahasa Indonesia
+            - link [ref=f66e49] [cursor=pointer]:
+              - /url: /it/topic/embedded-systems/
+              - text: Italiano
+            - link [ref=f66e50] [cursor=pointer]:
+              - /url: /ja/topic/embedded-systems/
+              - text: 日本語
+            - link [ref=f66e51] [cursor=pointer]:
+              - /url: /ko/topic/embedded-systems/
+              - text: 한국어
+            - link [ref=f66e52] [cursor=pointer]:
+              - /url: /nl/topic/embedded-systems/
+              - text: Nederlands
+            - link [ref=f66e53] [cursor=pointer]:
+              - /url: /pl/topic/embedded-systems/
+              - text: Polski
+            - link [ref=f66e54] [cursor=pointer]:
+              - /url: /pt/topic/embedded-systems/
+              - text: Português
+            - link [ref=f66e55] [cursor=pointer]:
+              - /url: /ro/topic/embedded-systems/
+              - text: Română
+            - link [ref=f66e56] [cursor=pointer]:
+              - /url: /ru/topic/embedded-systems/
+              - text: Русский
+            - link [ref=f66e57] [cursor=pointer]:
+              - /url: /th/topic/embedded-systems/
+              - text: ภาษาไทย
+            - link [ref=f66e58] [cursor=pointer]:
+              - /url: /tr/topic/embedded-systems/
+              - text: Türkçe
+            - link [ref=f66e59] [cursor=pointer]:
+              - /url: /vi/topic/embedded-systems/
+              - text: Tiếng Việt
+            - link [ref=f66e60] [cursor=pointer]:
+              - /url: /zh-cn/topic/embedded-systems/
+              - text: 中文(简体)
+            - link [ref=f66e61] [cursor=pointer]:
+              - /url: /zh-tw/topic/embedded-systems/
+              - text: 中文(繁體)
+      - navigation [ref=f66e62]:
+        - link [ref=f66e63] [cursor=pointer]:
+          - /url: /courses/development/
+          - text: Development
+        - generic [ref=f66e64]:
+          - link [ref=f66e65] [cursor=pointer]:
+            - /url: /courses/development/web-development/
+            - text: Web Development
+          - link [ref=f66e66] [cursor=pointer]:
+            - /url: /courses/development/data-science/
+            - text: Data Science
+          - link [ref=f66e67] [cursor=pointer]:
+            - /url: /courses/development/mobile-apps/
+            - text: Mobile Development
+          - link [ref=f66e68] [cursor=pointer]:
+            - /url: /courses/development/programming-languages/
+            - text: Programming Languages
+          - link [ref=f66e69] [cursor=pointer]:
+            - /url: /courses/development/game-development/
+            - text: Game Development
+          - link [ref=f66e70] [cursor=pointer]:
+            - /url: /courses/development/databases/
+            - text: Database Design & Development
+          - link [ref=f66e71] [cursor=pointer]:
+            - /url: /courses/development/software-testing/
+            - text: Software Testing
+          - link [ref=f66e72] [cursor=pointer]:
+            - /url: /courses/development/software-engineering/
+            - text: Software Engineering
+          - link [ref=f66e73] [cursor=pointer]:
+            - /url: /courses/development/development-tools/
+            - text: Software Development Tools
+          - link [ref=f66e74] [cursor=pointer]:
+            - /url: /courses/development/no-code-development/
+            - text: No-Code Development
+        - link [ref=f66e75] [cursor=pointer]:
+          - /url: /courses/business/
+          - text: Business
+        - generic [ref=f66e76]:
+          - link [ref=f66e77] [cursor=pointer]:
+            - /url: /courses/business/entrepreneurship/
+            - text: Entrepreneurship
+          - link [ref=f66e78] [cursor=pointer]:
+            - /url: /courses/business/communications/
+            - text: Communication
+          - link [ref=f66e79] [cursor=pointer]:
+            - /url: /courses/business/management/
+            - text: Management
+          - link [ref=f66e80] [cursor=pointer]:
+            - /url: /courses/business/sales/
+            - text: Sales
+          - link [ref=f66e81] [cursor=pointer]:
+            - /url: /courses/business/strategy/
+            - text: Business Strategy
+          - link [ref=f66e82] [cursor=pointer]:
+            - /url: /courses/business/operations/
+            - text: Operations
+          - link [ref=f66e83] [cursor=pointer]:
+            - /url: /courses/business/project-management/
+            - text: Project Management
+          - link [ref=f66e84] [cursor=pointer]:
+            - /url: /courses/business/business-law/
+            - text: Business Law
+          - link [ref=f66e85] [cursor=pointer]:
+            - /url: /courses/business/analytics-and-intelligence/
+            - text: Business Analytics & Intelligence
+          - link [ref=f66e86] [cursor=pointer]:
+            - /url: /courses/business/human-resources/
+            - text: Human Resources
+          - link [ref=f66e87] [cursor=pointer]:
+            - /url: /courses/business/industry/
+            - text: Industry
+          - link [ref=f66e88] [cursor=pointer]:
+            - /url: /courses/business/e-commerce/
+            - text: E-Commerce
+          - link [ref=f66e89] [cursor=pointer]:
+            - /url: /courses/business/media/
+            - text: Media
+          - link [ref=f66e90] [cursor=pointer]:
+            - /url: /courses/business/real-estate/
+            - text: Real Estate
+          - link [ref=f66e91] [cursor=pointer]:
+            - /url: /courses/business/other-business/
+            - text: Other Business
+        - link [ref=f66e92] [cursor=pointer]:
+          - /url: /courses/finance-and-accounting/
+          - text: Finance & Accounting
+        - generic [ref=f66e93]:
+          - link [ref=f66e94] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/accounting-bookkeeping/
+            - text: Accounting & Bookkeeping
+          - link [ref=f66e95] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/compliance/
+            - text: Compliance
+          - link [ref=f66e96] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/cryptocurrency-and-blockchain/
+            - text: Cryptocurrency & Blockchain
+          - link [ref=f66e97] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/economics/
+            - text: Economics
+          - link [ref=f66e98] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/finance-management/
+            - text: Finance
+          - link [ref=f66e99] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/finance-certification-and-exam-prep/
+            - text: Finance Cert & Exam Prep
+          - link [ref=f66e100] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/financial-modeling-and-analysis/
+            - text: Financial Modeling & Analysis
+          - link [ref=f66e101] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/investing-and-trading/
+            - text: Investing & Trading
+          - link [ref=f66e102] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/money-management-tools/
+            - text: Money Management Tools
+          - link [ref=f66e103] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/taxes/
+            - text: Taxes
+          - link [ref=f66e104] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/other-finance-and-accounting/
+            - text: Other Finance & Accounting
+        - link [ref=f66e105] [cursor=pointer]:
+          - /url: /courses/it-and-software/
+          - text: IT & Software
+        - generic [ref=f66e106]:
+          - link [ref=f66e107] [cursor=pointer]:
+            - /url: /courses/it-and-software/it-certification/
+            - text: IT Certifications
+          - link [ref=f66e108] [cursor=pointer]:
+            - /url: /courses/it-and-software/network-and-security/
+            - text: Network & Security
+          - link [ref=f66e109] [cursor=pointer]:
+            - /url: /courses/it-and-software/hardware/
+            - text: Hardware
+          - link [ref=f66e110] [cursor=pointer]:
+            - /url: /courses/it-and-software/operating-systems/
+            - text: Operating Systems & Servers
+          - link [ref=f66e111] [cursor=pointer]:
+            - /url: /courses/it-and-software/other-it-and-software/
+            - text: Other IT & Software
+        - link [ref=f66e112] [cursor=pointer]:
+          - /url: /courses/office-productivity/
+          - text: Office Productivity
+        - generic [ref=f66e113]:
+          - link [ref=f66e114] [cursor=pointer]:
+            - /url: /courses/office-productivity/microsoft/
+            - text: Microsoft
+          - link [ref=f66e115] [cursor=pointer]:
+            - /url: /courses/office-productivity/apple/
+            - text: Apple
+          - link [ref=f66e116] [cursor=pointer]:
+            - /url: /courses/office-productivity/google/
+            - text: Google
+          - link [ref=f66e117] [cursor=pointer]:
+            - /url: /courses/office-productivity/sap/
+            - text: SAP
+          - link [ref=f66e118] [cursor=pointer]:
+            - /url: /courses/office-productivity/oracle/
+            - text: Oracle
+          - link [ref=f66e119] [cursor=pointer]:
+            - /url: /courses/office-productivity/other-productivity/
+            - text: Other Office Productivity
+        - link [ref=f66e120] [cursor=pointer]:
+          - /url: /courses/personal-development/
+          - text: Personal Development
+        - generic [ref=f66e121]:
+          - link [ref=f66e122] [cursor=pointer]:
+            - /url: /courses/personal-development/personal-transformation/
+            - text: Personal Transformation
+          - link [ref=f66e123] [cursor=pointer]:
+            - /url: /courses/personal-development/productivity/
+            - text: Personal Productivity
+          - link [ref=f66e124] [cursor=pointer]:
+            - /url: /courses/personal-development/leadership/
+            - text: Leadership
+          - link [ref=f66e125] [cursor=pointer]:
+            - /url: /courses/personal-development/career-development/
+            - text: Career Development
+          - link [ref=f66e126] [cursor=pointer]:
+            - /url: /courses/personal-development/parenting-and-relationships/
+            - text: Parenting & Relationships
+          - link [ref=f66e127] [cursor=pointer]:
+            - /url: /courses/personal-development/happiness/
+            - text: Happiness
+          - link [ref=f66e128] [cursor=pointer]:
+            - /url: /courses/lifestyle/esoteric-practices/
+            - text: Esoteric Practices
+          - link [ref=f66e129] [cursor=pointer]:
+            - /url: /courses/personal-development/religion-and-spirituality/
+            - text: Religion & Spirituality
+          - link [ref=f66e130] [cursor=pointer]:
+            - /url: /courses/personal-development/personal-brand-building/
+            - text: Personal Brand Building
+          - link [ref=f66e131] [cursor=pointer]:
+            - /url: /courses/personal-development/creativity/
+            - text: Creativity
+          - link [ref=f66e132] [cursor=pointer]:
+            - /url: /courses/personal-development/influence/
+            - text: Influence
+          - link [ref=f66e133] [cursor=pointer]:
+            - /url: /courses/personal-development/self-esteem-and-confidence/
+            - text: Self Esteem & Confidence
+          - link [ref=f66e134] [cursor=pointer]:
+            - /url: /courses/personal-development/stress-management/
+            - text: Stress Management
+          - link [ref=f66e135] [cursor=pointer]:
+            - /url: /courses/personal-development/memory/
+            - text: Memory & Study Skills
+          - link [ref=f66e136] [cursor=pointer]:
+            - /url: /courses/personal-development/motivation/
+            - text: Motivation
+          - link [ref=f66e137] [cursor=pointer]:
+            - /url: /courses/personal-development/other-personal-development/
+            - text: Other Personal Development
+        - link [ref=f66e138] [cursor=pointer]:
+          - /url: /courses/design/
+          - text: Design
+        - generic [ref=f66e139]:
+          - link [ref=f66e140] [cursor=pointer]:
+            - /url: /courses/design/web-design/
+            - text: Web Design
+          - link [ref=f66e141] [cursor=pointer]:
+            - /url: /courses/design/graphic-design-and-illustration/
+            - text: Graphic Design & Illustration
+          - link [ref=f66e142] [cursor=pointer]:
+            - /url: /courses/design/design-tools/
+            - text: Design Tools
+          - link [ref=f66e143] [cursor=pointer]:
+            - /url: /courses/design/user-experience/
+            - text: User Experience Design
+          - link [ref=f66e144] [cursor=pointer]:
+            - /url: /courses/design/game-design/
+            - text: Game Design
+          - link [ref=f66e145] [cursor=pointer]:
+            - /url: /courses/design/3d-and-animation/
+            - text: 3D & Animation
+          - link [ref=f66e146] [cursor=pointer]:
+            - /url: /courses/design/fashion/
+            - text: Fashion Design
+          - link [ref=f66e147] [cursor=pointer]:
+            - /url: /courses/design/architectural-design/
+            - text: Architectural Design
+          - link [ref=f66e148] [cursor=pointer]:
+            - /url: /courses/design/interior-design/
+            - text: Interior Design
+          - link [ref=f66e149] [cursor=pointer]:
+            - /url: /courses/design/other-design/
+            - text: Other Design
+        - link [ref=f66e150] [cursor=pointer]:
+          - /url: /courses/marketing/
+          - text: Marketing
+        - generic [ref=f66e151]:
+          - link [ref=f66e152] [cursor=pointer]:
+            - /url: /courses/marketing/digital-marketing/
+            - text: Digital Marketing
+          - link [ref=f66e153] [cursor=pointer]:
+            - /url: /courses/marketing/search-engine-optimization/
+            - text: Search Engine Optimization
+          - link [ref=f66e154] [cursor=pointer]:
+            - /url: /courses/marketing/social-media-marketing/
+            - text: Social Media Marketing
+          - link [ref=f66e155] [cursor=pointer]:
+            - /url: /courses/marketing/branding/
+            - text: Branding
+          - link [ref=f66e156] [cursor=pointer]:
+            - /url: /courses/marketing/marketing-fundamentals/
+            - text: Marketing Fundamentals
+          - link [ref=f66e157] [cursor=pointer]:
+            - /url: /courses/marketing/analytics-and-automation/
+            - text: Marketing Analytics & Automation
+          - link [ref=f66e158] [cursor=pointer]:
+            - /url: /courses/marketing/public-relations/
+            - text: Public Relations
+          - link [ref=f66e159] [cursor=pointer]:
+            - /url: /courses/marketing/advertising/
+            - text: Paid Advertising
+          - link [ref=f66e160] [cursor=pointer]:
+            - /url: /courses/marketing/video-and-mobile-marketing/
+            - text: Video & Mobile Marketing
+          - link [ref=f66e161] [cursor=pointer]:
+            - /url: /courses/marketing/content-marketing/
+            - text: Content Marketing
+          - link [ref=f66e162] [cursor=pointer]:
+            - /url: /courses/marketing/growth-hacking/
+            - text: Growth Hacking
+          - link [ref=f66e163] [cursor=pointer]:
+            - /url: /courses/marketing/affiliate-marketing/
+            - text: Affiliate Marketing
+          - link [ref=f66e164] [cursor=pointer]:
+            - /url: /courses/marketing/product-marketing/
+            - text: Product Marketing
+          - link [ref=f66e165] [cursor=pointer]:
+            - /url: /courses/marketing/other-marketing/
+            - text: Other Marketing
+        - link [ref=f66e166] [cursor=pointer]:
+          - /url: /courses/lifestyle/
+          - text: Lifestyle
+        - generic [ref=f66e167]:
+          - link [ref=f66e168] [cursor=pointer]:
+            - /url: /courses/lifestyle/arts-and-crafts/
+            - text: Arts & Crafts
+          - link [ref=f66e169] [cursor=pointer]:
+            - /url: /courses/lifestyle/beauty-and-makeup/
+            - text: Beauty & Makeup
+          - link [ref=f66e170] [cursor=pointer]:
+            - /url: /courses/lifestyle/esoteric-practices/
+            - text: Esoteric Practices
+          - link [ref=f66e171] [cursor=pointer]:
+            - /url: /courses/lifestyle/food-and-beverage/
+            - text: Food & Beverage
+          - link [ref=f66e172] [cursor=pointer]:
+            - /url: /courses/lifestyle/gaming/
+            - text: Gaming
+          - link [ref=f66e173] [cursor=pointer]:
+            - /url: /courses/lifestyle/home-improvement/
+            - text: Home Improvement & Gardening
+          - link [ref=f66e174] [cursor=pointer]:
+            - /url: /courses/lifestyle/pet-care-and-training/
+            - text: Pet Care & Training
+          - link [ref=f66e175] [cursor=pointer]:
+            - /url: /courses/lifestyle/travel/
+            - text: Travel
+          - link [ref=f66e176] [cursor=pointer]:
+            - /url: /courses/lifestyle/other-lifestyle/
+            - text: Other Lifestyle
+        - link [ref=f66e177] [cursor=pointer]:
+          - /url: /courses/photography-and-video/
+          - text: Photography & Video
+        - generic [ref=f66e178]:
+          - link [ref=f66e179] [cursor=pointer]:
+            - /url: /courses/photography-and-video/digital-photography/
+            - text: Digital Photography
+          - link [ref=f66e180] [cursor=pointer]:
+            - /url: /courses/photography-and-video/photography-fundamentals/
+            - text: Photography
+          - link [ref=f66e181] [cursor=pointer]:
+            - /url: /courses/photography-and-video/portraits/
+            - text: Portrait Photography
+          - link [ref=f66e182] [cursor=pointer]:
+            - /url: /courses/photography-and-video/photography-tools/
+            - text: Photography Tools
+          - link [ref=f66e183] [cursor=pointer]:
+            - /url: /courses/photography-and-video/commercial-photography/
+            - text: Commercial Photography
+          - link [ref=f66e184] [cursor=pointer]:
+            - /url: /courses/photography-and-video/video-design/
+            - text: Video Design
+          - link [ref=f66e185] [cursor=pointer]:
+            - /url: /courses/photography-and-video/other-photography-and-video/
+            - text: Other Photography & Video
+        - link [ref=f66e186] [cursor=pointer]:
+          - /url: /courses/health-and-fitness/
+          - text: Health & Fitness
+        - generic [ref=f66e187]:
+          - link [ref=f66e188] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/fitness/
+            - text: Fitness
+          - link [ref=f66e189] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/general-health/
+            - text: General Health
+          - link [ref=f66e190] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/sports/
+            - text: Sports
+          - link [ref=f66e191] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/nutrition/
+            - text: Nutrition & Diet
+          - link [ref=f66e192] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/yoga/
+            - text: Yoga
+          - link [ref=f66e193] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/mental-health/
+            - text: Mental Health
+          - link [ref=f66e194] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/self-defense/
+            - text: Martial Arts & Self Defense
+          - link [ref=f66e195] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/safety-and-first-aid/
+            - text: Safety & First Aid
+          - link [ref=f66e196] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/dance/
+            - text: Dance
+          - link [ref=f66e197] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/meditation/
+            - text: Meditation
+          - link [ref=f66e198] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/other-health-and-fitness/
+            - text: Other Health & Fitness
+        - link [ref=f66e199] [cursor=pointer]:
+          - /url: /courses/music/
+          - text: Music
+        - generic [ref=f66e200]:
+          - link [ref=f66e201] [cursor=pointer]:
+            - /url: /courses/music/instruments/
+            - text: Instruments
+          - link [ref=f66e202] [cursor=pointer]:
+            - /url: /courses/music/production/
+            - text: Music Production
+          - link [ref=f66e203] [cursor=pointer]:
+            - /url: /courses/music/music-fundamentals/
+            - text: Music Fundamentals
+          - link [ref=f66e204] [cursor=pointer]:
+            - /url: /courses/music/vocal/
+            - text: Vocal
+          - link [ref=f66e205] [cursor=pointer]:
+            - /url: /courses/music/music-techniques/
+            - text: Music Techniques
+          - link [ref=f66e206] [cursor=pointer]:
+            - /url: /courses/music/music-software/
+            - text: Music Software
+          - link [ref=f66e207] [cursor=pointer]:
+            - /url: /courses/music/other-music/
+            - text: Other Music
+        - link [ref=f66e208] [cursor=pointer]:
+          - /url: /courses/teaching-and-academics/
+          - text: Teaching & Academics
+        - generic [ref=f66e209]:
+          - link [ref=f66e210] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/engineering/
+            - text: Engineering
+          - link [ref=f66e211] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/humanities/
+            - text: Humanities
+          - link [ref=f66e212] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/math/
+            - text: Math
+          - link [ref=f66e213] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/science/
+            - text: Science
+          - link [ref=f66e214] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/online-education/
+            - text: Online Education
+          - link [ref=f66e215] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/social-science/
+            - text: Social Science
+          - link [ref=f66e216] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/language/
+            - text: Language Learning
+          - link [ref=f66e217] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/teacher-training/
+            - text: Teacher Training
+          - link [ref=f66e218] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/test-prep/
+            - text: Test Prep
+          - link [ref=f66e219] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/other-teaching-academics/
+            - text: Other Teaching & Academics
+        - generic [ref=f66e220]:
+          - link [ref=f66e221] [cursor=pointer]:
+            - /url: /topic/javascript/
+            - text: JavaScript
+          - link [ref=f66e222] [cursor=pointer]:
+            - /url: /topic/react/
+            - text: React JS
+          - link [ref=f66e223] [cursor=pointer]:
+            - /url: /topic/angular/
+            - text: Angular
+          - link [ref=f66e224] [cursor=pointer]:
+            - /url: /topic/typescript/
+            - text: Typescript
+          - link [ref=f66e225] [cursor=pointer]:
+            - /url: /topic/aspnet-core/
+            - text: ASP.NET Core
+          - link [ref=f66e226] [cursor=pointer]:
+            - /url: /topic/nextjs-p/
+            - text: Next.js
+          - link [ref=f66e227] [cursor=pointer]:
+            - /url: /topic/fastapi/
+            - text: FastAPI
+          - link [ref=f66e228] [cursor=pointer]:
+            - /url: /topic/ai-agents/
+            - text: AI Agents & Agentic AI
+        - generic [ref=f66e229]:
+          - link [ref=f66e230] [cursor=pointer]:
+            - /url: /topic/google-flutter/
+            - text: Google Flutter
+          - link [ref=f66e231] [cursor=pointer]:
+            - /url: /topic/react-native/
+            - text: React Native
+          - link [ref=f66e232] [cursor=pointer]:
+            - /url: /topic/dart-programming-language/
+            - text: Dart (programming language)
+          - link [ref=f66e233] [cursor=pointer]:
+            - /url: /topic/ios-development/
+            - text: iOS Development
+          - link [ref=f66e234] [cursor=pointer]:
+            - /url: /topic/android-development/
+            - text: Android Development
+          - link [ref=f66e235] [cursor=pointer]:
+            - /url: /topic/swift/
+            - text: Swift
+          - link [ref=f66e236] [cursor=pointer]:
+            - /url: /topic/swiftui/
+            - text: SwiftUI
+          - link [ref=f66e237] [cursor=pointer]:
+            - /url: /topic/mobile-development/
+            - text: Mobile App Development
+          - link [ref=f66e238] [cursor=pointer]:
+            - /url: /topic/kotlin/
+            - text: Kotlin
+        - generic [ref=f66e239]:
+          - link [ref=f66e240] [cursor=pointer]:
+            - /url: /topic/unreal-engine/
+            - text: Unreal Engine
+          - link [ref=f66e241] [cursor=pointer]:
+            - /url: /topic/unity/
+            - text: Unity
+          - link [ref=f66e242] [cursor=pointer]:
+            - /url: /topic/game-development/
+            - text: Game Development Fundamentals
+          - link [ref=f66e243] [cursor=pointer]:
+            - /url: /topic/3d-game-development/
+            - text: 3D Game Development
+          - link [ref=f66e244] [cursor=pointer]:
+            - /url: /topic/c-sharp/
+            - text: C# (programming language)
+          - link [ref=f66e245] [cursor=pointer]:
+            - /url: /topic/godot/
+            - text: Godot
+          - link [ref=f66e246] [cursor=pointer]:
+            - /url: /topic/2d-game-development/
+            - text: 2D Game Development
+          - link [ref=f66e247] [cursor=pointer]:
+            - /url: /topic/unreal-engine-blueprints/
+            - text: Unreal Engine Blueprints
+          - link [ref=f66e248] [cursor=pointer]:
+            - /url: /topic/c-plus-plus/
+            - text: C++ (programming language)
+        - generic [ref=f66e249]:
+          - link [ref=f66e250] [cursor=pointer]:
+            - /url: /topic/business-fundamentals/
+            - text: Business Fundamentals
+          - link [ref=f66e251] [cursor=pointer]:
+            - /url: /topic/truck-dispatching/
+            - text: Truck Dispatching
+          - link [ref=f66e252] [cursor=pointer]:
+            - /url: /topic/large-language-models/
+            - text: Large Language Models (LLM)
+          - link [ref=f66e253] [cursor=pointer]:
+            - /url: /topic/entrepreneurship/
+            - text: Entrepreneurship Fundamentals
+          - link [ref=f66e254] [cursor=pointer]:
+            - /url: /topic/artificial-intelligence/
+            - text: Artificial Intelligence (AI)
+          - link [ref=f66e255] [cursor=pointer]:
+            - /url: /topic/business-strategy/
+            - text: Business Strategy
+          - link [ref=f66e256] [cursor=pointer]:
+            - /url: /topic/chatgpt/
+            - text: ChatGPT
+          - link [ref=f66e257] [cursor=pointer]:
+            - /url: /topic/online-business/
+            - text: Online Business
+          - link [ref=f66e258] [cursor=pointer]:
+            - /url: /topic/freelancing/
+            - text: Freelancing
+        - generic [ref=f66e259]:
+          - link [ref=f66e260] [cursor=pointer]:
+            - /url: /topic/microsoft-power-bi/
+            - text: Microsoft Power BI
+          - link [ref=f66e261] [cursor=pointer]:
+            - /url: /topic/claude-ai/
+            - text: Claude AI
+          - link [ref=f66e262] [cursor=pointer]:
+            - /url: /topic/sql/
+            - text: SQL
+          - link [ref=f66e263] [cursor=pointer]:
+            - /url: /topic/data-modeling/
+            - text: Data Modeling
+          - link [ref=f66e264] [cursor=pointer]:
+            - /url: /topic/data-analysis/
+            - text: Data Analysis
+          - link [ref=f66e265] [cursor=pointer]:
+            - /url: /topic/ai-agents/
+            - text: AI Agents & Agentic AI
+          - link [ref=f66e266] [cursor=pointer]:
+            - /url: /topic/business-analysis/
+            - text: Business Analysis
+          - link [ref=f66e267] [cursor=pointer]:
+            - /url: /topic/microsoft-copilot/
+            - text: Microsoft Copilot
+          - link [ref=f66e268] [cursor=pointer]:
+            - /url: /topic/excel/
+            - text: Microsoft Excel
+        - generic [ref=f66e269]:
+          - link [ref=f66e270] [cursor=pointer]:
+            - /url: /topic/personal-finance/
+            - text: Personal Finance
+          - link [ref=f66e271] [cursor=pointer]:
+            - /url: /topic/finance/
+            - text: Finance Fundamentals
+          - link [ref=f66e272] [cursor=pointer]:
+            - /url: /topic/payments/
+            - text: Payments
+          - link [ref=f66e273] [cursor=pointer]:
+            - /url: /topic/banking/
+            - text: Banking
+          - link [ref=f66e274] [cursor=pointer]:
+            - /url: /topic/investment-banking/
+            - text: Investment Banking
+          - link [ref=f66e275] [cursor=pointer]:
+            - /url: /topic/corporate-finance/
+            - text: Corporate Finance
+          - link [ref=f66e276] [cursor=pointer]:
+            - /url: /topic/financial-analysis/
+            - text: Financial Analysis
+          - link [ref=f66e277] [cursor=pointer]:
+            - /url: /topic/big-data/
+            - text: Big Data
+          - link [ref=f66e278] [cursor=pointer]:
+            - /url: /topic/financial-management/
+            - text: Financial Management
+        - generic [ref=f66e279]:
+          - link [ref=f66e280] [cursor=pointer]:
+            - /url: /topic/aws-certified-solutions-architect-associate/
+            - text: AWS Certified Solutions Architect - Associate
+          - link [ref=f66e281] [cursor=pointer]:
+            - /url: /topic/comptia-security/
+            - text: CompTIA Security+
+          - link [ref=f66e282] [cursor=pointer]:
+            - /url: /topic/aws-certified-cloud-practitioner/
+            - text: AWS Certified Cloud Practitioner
+          - link [ref=f66e283] [cursor=pointer]:
+            - /url: /topic/comptia-a/
+            - text: CompTIA A+
+          - link [ref=f66e284] [cursor=pointer]:
+            - /url: /topic/cisco-ccna/
+            - text: Cisco Certified Network Associate (CCNA)
+          - link [ref=f66e285] [cursor=pointer]:
+            - /url: /topic/comptia-network/
+            - text: CompTIA Network+
+          - link [ref=f66e286] [cursor=pointer]:
+            - /url: /topic/amazon-aws/
+            - text: Amazon AWS
+          - link [ref=f66e287] [cursor=pointer]:
+            - /url: /topic/aws-certified-ai-practitioner/
+            - text: AWS Certified AI Practitioner
+          - link [ref=f66e288] [cursor=pointer]:
+            - /url: /topic/artificial-intelligence-governance-professional-aigp/
+            - text: Artificial Intelligence Governance Professional (AIGP)
+        - generic [ref=f66e289]:
+          - link [ref=f66e290] [cursor=pointer]:
+            - /url: /topic/life-coaching/
+            - text: Life Coach Training
+          - link [ref=f66e291] [cursor=pointer]:
+            - /url: /topic/public-speaking/
+            - text: Public Speaking
+          - link [ref=f66e292] [cursor=pointer]:
+            - /url: /topic/neuro-linguistic-programming/
+            - text: Neuro-Linguistic Programming (NLP)
+          - link [ref=f66e293] [cursor=pointer]:
+            - /url: /topic/personal-development/
+            - text: Personal Development
+          - link [ref=f66e294] [cursor=pointer]:
+            - /url: /topic/sound-therapy/
+            - text: Sound Therapy
+          - link [ref=f66e295] [cursor=pointer]:
+            - /url: /topic/philosophy/
+            - text: Philosophy
+          - link [ref=f66e296] [cursor=pointer]:
+            - /url: /topic/remote-viewing/
+            - text: Remote Viewing
+          - link [ref=f66e297] [cursor=pointer]:
+            - /url: /topic/coaching/
+            - text: Coaching
+        - generic [ref=f66e298]:
+          - link [ref=f66e299] [cursor=pointer]:
+            - /url: /topic/graphic-design/
+            - text: Graphic Design
+          - link [ref=f66e300] [cursor=pointer]:
+            - /url: /topic/drawing/
+            - text: Drawing
+          - link [ref=f66e301] [cursor=pointer]:
+            - /url: /topic/adobe-illustrator/
+            - text: Adobe Illustrator
+          - link [ref=f66e302] [cursor=pointer]:
+            - /url: /topic/photoshop/
+            - text: Adobe Photoshop
+          - link [ref=f66e303] [cursor=pointer]:
+            - /url: /topic/canva/
+            - text: Canva
+          - link [ref=f66e304] [cursor=pointer]:
+            - /url: /topic/procreate-ipad-app/
+            - text: Procreate Digital Illustration App
+          - link [ref=f66e305] [cursor=pointer]:
+            - /url: /topic/indesign/
+            - text: Adobe InDesign
+          - link [ref=f66e306] [cursor=pointer]:
+            - /url: /topic/affinity-designer/
+            - text: Affinity Designer
+          - link [ref=f66e307] [cursor=pointer]:
+            - /url: /topic/digital-painting/
+            - text: Digital Painting
+        - generic [ref=f66e308]:
+          - link [ref=f66e309] [cursor=pointer]:
+            - /url: /topic/marketing-strategy/
+            - text: Marketing Strategy
+          - link [ref=f66e310] [cursor=pointer]:
+            - /url: /topic/social-media-marketing/
+            - text: Social Media Marketing
+          - link [ref=f66e311] [cursor=pointer]:
+            - /url: /topic/internet-marketing/
+            - text: Internet Marketing
+          - link [ref=f66e312] [cursor=pointer]:
+            - /url: /topic/3d-animation/
+            - text: 3D Animation
+          - link [ref=f66e313] [cursor=pointer]:
+            - /url: /topic/ai-content-generation/
+            - text: AI Content Generation
+          - link [ref=f66e314] [cursor=pointer]:
+            - /url: /topic/chatgpt/
+            - text: ChatGPT
+          - link [ref=f66e315] [cursor=pointer]:
+            - /url: /topic/copywriting/
+            - text: Copywriting
+          - link [ref=f66e316] [cursor=pointer]:
+            - /url: /topic/google-analytics/
+            - text: Google Analytics
+    - main [ref=f66e317]:
+      - status
+      - heading "Embedded Systems Courses" [level=1] [ref=f66e322]
+      - generic [ref=f66e323]:
+        - generic [ref=f66e325]:
+          - generic [ref=f66e326]:
+            - heading "Looking to advance your skills in Embedded Systems? We've got you." [level=2] [ref=f66e327]
+            - heading "Get everything you need to reach your goals in one convenient bundle." [level=3] [ref=f66e328]
+            - list [ref=f66e329]:
+              - listitem [ref=f66e330]:
+                - generic [ref=f66e331]: Top-rated courses
+              - listitem [ref=f66e335]:
+                - generic [ref=f66e336]: Popular with learners just like you
+              - listitem [ref=f66e340]:
+                - generic [ref=f66e341]: Guidance from real-world experts
+            - generic [ref=f66e345]:
+              - generic [ref=f66e346]: "Total:"
+              - img "Loading" [ref=f66e348]
+            - generic [ref=f66e350]:
+              - button "Add all to cart" [disabled] [ref=f66e351]
+              - status [ref=f66e352]
+          - generic [ref=f66e353]:
+            - generic [ref=f66e360]:
+              - heading [level=3] [ref=f66e363]:
+                - link "Mastering Microcontroller and Embedded Driver Development" [ref=f66e364] [cursor=pointer]:
+                  - /url: /course/mastering-microcontroller-with-peripheral-driver-development/
+                  - text: Mastering Microcontroller and Embedded Driver Development
+                  - generic [ref=f66e365]: "(MCU1) Learn bare metal driver development using Embedded C: Writing drivers for STM32 GPIO,I2C,SPI,USART from scratchRating: 4.6 out of 513300 reviews28.5 total hours278 lecturesAll Levels"
+              - generic [ref=f66e366]:
+                - generic [ref=f66e367]: "Instructors:"
+                - generic [ref=f66e368]: FastBit Embedded Brain Academy, Kiran Nayak
+              - generic [ref=f66e369]:
+                - generic [ref=f66e370]:
+                  - generic [ref=f66e371]: "Rating: 4.6 out of 5"
+                  - generic [ref=f66e372]: "4.6"
+                - generic "13300 reviews" [ref=f66e386]: (13,300)
+              - img "Loading" [ref=f66e389]
+              - generic [ref=f66e393]:
+                - generic [ref=f66e394]: Premium
+                - generic [ref=f66e397]: Bestseller
+            - generic [ref=f66e401]:
+              - heading [level=3] [ref=f66e404]:
+                - 'link "Mastering Microcontroller: STM32-LTDC, LCD-TFT, LVGL (MCU3)" [ref=f66e405] [cursor=pointer]':
+                  - /url: /course/mastering-microcontroller-stm32-ltdc-lcd-tft-lvgl/
+                  - text: "Mastering Microcontroller: STM32-LTDC, LCD-TFT, LVGL (MCU3)"
+                  - generic [ref=f66e406]: "Step by step guide to microcontroller based embedded graphics system , Interfacing, and building graphical UI using LVGLRating: 4.8 out of 5477 reviews8 total hours76 lecturesAll Levels"
+              - generic [ref=f66e407]:
+                - generic [ref=f66e408]: "Instructors:"
+                - generic [ref=f66e409]: FastBit Embedded Brain Academy, Kiran Nayak
+              - generic [ref=f66e410]:
+                - generic [ref=f66e411]:
+                  - generic [ref=f66e412]: "Rating: 4.8 out of 5"
+                  - generic [ref=f66e413]: "4.8"
+                - generic "477 reviews" [ref=f66e427]: (477)
+              - img "Loading" [ref=f66e430]
+              - generic [ref=f66e434]:
+                - generic [ref=f66e435]: Premium
+                - generic [ref=f66e438]: Highest Rated
+        - generic [ref=f66e497]:
+          - generic [ref=f66e498]:
+            - heading "Learn more about Embedded Systems" [level=2] [ref=f66e499]
+            - paragraph [ref=f66e500]: Embedded systems are used to facilitate work automation in agriculture and manufacturing, while also enabling complex graphical user interfaces like LED and touch screens. Embedded systems are everywhere, from home thermostats to work environments.
+          - generic [ref=f66e501]:
+            - generic [ref=f66e502]: Frequently asked questions
+            - generic [ref=f66e503]:
+              - generic [ref=f66e504]:
+                - heading [level=3] [ref=f66e506] [cursor=pointer]:
+                  - button "What is an embedded system?" [expanded] [ref=f66e507]
+                - group "What is an embedded system?" [ref=f66e512]:
+                  - generic [ref=f66e513]: An embedded system is an electronic computer circuit that includes a central processing unit with computer code that handles a specific task within a larger, functional system. Embedded systems typically run on microprocessors and microcontrollers. They can take input from peripheral devices that sense or detect changes in external situations that influence their function. For example, an embedded system can regulate temperature for a central heating system. Unlike a standard computer, which has many general uses, embedded systems are specialized, making them more effective and efficient for their designed task.
+              - heading [level=3] [ref=f66e517] [cursor=pointer]:
+                - button "What careers use embedded systems?" [ref=f66e518]
+              - heading [level=3] [ref=f66e524] [cursor=pointer]:
+                - button "What are some of the common characteristics of embedded systems?" [ref=f66e525]
+    - contentinfo [ref=f66e529]:
+      - generic [ref=f66e530]:
+        - generic [ref=f66e532]:
+          - text: Top companies choose
+          - link "Udemy Business" [ref=f66e533] [cursor=pointer]:
+            - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+          - text: to build in-demand career skills.
+        - generic [ref=f66e534]:
+          - img "Nasdaq" [ref=f66e535]
+          - img "Volkswagen" [ref=f66e536]
+          - img "NetApp" [ref=f66e537]
+          - img "Eventbrite" [ref=f66e538]
+      - generic [ref=f66e541]:
+        - heading "Explore top skills and certifications" [level=2] [ref=f66e543]
+        - generic [ref=f66e544]:
+          - generic [ref=f66e546]:
+            - heading "In-demand Careers" [level=2] [ref=f66e547]
+            - list [ref=f66e548]:
+              - listitem [ref=f66e549]:
+                - link "Data Scientist" [ref=f66e550] [cursor=pointer]:
+                  - /url: /career/data-scientist/
+              - listitem [ref=f66e551]:
+                - link "Full Stack Web Developer" [ref=f66e552] [cursor=pointer]:
+                  - /url: /career/full-stack-web-developer/
+              - listitem [ref=f66e553]:
+                - link "Cloud Engineer" [ref=f66e554] [cursor=pointer]:
+                  - /url: /career/cloud-engineer/
+              - listitem [ref=f66e555]:
+                - link "Project Manager" [ref=f66e556] [cursor=pointer]:
+                  - /url: /career/project-manager/
+              - listitem [ref=f66e557]:
+                - link "Game Developer" [ref=f66e558] [cursor=pointer]:
+                  - /url: /career/game-developer/
+              - listitem [ref=f66e559]:
+                - link "All Career Accelerators" [ref=f66e560] [cursor=pointer]:
+                  - /url: /career-accelerators/
+          - generic [ref=f66e562]:
+            - heading "Web Development" [level=2] [ref=f66e563]
+            - list [ref=f66e564]:
+              - listitem [ref=f66e565]:
+                - link "Web Development" [ref=f66e566] [cursor=pointer]:
+                  - /url: /topic/web-development/
+              - listitem [ref=f66e567]:
+                - link "JavaScript" [ref=f66e568] [cursor=pointer]:
+                  - /url: /topic/javascript/
+              - listitem [ref=f66e569]:
+                - link "React JS" [ref=f66e570] [cursor=pointer]:
+                  - /url: /topic/react/
+              - listitem [ref=f66e571]:
+                - link "Angular" [ref=f66e572] [cursor=pointer]:
+                  - /url: /topic/angular/
+              - listitem [ref=f66e573]:
+                - link "Java" [ref=f66e574] [cursor=pointer]:
+                  - /url: /topic/java/
+          - generic [ref=f66e576]:
+            - heading "IT Certifications" [level=2] [ref=f66e577]
+            - list [ref=f66e578]:
+              - listitem [ref=f66e579]:
+                - link "Amazon AWS" [ref=f66e580] [cursor=pointer]:
+                  - /url: /topic/amazon-aws/
+              - listitem [ref=f66e581]:
+                - link "AWS Certified Cloud Practitioner" [ref=f66e582] [cursor=pointer]:
+                  - /url: /topic/aws-certified-cloud-practitioner/
+              - listitem [ref=f66e583]:
+                - 'link "AZ-900: Microsoft Azure Fundamentals" [ref=f66e584] [cursor=pointer]':
+                  - /url: /topic/microsoft-az-900/
+              - listitem [ref=f66e585]:
+                - link "AWS Certified Solutions Architect - Associate" [ref=f66e586] [cursor=pointer]:
+                  - /url: /topic/aws-certified-solutions-architect-associate/
+              - listitem [ref=f66e587]:
+                - link "Kubernetes" [ref=f66e588] [cursor=pointer]:
+                  - /url: /topic/kubernetes/
+          - generic [ref=f66e590]:
+            - heading "Leadership" [level=2] [ref=f66e591]
+            - list [ref=f66e592]:
+              - listitem [ref=f66e593]:
+                - link "Leadership" [ref=f66e594] [cursor=pointer]:
+                  - /url: /topic/leadership/
+              - listitem [ref=f66e595]:
+                - link "Management Skills" [ref=f66e596] [cursor=pointer]:
+                  - /url: /topic/management-skills/
+              - listitem [ref=f66e597]:
+                - link "Project Management" [ref=f66e598] [cursor=pointer]:
+                  - /url: /topic/project-management/
+              - listitem [ref=f66e599]:
+                - link "Personal Productivity" [ref=f66e600] [cursor=pointer]:
+                  - /url: /topic/personal-productivity/
+              - listitem [ref=f66e601]:
+                - link "Emotional Intelligence" [ref=f66e602] [cursor=pointer]:
+                  - /url: /topic/emotional-intelligence/
+          - generic [ref=f66e604]:
+            - heading "Certifications by Skill" [level=2] [ref=f66e605]
+            - list [ref=f66e606]:
+              - listitem [ref=f66e607]:
+                - link "Cybersecurity Certification" [ref=f66e608] [cursor=pointer]:
+                  - /url: /browse/certification/cybersecurity-certifications/
+              - listitem [ref=f66e609]:
+                - link "Project Management Certification" [ref=f66e610] [cursor=pointer]:
+                  - /url: /browse/certification/project-management-certifications/
+              - listitem [ref=f66e611]:
+                - link "Cloud Certification" [ref=f66e612] [cursor=pointer]:
+                  - /url: /browse/certification/cloud-certifications/
+              - listitem [ref=f66e613]:
+                - link "Data Analytics Certification" [ref=f66e614] [cursor=pointer]:
+                  - /url: /browse/certification/data-analytics-certifications/
+              - listitem [ref=f66e615]:
+                - link "HR Management Certification" [ref=f66e616] [cursor=pointer]:
+                  - /url: /browse/certification/hr-management-certifications/
+              - listitem [ref=f66e617]:
+                - link "See all Certifications" [ref=f66e618] [cursor=pointer]:
+                  - /url: /browse/certification/
+          - generic [ref=f66e620]:
+            - heading "Data Science" [level=2] [ref=f66e621]
+            - list [ref=f66e622]:
+              - listitem [ref=f66e623]:
+                - link "Data Science" [ref=f66e624] [cursor=pointer]:
+                  - /url: /topic/data-science/
+              - listitem [ref=f66e625]:
+                - link "Python" [ref=f66e626] [cursor=pointer]:
+                  - /url: /topic/python/
+              - listitem [ref=f66e627]:
+                - link "Machine Learning" [ref=f66e628] [cursor=pointer]:
+                  - /url: /topic/machine-learning/
+              - listitem [ref=f66e629]:
+                - link "ChatGPT" [ref=f66e630] [cursor=pointer]:
+                  - /url: /topic/chatgpt/
+              - listitem [ref=f66e631]:
+                - link "Deep Learning" [ref=f66e632] [cursor=pointer]:
+                  - /url: /topic/deep-learning/
+          - generic [ref=f66e634]:
+            - heading "Communication" [level=2] [ref=f66e635]
+            - list [ref=f66e636]:
+              - listitem [ref=f66e637]:
+                - link "Communication Skills" [ref=f66e638] [cursor=pointer]:
+                  - /url: /topic/communication-skills/
+              - listitem [ref=f66e639]:
+                - link "Presentation Skills" [ref=f66e640] [cursor=pointer]:
+                  - /url: /topic/presentation-skills/
+              - listitem [ref=f66e641]:
+                - link "Public Speaking" [ref=f66e642] [cursor=pointer]:
+                  - /url: /topic/public-speaking/
+              - listitem [ref=f66e643]:
+                - link "Writing" [ref=f66e644] [cursor=pointer]:
+                  - /url: /topic/writing/
+              - listitem [ref=f66e645]:
+                - link "PowerPoint" [ref=f66e646] [cursor=pointer]:
+                  - /url: /topic/powerpoint/
+          - generic [ref=f66e648]:
+            - heading "Business Analytics & Intelligence" [level=2] [ref=f66e649]
+            - list [ref=f66e650]:
+              - listitem [ref=f66e651]:
+                - link "Microsoft Excel" [ref=f66e652] [cursor=pointer]:
+                  - /url: /topic/excel/
+              - listitem [ref=f66e653]:
+                - link "SQL" [ref=f66e654] [cursor=pointer]:
+                  - /url: /topic/sql/
+              - listitem [ref=f66e655]:
+                - link "Microsoft Power BI" [ref=f66e656] [cursor=pointer]:
+                  - /url: /topic/microsoft-power-bi/
+              - listitem [ref=f66e657]:
+                - link "Data Analysis" [ref=f66e658] [cursor=pointer]:
+                  - /url: /topic/data-analysis/
+              - listitem [ref=f66e659]:
+                - link "Business Analysis" [ref=f66e660] [cursor=pointer]:
+                  - /url: /topic/business-analysis/
+      - generic [ref=f66e665]:
+        - generic [ref=f66e667]:
+          - heading "About" [level=2] [ref=f66e668]
+          - list [ref=f66e669]:
+            - listitem [ref=f66e670]:
+              - link "About us" [ref=f66e671] [cursor=pointer]:
+                - /url: https://about.udemy.com/?locale=en-us
+            - listitem [ref=f66e672]:
+              - link "Careers" [ref=f66e673] [cursor=pointer]:
+                - /url: https://about.udemy.com/careers?locale=en-us
+            - listitem [ref=f66e674]:
+              - link "Contact us" [ref=f66e675] [cursor=pointer]:
+                - /url: https://about.udemy.com/company?locale=en-us#offices
+            - listitem [ref=f66e676]:
+              - link "Blog" [ref=f66e677] [cursor=pointer]:
+                - /url: https://blog.udemy.com/?ref=footer
+            - listitem [ref=f66e678]:
+              - link "Investors" [ref=f66e679] [cursor=pointer]:
+                - /url: https://investors.udemy.com
+            - listitem [ref=f66e680]:
+              - link "Find more on Coursera" [ref=f66e681] [cursor=pointer]:
+                - /url: https://www.coursera.org/
+        - generic [ref=f66e683]:
+          - heading "Discover Udemy" [level=2] [ref=f66e684]
+          - list [ref=f66e685]:
+            - listitem [ref=f66e686]:
+              - link "Get the app" [ref=f66e687] [cursor=pointer]:
+                - /url: /mobile/
+            - listitem [ref=f66e688]:
+              - link "Teach on Udemy" [ref=f66e689] [cursor=pointer]:
+                - /url: /teaching/?ref=teach_footer
+            - listitem [ref=f66e690]:
+              - link "Plans and Pricing" [ref=f66e691] [cursor=pointer]:
+                - /url: https://www.udemy.com/pricing/?ref=footer
+            - listitem [ref=f66e692]:
+              - link "Affiliate" [ref=f66e693] [cursor=pointer]:
+                - /url: /affiliate/
+            - listitem [ref=f66e694]:
+              - link "Help and Support" [ref=f66e695] [cursor=pointer]:
+                - /url: /support/
+        - generic [ref=f66e697]:
+          - heading "Udemy for Business" [level=2] [ref=f66e698]
+          - list [ref=f66e699]:
+            - listitem [ref=f66e700]:
+              - link "Udemy Business" [ref=f66e701] [cursor=pointer]:
+                - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - generic [ref=f66e703]:
+          - heading "Legal & Accessibility" [level=2] [ref=f66e704]
+          - list [ref=f66e705]:
+            - listitem [ref=f66e706]:
+              - link "Accessibility statement" [ref=f66e707] [cursor=pointer]:
+                - /url: https://about.udemy.com/accessibility-statement?locale=en-us
+            - listitem [ref=f66e708]:
+              - link "Privacy policy" [ref=f66e709] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/privacy/
+            - listitem [ref=f66e710]:
+              - link "Sitemap" [ref=f66e711] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=f66e712]:
+              - link "Terms" [ref=f66e713] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/terms-of-use/
+      - generic [ref=f66e715]:
+        - generic [ref=f66e716]:
+          - link [ref=f66e718] [cursor=pointer]:
+            - /url: /
+            - img "Udemy" [ref=f66e719]
+          - generic [ref=f66e720]: © 2026 Udemy, Inc.
+        - generic:
+          - list
+        - button "English" [ref=f66e722] [cursor=pointer]
+    - status
+  - alert [ref=f66e726]

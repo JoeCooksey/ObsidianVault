@@ -1,0 +1,265 @@
+- generic [active] [ref=f106e1]:
+  - generic [ref=f106e3]:
+    - generic [ref=f106e4]:
+      - region "Marketing notification from Udemy" [ref=f106e5]:
+        - img "Loading" [ref=f106e7]
+      - banner [ref=f106e9]:
+        - navigation "Skip to content":
+          - link "Skip to content":
+            - /url: "#main-content-anchor"
+        - link [ref=f106e11] [cursor=pointer]:
+          - /url: /
+          - img "Udemy" [ref=f106e12]
+        - generic [ref=f106e13]:
+          - generic [ref=f106e14]: Search for anything
+          - generic [ref=f106e15]:
+            - combobox "Search for anything" [ref=f106e16]
+            - button [disabled] [ref=f106e17]:
+              - img "Submit search" [ref=f106e18]
+      - navigation [ref=f106e20]
+    - main [ref=f106e21]:
+      - generic [ref=f106e22]:
+        - heading "We can’t find the page you’re looking for" [level=1] [ref=f106e24]
+        - paragraph [ref=f106e25]:
+          - generic [ref=f106e26]:
+            - text: Visit our
+            - link "support page" [ref=f106e27] [cursor=pointer]:
+              - /url: https://www.udemy.com/support/
+            - text: for further assistance.
+    - contentinfo [ref=f106e28]:
+      - generic [ref=f106e29]:
+        - generic [ref=f106e31]:
+          - text: Top companies choose
+          - link "Udemy Business" [ref=f106e32] [cursor=pointer]:
+            - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+          - text: to build in-demand career skills.
+        - generic [ref=f106e33]:
+          - img "Nasdaq" [ref=f106e34]
+          - img "Volkswagen" [ref=f106e35]
+          - img "NetApp" [ref=f106e36]
+          - img "Eventbrite" [ref=f106e37]
+      - generic [ref=f106e40]:
+        - heading "Explore top skills and certifications" [level=2] [ref=f106e42]
+        - generic [ref=f106e43]:
+          - generic [ref=f106e45]:
+            - heading "In-demand Careers" [level=2] [ref=f106e46]
+            - list [ref=f106e47]:
+              - listitem [ref=f106e48]:
+                - link "Data Scientist" [ref=f106e49] [cursor=pointer]:
+                  - /url: /career/data-scientist/
+              - listitem [ref=f106e50]:
+                - link "Full Stack Web Developer" [ref=f106e51] [cursor=pointer]:
+                  - /url: /career/full-stack-web-developer/
+              - listitem [ref=f106e52]:
+                - link "Cloud Engineer" [ref=f106e53] [cursor=pointer]:
+                  - /url: /career/cloud-engineer/
+              - listitem [ref=f106e54]:
+                - link "Project Manager" [ref=f106e55] [cursor=pointer]:
+                  - /url: /career/project-manager/
+              - listitem [ref=f106e56]:
+                - link "Game Developer" [ref=f106e57] [cursor=pointer]:
+                  - /url: /career/game-developer/
+              - listitem [ref=f106e58]:
+                - link "All Career Accelerators" [ref=f106e59] [cursor=pointer]:
+                  - /url: /career-accelerators/
+          - generic [ref=f106e61]:
+            - heading "Web Development" [level=2] [ref=f106e62]
+            - list [ref=f106e63]:
+              - listitem [ref=f106e64]:
+                - link "Web Development" [ref=f106e65] [cursor=pointer]:
+                  - /url: /topic/web-development/
+              - listitem [ref=f106e66]:
+                - link "JavaScript" [ref=f106e67] [cursor=pointer]:
+                  - /url: /topic/javascript/
+              - listitem [ref=f106e68]:
+                - link "React JS" [ref=f106e69] [cursor=pointer]:
+                  - /url: /topic/react/
+              - listitem [ref=f106e70]:
+                - link "Angular" [ref=f106e71] [cursor=pointer]:
+                  - /url: /topic/angular/
+              - listitem [ref=f106e72]:
+                - link "Java" [ref=f106e73] [cursor=pointer]:
+                  - /url: /topic/java/
+          - generic [ref=f106e75]:
+            - heading "IT Certifications" [level=2] [ref=f106e76]
+            - list [ref=f106e77]:
+              - listitem [ref=f106e78]:
+                - link "Amazon AWS" [ref=f106e79] [cursor=pointer]:
+                  - /url: /topic/amazon-aws/
+              - listitem [ref=f106e80]:
+                - link "AWS Certified Cloud Practitioner" [ref=f106e81] [cursor=pointer]:
+                  - /url: /topic/aws-certified-cloud-practitioner/
+              - listitem [ref=f106e82]:
+                - 'link "AZ-900: Microsoft Azure Fundamentals" [ref=f106e83] [cursor=pointer]':
+                  - /url: /topic/microsoft-az-900/
+              - listitem [ref=f106e84]:
+                - link "AWS Certified Solutions Architect - Associate" [ref=f106e85] [cursor=pointer]:
+                  - /url: /topic/aws-certified-solutions-architect-associate/
+              - listitem [ref=f106e86]:
+                - link "Kubernetes" [ref=f106e87] [cursor=pointer]:
+                  - /url: /topic/kubernetes/
+          - generic [ref=f106e89]:
+            - heading "Leadership" [level=2] [ref=f106e90]
+            - list [ref=f106e91]:
+              - listitem [ref=f106e92]:
+                - link "Leadership" [ref=f106e93] [cursor=pointer]:
+                  - /url: /topic/leadership/
+              - listitem [ref=f106e94]:
+                - link "Management Skills" [ref=f106e95] [cursor=pointer]:
+                  - /url: /topic/management-skills/
+              - listitem [ref=f106e96]:
+                - link "Project Management" [ref=f106e97] [cursor=pointer]:
+                  - /url: /topic/project-management/
+              - listitem [ref=f106e98]:
+                - link "Personal Productivity" [ref=f106e99] [cursor=pointer]:
+                  - /url: /topic/personal-productivity/
+              - listitem [ref=f106e100]:
+                - link "Emotional Intelligence" [ref=f106e101] [cursor=pointer]:
+                  - /url: /topic/emotional-intelligence/
+          - generic [ref=f106e103]:
+            - heading "Certifications by Skill" [level=2] [ref=f106e104]
+            - list [ref=f106e105]:
+              - listitem [ref=f106e106]:
+                - link "Cybersecurity Certification" [ref=f106e107] [cursor=pointer]:
+                  - /url: /browse/certification/cybersecurity-certifications/
+              - listitem [ref=f106e108]:
+                - link "Project Management Certification" [ref=f106e109] [cursor=pointer]:
+                  - /url: /browse/certification/project-management-certifications/
+              - listitem [ref=f106e110]:
+                - link "Cloud Certification" [ref=f106e111] [cursor=pointer]:
+                  - /url: /browse/certification/cloud-certifications/
+              - listitem [ref=f106e112]:
+                - link "Data Analytics Certification" [ref=f106e113] [cursor=pointer]:
+                  - /url: /browse/certification/data-analytics-certifications/
+              - listitem [ref=f106e114]:
+                - link "HR Management Certification" [ref=f106e115] [cursor=pointer]:
+                  - /url: /browse/certification/hr-management-certifications/
+              - listitem [ref=f106e116]:
+                - link "See all Certifications" [ref=f106e117] [cursor=pointer]:
+                  - /url: /browse/certification/
+          - generic [ref=f106e119]:
+            - heading "Data Science" [level=2] [ref=f106e120]
+            - list [ref=f106e121]:
+              - listitem [ref=f106e122]:
+                - link "Data Science" [ref=f106e123] [cursor=pointer]:
+                  - /url: /topic/data-science/
+              - listitem [ref=f106e124]:
+                - link "Python" [ref=f106e125] [cursor=pointer]:
+                  - /url: /topic/python/
+              - listitem [ref=f106e126]:
+                - link "Machine Learning" [ref=f106e127] [cursor=pointer]:
+                  - /url: /topic/machine-learning/
+              - listitem [ref=f106e128]:
+                - link "ChatGPT" [ref=f106e129] [cursor=pointer]:
+                  - /url: /topic/chatgpt/
+              - listitem [ref=f106e130]:
+                - link "Deep Learning" [ref=f106e131] [cursor=pointer]:
+                  - /url: /topic/deep-learning/
+          - generic [ref=f106e133]:
+            - heading "Communication" [level=2] [ref=f106e134]
+            - list [ref=f106e135]:
+              - listitem [ref=f106e136]:
+                - link "Communication Skills" [ref=f106e137] [cursor=pointer]:
+                  - /url: /topic/communication-skills/
+              - listitem [ref=f106e138]:
+                - link "Presentation Skills" [ref=f106e139] [cursor=pointer]:
+                  - /url: /topic/presentation-skills/
+              - listitem [ref=f106e140]:
+                - link "Public Speaking" [ref=f106e141] [cursor=pointer]:
+                  - /url: /topic/public-speaking/
+              - listitem [ref=f106e142]:
+                - link "Writing" [ref=f106e143] [cursor=pointer]:
+                  - /url: /topic/writing/
+              - listitem [ref=f106e144]:
+                - link "PowerPoint" [ref=f106e145] [cursor=pointer]:
+                  - /url: /topic/powerpoint/
+          - generic [ref=f106e147]:
+            - heading "Business Analytics & Intelligence" [level=2] [ref=f106e148]
+            - list [ref=f106e149]:
+              - listitem [ref=f106e150]:
+                - link "Microsoft Excel" [ref=f106e151] [cursor=pointer]:
+                  - /url: /topic/excel/
+              - listitem [ref=f106e152]:
+                - link "SQL" [ref=f106e153] [cursor=pointer]:
+                  - /url: /topic/sql/
+              - listitem [ref=f106e154]:
+                - link "Microsoft Power BI" [ref=f106e155] [cursor=pointer]:
+                  - /url: /topic/microsoft-power-bi/
+              - listitem [ref=f106e156]:
+                - link "Data Analysis" [ref=f106e157] [cursor=pointer]:
+                  - /url: /topic/data-analysis/
+              - listitem [ref=f106e158]:
+                - link "Business Analysis" [ref=f106e159] [cursor=pointer]:
+                  - /url: /topic/business-analysis/
+      - generic [ref=f106e164]:
+        - generic [ref=f106e166]:
+          - heading "About" [level=2] [ref=f106e167]
+          - list [ref=f106e168]:
+            - listitem [ref=f106e169]:
+              - link "About us" [ref=f106e170] [cursor=pointer]:
+                - /url: https://about.udemy.com/?locale=en-us
+            - listitem [ref=f106e171]:
+              - link "Careers" [ref=f106e172] [cursor=pointer]:
+                - /url: https://about.udemy.com/careers?locale=en-us
+            - listitem [ref=f106e173]:
+              - link "Contact us" [ref=f106e174] [cursor=pointer]:
+                - /url: https://about.udemy.com/company?locale=en-us#offices
+            - listitem [ref=f106e175]:
+              - link "Blog" [ref=f106e176] [cursor=pointer]:
+                - /url: https://blog.udemy.com/?ref=footer
+            - listitem [ref=f106e177]:
+              - link "Investors" [ref=f106e178] [cursor=pointer]:
+                - /url: https://investors.udemy.com
+            - listitem [ref=f106e179]:
+              - link "Find more on Coursera" [ref=f106e180] [cursor=pointer]:
+                - /url: https://www.coursera.org/
+        - generic [ref=f106e182]:
+          - heading "Discover Udemy" [level=2] [ref=f106e183]
+          - list [ref=f106e184]:
+            - listitem [ref=f106e185]:
+              - link "Get the app" [ref=f106e186] [cursor=pointer]:
+                - /url: /mobile/
+            - listitem [ref=f106e187]:
+              - link "Teach on Udemy" [ref=f106e188] [cursor=pointer]:
+                - /url: /teaching/?ref=teach_footer
+            - listitem [ref=f106e189]:
+              - link "Plans and Pricing" [ref=f106e190] [cursor=pointer]:
+                - /url: https://www.udemy.com/pricing/?ref=footer
+            - listitem [ref=f106e191]:
+              - link "Affiliate" [ref=f106e192] [cursor=pointer]:
+                - /url: /affiliate/
+            - listitem [ref=f106e193]:
+              - link "Help and Support" [ref=f106e194] [cursor=pointer]:
+                - /url: /support/
+        - generic [ref=f106e196]:
+          - heading "Udemy for Business" [level=2] [ref=f106e197]
+          - list [ref=f106e198]:
+            - listitem [ref=f106e199]:
+              - link "Udemy Business" [ref=f106e200] [cursor=pointer]:
+                - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - generic [ref=f106e202]:
+          - heading "Legal & Accessibility" [level=2] [ref=f106e203]
+          - list [ref=f106e204]:
+            - listitem [ref=f106e205]:
+              - link "Accessibility statement" [ref=f106e206] [cursor=pointer]:
+                - /url: https://about.udemy.com/accessibility-statement?locale=en-us
+            - listitem [ref=f106e207]:
+              - link "Privacy policy" [ref=f106e208] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/privacy/
+            - listitem [ref=f106e209]:
+              - link "Sitemap" [ref=f106e210] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=f106e211]:
+              - link "Terms" [ref=f106e212] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/terms-of-use/
+      - generic [ref=f106e214]:
+        - generic [ref=f106e215]:
+          - link [ref=f106e217] [cursor=pointer]:
+            - /url: /
+            - img "Udemy" [ref=f106e218]
+          - generic [ref=f106e219]: © 2026 Udemy, Inc.
+        - generic:
+          - list
+        - button "English" [ref=f106e221] [cursor=pointer]
+    - status
+  - alert [ref=f106e225]

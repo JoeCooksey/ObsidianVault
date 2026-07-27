@@ -1,0 +1,3 @@
+[    1141ms] [ERROR] Not signed in with the identity provider. @ https://www.udemy.com/topic/power-electronics/:0
+[    7298ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://frontends.udemycdn.com/frontends-marketplace-experience/_next/static/chunks/pages/_app-a0262328b0baa7f2.js:0
+[   46765ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/courses/?search=power%20electronics&page_size=3&fields[course]=@all:0

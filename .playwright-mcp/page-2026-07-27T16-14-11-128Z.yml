@@ -1,0 +1,311 @@
+- generic [active] [ref=f114e1]:
+  - generic [ref=f114e3]:
+    - generic [ref=f114e4]:
+      - banner [ref=f114e5]:
+        - navigation "Skip to content":
+          - link "Skip to content":
+            - /url: "#main-content-anchor"
+        - link [ref=f114e7] [cursor=pointer]:
+          - /url: /
+          - img "Udemy" [ref=f114e8]
+        - generic [ref=f114e9]:
+          - generic [ref=f114e10]: Search for anything
+          - generic [ref=f114e11]:
+            - combobox "Search for anything" [ref=f114e12]
+            - button [disabled] [ref=f114e13]:
+              - img "Submit search" [ref=f114e14]
+      - navigation [ref=f114e16]
+    - main [ref=f114e17]:
+      - status
+      - heading "Very Large Scale Integration (VLSI) Courses" [level=1] [ref=f114e22]
+      - generic [ref=f114e23]:
+        - generic [ref=f114e25]:
+          - generic [ref=f114e26]:
+            - heading "Looking to advance your skills in Very Large Scale Integration (VLSI)? We've got you." [level=2] [ref=f114e27]
+            - heading "Get everything you need to reach your goals in one convenient bundle." [level=3] [ref=f114e28]
+            - list [ref=f114e29]:
+              - listitem [ref=f114e30]:
+                - generic [ref=f114e31]: Top-rated courses
+              - listitem [ref=f114e35]:
+                - generic [ref=f114e36]: Popular with learners just like you
+              - listitem [ref=f114e40]:
+                - generic [ref=f114e41]: Guidance from real-world experts
+            - generic [ref=f114e45]:
+              - generic [ref=f114e46]: "Total:"
+              - img "Loading" [ref=f114e48]
+            - generic [ref=f114e50]:
+              - button "Add all to cart" [disabled] [ref=f114e51]
+              - status [ref=f114e52]
+          - generic [ref=f114e53]:
+            - generic [ref=f114e60]:
+              - heading [level=3] [ref=f114e63]:
+                - link "Memory Built-in Self Test (MBIST)-An Industry Perspective" [ref=f114e64] [cursor=pointer]:
+                  - /url: /course/memory-built-in-self-test-mbist-an-industry-perspective/
+                  - text: Memory Built-in Self Test (MBIST)-An Industry Perspective
+                  - generic [ref=f114e65]: "Memory Testing, MBIST, BISR, Fault Models, and MBIST Implementation Flows for Modern SoC DesignsRating: 4.6 out of 511 reviews4 total hours24 lecturesBeginner"
+              - generic [ref=f114e66]:
+                - generic [ref=f114e67]: "Instructor:"
+                - generic [ref=f114e68]: Awais Hussain
+              - generic [ref=f114e69]:
+                - generic [ref=f114e70]:
+                  - generic [ref=f114e71]: "Rating: 4.6 out of 5"
+                  - generic [ref=f114e72]: "4.6"
+                - generic "11 reviews" [ref=f114e86]: (11)
+              - img "Loading" [ref=f114e89]
+              - generic [ref=f114e91]: Hot & New
+            - generic [ref=f114e98]:
+              - heading [level=3] [ref=f114e101]:
+                - 'link "VLSI DFT Basics: From Industry Perspective" [ref=f114e102] [cursor=pointer]':
+                  - /url: /course/vlsi-dft-basics-from-industry-perspective/
+                  - text: "VLSI DFT Basics: From Industry Perspective"
+                  - generic [ref=f114e103]: "The purpose of DFT testing in VLSI along with industry standard DFT implementation flowsRating: 4.4 out of 595 reviews3 total hours25 lecturesBeginner"
+              - generic [ref=f114e104]:
+                - generic [ref=f114e105]: "Instructor:"
+                - generic [ref=f114e106]: Awais Hussain
+              - generic [ref=f114e107]:
+                - generic [ref=f114e108]:
+                  - generic [ref=f114e109]: "Rating: 4.4 out of 5"
+                  - generic [ref=f114e110]: "4.4"
+                - generic "95 reviews" [ref=f114e124]: (95)
+              - img "Loading" [ref=f114e127]
+              - generic [ref=f114e129]: Premium
+        - generic [ref=f114e194]:
+          - heading "Learn more about Very Large Scale Integration (VLSI)" [level=2] [ref=f114e195]
+          - paragraph [ref=f114e196]: Very Large Scale Integration (VLSI) systems are an essential component of computer circuitry, and are a driving system behind the development of new computer chips, microprocessors, and hand-held electronics. VLSIs combine thousands of transistors into a chip that can run our PCs and power our smartphones.
+    - contentinfo [ref=f114e197]:
+      - generic [ref=f114e198]:
+        - generic [ref=f114e200]:
+          - text: Top companies choose
+          - link "Udemy Business" [ref=f114e201] [cursor=pointer]:
+            - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+          - text: to build in-demand career skills.
+        - generic [ref=f114e202]:
+          - img "Nasdaq" [ref=f114e203]
+          - img "Volkswagen" [ref=f114e204]
+          - img "NetApp" [ref=f114e205]
+          - img "Eventbrite" [ref=f114e206]
+      - generic [ref=f114e209]:
+        - heading "Explore top skills and certifications" [level=2] [ref=f114e211]
+        - generic [ref=f114e212]:
+          - generic [ref=f114e214]:
+            - heading "In-demand Careers" [level=2] [ref=f114e215]
+            - list [ref=f114e216]:
+              - listitem [ref=f114e217]:
+                - link "Data Scientist" [ref=f114e218] [cursor=pointer]:
+                  - /url: /career/data-scientist/
+              - listitem [ref=f114e219]:
+                - link "Full Stack Web Developer" [ref=f114e220] [cursor=pointer]:
+                  - /url: /career/full-stack-web-developer/
+              - listitem [ref=f114e221]:
+                - link "Cloud Engineer" [ref=f114e222] [cursor=pointer]:
+                  - /url: /career/cloud-engineer/
+              - listitem [ref=f114e223]:
+                - link "Project Manager" [ref=f114e224] [cursor=pointer]:
+                  - /url: /career/project-manager/
+              - listitem [ref=f114e225]:
+                - link "Game Developer" [ref=f114e226] [cursor=pointer]:
+                  - /url: /career/game-developer/
+              - listitem [ref=f114e227]:
+                - link "All Career Accelerators" [ref=f114e228] [cursor=pointer]:
+                  - /url: /career-accelerators/
+          - generic [ref=f114e230]:
+            - heading "Web Development" [level=2] [ref=f114e231]
+            - list [ref=f114e232]:
+              - listitem [ref=f114e233]:
+                - link "Web Development" [ref=f114e234] [cursor=pointer]:
+                  - /url: /topic/web-development/
+              - listitem [ref=f114e235]:
+                - link "JavaScript" [ref=f114e236] [cursor=pointer]:
+                  - /url: /topic/javascript/
+              - listitem [ref=f114e237]:
+                - link "React JS" [ref=f114e238] [cursor=pointer]:
+                  - /url: /topic/react/
+              - listitem [ref=f114e239]:
+                - link "Angular" [ref=f114e240] [cursor=pointer]:
+                  - /url: /topic/angular/
+              - listitem [ref=f114e241]:
+                - link "Java" [ref=f114e242] [cursor=pointer]:
+                  - /url: /topic/java/
+          - generic [ref=f114e244]:
+            - heading "IT Certifications" [level=2] [ref=f114e245]
+            - list [ref=f114e246]:
+              - listitem [ref=f114e247]:
+                - link "Amazon AWS" [ref=f114e248] [cursor=pointer]:
+                  - /url: /topic/amazon-aws/
+              - listitem [ref=f114e249]:
+                - link "AWS Certified Cloud Practitioner" [ref=f114e250] [cursor=pointer]:
+                  - /url: /topic/aws-certified-cloud-practitioner/
+              - listitem [ref=f114e251]:
+                - 'link "AZ-900: Microsoft Azure Fundamentals" [ref=f114e252] [cursor=pointer]':
+                  - /url: /topic/microsoft-az-900/
+              - listitem [ref=f114e253]:
+                - link "AWS Certified Solutions Architect - Associate" [ref=f114e254] [cursor=pointer]:
+                  - /url: /topic/aws-certified-solutions-architect-associate/
+              - listitem [ref=f114e255]:
+                - link "Kubernetes" [ref=f114e256] [cursor=pointer]:
+                  - /url: /topic/kubernetes/
+          - generic [ref=f114e258]:
+            - heading "Leadership" [level=2] [ref=f114e259]
+            - list [ref=f114e260]:
+              - listitem [ref=f114e261]:
+                - link "Leadership" [ref=f114e262] [cursor=pointer]:
+                  - /url: /topic/leadership/
+              - listitem [ref=f114e263]:
+                - link "Management Skills" [ref=f114e264] [cursor=pointer]:
+                  - /url: /topic/management-skills/
+              - listitem [ref=f114e265]:
+                - link "Project Management" [ref=f114e266] [cursor=pointer]:
+                  - /url: /topic/project-management/
+              - listitem [ref=f114e267]:
+                - link "Personal Productivity" [ref=f114e268] [cursor=pointer]:
+                  - /url: /topic/personal-productivity/
+              - listitem [ref=f114e269]:
+                - link "Emotional Intelligence" [ref=f114e270] [cursor=pointer]:
+                  - /url: /topic/emotional-intelligence/
+          - generic [ref=f114e272]:
+            - heading "Certifications by Skill" [level=2] [ref=f114e273]
+            - list [ref=f114e274]:
+              - listitem [ref=f114e275]:
+                - link "Cybersecurity Certification" [ref=f114e276] [cursor=pointer]:
+                  - /url: /browse/certification/cybersecurity-certifications/
+              - listitem [ref=f114e277]:
+                - link "Project Management Certification" [ref=f114e278] [cursor=pointer]:
+                  - /url: /browse/certification/project-management-certifications/
+              - listitem [ref=f114e279]:
+                - link "Cloud Certification" [ref=f114e280] [cursor=pointer]:
+                  - /url: /browse/certification/cloud-certifications/
+              - listitem [ref=f114e281]:
+                - link "Data Analytics Certification" [ref=f114e282] [cursor=pointer]:
+                  - /url: /browse/certification/data-analytics-certifications/
+              - listitem [ref=f114e283]:
+                - link "HR Management Certification" [ref=f114e284] [cursor=pointer]:
+                  - /url: /browse/certification/hr-management-certifications/
+              - listitem [ref=f114e285]:
+                - link "See all Certifications" [ref=f114e286] [cursor=pointer]:
+                  - /url: /browse/certification/
+          - generic [ref=f114e288]:
+            - heading "Data Science" [level=2] [ref=f114e289]
+            - list [ref=f114e290]:
+              - listitem [ref=f114e291]:
+                - link "Data Science" [ref=f114e292] [cursor=pointer]:
+                  - /url: /topic/data-science/
+              - listitem [ref=f114e293]:
+                - link "Python" [ref=f114e294] [cursor=pointer]:
+                  - /url: /topic/python/
+              - listitem [ref=f114e295]:
+                - link "Machine Learning" [ref=f114e296] [cursor=pointer]:
+                  - /url: /topic/machine-learning/
+              - listitem [ref=f114e297]:
+                - link "ChatGPT" [ref=f114e298] [cursor=pointer]:
+                  - /url: /topic/chatgpt/
+              - listitem [ref=f114e299]:
+                - link "Deep Learning" [ref=f114e300] [cursor=pointer]:
+                  - /url: /topic/deep-learning/
+          - generic [ref=f114e302]:
+            - heading "Communication" [level=2] [ref=f114e303]
+            - list [ref=f114e304]:
+              - listitem [ref=f114e305]:
+                - link "Communication Skills" [ref=f114e306] [cursor=pointer]:
+                  - /url: /topic/communication-skills/
+              - listitem [ref=f114e307]:
+                - link "Presentation Skills" [ref=f114e308] [cursor=pointer]:
+                  - /url: /topic/presentation-skills/
+              - listitem [ref=f114e309]:
+                - link "Public Speaking" [ref=f114e310] [cursor=pointer]:
+                  - /url: /topic/public-speaking/
+              - listitem [ref=f114e311]:
+                - link "Writing" [ref=f114e312] [cursor=pointer]:
+                  - /url: /topic/writing/
+              - listitem [ref=f114e313]:
+                - link "PowerPoint" [ref=f114e314] [cursor=pointer]:
+                  - /url: /topic/powerpoint/
+          - generic [ref=f114e316]:
+            - heading "Business Analytics & Intelligence" [level=2] [ref=f114e317]
+            - list [ref=f114e318]:
+              - listitem [ref=f114e319]:
+                - link "Microsoft Excel" [ref=f114e320] [cursor=pointer]:
+                  - /url: /topic/excel/
+              - listitem [ref=f114e321]:
+                - link "SQL" [ref=f114e322] [cursor=pointer]:
+                  - /url: /topic/sql/
+              - listitem [ref=f114e323]:
+                - link "Microsoft Power BI" [ref=f114e324] [cursor=pointer]:
+                  - /url: /topic/microsoft-power-bi/
+              - listitem [ref=f114e325]:
+                - link "Data Analysis" [ref=f114e326] [cursor=pointer]:
+                  - /url: /topic/data-analysis/
+              - listitem [ref=f114e327]:
+                - link "Business Analysis" [ref=f114e328] [cursor=pointer]:
+                  - /url: /topic/business-analysis/
+      - generic [ref=f114e333]:
+        - generic [ref=f114e335]:
+          - heading "About" [level=2] [ref=f114e336]
+          - list [ref=f114e337]:
+            - listitem [ref=f114e338]:
+              - link "About us" [ref=f114e339] [cursor=pointer]:
+                - /url: https://about.udemy.com/?locale=en-us
+            - listitem [ref=f114e340]:
+              - link "Careers" [ref=f114e341] [cursor=pointer]:
+                - /url: https://about.udemy.com/careers?locale=en-us
+            - listitem [ref=f114e342]:
+              - link "Contact us" [ref=f114e343] [cursor=pointer]:
+                - /url: https://about.udemy.com/company?locale=en-us#offices
+            - listitem [ref=f114e344]:
+              - link "Blog" [ref=f114e345] [cursor=pointer]:
+                - /url: https://blog.udemy.com/?ref=footer
+            - listitem [ref=f114e346]:
+              - link "Investors" [ref=f114e347] [cursor=pointer]:
+                - /url: https://investors.udemy.com
+            - listitem [ref=f114e348]:
+              - link "Find more on Coursera" [ref=f114e349] [cursor=pointer]:
+                - /url: https://www.coursera.org/
+        - generic [ref=f114e351]:
+          - heading "Discover Udemy" [level=2] [ref=f114e352]
+          - list [ref=f114e353]:
+            - listitem [ref=f114e354]:
+              - link "Get the app" [ref=f114e355] [cursor=pointer]:
+                - /url: /mobile/
+            - listitem [ref=f114e356]:
+              - link "Teach on Udemy" [ref=f114e357] [cursor=pointer]:
+                - /url: /teaching/?ref=teach_footer
+            - listitem [ref=f114e358]:
+              - link "Plans and Pricing" [ref=f114e359] [cursor=pointer]:
+                - /url: https://www.udemy.com/pricing/?ref=footer
+            - listitem [ref=f114e360]:
+              - link "Affiliate" [ref=f114e361] [cursor=pointer]:
+                - /url: /affiliate/
+            - listitem [ref=f114e362]:
+              - link "Help and Support" [ref=f114e363] [cursor=pointer]:
+                - /url: /support/
+        - generic [ref=f114e365]:
+          - heading "Udemy for Business" [level=2] [ref=f114e366]
+          - list [ref=f114e367]:
+            - listitem [ref=f114e368]:
+              - link "Udemy Business" [ref=f114e369] [cursor=pointer]:
+                - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - generic [ref=f114e371]:
+          - heading "Legal & Accessibility" [level=2] [ref=f114e372]
+          - list [ref=f114e373]:
+            - listitem [ref=f114e374]:
+              - link "Accessibility statement" [ref=f114e375] [cursor=pointer]:
+                - /url: https://about.udemy.com/accessibility-statement?locale=en-us
+            - listitem [ref=f114e376]:
+              - link "Privacy policy" [ref=f114e377] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/privacy/
+            - listitem [ref=f114e378]:
+              - link "Sitemap" [ref=f114e379] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=f114e380]:
+              - link "Terms" [ref=f114e381] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/terms-of-use/
+      - generic [ref=f114e383]:
+        - generic [ref=f114e384]:
+          - link [ref=f114e386] [cursor=pointer]:
+            - /url: /
+            - img "Udemy" [ref=f114e387]
+          - generic [ref=f114e388]: © 2026 Udemy, Inc.
+        - generic:
+          - list
+        - button "English" [ref=f114e390] [cursor=pointer]
+    - status
+  - alert [ref=f114e394]
