@@ -11,6 +11,15 @@ Append-only. New entries go at the TOP. Format: `## [YYYY-MM-DD] operation | tit
 
 ---
 
+## [2026-07-27] autoresearch | Udemy Personal Plan — What's Included + EE Career Roadmaps
+- Rounds: 2 | Searches: 5 web + 10 live browser catalog audits | Sources fetched: Udemy primary (403s bypassed via browser)
+- Pages created: [[Research - Udemy Personal Plan Course Roadmaps for an EE Career]], [[Udemy Personal Plan]], [[Udemy Personal Plan EE Coverage Map]], [[Udemy]], [[Roadmap - Embedded Firmware on Udemy Personal Plan]], [[Roadmap - Power Electronics and WBG on Udemy Personal Plan]], [[Roadmap - PCB and Hardware Design on Udemy Personal Plan]], [[Roadmap - Simulation and Modeling on Udemy Personal Plan]], [[Roadmap - Digital Design and FPGA on Udemy Personal Plan]], [[Roadmap - Python and AI for Engineers on Udemy Personal Plan]], [[Udemy — Personal Plan Page and FAQ (July 2026)]], [[Udemy Catalog Audit — EE Topics, Premium Badge Method (July 2026)]], [[MOOC Certificate Credential Value for Engineering Hiring]]
+- Synthesis: [[Research - Udemy Personal Plan Course Roadmaps for an EE Career]]
+- Key finding: The Personal Plan is 28,000 of 250,000 courses (~11%) at $35/mo; its marketing never mentions engineering, but a direct catalog audit of the "Premium" inclusion badge shows embedded/PCB/MATLAB coverage is excellent, FPGA is weak and VHDL-only, and LTspice + WBG device physics are absent — so the right play is a 2–3 month sprint on embedded + PCB, not a year-round subscription.
+- Method note: Udemy 403s WebFetch; all primary data came from driving a real browser. First extractor produced false negatives on every card (selector matched the title wrapper, not the card) — caught with a Python positive control and fixed before any result was trusted.
+
+---
+
 ## [2026-07-26] autoresearch | Habits That Raise and Lower hs-CRP
 - Rounds: 2 | Searches: ~15 PubMed queries + metadata pulls | Sources found: 10 landmark studies (Fedewa 2016 exercise meta, Irwin 2016 sleep meta, Koelman 2022 diet-pattern meta, Ge 2020 BMJ 14-diet network meta, Choi & Je 2024 coffee meta, Kavyani 2022 omega-3 umbrella, Bakhru 2005 NHANES III smoking, Xu 2016 alcohol cohort, Pascoe 2017 meditation meta, Bastos 2024 DII)
 - Pages created (13): synthesis [[Research - Habits That Raise and Lower hs-CRP]]; concepts [[hs-CRP (High-Sensitivity C-Reactive Protein)]], [[Dietary Inflammatory Index]]; 10 source pages
