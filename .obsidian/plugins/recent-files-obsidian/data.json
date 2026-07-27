@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Research - Habits That Raise and Lower hs-CRP",
-      "path": "wiki/questions/Research - Habits That Raise and Lower hs-CRP.md"
+      "basename": "Research - Udemy Personal Plan Course Roadmaps for an EE Career",
+      "path": "wiki/questions/Research - Udemy Personal Plan Course Roadmaps for an EE Career.md"
+    },
+    {
+      "basename": "Roadmap - PCB and Hardware Design on Udemy Personal Plan",
+      "path": "wiki/concepts/Roadmap - PCB and Hardware Design on Udemy Personal Plan.md"
+    },
+    {
+      "basename": "Roadmap - Embedded Firmware on Udemy Personal Plan",
+      "path": "wiki/concepts/Roadmap - Embedded Firmware on Udemy Personal Plan.md"
     },
     {
       "basename": "log",
       "path": "wiki/log.md"
+    },
+    {
+      "basename": "Research - Habits That Raise and Lower hs-CRP",
+      "path": "wiki/questions/Research - Habits That Raise and Lower hs-CRP.md"
     },
     {
       "basename": "Crime and Punishment - Fyodor Dostoevsky",
@@ -187,18 +199,6 @@
     {
       "basename": "Identity & Self-Respect Habits",
       "path": "wiki/concepts/Identity & Self-Respect Habits.md"
-    },
-    {
-      "basename": "Mindset & Growth Habits",
-      "path": "wiki/concepts/Mindset & Growth Habits.md"
-    },
-    {
-      "basename": "Discipline & Action Habits",
-      "path": "wiki/concepts/Discipline & Action Habits.md"
-    },
-    {
-      "basename": "20-Minute Rule for Nighttime Awakenings",
-      "path": "wiki/concepts/20-Minute Rule for Nighttime Awakenings.md"
     }
   ],
   "omittedPaths": [],
